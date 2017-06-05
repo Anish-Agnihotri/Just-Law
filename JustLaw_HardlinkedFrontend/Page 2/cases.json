@@ -1,0 +1,64 @@
+{
+  "cases": [
+    {
+      "caseId": "2017onsc3406",
+      "court": "Ontario Supreme Court",
+      "summary": "Here, you will see the summarized content which is pulled from our back-end. By using summariation api's and NLP libraries, we are able to...",
+      "proceedingDate": "Default"
+    },
+    {
+      "caseId": "2017onsc3403",
+      "court": "Ontario Supreme Court",
+      "summary": "Here, you will see the summarized content which is pulled from our back-end. By using summariation api's and NLP libraries, we are able to...",
+      "proceedingDate": "Approved"
+    },
+    {
+      "caseId": "2017onsc3396",
+      "court": "Ontario Supreme Court",
+      "summary": "Here, you will see the summarized content which is pulled from our back-end. By using summariation api's and NLP libraries, we are able to...",
+      "proceedingDate": "Declined"
+    },
+    {
+      "caseId": "2017onsc3161",
+      "court": "Ontario Supreme Court",
+      "summary": "Here, you will see the summarized content which is pulled from our back-end. By using summariation api's and NLP libraries, we are able to...",
+      "proceedingDate": "Pending"
+    },
+    {
+      "caseId": "2017onsc3074",
+      "court": "Ontario Supreme Court",
+      "summary": "Here, you will see the summarized content which is pulled from our back-end. By using summariation api's and NLP libraries, we are able to...",
+      "proceedingDate": "Call in to confirm"
+    },
+    {
+      "caseId": "2017onsc3406",
+      "court": "Ontario Supreme Court",
+      "summary": "Here, you will see the summarized content which is pulled from our back-end. By using summariation api's and NLP libraries, we are able to...",
+      "proceedingDate": "Default"
+    },
+    {
+      "caseId": "2017onsc3403",
+      "court": "Ontario Supreme Court",
+      "summary": "Here, you will see the summarized content which is pulled from our back-end. By using summariation api's and NLP libraries, we are able to...",
+      "proceedingDate": "Approved"
+    },
+    {
+      "caseId": "2017onsc3396",
+      "court": "Ontario Supreme Court",
+      "summary": "Here, you will see the summarized content which is pulled from our back-end. By using summariation api's and NLP libraries, we are able to...",
+      "proceedingDate": "Declined"
+    },
+    {
+      "caseId": "2017onsc3161",
+      "court": "Ontario Supreme Court",
+      "summary": "Here, you will see the summarized content which is pulled from our back-end. By using summariation api's and NLP libraries, we are able to...",
+      "proceedingDate": "Pending"
+    },
+    {
+      "caseId": "2017onsc3074",
+      "court": "Ontario Supreme Court",
+      "summary": "Here, you will see the summarized content which is pulled from our back-end. By using summariation api's and NLP libraries, we are able to...",
+      "proceedingDate": "Call in to confirm"
+    }
+  ]
+}

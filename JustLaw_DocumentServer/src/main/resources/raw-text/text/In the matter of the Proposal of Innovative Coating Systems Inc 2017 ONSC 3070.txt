@@ -1,0 +1,273 @@
+ONTARIO SUPERIOR COURT OF JUSTICE
+IN BANKRUPTCY and INSOLVENCY
+
+In the matter of the Proposal of InnovativeCoating Systems Inc., a company dulyincorporated under the laws of the Provinceof Ontario, having its head office in the townof Tecumseh, County of Essex and Provinceof Ontario, (Bankrupt/Moving Party)
+
+Benjamin Blay, for Innovative CoatingSystems Inc.
+Thomas Robson, for Business DevelopmentBankSean Zeitz, for Eli Mogil, lawyer for UniSelect Eastern Inc.
+John Leslie, for Proposal Trustee, S. Funtig
+& Associates Inc.
+Timothy Hogan, for Royal Bank of CanadaHEARD:
+
+May 12, 2017
+
+GARSON J.
+Introduction
+
+[1]
+
+Innovative Coating Systems Inc. (“the debtor”) brings an application for approval of itsproposal, dated December 5, 2016 accepted by creditors at a meeting of January 18,2017, pursuant to s. 58 of the Bankruptcy and Insolvency Act (“BIA”). The debtor alsoseeks directions from this court regarding next steps.
+
+[2]
+
+Uni-Select Eastern Inc. (“Uni-Select”) and the Business Development Bank of Canada
+(“BDC”), secured creditors of the debtor, oppose the proposal because it contains arelease of the guarantors.
+
+[3]
+
+Wayne Brady (“Brady”), the principal of the debtor, executed personal guarantees infavour of both Uni-Select and BDC.
+
+[4]
+
+For the reasons that follow and in accordance with s. 59(2) of the BIA, I am of theopinion that the terms of the proposal are not calculated to benefit the general body ofcreditors and accordingly refuse to approve the proposal.
+
+CITATION: In the matter of the Proposal of Innovative Coating Systems Inc., 2017 ONSC 3070
+COURT FILE NO.: 35/2185695
+DATE: 20170519
+
+[5]
+
+Royal Bank of Canada, a secured creditor and senior lender of the debtor and the holderof a personal guarantee by Brady, takes no position on the motion on the basis that theyare not affected by the proposal and their security, including the guarantee of Brady, isunaffected by its terms.
+
+[6]
+
+Pursuant to s. 187(a) of the BIA and unopposed by the parties, BDC is granted leave toamend its Proof of Claim to extend to both Loan No. 060562-02 and No. 60562-04.
+
+Background and Facts
+
+[7]
+
+Innovative, an industrial coatings and chemical company in Tecumseh, Ontario, filed aNotice of Intention to File a Proposal under the BIA.
+
+[8]
+
+S. Funtig and Associates Inc., in its capacity as trustee (“the Trustee”), prepared aproposal, including a clause in the proposal that released guarantors from liability fromfuture actions.
+
+[9]
+
+Uni-Select, a secured creditor that supplied auto parts and services to the debtor, alsoholds a guarantee from Brady and his numbered corporation (“2067195”).
+
+[10]
+
+Upon counsel for Uni-Select realizing how this clause would compromise their ability topursue Brady, they reached out to the Trustee to request that the first creditor’s meetingscheduled for December 28, 2016 be adjourned. It was rescheduled for January 18, 2017
+at 10:00 a.m.
+
+[11]
+
+Due to an administrative error, no one from counsel for Uni-Select attended at thismeeting. The Trustee delayed the start of the meeting for 20 minutes to allow time forcounsel for Uni-Select to attend by phone. No one appeared either in person or by phone.
+
+[12]
+
+BDC executed a proxy in favour of the proposal.
+
+[13]
+
+Having determined sufficient voting letters and proxies were received from both securedand unsecured creditors to form a quorum, the meeting was held and the proposal waspassed by 100 percent of creditors of both classes that voted at the meeting. The Trustee,Brady and counsel for the debtor were the only persons in attendance at the meeting. TheTrustee exercised proxies or relied on voting letters to form a quorum.
+
+[14]
+
+Counsel for Uni-Select emailed the Trustee the day after the meeting inquiring aboutwhether the proposal had been updated. She was then advised of the outcome of themeeting and the fact the Trustee called the Official Receiver’s Office which confirmedthe process they followed was correct.
+
+[15]
+
+Both Uni-Select and BDC now appear before this court and oppose the proposal.
+
+Preliminary Matters
+
+[16]
+
+The Trustee seeks approval of the proposal and argues he acted honestly and in goodfaith and in accordance with the requirements of the BIA. He submits the proposal isreasonable in the circumstances and that his release of Brady as guarantor is as a quid proquo for the assistance Brady will offer in liquidating the assets of the debtor which willultimately benefit the general body of creditors.
+
+[17]
+
+BDC candidly admits that it erred by misconstruing the meaning of the proposal and notinitially understanding that it contained a release of the guarantee BDC personally holdsagainst Brady. BDC argues that it is entitled to change its position before this court andnow opposes the proposal because it will not benefit them as a secured creditor.
+
+[18]
+
+Uni-Select goes further and argues that the proposal is drafted in a way that is misleadingand violates the principles of the BIA and of commercial morality required in the draftingof such documents. Uni-Select suggests that the proposal does not benefit them as thelargest secured creditor but rather enures to the benefit of Brady. They oppose theproposal and submit their earlier omission in failing to attend the creditor’s meeting doesnot affect their ability to oppose approval of the proposal by this court.
+
+Discussion
+
+[19]
+
+Section 59(1) of the BIA provides that the court shall, before approving the proposal,hear from the debtor.
+
+[20]
+
+In Re Eagle Mining Ltd., 1999 CarswellOnt 1291, (Gen. Div.) the court made clear thatthere is no impediment to a creditor taking different positions at a creditor’s meeting andbefore the court. Ultimately, it is the court that must determine whether the proposalbenefits the general body of creditors.
+
+[21]
+
+Accordingly, the fact that BDC earlier voted to support the proposal is of no consequencegiven the position they now take.
+
+[22]
+
+Section 59(2) of the BIA provides that if the terms of the proposal are not reasonable norcalculated to benefit the general body of creditors, the court shall refuse to approve theproposal.
+
+[23]
+
+In Re Kitchener Frame Ltd., 2012 ONSC 234 (SCJ), Morawetz J. at para. 19 confirms thethree-pronged test under s. 59(2) that the proposal:
+(i) is reasonable;
+(ii) is calculated to benefit the general body of creditors; and
+
+Positions of the Parties
+
+(iii) is made in good faith.
+This test includes consideration of whether the terms of the proposal meet therequirements of commercial morality and maintaining the integrity of the bankruptcysystem: Re Kitchener at para. 22. I will address each part of the test separately.
+
+(i) Reasonableness
+
+[25]
+
+None of the parties contest the reasonableness of the terms of the proposal, save andaccept the release of Brady as guarantor.
+
+(ii) Calculated to Benefit the General Body of Creditors
+
+[26]
+
+Uni-Select and BDC combine to represent 100 percent of the secured creditors under theproposal. Uni-Select has a claim for $254,765.82 and BDC has a claim for $130,636.40.
+They constitute more than two-thirds of the admitted claims.
+
+[27]
+
+There is little doubt that if approved, this proposal would potentially harm and prejudiceboth Uni-Select and BDC to the extent that their personal guarantees would becompromised. After all, one of the primary purposes of a personal guarantee is to permitthe creditor to look to the guarantor when the principal debtor defaults – precisely thesituation before this court.
+
+[28]
+
+The Trustee suggests the release of Brady as guarantor is both permissible and reasonablein the circumstances. I disagree.
+
+[29]
+
+In ATB Financial v. Metcalf and Mansfield Alternative Investments II Corp., 2008 ONCA
+587, the Ontario Court of Appeal outlined the requirements that must be satisfied tojustify a third-party release (in the context of a plan under the CCAA). In Re Kitchener,Morawetz J. applied these criteria in the context of approving a proposal under the BIA.
+They include:
+(a) the parties to be released are necessary and essential to therestructuring of the debtor;
+(b) the claims to be released are rationally related to the purpose of theproposal and necessary for it;
+(c) the proposal cannot succeed without the releases;
+(d) the parties who are to have claims against them released arecontributing in a tangible and realistic way to the proposal; and
+(e) the proposal will benefit not only the debtor companies butcreditors generally.
+
+[24]
+
+[30]
+
+I have difficulty accepting that the criteria have been met. There is little to satisfy methat the release is necessary or essential to the liquidation of the debtor’s assets.
+Although the affidavit of Brady suggests he would be unwilling to assist with theliquidation in the absence of being released from his guarantees, this assertion ringshollow. Common sense dictates that it is in the best interests of Brady to maximize everydollar of potential earnings from the proposal. After all, each dollar achieved is one lessdollar of potential personal liability. In the end, he would be ill-advised to let suchpotential returns slip away due to his unwillingness to assist with the liquidation.
+
+[31]
+
+I am also not satisfied that the release of Brady’s personal guarantees are neitherrationally related to the purpose of the proposal or necessary for it.
+
+[32]
+
+As referenced above, the proposal can succeed without his release, given the inherentself-interest he has in maximizing the liquidation of the assets.
+
+[33]
+
+As both Uni-Select and BDC point out, this proposal benefits neither of them andcompromises their guarantees.
+
+[34]
+
+I place little weight on the fact that Uni-Select failed to attend the rescheduled creditorsmeeting and BDC wishes to retract its vote. Section 59(2) provides each creditor with afresh opportunity to make submissions on the proposal. Their administrative error,inadvertence or oversight speaks to the reason this matter is before the court but not towhether they meet the test under s. 59(2).
+
+[35]
+
+There is no need for a quid pro quo for Brady in these circumstances.
+
+(iii) Good Faith
+
+[36]
+
+I agree with the submissions of Uni-Select that the terms of the proposal are drafted in away that does not clearly disclose that the personal guarantees of Brady and 2067195 arebeing compromised. These releases should have been front and centre. In Article 2.2,the proposal states that it affects
+…all claims existing against Innovative.
+
+[37]
+
+There is no mention of Brady’s personal guarantees nor of the quid pro quo analysis.
+
+[38]
+
+The accompanying letter to the proposal at Tab 1(d) of the Responding Motion Record isalso silent as to Brady’s personal guarantees.
+
+[39]
+
+Although I do not accept the characterization of the proposal as intentionally misleading,I agree that the breadth of the release was tucked away in Article 3.4 in a manner thatcaused BDC to initially misread the proposal and misunderstand the implications withrespect to the guarantees. Simply put, the proposal was not drafted in a manner thatproperly reflects the interest of creditors and the requirements of commercial moralityand integrity. Rather, it is a carefully tailored proposal that appears to better serve theinterests of Brady, but is not calculated to benefit the general body of creditors: Re
+
+[40]
+
+At the end of the day, a court must be satisfied that the creditors are getting moreadvantage from the terms and the proposal than would arise from a bankruptcy. I am notso satisfied on the record before me.
+
+[41]
+
+The Trustee should have expressly and clearly stated both within the terms of theproposal and the covering letter that the proposal benefits Brady and 2067195 and heshould have done an analysis of the extent of such benefits.
+
+[42]
+
+I am aware of a very limited power under the BIA to make alterations or amendments toa proposal. However, none of the parties has sought this remedy and it is not appropriateto grant same in these circumstances.
+
+Conclusion
+
+[43]
+
+For the above reasons the proposal shall not be approved. In light of the provisions of s.
+61(2)(a) of the BIA and with the consent of the parties, leave is granted to the debtor tofile an amended proposal if it so chooses with the deemed release removed therefromwith costs payable by the debtor, Brady, 2067195 and the Trustee on a joint and severalbasis. In accordance with the requirements of the BIA, the amended proposal shall befiled within ten days.
+
+Costs
+
+[44]
+
+Uni-Select seeks costs on a partial-indemnity scale of $14,336.59, inclusive of HST anddisbursements. Uni-Select suggests Brady ought to be jointly and severally liable forsuch costs because this type of conduct stood to personally benefit Brady and theTrustee’s conduct in not disclosing same in a more prominent manner ought to besanctioned with costs.
+
+[45]
+
+BDC seeks costs of $7,203.55 on a partial indemnity scale, inclusive of HST anddisbursements.
+
+[46]
+
+Innovative seeks costs of $5,030.31 on a partial indemnity scale, inclusive of HST anddisbursements.
+
+[47]
+
+I agree with Innovative that this motion would not have been necessary if Uni-Select hadnot missed the meeting that was rescheduled at its request. Similarly, had BDC notmisread the proposal, they would have cast their vote in a manner that would haveobviated the need for this motion.
+
+[48]
+
+Further, BDC served no factum or cases in advance and showed up on the day of themotion with a single case in hand.
+
+Lofchik, 1998 CarswellOnt 194 (Gen. Div.) and Re Sumner Co. (1984) Ltd., 1987
+CarswellNB 26 (NBQB).
+
+Although the Trustee also bears some responsibility for this motion, but for the actions orinactions of Uni-Select and BDC, this court appearance would not have taken place. Inall of the circumstances, this is one of those rare occasions where the court will exerciseits discretion to award no costs.
+
+“Justice M. A. Garson”
+Justice M. A. GarsonReleased: May 19, 2017
+
+[49]
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE IN
+BANKRUPTCY and INSOLVENCY
+
+BETWEEN:
+In the matter of the Proposal of Innovative CoatingSystems Inc., A company duly incorporated under thelaws of the Province of Ontario, having its head officein the town of Tecumseh, County of Essex and Provinceof Ontario, (Bankrupt/Moving Party)
+
+REASONS FOR JUDGMENT
+
+Justice M. A. Garson
+
+Released: May 19, 2017
+
+CITATION: In the matter of the Proposal of Innovative Coating Systems Inc., 2017 ONSC 3070
+COURT FILE NO.: 35/2185695
+DATE: 20170519
+

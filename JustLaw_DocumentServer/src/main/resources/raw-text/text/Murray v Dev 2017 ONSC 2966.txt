@@ -1,0 +1,402 @@
+CITATION: Murray v. Dev, 2017 ONSC 2966
+COURT FILE NO.: CV-17-572033
+DATE: 20170515
+
+SUPERIOR COURT OF JUSTICE
+IN THE MATTER OF an application under subsection 37(1) of the Health Care Consent Act,1996, S.O. 1996, c. 2, Schedule A, as amendedBETWEEN:
+
+JOAN MURRAY
+Respondent(Appellant) )
+– and –
+DR. SHELLY DEV
+Applicant (Respondent in Appeal)
+– and –
+ROBERT MURRAY
+Respondent(Respondent in Appeal) )
+– and –
+HORACE FORD HECTOR MURRAY
+Respondent(Respondent in Appeal) )
+
+Mercedes Perez, for the Appellant
+
+Christine Wadsworth, for the RespondentDr. Shelly Dev
+
+HEARD: May 11, 2017
+
+REASONS FOR JUDGMENT
+MR. JUSTICE P. J. CAVANAGH
+
+ONTARIO
+
+[1]
+This is an appeal by Joan Murray (“JM”) from the March 20, 2017 decision of theConsent and Capacity Board (“CCB”) ordering her, as the substitute decision-maker for herhusband, Horace Murray (“HM”), to consent to the withdrawal of life support for HM. Thistreatment plan was proposed by physicians at Sunnybrook Health Sciences Centre
+(“Sunnybrook”), including the respondent Dr. Shelley Dev (“Dr. Dev”). The withdrawal of lifesupport for HM will most likely end his life.
+
+[2]
+HM was admitted to Sunnybrook on August 13, 2016. He remains in intensive care atSunnybrook. At the beginning of October 2016, HM suffered two cardiac arrests within 24 hoursand he has neither regained consciousness nor demonstrated any neurologic responsiveness sincethen. As of the date of the hearing of this appeal, there had been no signs of clinical improvementof HM’s medical condition since the CCB’s decision was released. HM remains in a comatosestate, entirely dependent on a mechanical ventilator for respiratory support, with no signs ofneurological recovery.
+
+[3]
+The respondent Robert Murray (“RM”) is the son of JM and HM. He assumed the role ofsubstitute decision-maker (“SDM”) after JM was found unsuitable to act as SDM.
+
+[4]
+
+The CCB hearing consisted of three applications.
+
+[5]
+Dr. Dev brought a “Form G” application under s. 37(1) of the Health Care Consent Act,1996, S.O. 1996, c. 2, Schedule A (“HCCA”) to determine whether RM was making treatmentdecisions for his father in compliance with s. 21 of the HCCA. Section 21 of the HCCA sets outthe principles that a SDM shall follow in making a decision to give or refuse consent to atreatment on an incapable person’s behalf. On such an application, the CCB may substitute itsopinion for that of the SDM and if it determines that the SDM did not comply with s. 21, it maygive him or her directions and, in so doing, shall apply s. 21.
+
+[6]
+Subsequently, JM brought a “Form C” application under s. 33(2) of the HCCA todetermine whether she should be appointed SDM for her husband.
+
+[7]
+Dr. Dev had found HM incapable of consenting to medical treatment. Under s. 37.1 ofthe HCCA, both the Form G application and the Form C application triggered a deemedapplication under s. 32 of the HCCA with respect to HM’s capacity to consent to the treatmentproposed by Dr. Dev (deemed “Form A” application).
+
+[8]
+The CCB decided to hear the three applications together because of the overlappingnature of the evidence.
+
+[9]
+Procedurally, the CCB hearing proceeded over six days in February and March 2017. JM
+was formally added as a party to the Form G application pursuant to a pre-hearing order datedDecember 12, 2016. JM was represented at the hearing by experienced counsel and she had, andexercised, the same rights as other parties, including to call evidence, cross-examine witnessesand make submissions.
+
+Introduction
+
+The CCB made four decisions, three of which have not been appealed.
+
+[11] In respect of the deemed Form A application, the CCB decided that HM was incapablewith respect to the treatment proposed by Dr. Dev. In respect of the Form C application, the CCB
+decided that Dr. Dev had not discharged her onus of showing that JM was not willing, availableand capable to act as SDM with respect to the treatment proposed by Dr. Dev and JM wasrestored to the SDM role. As a result, the CCB dismissed the Form C application as unnecessary.
+The CCB also decided, in connection with the Form G application, that HM, while previouslycapable, had not expressed a wish applicable to the circumstances according to s. 21(1)1 of theHCCA. These three decisions have not been appealed.
+
+[12] In its Reasons for Decision released on March 21, 2017, the CCB addressed whether adecision on the Form G application applied to JM who was not the SDM who was makingdecisions for Mr. Murray at the time the application was made. The CCB concluded that it wouldnot be unjust to render a decision on the Form G application and make it binding on JM as SDM.
+This conclusion is central to the issues raised on this appeal.
+
+[13] The fourth decision was made by the CCB on the Form G application. The CCB decidedthat JM, the SDM for HM, has not complied with the principles for substitute decision makingset out in s. 21 of the HCCA under which (absent a prior capable wish) the SDM shall act in theincapable person’s best interests. The CCB directed JM to consent to the treatment plan proposedby Dr. Dev. JM has appealed this decision.
+
+[14] For the following reasons, I have concluded that the decision of the CCB on the Form G
+application was reasonable and deserves deference, and that the appeal should be dismissed.
+Factual Background
+
+[15] The following background facts are taken from the Reasons for Decision of the CCB
+released on March 21, 2017 and do not account for events that may have occurred following theCCB’s decision.
+
+[16] HM is an 81-year old man who had lived with his wife of 60 years, JM, in their house inToronto. JM is 79 years old. They have four adult children. All four children were in contactwith the other family members and very concerned about their father’s health; they could bedescribed as a close knit family. JM is completely deaf and partially blind, and cannot use thetelephone they have in their home. She had been reliant on HM as a caregiver.
+
+[17] HM had a history of chronic obstructive pulmonary disease (“COPD”), and rectal cancerwhich had been diagnosed and treated in 1997. In January 2016, HM had been admitted toSunnybrook with respiratory failure due to COPD. At that time, tests had raised a suspicionabout cancer in his bones and a possible recurrence of his rectal cancer, but he declined furtherinvestigations and/or follow-up.
+
+[18] On August 13, 2016, HM’s and JM’s daughter and grand-daughter went to visit and,finding HM unresponsive, called 911. HM was brought by ambulance to Sunnybrook andadmitted to a “level II” intensive care unit (“ICU”) and placed on non-invasive ventilation
+
+[10]
+
+(“NIV”) for stabilization. With NIV, oxygen was delivered to HM via an airtight mask placedover his mouth and nose. Medical investigations revealed that HM also suffered acute kidneyinjury and acute hepatitis, likely due to weakness of the heart. He had hypertension (high bloodpressure) and other heart disease, possibly resulting from his lung disease. CT scans showed thatHM had what were referred to as “bony lesions” suggestive of cancer. It was recommended heundergo an abdominal CT scan and sigmoidoscopy to explore whether the bony lesions andrectal abnormalities were in fact cancerous, but his family declined the investigations on thebasis that HM had declined similar investigations in January 2016 and would not have wantedinvasive tests. HM’s cognitive condition was described as confused or delirious, thus he wasincapable of consenting, or refusing to consent, to tests and treatments. HM’s family membersagreed that JM was the appropriate SDM for HM. They referred to the existence of a power ofattorney document naming JM as HM’s attorney for treatment decisions, but they did notproduce the document until October 21, 2016.
+
+[19] On August 19, 2016, HM was transferred out of the ICU to an internal medicine unitreferred to as “Orange Team”. His kidney and liver conditions had stabilized and he was able tobreathe without assistance from a ventilator for brief periods. His level of consciousnessfluctuated between delirium and alertness, because of his inability to exhale properly, causingexcess carbon dioxide to accumulate in his blood. Between August 19 and October 3, HM wentback and forth between the Orange Team and ICU a few times, depending on the level ofintervention required. HM suffered several emergencies, for instance, a seizure, pneumonia,septic shock from a urinary tract infection, and several episodes of complete respiratory failureresulting in endotracheal intubation and mechanical ventilation. Every time he was put back onNIV (as opposed to intubation) his level of consciousness would gradually deteriorate, requiringreintubation with mechanical ventilation in the ICU to regain consciousness.
+
+[20] On October 5, 2016, while in the ICU under Dr. Dev’s care, HM suffered a heart attackand required CPR and reintubation. Less than 24 hours later, on October 6, HM suffered asecond heart attack and was revived once again by CPR performed by Dr. Dev. Dr. Devexplained that CPR was extremely invasive and painful to the patient, often resulting in brokenribs. HM never regained consciousness and has been completely dependent on mechanicalventilation for breathing after October 5, 2016. HM also required feeding tubes, intravenousdelivery of fluids and medications, frequent suctioning to remove mucus build up in his lungs,and tubes to remove waste products from his body. HM began to develop pressure ulcers atseveral locations, requiring daily wound care. Eventually he would need a tracheostomy tofacilitate mechanical ventilation as intubation was not safe for prolonged periods.
+
+[21] In late September HM’s treatment team had begun breaking the news to HM’s familymembers that HM would never come off of artificial ventilation, and would likely need atracheostomy and permanent feeding tubes. They suggested that ongoing life-support may not bethe most beneficial path for HM, and offered an alternative course of palliative care, implyingthe removal of life-supporting mechanisms. The plan of treatment as outlined at the hearing wassubstantially established on or about October 4. The standing instruction from JM (as SDM) atthat time was to continue to provide any intervention required to keep HM alive (sometimesreferred to as “full code”). Following HM’s second heart attack and a careful discussion with Dr.
+
+[22] In early October the treatment team grew concerned that JM was not making decisions inaccordance with the principles for substitute decision making set out in the HCCA. Following aseries of three family meetings on October 4 and 7 with one of the attending doctors, Dr. Amaral,and on October 13 with Dr. Rubenfeld and other members of the treatment team, the treatmentteam concluded that JM did not meet the requirements of an SDM according to s. 20(2) of theHCCA. The treatment team turned to HM’s children as possible SDMs in place of JM. None ofthem wished to fill the role, but Robert Murray (“RM”), the son of HM and JM, eventuallyagreed only to avoid the hospital turning to the default decision maker: the Public Guardian andTrustee (“PGT”).
+
+[23] As SDM, RM made the same treatment decision as JM: maintain full code. Despitereceiving neurology reports stating that HM would likely never regain consciousness or be ableto return home, RM was not open to discussion about transitioning into palliative care. Becauseit was not safe or comfortable to prolong indefinitely HM’s intubation for breathing, atracheostomy was performed on November 16, as a more comfortable means of receivingventilation and to minimize ongoing oral trauma. Between the time of his cardiac arrests and thehearing, HM developed numerous complications due to his prolonged hospitalization, including:
+recurrent ventilator-associated pneumonia requiring antibiotic treatment and frequent suctioning;severe pressure ulcers on his sacrum, ankles, elbows and shoulder; and a cavity in his right lung,whose etiology was unknown as the team lacked consent to perform investigation. RM’s lastvisit to HM’s bedside was in December, 2016. His last phone conversation with any staff atSunnybrook (a nurse) was in early January, 2017. Because of the impending CCB hearing, RM
+considered it inappropriate and unnecessary to communicate further with anyone at Sunnybrook.
+
+[24] On November 25, 2016, Dr. Dev, on behalf of the entire treatment team, filed a Form G
+application, requesting the CCB to review whether RM was complying with the principles ofsubstitute decision-making under the HCCA. At a pre-hearing conference held on December 12,2016, the CCB added JM as a party to the Form G application. Soon after, JM filed a Form C
+application seeking to be reinstated as HM’s SDM. A total of six prehearing conferences wereconvened by the CCB between December 2, 2016 and January 20, 2017, primarily to sort outaccommodations for JM, as well as other procedural matters. The hearing convened on February13, 2017, to consider the Form G and Form C applications together.
+
+[25] In the Sunnybrook ICU there is a rotation of multiple attending physicians and residentswho take turns with patient care and on-call duties for seven days at a time. Dr. Dev had been onduty in the ICU during the week in October when HM had his heart attacks, and 3 to 4 additionalweeks during his hospitalization, the last time being February 16-23, 2017. HM had been caredfor by approximately 15 other ICU attending physicians. The physicians collaborated on the careof all ICU patients, and were interchangeable as far as making treatment decisions. Dr. Dev waschosen to lead the Form G application process and to present evidence at the hearing,representing the consensus of the entire Sunnybrook medical team.
+
+Dev, JM consented to a directive refusing CPR in case of another heart attack. However, JM
+later revoked that directive, resuming the “full code” instruction.
+
+CCB Decisions on Form A, Form C, and Form G Applications
+
+[26] Before proceeding with its analysis regarding the applications before it, the CCB
+summarized HM’s multiple medical conditions at the time of the hearing. The summary includedthe following:
+a. COPD: HM’s lung function was so severely compromised that he was completelydependent on mechanical ventilation through a tracheal tube. Simply put: his bodycould no longer breathe on its own, and without artificial ventilation he would die,likely within hours. To receive mechanical ventilation HM had to staypermanently in the ICU; there was no prospect of his ever returning home.
+b. Septic Shock: Associated with ongoing mechanical ventilation, HM was at highrisk of acquiring pneumonia and other hospital-acquired infections requiringtreatment with antibiotics. HM had at least four serious infections during hiscourse in hospital, and more were to be expected. With each episode his bodywould become less resilient in recovery and every dose of antibiotics made HM
+more susceptible to treatment-resistant bacteria.
+c. Suctioning: The COPD caused mucus and fluids to accumulate in HM’s lungs,which he could not cough up, requiring suctioning several times per day-thislikely caused HM discomfort. In addition, the suctioning caused occasionalbleeding from the trachea, observed in February 2017.
+d. Loss of Neurological Function: HM had been in a deep coma since October 6,2016. The evidence showed that the longer one remained, comatose, the lesslikely was the chance of ever awaking. At the time of the hearing, Dr. Devestimated the chances of HM waking from his unconscious state was less than 0.1
+of 1%. And, if he did regain consciousness, he would be severely impaired,mentally and physically, completely unable to communicate or meaningfullyinteract with his surroundings.
+e. Pressure Ulcers: HM had severe ulcers (bedsores) resulting from being bedboundfor over six months. At the time of the hearing he had nine ulcers, seven of whichwere stage 4 (the most severe stage), in which the skin and muscle had eroded tothe bone. They all required extreme care due to the high risk of getting infected.
+Every day, nurses had to change all the dressings and cut away infected and/ordead tissue (debridement). They would never heal, only continued to worsen some of them had already grown 4-5 inches in diameter, and Dr. Dev explainedthere was further erosion of tissue below the surface that was not visible. The fastprogression of these wounds indicated that HM’s body was literally decayingwhile being kept artificially alive. Dr. Dev believed that these ulcers caused pain,which HM was not able to communicate, especially when the dressings werebeing changed.
+
+Summary of HM’s Medical Condition
+
+Cancer: it was suspected, but not confirmed, that HM had cancer in his bones.
+This put him at risk of developing blood clots, which could also be a source ofpain for HM.
+
+g. Lung Cavity: this was detected in a CT scan but the reason for it was unknown; itcould be the result of lung cancer, pneumonia, or the COPD. This cavity createdadditional risks and complications with the use of artificial ventilation.
+h. Feeding and Waste Tubes: HM was given food and fluids through a nasogastrictube. He had a catheter for urine and a rectal tube to eliminate feces.
+i.
+
+Intravenous Line: HM had an intravenous (“PICC”) line going to his vein fordelivery of medications.
+
+j.
+
+Central Diabetes Insipidus: a condition associated with brain injury whereby thebody loses too much fluid leading to dangerously high levels of sodium in theblood and dehydration. This condition was managed with medication, butnecessitated continuous blood testing several times per week.
+
+k. Blood Transfusions: as a consequence of having blood drawn for testing multipletimes per week, HM’s red blood count dropped to dangerously low several times,requiring blood transfusions. With each transfusion, the risk of infection orallergic reaction increased. HM had had seven or eight transfusions by the timethe hearing took place.
+
+[27] At the hearing of this appeal, counsel for Dr. Dev, with the consent of counsel for JM,provided the court with a clinical update concerning HM’s condition. The court was advised thatthere was no sign of any clinical improvement for HM. HM remains in a comatose state with nosign of neurological recovery. He is entirely dependent on mechanical ventilation for respiratorysupport, with no hope that he will ever be liberated from the ventilator. HM’s othercomplications persist. The bedsores are particularly troubling. HM continues to experience thesame side effects as he experienced at the time of the hearing. Dr. Dev describes his condition as
+“stably unstable”.
+Decision on deemed Form A Application
+
+[28] As noted, the CCB decided on the deemed Form A application that HM was incapable ofconsenting to, or refusing, the treatment proposed by Dr. Dev.
+Decision on Form C Application
+
+[29] With respect to the Form C application, the CCB considered it appropriate to place on Dr.Dev the onus of showing why JM did not meet the requirements of s. 20(2) of the HCCA. Insupport of her decision that JM was unsuitable to continue acting as SDM, Dr. Dev reliedprincipally on clinical notes arising from three family meetings that occurred on October 4, 7,and 13, as well as other evidence. The CCB reviewed the evidence and could find no evidencethat showed JM was incapable with respect to HM’s treatment. The CCB found that JM was
+
+f.
+
+available as SDM for the purposes of the HCCA. The CCB found that JM was very willing andeager to assume the responsibility of making decisions regarding HM’s care and treatment. TheCCB addressed the frustration felt by the doctors in respect of the urgent need to come to adecision and that their repeated conversations with JM were “going nowhere”. The CCB foundthat the doctors were forgetting that a decision was already in place: that of “full code”, and whatthey were asking of JM was to change her decision.
+
+[30] The CCB concluded that Dr. Dev had failed to prove that JM did not meet therequirements of fulfilling the role of SDM according to s. 20(2) of the HCCA. The CCB
+reinstated JM as the appropriate SDM for HM based on the ranking of family members in s.
+20(1) and also on the power of attorney reflecting HM’s choice of his wife as SDM. Having doneso, the CCB dismissed the Form C application as unnecessary.
+Decision on Form G Application
+
+[31] With respect to the Form G Application, the CCB identified the issue as whether JM hadmade decisions in accordance with the principles of giving or refusing consent set out in s. 21 ofthe HCCA.
+
+[32] The CCB first addressed the argument made on behalf of JM that, because she was notthe SDM when the Form G application was filed on November 25, 2016 (the SDM was RM atthat time), a decision on the Form G application could not apply to her. It was argued on behalfof JM that the wording of s. 37(1) of the HCCA implies that the Form G application related to theSDM who is making decisions for the incapable person at the time the application was made. Itwas argued that JM ought to be given a fair opportunity to fulfil the role of SDM and give orrefuse consent in accordance with the principles of substitute decision making. It was argued thatif the CCB were to make a decision on the Form G application, this would not only be contraryto the letter and spirit of s. 37(1), it would also deprive JM of her role as SDM once again, anddeprive HM of his right to have the SDM of his wish, as expressed in the power of attorneydocument (discussed below).
+
+[33]
+
+The CCB addressed this argument and wrote:
+Although there was some merit in Ms. Perez’s submissions, the consequences ofceding to her logic would have been absurd: if JM were once again given thereigns as SDM, and if she did not make a decision in accordance with s. 21, thetreatment team would have to file a whole new Form G application, ignoring thesix days of evidence and submissions they had already presented. This resultwould not only be unconscionable towards the treatment team, but moreimportantly to HM, who would have an indefinite delay in having his bestinterests respected.
+I did not consider it unjust to render a decision on the Form G application andmake it binding on JM as SDM, for the following reasons: first, the treatment planproposed by Dr. Dev at the hearing had been proposed in substantially the sameform while JM was still the SDM, as set out in Dr. Amaral’s note of October 4.
+This treatment plan had been explained to JM at the meetings on October 4, 7 and
+
+13, to which JM had refused to consent, leading to her removal as SDM. HM’scondition had not changed substantially since then, if anything it had grownworse. I felt it was justifiable to evaluate whether JM’s decisions back in 2016
+had been made in accordance with the HCCA principles. Second, when RM hadassumed the role of SDM he did so reluctantly, saying he would make decisionsaccording to what JM would have decided, out of his respect for his father’s wishthat JM be the SDM. Throughout his time as SDM, RM’s direction to thetreatment team had not varied from JM’s earlier decision to insist on full lifesupport. In his testimony RM said he only wanted to follow his father’s wishes,which were the same as his mother’s wishes. It is fair to say that RM was actingas JM’s proxy; in the role of SDM they were one and the same. Hence an analysisof whether RM was acting according to the principles in s. 21 during the period ofOctober 14 to March 10 would apply equally to JM.
+I believed it reasonable, logical, and justified to apply my Form G decision to JM
+at the same time as reinstating her as HM’s SDM. The decision she had madeprior to October 14, 2016 remained in place, RM had not varied it at all. In theanalysis that follows, I refer to JM’s and RM’s decision-making asinterchangeable, depending on the time frame under analysis.
+
+[34] The CCB also addressed in its Reasons for Decision submissions made on behalf of JM
+concerning the accommodations provided in respect of communications to her by hospital staff:
+A note about accommodations provided when hospital staff communicated withJM: Ms. Perez argued that at no time were the accommodations provided bySunnybrook staff sufficient to properly communicate with JM, thus the evidenceabout her alleged incapacity was of no value. Although Ms. Perez did not extendthe argument to the Form G evidence, I considered whether JM’s dual disabilitycaused her to be misunderstood, and thus discriminated against, as SDM. Dr. Devand Ms. Herschman explained that great care had been taken at all times tocommunicate with JM using the methods recommended by family members:
+simple words written in large letters using black ink on paper. JM’s responseswere written down to make sure they had been properly understood, andimportant questions were asked repeatedly for confirmation. When familymembers were present, lip reading was used to supplement the writing. JM carrieda magnifying glass which she had used to read printed material. RM confirmedthat JM had read and understood the letter she had signed dated October 21, 2016.
+There was no request for accommodation that had been refused by Sunnybrookand the evidence did not show that JM could had (sic) trouble understandingconversations due to her disability. JM claimed to understand the information shewas told. At no time did JM or any other family member complain to theSunnybrook team that JM was not being properly accommodated. I found that theaccommodations provided by the staff at Sunnybrook were sufficient for thepurpose of communicating HM’s treatment needs and best interests.
+
+[35] Section 21(1)1 of the HCCA provides that if the SDM knows of a wish applicable to thecircumstances that the incapable person expressed while capable, the person shall give or refuseconsent in accordance with the wish. Therefore, the CCB first addressed whether JM acted inaccordance with a wish expressed by HM while he was capable that was applicable to thecircumstances. In doing so, the CCB considered the evidence relating to four references to a wishexpressed by HM, while still capable, that might be applicable to the circumstances.
+
+[36] First, the CCB considered a conversation that HM had several years ago with hisdaughter, Donna, in which he stated that one should always hold onto life and not give up, butfight for it. The context of the conversation was that Donna had stated if she were ever on lifesupport with no chance of recovery, she would want to die peacefully rather than be kept aliveartificially. JM was also present at the time. The CCB found that it was unclear whether HM’sremark was intended to mean that Donna or JM, specifically, should hang onto life, or that hewould hang onto life, or, generally, any person in that situation should hang onto life. The CCB
+found that the sentiment expressed by HM in this conversation was too vague and uncertain tocomprise a prior capable wish under s. 21(1) of the HCCA.
+
+[37] Second, the CCB considered evidence relating to HM refusing recommended surgery andchemotherapy for rectal cancer, but accepting radiation therapy. The CCB considered that thesedecisions did not amount to a clearly expressed wish applicable to either staying on, or refusing,life-support measures.
+
+[38] Third, the CCB considered the power of attorney document (“POA”) by which, in 2008,HM had named JM as his sole attorney for making decisions about his care in case he were notable to do so for himself due to mental incapacity. On page 3 of the POA was a clause entitled
+“Living Will” that reads:
+I further state that I have seriously considered the issue of life support systems. I
+empower my Attorney appointed in this document to make any final decisionsregarding the withdrawal of artificial life support systems. If the situation shouldarise in which there is no reasonable expectation of my recovery from physical ormental disability, then I request that medication be mercifully administered to meto alleviate suffering and that I be allowed to die and not be kept alive by artificialmeans.
+This POA was not produced and provided to the treatment team until October 21, 2016, after thetreatment team had replaced JM as SDM. There was evidence given at the CCB hearing bySusan Schell, HM’s lawyer who prepared the POA, that she had advised the couple at the timethey signed the document that nothing in the clause diminished the Attorney’s power to decidewhen to withdraw life support. The CCB held that HM’s wish ought to be enforced in the waythat he had understood it, in other words, that his wife JM would retain discretion about when towithdraw life support, not that the decision would be made by his doctors or anyone else. The
+
+The CCB then addressed whether there had been compliance with s. 21 of the HCCA which setsout the principles for giving or refusing consent to a treatment on an incapable person’s behalf.
+
+[39] Fourth, the CCB considered evidence concerning a conversation between HM, during aperiod of lucidity, and one of his doctors, Dr. Cuthbertson, in which HM expressed hisinclination not to stay on mechanical ventilation. In this conversation, HM said that he wanted todiscuss this with his wife before making a final decision. HM lost consciousness before speakingwith JM. The CCB concluded that this conversation did not amount to a capable wish that shouldabsolutely determine HM’s death, but it was to be considered as one of the factors in determiningHM’s best interests.
+
+[40] The CCB concluded that the evidence did not establish that HM had clearly andunequivocally expressed a capable wish that was applicable to the present circumstances. TheCCB then addressed HM’s best interests according to the principles set out in s. 21(1)2 and s.
+21(2) of the HCCA.
+
+[41] The CCB held that the role of the SDM is to weigh all of the factors set out in s. 21(2) ofthe HCCA and make a decision that is objectively in the best interests of the incapable person,not a decision based on what she wants for the incapable person. The CCB wrote that its role wasto determine whether JM’s (and RM’s) decision to maintain full life support for HM aligned withhis best interests, according to the factors set out in s. 21(2).
+
+[42] The CCB did not find any definitive direction arising out of HM’s values and beliefs,either in favour of, or against, HM’s continued survival on life support. The CCB considered theevidence of wishes expressed by HM that were relevant to the criterion of his best interests.
+These included:
+a.
+
+HM’s wish for JM to make decisions for him in case of his incapacity.
+
+b. The wish expressed in the Living Will clause of the POA that, the CCB wrote,
+“begged to be considered”.
+c. The wish expressed to Dr. Cuthbertson, in the presence of another doctor, onSeptember 27, 2016, when HM lucid, in which he indicated that he would preferto die than remain on mechanical ventilation in a hospital environmentindefinitely. The CCB also considered evidence from RM that HM was still semidelirious when this statement was made and he really did not mean what he saidto Dr. Cuthbertson.
+
+[43] With respect to the factors set out in s. 21(2)1 and s. 21(2)2 in relation to HM’s conditionor well-being, the CCB addressed in its Reasons for Decision the following evidence from Dr.Dev:
+a. Dr. Dev’s proposed treatment plan was to remove all life-support systems andadminister pain medication to keep HM comfortable, accepting the natural courseof dying. Dr. Dev stated that the ethical use of life-support systems was tomaintain life in the hope of recovery from an illness or trauma, or to preserve
+
+CCB recognized that JM would still be bound by the provisions of the HCCA and thus requiredto act in HM’s best interests.
+
+quality of life if any such quality exists. When all hope of recovery was gone,when any quality of life had disappeared, when the person was clearly dying, itbecame unethical to prolong suffering and delay death. In such a case, themachines were not extending HM’s life, but rather prolonging a slow, painful, andundignified death. Dr. Dev felt deeply that she was violating the Hippocratic Oathto “do no harm” by keeping HM alive in his condition.
+b. Dr. Dev believed that HM was suffering while remaining alive by artificialmeans. She believed he could feel pain during suctioning procedures and whenhaving his dressings changed, as indicated by facial grimaces. Dr. Dev stated thatHM would eventually die in hospital of an infection or organ failure despite theteam’s best efforts to keep him alive. There was no hope of recovery, and hisbody was slowly decaying as it was being kept alive. There was absolutely nobenefit to prolonging his death; implementing her treatment plan would allow herto maximize his relief from pain and discomfort well letting nature take its course.
+The entire treatment team was unanimous that the proposed plan wouldmercifully end HM’s suffering, thus improving his well-being.
+c. JM and RM both seemed to dismiss the medical information which had beenconfirmed to them over and over by numerous physicians from early October andon. They shared an unrealistic hope that HM would somehow awaken and recoverenough faculties to enjoy life once again. They distrusted the prognosis andadvice of the Sunnybrook team.
+
+[44] The CCB found the medical evidence very compelling in establishing that the proposedtreatment plan would improve HM’s well-being by ending his suffering and accepting the naturalcourse of death. The CCB found that without the plan, HM’s body would continue to wasteaway, and more and more interventions would be required, until at last his body would give wayto infection or massive organ failure that even medical technology could not prevent.
+
+[45] The CCB held that, having regard to all of the evidence presented over six days ofhearing, implementing Dr. Dev’s proposed treatment plan was in the best interests of HM.
+Analysis
+
+[46] Section 80(1) of the HCCA provides that a party to a proceeding before the CCB mayappeal the CCB’s decision to the Superior Court of Justice on a question of law or fact or both.
+Section 80(10) provides that on the appeal, the court may (a) exercise all the powers of the CCB;
+(b) substitute its opinion for that of a health practitioner, an evaluator, a substitute decisionmaker or the CCB; (c) refer the matter back to the CCB, with directions, for rehearing in wholeor in part.
+
+[47]
+
+JM, through her counsel, makes two main submissions on this appeal.
+
+[48] First, JM submits that she was deprived of the opportunity to act as her husband’s SDM,and that the CCB erred in law and exceeded its jurisdiction in deciding the Form G application inthe absence of a decision from her.
+
+[49] Second, JM makes the alternative submission that the CCB unreasonably weighed theevidence in determining that cessation of life supports was in HM’s best interests.
+
+[50] In order to address JM’s first submission, it is necessary to decide what the applicablestandard of review is on this appeal.
+
+[51]
+
+JM, through her counsel, submits that:
+a. The CCB has no jurisdiction except as expressly provided by its enablinglegislation, and that questions of jurisdiction are questions of law subject to acorrectness standard of review.
+b. At a Form G hearing, the CCB’s jurisdiction is restricted to determiningcompliance with s. 21 of the HCCA “if consent to a treatment is given or refusedon an incapable person’s behalf” by the SDM.
+c. Information required for informed consent and for understanding s. 21 of theHCCA was not made available to JM and, therefore, she made no decision that theCCB could review on the Form G application.
+d. The CCB exceeded its jurisdiction by determining that it could, nonetheless,decide the Form G application, thereby erring in law.
+
+[52]
+
+Dr. Dev, through her counsel, submits that:
+a. The standard of review that applies to all aspects of the CCB’s decision at issueon this appeal is reasonableness.
+b. The CCB is a specialized expert tribunal which is entitled to deference on matterswithin its expertise, and the findings of the CCB should stand provided they wereamong the range of conclusions that could reasonably have been reached: L.E. v.c. The CCB has the power to determine its own procedures and practices: StatutoryPowers Procedure Act, s. 25.01. The CCB was entitled to hear both the Form C
+and Form G applications at the same time and to render a decision on both. Thisdecision should not be interfered with on appeal.
+d. The CCB’s decision was reasonable and rooted in the voluminous evidencebefore it. The CCB was well positioned to weigh the evidence and make thefindings it did. The Court should not interfere with the CCB’s decision.
+
+[53] The Supreme Court of Canada has held that a standard of review of reasonablenesspresumptively applies to a tribunal’s interpretation of its home statute. In Alberta (Information
+
+What is the applicable standard of review?
+
+There is authority that “[d]eference will usually result where a tribunal isinterpreting its own statute or statutes closely connected to its function, withwhich it will have particular familiarity” (Dunsmuir, at para. 54; Smith v. AlliancePipeline Ltd. [citations omitted], at para. 28, per Fish J.). This principle appliesunless the interpretation of the home statute falls within one of the categories ofquestions to which the correctness standard continues to apply, i.e.,
+“constitutional questions, questions of law that are of central importance to thelegal system as a whole and that are outside the adjudicator’s expertise, …
+‘[q]uestions regarding the jurisdictional lines between two or more competingspecialized tribunals’ [and] true questions of jurisdiction or vires” [citationsomitted].
+…
+I reiterate Dickson J.’s oft-cited warning in Canadian Union of Public Employees,Local 963 v. New Brunswick Liquor Corp., [1979] 2 S.C.R. 227, that courts
+“should not be alert to brand as jurisdictional, and therefore subject to broadercurial review, that which may be doubtfully so” [citations omitted]. As this Courtexplained in Canada (Canadian Human Rights Commission), “Dunsmuirexpressly distanced itself from the extended definition of jurisdiction” [citationomitted]. Experience has shown that the category of true questions of jurisdictionis narrow indeed. Since Dunsmuir, this Court has not identified a single truequestion of jurisdiction [citations omitted].
+The direction that the category of true questions of jurisdiction should beinterpreted narrowly takes on particular importance when the tribunal isinterpreting its home statute. In one sense, anything a tribunal does that involvesthe interpretation of its home statute involves the determination of whether it hasthe authority or jurisdiction to do what is being challenged on judicial review.
+However, since Dunsmuir, this Court has departed from that definition ofjurisdiction. Indeed, in view of recent jurisprudence, it may be that the time hascome to reconsider whether, for purposes of judicial review, the category of truequestions of jurisdiction exists and is necessary to identifying the appropriatestandard of review. However, in the absence of argument on the point in this case,it is sufficient in these reasons to say that, unless the situation is exceptional, andwe have not seen such a situation since Dunsmuir, interpretation by the tribunal of
+“its own statute or statutes closely connected to its function, within which it willhave particular familiarity” should be presumed to be a question of statutoryinterpretation subject to deference on judicial review.
+
+[54] In Starson v. Swayze, [2003] 1 S.C.R. 722 the Supreme Court of Canada considered theapplicable standard of review on an appeal from a decision of the CCB under the HCCA
+confirming a finding by a patient’s attending physician that the patient lacked capacity. Onappeal to the Ontario Superior Court of Justice, the CCB’s decision was reversed on the basisthat it was unreasonable and that the CCB had erred in its application of the statutory test for
+
+and Privacy Commissioner) v. Alberta Teachers’ Association, [2011] 3 S.C.R. 654, the SupremeCourt of Canada wrote at paras. 30, 33 and 34:
+
+capacity. The question under review was held to be one of mixed fact and law. With respect tothe standard for review, the Supreme Court of Canada considered that there were factors thatcounseled against and for a deferential standard of review and concluded that, applying thepragmatic and functional approach to the question, it is clear that reasonableness is theappropriate standard of review, a standard that involves respectful attention, though notsubmission, to the board’s decision. An unreasonable decision is one that is not supported by anyreasons that can stand up to a somewhat probing examination: Starson, at paras. 84-88, citingLaw Society of New Brunswick v. Ryan, [2003] 1 S.C.R. 247, at para. 49 and Canada (Directorof Investigation and Research) v. Southam Inc., [1997] 1 S.C.R. 982, at para. 56.
+
+[55] Bearing these principles in mind, the question before me on this appeal with respect tothe jurisdiction of the CCB is, in my view, one of mixed fact and law that must be reviewed onthe standard of reasonableness. My reasons for reaching this conclusion follow.
+
+[56] Whether the CCB had jurisdiction to make the decision that JM had not complied withthe principles for giving or refusing consent set out in the HCCA and ordering JM to consent tothe proposed treatment plan turns, in my view, on whether, when the application was brought,JM had made a decision to refuse to consent to the proposed treatment plan for HM. Section37(1) does not specify that the determination of the CCB on a Form G application must, in allcases, be restricted to a determination of whether the SDM at the date the application was madedid not comply with s. 21 of the HCCA. If JM, when she was SDM for HM, had refusedtreatment on behalf of HM that did not comply with s. 21 then, in my view, under the HCCA, itwould be open to the CCB to conclude on a Form G application, even one brought when JM wasno longer the SDM for HM, that it had jurisdiction to decide the Form G application as it did.
+
+[57] Although JM was not the SDM when the application was brought, she was added as aparty to the Form G application with all of the rights of a party, and she exercised these rightsduring the course of the hearing. There was no objection by JM to proceeding with the Form G
+application and the Form C application together when this procedural decision was made. Itwould have been apparent to the parties from the time that this procedural decision was madethat one possible outcome could be that the CCB could decide, as it did, that (i) JM be restoredas SDM for HM, (ii) there was a decision taken by JM and, when he became the SDM for HM,followed by RM, that was not in compliance with s. 21 of the HCCA, and (iii) because of thisnon-compliance, JM be ordered to consent to the proposed treatment plan.
+
+[58] The procedural decision taken by the CCB to add JM as a party was, in my view, one thatallowed JM full rights to participate in the hearing at which the question of whether thewithdrawal of life supports for HM was in his best interests was central. Counsel for Dr. Devemphasized in her submissions that HM is the person at the centre of the CCB hearing and thisappeal, that it is his interests that the CCB was required to consider, and that I should keep HM’sinterests in the forefront of my mind on this appeal.
+
+[59] Counsel for JM submitted at the hearing of this appeal that, if the CCB lacked jurisdictionbecause no decision had been made by JM to refuse consent to the proposed treatment on behalfof HM that could be the subject of a Form G application, no steps taken by or on behalf of JM toaccept the procedural decision made by the CCB to hear the two applications together could
+
+operate to confer jurisdiction on the CCB. I accept this submission but, in my view, the questionthat JM identifies as one of jurisdiction and, therefore, one of law, is not properly identified assuch. This is because whether the CCB had jurisdiction would depend on the factualdetermination of whether, before the Form G application was brought, JM made a decision torefuse to consent to the proposed treatment plan on behalf of HM. This, in turn, would depend onthe factual determination of whether JM understood the requirements of s. 21 of the HCCA
+before she was asked to consent, or refuse to consent, to the proposed treatment. These factualdeterminations would have to be made based upon the evidence tendered at the CCB hearing,including the evidence in relation to actions taken by the medical team at Sunnybrook toaccommodate for JM’s deafness and significant visual impairment.
+
+[60] Counsel for JM referenced in her submissions on the appeal an exchange with thepresiding member of the CCB in closing submissions at the hearing that, counsel submits, was anacknowledgment that there was no “current treatment decision” from JM that was necessary toform the jurisdictional foundation for an order against JM on the Form G application. Theexchange concerned the submission made that JM ought to be given an opportunity to fulfill therole of SDM and give or refuse consent to the proposed treatment. The presiding memberacknowledged in comments made during closing submissions that it was a mistake to haveconducted the Form C application and the Form G application together and that, if she wasbeginning again, she would have separated the applications.
+
+[61] In its Reasons for Decision, the CCB specifically addressed the decision to proceed withboth applications together and concluded that it was not unjust to have proceeded with the twoapplications together, and the CCB gave reasons for this conclusion that are quoted above (para.
+33). The CCB squarely confronted the circumstance that would have arisen if, having found thatHM’s best interests are served by withdrawal of life supports, the CCB did not make a decisiondirecting JM as the SDM for HM to consent to the proposed treatment plan. The CCB observedthat if it did not do so, and if JM then refused to consent to the proposed treatment, this wouldnecessitate a new hearing and significant additional delay which would not only be
+“unconscionable towards the treatment team, but more importantly to HM, who would have anindefinite delay in having his best interests respected”.
+
+[62] I do not regard the comments of the presiding member of the CCB during closingsubmissions to constitute an acknowledgment of any lack of jurisdiction of the CCB to make thedecision that was made. The CCB’s procedural decisions concerning how the applications wouldproceed were made having regard to the nature of the applications, where the entire treatmentteam supported the proposed treatment plan as one that would mercifully end HM’s suffering,thus improving his well-being. At the same time, the interests of JM, who wished to be restoredas SDM for HM, were before the CCB on the Form C application. The CCB acted reasonably toreconcile the interests of the treatment team and those of JM, in the context of proceedingsinvolving the primary interests of HM, by giving JM party status on the Form G application andby having the two applications heard together.
+
+[63] The HCCA itself recognizes the importance of achieving finality in respect of decisionsdirected to the best interests of incapable persons without delay. Under the HCCA, the hearing ofan application shall begin within seven days after the CCB receives the application and the CCB
+
+[64] I therefore conclude that the question of whether the CCB exceeded its jurisdiction bydirecting JM to comply with the proposed treatment involving withdrawal of life supports is oneof mixed fact and law and that the standard of review is reasonableness.
+Was the CCB’s decision that JM’s communications disabilities were sufficientlyaccommodated reasonable?
+
+[65] JM submits that the CCB erred in determining that JM had received adequateaccommodation for her deafness and near blindness. Counsel submits that the evidence was clearthat JM was never properly accommodated by the treatment team, and that resources, such asCNIB intervenors (who participated at the CCB hearing), were never requested. HM provideddetailed submissions concerning the evidence at the hearing in relation to the October meetingsand the steps taken by the treatment team to communicate with JM. JM submits, among otherthings, that the evidence shows that intervenors for deaf-blind persons were never utilized by theSunnybrook team when communicating with JM, that notes showing communications with JM
+(by her daughter at one meeting, by a social worker at another meeting and by Dr. Rubenfeld atthe third meeting) were not available at the hearing, and that no treatment plan was offered at themeetings.
+
+[66] JM also made submissions concerning the duty of medical practitioners to obtaininformed consent from persons with communication related disabilities and the professional andlegal duties of medical practitioners in such circumstances to provide adequate accommodationto a person with a communications related disability in a manner that respects the dignity andautonomy of the person. JM submits that, while accommodation does not need to be perfect,appropriate accommodation is one that most responds to a person’s individualized needs andallows for full participation, and that the fact that a person with disabilities may not request aparticular accommodation does not obviate the duty to accommodate.
+
+[67] Counsel for Dr. Dev submits that the evidence of Dr. Dev was that the treatment teamtried to mirror JM’s regular forms of communication, and that she described the various stepsthat the clinical team took to ensure that JM understood the medical information they wererelaying. Information would be written out using a black marker on white paper in large font. Dr.Dev described CPR as “press the chest” and acted it out. During meetings with JM, the clinicalteam would ask questions repeatedly and ask JM to confirm her understanding. RM
+acknowledged in his testimony that the clinical team had never refused an accommodationrequest made by JM or the family. The CCB also found that there was no request foraccommodation that had been refused by Sunnybrook, and that neither JM nor any other familymember complained to Sunnybrook that JM was not being properly accommodated. Dr. Devsubmits that Sunnybrook cannot be faulted for not employing the strategies put into place at theCCB hearing (after an assessment process that took close to 1.5 months to complete) involving
+
+is required to render its decision within one day after the hearing ends with reasons, if requested,to be issued within four business days after the request: HCCB, s. 75. These time periods werenot followed by the CCB because of the need to ensure fairness for all parties involved,including by ensuring that accommodation was made at the hearing for JM’s deafness andsignificant visual impairment.
+
+[68] I have considered the submissions of counsel concerning the evidence at the CCB hearingas well as the findings made by the CCB and recorded in the Reasons for Decision according tothe approach directed in the majority decision of Major J. in Starson, one that involves respectfulattention, but not submission, to the decision of the CCB. The CCB is a specialized experttribunal that has heard the evidence and is better able to make a finding on this question than is areviewing court. The CCB gave reasons for its finding that show careful consideration of theevidence. I have concluded that the finding by the CCB that the accommodations provided by thestaff at Sunnybrook were sufficient for the purpose of communicating HM’s treatment needs andbest interests is one that is well within the range of findings that could reasonably have beenmade and that this finding stands up to a somewhat probing examination. This finding is oweddeference.
+Was the CCB’s decision that JM made a decision to require full life support interventionfor HM (and to refuse to consent to the proposed treatment) reasonable ?
+
+[69] The CCB found that from the start of HM’s admission it had been understood by theentire treatment team that JM’s standing instructions were to do everything to keep HM alive.
+The CCB addressed in considerable detail in the Reasons for Decision the evidence concerningthree meetings held on October 4, 7 and 13, 2016. The meetings on October 4 and 7 wereattended by Dr. Amaral with JM, one of her daughters, and RM (by telephone). The October 13,2016 meeting was attended by Dr. Rubenfeld and by JM, along with a social worker, the hospitalethicist, and a chaplain. JM’s children were notified of the meeting, but none elected to attend.
+The CCB found that the treatment plan was explained to JM at these meetings, to which JM
+refused to consent, leading to her removal as SDM.
+
+[70] JM submits that the CCB found that her capacity with respect to HM’s treatment plan hadnot been assessed and that such an assessment would necessarily require that all materialinformation about HM’s condition and treatment options had been explained to JM. JM submitsthat Dr. Dev took the position at the hearing that JM was either incapable, unwilling orunavailable to make a treatment decision and, therefore, no decision had been made by JM thatthe CCB could review on the Form G application.
+
+[71] I do not accept this submission. The CCB found that there was never a proper capacityassessment and that there was never a valid finding of JM’s incapacity. The CCB found that theevidence did not establish that JM was not capable with respect to any of HM’s treatment. Thefact that JM’s capacity with respect to HM’s treatment plan was not assessed does not lead to theconclusion that no decision was made by JM that the CCB could review on the Form G
+application. The CCB found that JM did not, on the evidence, lack capacity, and went on to findthat JM’s standing instructions, before and after the October meetings, were to do everything tokeep HM alive and to refuse to consent to the proposed withdrawal of life supports. In my view,there is no inconsistency between these two findings.
+
+specially trained intervenors and the use of a computer with large font. There was testimony atthe hearing that a witness from CNIB had acknowledged that, in her 17 years of work at CNIB,she has never been contacted by physicians to assist with communicating with a SDM.
+
+[73] I do not accept this submission. The CCB referred to testimony from RM in which hesaid that he only wanted to follow his father’s wishes, which were the same as his mother’swishes. The CCB found that throughout his time as SDM, RM’s direction to the treatment teamhad not varied from JM’s earlier decision to insist on full life support. Counsel for Dr. Devreferenced other evidence in which RM said that his mother should be the substitute decisionmaker, and that he would do what his mother wants him to do. Dr. Dev also gave evidence thatRM was adamant that his mother be the decision maker and that these decisions go to his mother.
+In my view, it is fully open to the CCB to find that JM’s standing orders were to insist upon fulllife support for HM, and that RM, upon becoming SDM for HM, followed his mother’s wishes.
+
+[74] In addition to the evidence concerning the October meetings, there was evidence that JM
+signed a letter dated October 21, 2016 to the treatment team. This letter followed a letter datedOctober 20, 2016 written by Dr. Dev to JM and her children that stated that JM lacked capacityto be the SDM for HM. The October 21, 2016 letter signed by JM reads, in part, as follows:
+I am the power of attorney for my husband. I clearly understand my husband’scondition. I simply want to make the decision that my husband would make if hewas able. He had a conversation with my daughter, Donna, in which hecommunicated what his wishes were in just such a situation a little while back.
+I believe the decision that my husband would make if he was able to would be todo a Full Code. As a result, that is my decision for treatment.
+The evidence at the CCB hearing was that this letter was written with the assistance of RM. Hisevidence at the hearing was that he and his mother agreed to send the letter, and that she told himwhat she wanted. He testified that her wishes were to “do everything”, so he said he would putthat in a letter. His mother read the letter with her magnifying glass and she said “it’s good” andshe signed it. RM’s evidence was that he felt that she was able to understand the letter that shesigned.
+
+[75] Counsel for JM referred to other evidence from Sunnybrook staff to the effect that theysuspected that JM did not write or understand the contents of the letter, and they never asked herabout it, acknowledging at the hearing that “that’s not fair to Mrs. Murray” and “we could havedone better”. Counsel for JM submits that this letter would have provided instructions limited toHM’s medical condition at the time the letter was signed, and that JM’s knowledge would havebeen limited by the lack of information shared with her by the treatment team and by the lack ofaccommodation.
+
+[76] However, the CCB found that the instructions in the October 21, 2016 letter were “clearand unmistakeable”. This finding is reasonable.
+
+[72] Counsel for JM submits that the CCB resolved the dilemma presented by the absence of adecision by JM to refuse to consent to the proposed treatment by determining that RM was actingas his mother’s “proxy”. Counsel submits that this finding was not available to the CCB in lawand was unsupported by the evidence.
+
+[77] The CCB found that the treatment team, in the October meetings, felt the urgent need tocome to a decision on the proposed treatment for HM. The CCB found that a decision wasalready in place when those meetings were held, and that what the treatment team was asking ofJM was to change her decision, based upon the new circumstances that differed from those whenHM was first admitted. The CCB found that JM was not unwilling to make a decision - she hadexpressed her decision repeatedly up to October 13.
+
+[78] In my view, CCB’s finding that JM made a decision while she was still the SDM for HM
+to require full life support for HM also falls well within the range of findings that couldreasonably have been made. This finding is owed deference.
+Did the CCB unreasonably weigh the evidence in determining that cessation of lifesupports was in HM’s best interests?
+
+[79] JM, through counsel, submits that the CCB’s decision that cessation of life supports andpalliative treatments were in HM’s best interests was unreasonable. Counsel submits that thewithdrawal of life support would likely end HM’s life, and this might be a painful processdespite palliative care, and the duration of the dying process could not be accurately predicted.
+She submits that there was evidence that HM had a chance, albeit a small one, of awakeningfrom the coma and that RM noted that persons with disabilities are still “useful” and have livesof value.
+
+[80] Dr. Dev, through counsel, submits that the CCB’s decision that HM’s SDM did notcomply with s. 21 of the HCCA by acting in HM’s best interests with respect to the proposedwithdrawal of life supports is reasonable and is entitled to deference. She submits that the CCB’sweighing of the factors set out in s. 21(2) falls within its jurisdiction and is entitled to deference.
+Counsel submits that Dr. Dev testified for hours about the serious complications that HM hassuffered during his hospital admission and the grim prognosis he faces, and that the evidencepresented at the hearing amply supported the decision made by the CCB.
+
+[81] In its Reasons for Decision, the CCB described the factors that it weighed in deciding thatJM and RM had made treatment decisions that were not in accordance with HM’s best interests.
+It is clear from these reasons that the CCB well understood the emotional turmoil that wasexperienced by HM’s family members in these difficult circumstances. Nevertheless, the CCB
+correctly wrote that its obligation under the HCCA was to weigh all of the factors and make adecision that is objectively in the best interests of the incapable person, not a decision based onwhat the SDM wants for the incapable person, citing Cuthbertson v. Rasouli, 2013 SCC 53
+[82] The CCB addressed all of the relevant factors, and its decision that JM and RM madedecisions that were not in accordance with HM’s best interests, objectively determined, isreasonable, and entitled to deference.
+Disposition
+
+[83]
+
+JM’s appeal is therefore dismissed.
+
+[84] At the conclusion of the hearing of this appeal, counsel for JM submitted that, if theappeal were to be dismissed, JM, given her communications disabilities, would need more thanthe three day period of time requested by Dr. Dev for withdrawal of life support for HM in orderfor JM to fairly and fully receive and review the appeal decision as well as for her children, threeof whom live far away, to receive and review it. When the decision of the CCB was made onMarch 10, 2017, the CCB required compliance with its directions by March 19, 2017, nine dayslater. Counsel for JM submitted that an equal period of nine days should be given for compliancewith the CCB’s directions in the event that the appeal is dismissed.
+
+[85] Counsel for Dr. Dev submitted that, if the appeal were to be dismissed, the direction ofthe CCB to JM to consent to the treatment plan the proposed involving withdrawal of lifesupports should be complied with quickly. Counsel for Dr. Dev pointed to the length of time thatHM had been in a comatose state and suffering from an upsetting list of complications. Shesubmitted that HM should not be forced to continue in this state any longer, and that the periodof time for compliance with the directions of the CCB should be no more than a few days.
+
+[86] In the circumstances, I will grant the timing accommodation requested by JM for thesame reasons as were expressed by the CCB. This additional time will allow counsel for JM toexplain the decision to her with appropriate accommodations in place, and it will allow familymembers to gather from across the country if they so wish. JM is directed to comply with thedirections given by the CCB in its March 10, 2017 Decision by 5:00 p.m. on May 24, 2017 If JM
+does not comply with such directions by this date and time, she shall be deemed not to meet therequirements for substitute decision making as they are set out in section 20(2) of the HCCA.
+
+[87]
+
+I may be spoken to concerning costs, if necessary.
+
+Mr. Justice P.J. CavanaghReleased: May 15, 2017
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+JOAN MURRAY
+Respondent(Appellant)
+– and –
+DR. SHELLY DEV
+Applicant (Respondent in Appeal)
+– and –
+ROBERT MURRAY
+Respondent(Respondent in Appeal)
+– and –
+HORACE FORD HECTOR MURRAY
+(Respondent(Respondent in Appeal)
+REASONS FOR JUDGMENT
+Mr. Justice P.J. CavanaghReleased: May 15, 2017
+
+CITATION: Murray v. Dev, 2017 ONSC 2966
+COURT FILE NO.: CV-17-572033
+DATE: 20170515
+

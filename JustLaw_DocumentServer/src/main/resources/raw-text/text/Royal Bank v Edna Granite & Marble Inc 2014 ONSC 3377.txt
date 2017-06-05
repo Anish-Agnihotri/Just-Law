@@ -1,0 +1,108 @@
+CITATION: Royal Bank v. Edna Granite & Marble Inc., 2014 ONSC 3377
+COURT FILE NO.: CV-16-553987
+DATE: 20170531
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+Royal Bank of Canada
+Plaintiff )
+– and –
+Edna Granite & Marble Inc., Saman )
+Wickramasinghe and Anita Linthotage aka )
+Anita Wickramasinghe
+Defendant )
+
+Natali Marconi, for the Plaintiff
+
+ChandralalDefendant
+
+Handapangoda,
+
+for
+
+the
+
+HEARD: May 31, 2017
+
+E.M. MORGAN J.:
+
+[1]
+The Royal Bank of Canada (the “Bank”) brings this action on an amount owing under aloan and guarantee on which the Defendants have defaulted.
+
+[2]
+The borrower is the Defendant, Edna Granite & Marble Inc. (“Edna”), who borrowed
+$158,100.00 with interest at the rate of prime plus 3% per annum under a loan agreement datedMay 29, 2013 (the “Loan Agreement”). Edna was to make monthly instalment payments in theamount of $2,402.04. Under the terms of the Loan Agreement, if any instalment remains unpaidafter the date on which it became due, the whole of the principal and accrued interest becomesdue and payable at the option of the Bank.
+
+[3]
+Edna’s loan was guaranteed by the Defendants, Saman Wickramasinghe and AnitaLinthotage aka Anita Wickramasinghe (the “Guarantors”) under a Guarantee Agreement datedJune 13, 2013. The loan to Edna was a government guaranteed loan, which required a personalguarantee for 25% of the loan. The Guarantors’ liability under the Guarantee Agreement wastherefore limited to $39,525.00.
+
+[5]
+On March 23, 2014, the solicitor for the Defendants sent a letter to the Bank proposing anarrangement whereby the Defendants would pay $500 per month for a year. The Bank did notrespond in writing to this proposal, but in a series of telephone calls the collection officers for theBank acknowledged that the Defendants had made this proposal and insisted that after a year thepayment schedule would have to be revised.
+
+[6]
+The conversations between the Bank’s collection officers and the Defendants werememorialized in a series of notes to file written by the collection officers. Unfortunately, thecollection officers were extremely abbreviated and cryptic in the way they composed these notes.
+Reading them, I cannot help but wonder what they thought they were accomplishing by writingnotes to file in this way. They certainly did themselves and their employer no favor by saving theextra 5 minutes it might have taken to use full sentences so that a subsequent reader of their notesmight have a chance of following their train of thought. I can only say that if their telephoneconversations with the Defendants were as difficult to follow as their written notes, it is littlewonder that the Defendants thought that the Bank had agreed to something to which the Bankinsists it did not agree.
+
+[7]
+In any case, it turns out that the Defendants did provide a series of post-dated cheques for
+$500 each, but that some of those cheques were returned for non-sufficient funds (“NSF”).
+Accordingly, counsel for the Bank submits, correctly, that even if the Bank is taken to haveagreed to forebear on collecting the debt owed to it as proposed by the solicitor for theDefendants, the Defendants ultimately defaulted on their own proposed agreement. The firstdefault occurred when the cheque dated August 1, 2014 was returned NSF, and another defaultoccurred when a cheque dated October 1, 2014 was likewise returned NSF. Neither of thesecheques were replaced by the Defendants. A number of other defaults ensued after these two.
+
+[8]
+Counsel for the Defendants points out that the cheques delivered to the Bank under thisforbearance arrangement were issued not by Edna but by the Guarantors. Although the lastpayment made by the Guarantors was in May 2016, the last payment on the loan actually madeby Edna itself was in November 2013. The Statement of Claim in this action was issued in June2016; accordingly, counsel for the Defendants argues that the Bank is out of time, having waitedmore than 2 years from the date of the actual lender’s (i.e. Edna’s) default.
+
+[9]
+I must say that I admire counsel for the Defendants’ ingenuity in fashioning thisargument, although I think he is incorrect as a matter of law. Whether the Guarantors or theprinciple debtor make the payments, the payments are made to the credit of the loan. As counselfor the Bank points out, the Guarantors and Edna would not be very happy if the Bankconsidered the two of them to be unrelated, and accepted payments from the Guarantors withoutcrediting Edna’s loan account in respect of those payments.
+
+[4]
+Edna has failed to pay regular monthly instalments. The Bank sent a demand letter inrespect of the default on May 8, 2014.
+
+[10] Furthermore, counsel for the Bank also observes that the cheques signed by theGuarantors and payable to the Bank specifically note that the amounts are being paid in respectof Edna’s loan account. As the Bank’s counsel puts it, it does not matter whether the payments tothe Bank in respect of Edna’s loan are made “by the borrower, by the Guarantors, or by SantaClaus”, the payments are made on account of the borrower’s outstanding debt to the Bank andare credited as such. Since the Guarantors and Edna’s last payments to the Bank were only amonth before the Statement of Claim was issued, the Bank cannot be said to be out of time inbringing this action.
+
+[11] The Defendants have brought a Counterclaim against the Bank alleging, among otherthings, that the Bank failed to act in good faith and failed to take action required to help theDefendants mitigate their losses. There is no evidence in the Record to support any cause ofaction pleaded in the Counterclaim. The Counterclaim is therefore dismissed.
+
+[12] The Record before me establishes that Edna’s indebtedness to the Bank under the LoanAgreement is currently in the amount of $58,561.47. The Guarantors’ indebtedness to the Bankunder the Guarantee Agreement stands at $29,025.00. This latter amount takes into account anagreement by the Bank to waive interest to date on the amount owed by the Guarantors.
+
+[13] Accordingly, Edna shall pay the Bank $58,561.47 and the Guarantors shall pay the Bank
+$29,025.00. Any amount paid by the Guarantors will serve to reduce by an equivalent amountthe amount that Edna must pay the Bank.
+
+[14] Counsel for the Bank has submitted a Bill of Costs in which she seeks a total of
+$16,514.09. She submits that the Bank is entitled under the terms of the Loan Agreement and theGuarantee Agreement to complete indemnity for its legal costs, and is not limited to the usualpartial indemnity or substantial indemnity scales used by the courts.
+
+[15] In response, counsel for the Defendants indicates that his clients are suffering financialhardship and cannot afford costs at this level. He asks me to use my discretion to lower the costsaward to a more affordable amount.
+
+[16] It is certainly true that costs are discretionary under section 131 of the Courts of JusticeAct, and that Rule 57.01 of the Rules of Civil Procedure provides a series of factors to be usedfor guidance in exercising this discretion. That said, the costs sought by the Bank here arepayable as a matter of contract, not as a matter of judicial discretion.
+
+[17] The Loan Agreement provides that, “The Borrower agrees to pay the Bank allfees…(including legal fees), costs and expenses incurred by the Bank in connection with…theenforcement or termination of this Agreement and the Security.” Similarly, paragraph 12 of theGuarantee Agreement specifically states that the Guarantors are “liable to the Bank for all legalcosts (on a solicitor and own client basis) incurred by or on behalf of the Bank resulting from anyaction instituted on the basis of this guarantee.” These contractual clauses with respect to fullpayment of the Bank’s legal expenses are enforceable in the same way as the rest of the Loan
+
+[18] The Defendants shall pay the Bank $16,514.09 in costs, inclusive of fees, disbursements,and HST. For greater certainty, this liability for costs is owed to the Bank jointly and severallyby Edna and the Guarantors.
+
+[19] Post-judgment interest on any of the above amounts is payable at different rates under thetwo agreements. Counsel for the Bank has agreed that post-judgment interest on any amountsowed by any of the Defendants can be limited to 2% per annum, which is lower than in both ofthe relevant agreements.
+
+[20]
+me.
+
+There shall be a Judgment to go as submitted by counsel for the Bank and as amended by
+
+Morgan J.
+
+Released: May 31, 2017
+
+Agreement and Guarantee Agreement are enforceable. They are not a matter for judicialdiscretion in the way that court ordered costs typically are characterized.
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+Royal Bank of CanadaPlaintiff
+– and –
+Edna Granite & Marble Inc., Saman Wickramasingheand Anita Linthotage aka Anita WickramasingheDefendantREASONS FOR JUDGMENT
+Morgan J.
+
+Released: May 31, 2017
+
+CITATION: Royal Bank v. Edna Granite & Marble Inc., 2014 ONSC 3377
+COURT FILE NO.: CV-16-553987
+DATE: 2017053
+

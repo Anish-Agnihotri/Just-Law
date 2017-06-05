@@ -1,0 +1,138 @@
+SUPERIOR COURT OF JUSTICE - ONTARIO
+RE:
+
+CIT Financial Ltd.
+AND:
+Canadian Imperial Bank of Commerce, Orix Financial Corporation, The CanadaLife Assurance Company and Ontario Teachers’ Pension Plan Board
+
+BEFORE:
+
+Madam Justice J. T. Akbarali.
+
+COUNSEL: John Chapman, Peter Wardle, Craig A. Mills, Baktash Waseil, for the PlaintiffDavid Byers, Daniel Murdoch, for the Defendant C.I.B.C,Kenneth A. Dekker, for the Defendant Orix Financial CorporationMyriam Seers, Vitali Berditchevski, for the Defendant The Canada LifeAssurance CompanyGeorge J. Karayannides, Daniel Zacks, for the Defendant Ontario Teachers’
+Pension Plan BoardHEARD:
+
+By Written SubmissionsENDORSEMENT
+
+Overview
+
+[1]
+In 1997, under a share purchase agreement, Newcourt Credit Group Inc. purchased fromthe defendants1 all the shares of Commcorp Financial Services Inc. The plaintiff, CIT FinancialLtd., is the corporate successor to Newcourt and Commcorp.
+
+[2]
+CIT brought this action seeking significant damages from the defendants – at times, up to
+$330 million and never lower than $100 million – alleging that it was entitled to indemnity under
+
+1
+
+A small number of shares were purchased from individual management shareholders who are notdefendants to this action.
+
+CITATION: CIT Financial Ltd. v. Canadian Imperial Bank of Commerce et al.,2017 ONSC 2750
+COURT FILE NO.: CV-04-279543
+DATE: 20170511
+
+- Page 2 -
+
+[3]
+On January 3, 2017 I granted the defendants’ motion for summary judgment on the basisthat CIT’s action was statute-barred. I found that CIT knew the material facts on which its claimwas based by July 27, 1998, more than six years before the claim was commenced on November24, 2004.
+
+[4]
+I also granted partial summary judgment to the defendants, dismissing CIT’s claim fordamages for loss of use of funds at anything other than the prime rate, which was the rate theparties contractually agreed would apply to damages or indemnification arising under the sharepurchase agreement: 2017 ONSC 38.
+
+[5]
+The parties agreed on costs of the summary judgment motion but could not agree on costsof the action. These reasons address the costs of the action.
+The Defendants’ Costs
+
+[6]
+The defendants seek costs on a partial indemnity scale. Collectively, this amounts to
+$1,706,147.92 in legal fees and $1,262,668,68 in experts’ fees and disbursements, for a total of
+$2,968,816.60.
+
+[7]
+Fixing costs is a discretionary decision under s. 131 of the Courts of Justice Act, R.S.O.
+1990, c. C.43. The discretion must be exercised in accordance with the factors set out in r.
+[8]
+The defendants’ claims for legal fees represent 60% of the actual fees charged, consistentwith the decision of the Court of Appeal in Inter-Leasing Inc. v. Ontario (Minister of Revenue),2014 ONCA 683 at para. 5, 2014 CarswellOnt 13697. CIT agrees this is an appropriate measureby which to calculate partial indemnity costs.
+
+[9]
+In support of their claim for costs, the defendants make the following arguments havingregard to the factors set out in r. 57.01(1):
+a. They were wholly successful in obtaining the dismissal of CIT’s actionsummarily;b. CIT reasonably would have expected a significant costs award in an amountcomparable to what is sought;c. Although the defendants coordinated their efforts where possible, including byjointly preparing materials and jointly retaining experts, given the amounts at
+
+the share purchase agreement for breach of warranty and misrepresentation relating to aninaccurate and misleading tax representation given by the defendants.
+
+- Page 3 issue, each defendant reasonably expected the involvement of its own counsel onmotions and examinations;
+
+e. The proceeding was complex. It considered events that spanned nearly twodecades and thus it took considerable time and effort to assemble and reviewproductions and conduct discoveries.
+f.
+
+The tax issues involved in the proceeding were particularly complex and requiredexperts to address. These complex tax issues included CIT’s claim for damages,and in particular, its claim for loss of use of funds that was summarily dismissedon the motion. The experts played an active role throughout the litigation,including attending at portions of the discoveries and assisting at mediation;
+
+g. The issues raised in the proceeding were important, given the substantial damagesclaimed; andh. The claim for loss of use of funds over and above the contractual rate of interestshould never have been brought.
+
+[10] CIT does not dispute these arguments, and it acknowledges the complexity of thelitigation. It raises other issues with respect to costs which I address below. I accept that thedefendants’ arguments support the costs they claim.
+Should costs be reduced because the motion should have been brought earlier?
+
+[11] CIT argues that the summary judgment motion based on the limitation period shouldhave been brought long ago. It argues that it was advised in late 2013 that the defendants wereconsidering amending their defences to assert a limitation argument, but nothing was done infurtherance of the issue until December 2015. CIT argues the defendants likely knew of thepotential limitations argument earlier than 2013. CIT argues that had the motion been brought ina timely manner, the vast majority of the partial indemnity costs claimed would not have beenincurred. It argues that it is not fair and reasonable that it should be required to pay these costs,which should never have been incurred.
+
+[12] The defendants argue that CIT’s discovery evidence was key to determining whether topursue summary judgment on both, the limitations defence and the loss of use of funds claim.
+They state that, while the threshold for summary judgment has changed in recent years, therequirement that parties lead trump or risk losing remains the same. In effect, they argue theywere entitled to complete discoveries to ensure the court would have a full appreciation of theissues and evidence to make dispositive findings on the summary judgment motion.
+
+[13] In my reasons on the merits, I noted that it would have been preferable for this motion tohave been brought earlier. That statement was a reference to the timing of the motion in relation
+
+d. The defendants handled the matter efficiently, avoiding duplication and allocatingwork between partners and associates based on experience;
+
+- Page 4 -
+
+[14] CIT relies on case law in which successful defendants are denied costs where they havenot been diligent in bringing forward their defences2 . In most of the cases on which CIT relies,the defendants did not advance clear statutory defences until late in the action, or during or aftertrial. While I accept that a court can deny costs on this basis, whether a defendant has been dulydiligent must be considered in the context of the action at issue, both in terms of its stage at thetime the defence is asserted or moved upon, and the claims that are alleged. In this case, I do notaccept that the defendants were not duly diligent in advancing their limitation defence.
+
+[15] This was complex, high-stakes litigation between sophisticated parties, all of whom wererepresented by capable counsel. The defendants raised the limitation period issue before CIT’sexamination for discovery. In my view, the defendants were entitled to choose to advance theirmotion after the conclusion of oral discoveries, both to ensure that the record on the limitationsissue was complete, and to bring the summary judgment motion on that issue together with themotion for summary dismissal of CIT’s claim for loss of use of funds, which also requireddiscoveries and the involvement of experts in order to be brought on a complete record.
+
+[16] The defendants relied on and referenced excerpts from written interrogatories, answers toundertakings and discovery transcripts in the motion, in respect of both the limitations argumentand CIT’s claim for loss of use of funds. The defendants were entitled to develop their argumentson the issues through discoveries in order to bring their summary judgment motion on a recordthey could be confident was complete. In my view, CIT would have reasonably expected thedefendants to defend the action thoroughly.
+
+[17] It was also reasonable for the defendants to choose to bring one summary judgmentmotion that addressed both issues. The defendants could not have known they would besuccessful on the limitations argument. It would have been inefficient to bifurcate the summaryjudgment motion to bring a motion dealing with the loss of use of funds claim separately if thelimitations argument did not succeed. I thus decline to reduce the defendants’ costs for failing tobring the motion earlier.
+Should the experts’ fees be reduced?
+
+[18] In the alternative, CIT argues that the defendants’ experts’ fees should be reduced. Thedefendants retained two experts: Zeifmans LLP, whose fees total $801,632.56, and Duff &
+Phelps, whose fees total $350,785.04.
+
+2
+S.C.); Hartford v. Langdon Coach, 1975 CanLII 678 (Ont. S.C.); Babineau v. Babineau, 1981 CanLII 1806 (Ont.
+to the trial, then scheduled for May 2017. It was not a statement that the summary judgmentmotion should have been brought before examinations for discovery.
+
+[19] CIT argues that much of the fees charged by Zeifmans relate to going throughcalculations done by BDO, which I assume was CIT’s expert or advisor, after BDO had gonethrough a laborious and largely mechanical process to generate the calculations. CIT argues thatit volunteered to have BDO meet with the defendants’ experts to go through these matters indetail to avoid reinventing the wheel, but those offers were rejected. CIT proposes, withoutgreater specificity, that “the great bulk” of Zeifmans’ fees should be disallowed.
+
+[20] Duff & Phelps was involved with the loss of use of funds issue. CIT agrees that was acomplex issue and there would still have been significant fees even if Duff & Phelps had agreedto meet with BDO. As a result, it proposes the reduction of Duff & Phelps’ fees by 50%.
+
+[21] In reply, the defendants rely on Smith Estate v. Rotstein to argue that, CIT having failedto file its own bill of costs, I can infer that the fees paid to its own expert approximate or exceedthose incurred by the defendants. They also point to CIT’s claim in the action for $2.9 million forits costs of resolving the tax liabilities with Revenue Canada. They argue this is evidence as tothe complexity of the tax and accounting issues raised in the action. They argue that the expertfees they incurred were only a fraction of CIT’s costs to address virtually the same issues.
+
+[22] Notably, the defendants do not respond to the thrust of CIT’s complaint with their expertfees - that the fees could have been avoided in large measure through cooperation with BDO.
+
+[23] On this argument, whether CIT’s own experts’ fees are similar to the defendants’ experts’
+fees is irrelevant. Someone had to run the calculations. The point is that BDO and Zeifmans didnot both need to run the calculations. I can see no reason, and the defendants have given noreason, why co-operation between the experts would not have been reasonable or feasible.
+Accordingly, I find that Zeifmans’ fees should be allowed on a substantially reduced rate toreflect its duplication of BDO’s work. I allow one third of the claimed fees, totaling $264,538.74,in respect of Zeifmans’ fees.
+
+[24] Duff & Phelps was involved in the loss of use of funds claim, which was bothcomplicated and changing. CIT has admitted that significant fees would still have resulted, evenif Duff & Phelps had met with BDO. The defendants did not answer CIT’s proposed 50%
+discount of Duff & Phelps’ fees on the basis that the fees were unnecessary given BDO’s work.
+Accordingly, I allow Duff & Phelps’ fees to be recovered at the rate of 50%, totaling
+$175,392.52.
+Conclusion
+
+[25] The costs claimed in this action are significant, but they are less than 3% of the lowest ofCIT’s claims for damages. They are reasonable in view of the stakes of this litigation.
+
+[26]
+
+Accordingly, CIT owes the defendants the legal fees they have claimed as follows:
+a. CIBC - $576,579.20
+b. Orix Financial Corporation - $331,983.16
+
+- Page 5 -
+
+- Page 6 c. Ontario Teachers’ Pension Plan Board - $412,702.18
+
+[27] In addition, CIT owes the defendants the disbursements they have claimed, subject to thereductions I have ordered in expert fees charged by Zeifmans and Duff & Phelps. The materialfiled does not allow me to identify how that fee reduction should be reflected in thedisbursements claimed by the individual defendants. The total disbursements, including experts’
+fees, for which CIT is responsible are $550,182.34. The defendants should be able to allocatethose disbursements between them in accordance with the reductions in experts’ fees that I haveordered. If there is any issue, I may be spoken to.
+
+Madam Justice J. T. AkbaraliDate: May 11, 2017
+
+d. The Canada Life Assurance Company - $384,883.38
+

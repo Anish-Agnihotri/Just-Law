@@ -1,0 +1,134 @@
+CITATION: R. v. Gleiser, 2017 ONSC 2858
+COURT FILE NO.: 92/16
+DATE: 20170510
+
+SUMMARY CONVICTION APPEAL
+TORONTO
+BETWEEN:
+HER MAJESTY THE QUEEN
+Appellant )
+– and –
+ERIC GLEISER
+Respondent )
+
+REGION
+
+Danielle Carbonneau, for the Appellant
+
+Mark Halfyard, for the Respondent
+
+HEARD: April 19, 2017
+
+K.P. WRIGHT J.
+Introduction
+
+[1]
+On May 2, 2015, the Respondent was charged with Impaired operation and over 80
+pursuant to sections 253(1)(a) and (b) of the Criminal Code, R.S.C., 1985, c.C-46. Anapplication pursuant to section 11(b) of the Canadian Charter of Rights and Freedoms, Part 1 ofthe Constitution Act, 1982, being Schedule B to the Canada Act 1982 (U.K.) 1982, c.11. washeard in the Ontario Court of Justice. On September 9, 2016, the delay was found to beunreasonable and the charges against the Respondent were stayed.
+
+[2]
+
+The Crown appeals that stay on the basis that:
+(1)
+
+The trial judge erred by not applying the Jordan framework and by shifting theonus to the Respondent when it was the Applicant’s to bear.
+
+(2)
+
+The trial judge erred in his application of the Morin guidelines by failing toconsider the factors relevant to this analysis and improperly attributing the delay.
+
+(3)
+
+The trial judge erred in finding a breach of section 11(b) of the Charter andimposing a stay of proceedings.
+
+SUPERIOR COURT OF JUSTICE
+
+[4]
+The second area of concern for the hearing judge was the four months it took for thebooking and breath videos to be disclosed to the defence. Although there were three interveningdates, the booking and breath videos were not disclosed to the defence until September 1, 2015.
+
+[5]
+On January 14, 2016, the matter was set down for a one day trial. The earliest trial datewas nine months down the road, on October 7, 2016. This nine month delay was the third area ofconcern for the trial judge. It was conceded that none of this nine month delay was attributable tothe defence.
+
+[6]
+There were seven court appearances between September 1 and the setting of the trialdate. These appearances included, a Crown pre-trial, two judicial pre-trials, a potential guiltyplea date, two dates where defence had mis-diarized, and a one week adjournment requested bythe defence.
+Analysis
+
+[7]
+As this is a summary conviction appeal that challenges a section 11(b) ruling, thestandard of review is one of correctness. The hearing judge’s findings of fact are owed deferenceand are only reviewable on a standard of palpable and overriding error.
+R. v. Schertzer, 2009 ONCA 742, 2009 CarswellOnt 6499, at para. 71.
+R. v. Konstantakos, 2014 ONCA, 2014 CarswellOnt 202, 21 at para 5.
+R. v. Jordan, 2016 SCC 27, [2016] 75 S.C.R. 631, at paras. 64 & 91.
+
+[8]
+It was, and is, conceded that this case falls into the category of “transitional cases”
+pursuant to the new Jordan framework for assessing unreasonable delay. The total delay in thiscase was 17 months, one month shy of the Jordan presumptive 18 month ceiling for provincialcourt matters. The dispute about the total attributed delay under the Jordan framework wasnarrow, 14.8 months on the Crown’s calculation and 16 months on the defence’s calculation.
+
+[9]
+There is no dispute that the hearing judge articulated the correct test and factors as set outin Jordan when he said:
+[I]n order to rebut or discharge the burden, the defence must show: (1) it tookmeaningful and sustained effort and steps to expedite the proceedings, and (2) thatthe case took markedly longer than [it] should have.
+
+[10] The main thrust of the Appellant’s argument is that the trial judge reversed the onus andfailed to properly apply the test for transitional cases where the delay is below the 18 monthpresumptive ceiling.
+
+[3]
+The hearing judge identified three major areas of concern that led to the delay in thiscase. The first area of concern was the seven week period between when the Respondent wasarrested (May 2, 2015), and his first appearance (June 29, 2015).
+
+[12] Contextually, it is important to note that this case was argued three weeks after Jordanwas released. The expectations and obligations of defence must be considered in that context.
+The applicable test was set out in Jordan at para. 99:
+The second qualification applies to cases currently in the system in which the totaldelay (minus defence delay) falls below the ceiling. For these cases, the twocriteria – defence initiative and whether the time the case has taken markedlyexceeds what was reasonably required – must also be applied contextually,sensitive to the parties’ reliance on the previous state of the law. Specifically, thedefence need not demonstrate having taken initiative to expedite matters for theperiod of delay preceding this decision. Since defence initiative was not expresslyrequired by the Morin framework, it would be unfair to require it for the period oftime before the release of this decision. However, in close cases, any defenceinitiative during that time would assist the defence in showing that the delaymarkedly exceeds what was reasonably required. The trial judge must also stillconsider action or inaction by the accused that may be inconsistent with a desirefor a timely trial (Morin, at p. 802).
+
+[13] Crown Counsel argues that the action or inaction of the defence is nothing new in theworld of section 11(b) inquires. I agree that the actions of the defence have always formed partof the delay inquiry. In the past, however, those inquiries concentrated on defence complacencyor intentional actions that led to delay. Jordan requires the court to examine what meaningfulsteps the defence took to ensure that a matter is expedited. In my view, Jordan places a new andadditional responsibility on the defence to adopt a positive and proactive approach that did notexist under the Morin framework.
+
+[14] The Appellant submits that the hearing judge placed too much emphasis on the fourmonths it took to disclose the booking and breath video. Further, the hearing judge was in errorwhen he found that the Crown offered no explanation for the delay. It was seven years ago whenTrotter J. in R. v. Farry, 2010 ONSC 2704, 2010 CarswellOnt 2973, discussed the importance oftimely breath room videos and was critical of police complacency in relation to this type ofdisclosure. This is exactly the type of institutional complacency that Jordan is aimed atcorrecting. It was appropriate for the hearing judge to consider it. Moreover, there is no basis tothe suggestion that it represented a shift in onus by the hearing judge.
+
+[15] Much of the Appellant’s argument focuses on the failure of the hearing judge to considerthe positive steps that could have been, but were not, taken by defence. The Appellant submitsthat the defence could have made shorter remands, and made earlier and more urgent complaintsabout the delays in the case. By way of example, the Appellant suggested that in the seven weeks
+
+[11] The Appellant argues that although the trial judge initially stated the correct test, he didnot go on to properly apply it. The Appellant argues that the hearing judge was focused entirelyon the actions of the Crown and failed to consider what the defence could have and should havedone to move the case along more expeditiously.
+
+[16]
+
+I disagree.
+
+[17] In my view, given the transitional nature of the case, the defence was not required todemonstrate that they made positive efforts to move the case forward. It would have been unfairfor the hearing judge to hold the defence to the new standard retroactively. In any event, thehearing judge found that in this case, the defence was proactive in their efforts to move thematter forward with the exception of two occasions when matter was mis-diarized.
+
+[18] With respect to the delay between the charge and the swearing of the information, underthe pre-Jordan jurisprudence it was well established that delay for s. 11(b) purposes commencedfrom the date the information was sworn. Post-Jordan, the approach is less technical and thefocus is on the big picture, adding some flexibility to an otherwise rigid approach. In cases ofsignificant delay between the arrest and the swearing of the information, the date of charge canbe relied upon in calculating delay. In this case, more than three weeks elapsed between the dateof charge and swearing, with no explanation. Accordingly, I find the trial judge’s approach inthis case was not in error.
+
+[19] The Appellant argues that the hearing judge erred in his finding that the Crown did notoffer an explanation for the delay. The Appellant seems to suggest that the role of the Crown,when the delay falls below the presumptive ceiling, is not to be considered by the hearing judge.
+I disagree. The actions or inactions by the Crown provide much needed context in the delayanalysis regardless of which regime is in play. More importantly, Jordan directs at para. 87, thatthe actions of the Crown are to be factored into the reasonable time assessment:
+Next, the defence must show that the time the case has taken markedly exceedsthe reasonable time requirements of the case. The reasonable time requirements ofa case derive from a variety of factors, including the complexity of the case, localconsiderations, and whether the Crown took reasonable steps to expedite theproceedings.
+
+[20] The Appellant submits that the hearing judge failed to make a finding as to the actualperiod of delay. While it is true that the hearing judge did not attach an exact number to theamount of delay, he did find that the delay was between 15 to 16 months. Moreover, he was wellaware of the position of the parties as to the distribution of delay, which was not far apart.
+There is no requirement under the new framework that a hearing judge come up with a specificnumber. Quite the opposite. Jordan encourages courts to adopt a bird’s eye view approach toreasonableness, and that is exactly what was done on this occasion by the hearing judge.
+
+[21] The Appellant argues that the hearing judge erred when he failed to apportion delay inaccordance with the Morin guidelines.
+
+between the arrest and the first court appearance, the defence should have written letters to theCrown to have the date moved forward. She argues that this lack of examination by the hearingjudge into the defence’s actions put him into error.
+
+[22] Again, I disagree. Not only do I find no support for this proposition, I find it to be at oddswith the majority decision in Jordan. The whole point of Jordan was that the Morin frameworkwas broken - it was too complex and too unpredictable. It was predicated on a retrospective,rather than prospective approach that was no longer serving the participants in the criminaljustice system. All that is required of the hearing judge, in transitional cases, is to be alive to theold attribution of delay, but the analysis that follows is to be contextual and flexible andultimately must follow the Jordan approach.
+
+[23] I find no flaw in the analysis or approach of the hearing judge. He engaged in acontextual and flexible analysis as set out in Jordan. He sequentially and methodicallyconsidered what transpired on each court appearance. He was alive to all the issues and at nopoint did he reverse the onus.
+Conclusion
+
+[24] For the aforementioned reasons, I find that the hearing judge applied the correct legalframework and made no error in granting a stay.
+
+[25]
+
+The appeal is dismissed.
+
+K.P. Wright J.
+Released: May 10, 2017
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+HER MAJESTY THE QUEEN
+Appellant
+– and –
+ERIC GLEISER
+RespondentREASONS FOR DECISION
+K.P. WRIGHT, J.
+
+Released: May 10, 2017
+
+CITATION: R. v. Gleiser, 2017 ONSC 2858
+COURT FILE NO.: 92/16
+DATE: 20170510
+

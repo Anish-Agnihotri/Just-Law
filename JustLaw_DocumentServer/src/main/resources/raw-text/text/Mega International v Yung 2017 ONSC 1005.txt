@@ -1,0 +1,223 @@
+SUPERIOR COURT OF JUSTICE - ONTARIO
+RE:
+
+Mega International Commercial Bank (Canada), PlaintiffAND:
+Tony Man Tung Yung (also known as Man Tung Yung) and YvonnePui Ling Lai, DefendantsAND:
+Jimmy K. Sun and Sun Partners, Third Parties
+
+BEFORE: L. A. Pattillo J.
+COUNSEL: M. Scott Martin, for the Moving Parties/Third PartiesChristopher Stanek, for the Respondents/DefendantsHEARD:
+
+February 9, 2017
+ENDORSEMENT
+
+Introduction
+
+[1] This is a motion for summary judgment by the Third Parties, Jimmy K. Sun
+(“Sun”) and Sun & Partners (the “Firm”) dismissing the defendants Tony ManTung Yung (also known as Man Tung Yung) (“Yung”) and Yvonne Pui Ling Lai’s
+(“Lai”) Third Party Claim against them for contribution and indemnity on theground that the limitation period for commencing the Third Party Claim as set outin the Limitations Act, 2002, S.O. 2002, c. 24, Schedule B (the “Act”) has expired.
+
+[2] For the reasons that follow, I allow Sun and the Firm’s motion and dismissthe Third Party Claim. Based on the material filed, I am satisfied that the ThirdParty Claim can be determined by way of summary judgment. Section 18 of theAct sets out an absolute two year limitation period in respect of Yung and Lai’s
+
+CITATION: Mega International v. Yung, 2017 ONSC 1005
+COURT FILE NO.: CV-10-416835-00A1
+DATE: 20170517
+
+Third Party Claim which begins to run from the time the defendants were servedwith the Statement of Claim in the action. As both Lai and Yung were served withthe Statement of Claim more than two years before the Third Party Claim wascommenced, the Third Party Claim was commenced after the limitation period hadexpired and cannot succeed.
+
+[3] I am also of the view, based on the facts which I accept, that the doctrine offraudulent concealment is not applicable and accordingly, it does not operate toextend the limitation period for the Third Party Claim to defeat Sun and the Firm’slimitation defence.
+The Facts
+
+[4] On December 20, 2010, the plaintiff, Mega International Commercial Bank
+(Canada) (the “Bank”) commenced this action against the defendants Tony ManTung Yung (also known as Man Tung Yung) (“Yung”) and Yvonne Pui Ling Lai
+(“Lai”) (the “Action”). The Statement of Claim alleges that both Yung and Laiguaranteed a mortgage held by the Bank on property in Toronto (the “Property”).
+The mortgage went into default in July 2008 and the Bank subsequently sold theProperty on January 15, 2010. After factoring in the sale proceeds, expenses andcosts, there remained an amount of $1,216,101.78 owing on the mortgage. TheBank’s claim is for the shortfall pursuant to the guarantees.
+
+[5] Yung is an experienced property developer in Hong Kong and China. Heresides in Hong Kong and speaks no English. Yung resided in Canada from 1991
+to 1995. The Property was his first and only development in Canada.
+
+[6] Yung and Lai are husband and wife. They have been separated since 1998.
+Lai lives exclusively in Toronto. Lai has no experience in property developmentand deposes that at all material times she relied on Yung’s instructions.
+
+[7] Sun is a lawyer licensed to practice in Ontario and is the principal of theFirm.
+
+[8] The Property is a 13 story mixed use, commercial and residential buildingcomplex at 207-209 Yonge Street in Toronto. It was developed by Yung between1993 and 2002. Sun acted for Yung in respect of the development of the Property.
+
+[9] Initially, the Property was financed by Grand Pacific Finance Corp. (“GrandPacific”) and 366 Madison Inc. (“Madison”). When the Property got into financial
+
+difficulties, Yung re-financed it in 2002/03 with a loan from the InternationalCommercial Bank of Cathay (Canada), the predecessor to the Bank (the “2002/03
+Loan”), which was secured, in part, by a first mortgage on the Property andpersonal guarantees from Yung and Lai (the “Guarantees”). The 2002/03 Loanwas used in part to reduce the indebtedness owing to Grand Pacific and Madison.
+Those companies in turn agreed to subordinate their security for their remainingindebtedness to the Bank.
+
+[10] Sun acted for the Bank on the 2002/03 Loan. On February 23, 2003, Yungand Lai executed an acknowledgement and consent to Sun so acting. Yung andLai’s signatures were witnessed by Henry K. Hui, a lawyer and notary. OnFebruary 28, 2003, the Bank executed a similar acknowledgement and consent.
+
+[11] At a meeting in Hong Kong on October 25, 2003, Yung and Michael Lin,the principal of Grand Pacific and Madison, agreed, among other things, that theProperty would be transferred from Yung to Grand Pacific and Madison. Theagreement was subsequently set out in a memorandum of understanding datedNovember 20, 2003, which was drafted by Sun. The memorandum ofunderstanding was revised in December 2004.
+
+[12] Yung says that he understood from Sun that once beneficial ownership ofthe Property was transferred to Grand Pacific and Madison, the Guarantees wouldbe replaced by other guarantees from Linn and his wife.
+
+[13] In 2006, Yung completed the transfer of his interest in the Property to GrandPacific and Madison (the “2006 Restructuring”). Sun acted for all parties toimplement the transaction. Both Yung and the entities controlled by him and GrandPacific and Madison signed Acknowledgements and Consents to the Conflict ofInterest. Yung executed the Acknowledgement and Consent on April 6, 2006,before Eddie Ho Chow Mui, a lawyer in Hong Kong who is also licensed topractice in Ontario.
+
+[14] Yung also received independent legal advice from Mr. Mui concerning the2006 Restructuring. In a Certificate of Independent Legal Advice dated April 6,2006, Mr. Mui certified, among other things, that he had met with Yung, hereviewed documents concerning the Property and the 2006 Restructuring with him,that he explained the nature of the documents and advised Yung “fully and plainly”
+as to the effect and consequences of signing the documents and the liability thatcould arise, that Yung declared to him that he fully understood the nature and
+
+[15] Yung says that the agreement to transfer his interest in the Property at alltimes included the cancellation of the Guarantees to the Bank; that Sun acted forhim throughout and was aware that the Guarantees were to be cancelled and Suntold him that they would be cancelled. Sun denies that Yung or Lai ever instructedhim that their Guarantees to the Bank were to be released as part of the 2006
+Restructuring. The 2006 Restructuring agreement contained no such provision.
+
+[16] The Bank issued a Notice of Sale under the mortgage dated July 16, 2008.
+Sun sent a letter to the Bank’s solicitor advising that he acted for Yung and that hisclient was interested in purchasing the Property. In December 2009, the Bankadvised Lai and Yung that the Property had been sold.
+
+[17] On December 18, 2009, the Bank’s lawyer sent a letter to Lai following atelephone call with her advising that the Property had been sold for $8 million andthat the amount required to redeem the mortgage was $9,138,963.03. The letterstated in part: “You and all of the other encumbrancers and guarantors have had asignificant period of time in which to redeem, but have shown absolutely noindication of your ability or desire to redeem the mortgage.”
+
+[18] Lai responded to the December 18, 2009 letter with a letter dated December22, 2009 which stated in part: “Please clarify in the event that the property hasbeen sold based on the terms that you referred to in your letter dated December 18,2009, as a guarantor, am I liable for the shortfall of the actual outstanding amountof the mortgage?”
+
+[19] There is a dispute in the evidence as to whether Sun drafted the letter or itwas drafted by Yung and Lai and merely translated into English by Sun.
+
+[20] The Statement of Claim was served on Lai on January 11, 2011. Lai retainedcounsel and served a Statement of Defence and a Crossclaim against Yung onMarch 2, 2011.
+
+[21] Yung was served with the Statement of Claim pursuant to an order forsubstituted service, effective April 29, 2013. The Bank subsequently obtaineddefault judgment against Yung. Yung deposes that when he discovered the defaultjudgment against him in 2015, he retained a lawyer in Hong Kong who had
+
+effect of the documents and the liability that could occur and that he signed thedocuments freely and voluntarily. Yung signed the Certificate acknowledging,among other things, that he had received the advice.
+
+[22] The Third Party Claim was issued on September 1, 2015. The Third PartyClaim alleges that at all material times, Sun acted for Yung in respect of thetransactions involving the purchase and financing of the Property in 1992, and thetransfer of Yung’s interest in the Property to Grand Pacific and Madison in 2005.
+Yung and Lai allege that Sun breached his duties to them arising out of the 2006
+Restructuring and specifically that he:
+a) had a conflict of interest in acting for both Grand Pacific and Madison atthe same time as Yung and Lai;b) failed to advise Yung and Lai of the conflict;c) failed to replace or cancel the Guarantees as instructed and promised;d) failed to accurately and fairly advise Yung and Lai as to their potentialliability under the Guarantees and the nature and value of the Guarantees.
+
+[23] In his affidavit on the motion, Yung alleges that Sun failed to follow hisinstructions to cancel the Guarantees and that Sun told him that the Guaranteeswould be cancelled once the transfer of the ownership of the Property wascompleted. He states that he didn’t understand the complexity of the 2006
+Restructuring and relied on Sun to protect his interests. In respect of theAcknowledgement and Consent that he signed with Mr. Mui in April 2006 in HongKong, his evidence is that he signed the documents in Mr. Mui’s office in HongKong based solely on Sun’s advice; all of the documents are in English and werenot translated to him by Mr. Mui; that he thought that the Guarantees would becancelled based on his instructions to Sun.
+
+[24] Yung also alleges that when he learned of the Bank’s action on theGuarantees, Sun advised him that he had no exposure on the Guarantees for anumber of reasons including that the Property was worth more than the amountowing on the mortgage, the Bank’s sale was improper, and that as long as he wasnot served with the claim, he did not have to defend the claim and the Guaranteescould not be enforced against him.
+
+[25] Lai filed an affidavit in a supplementary responding record. She says thatEnglish is her second language and she cannot read or speak it very well. At all
+
+previously advised him and, based on advice, subsequently hired an Ontario lawyerwho had the default judgment set aside.
+
+[26] Sun denies Yung’s allegations against him. He denies that Yung or Lai everinstructed him to cancel the Guarantees to the Bank or that he ever indicated thathad occurred. He deposes that the primary purpose of the 2006 Restructuring wasto secure the release of Yung’s guarantee of the Grand Pacific/Madison debt whichwas subordinate to the Bank. Sun further states that his only involvement withrespect to the Bank’s enforcement was with respect to the initial Notice of Sale. Headvised Yung that he could attempt to redeem the mortgage or purchase theProperty to attempt to protect his interest and guard against a low selling price.
+The Issues
+
+[27] The issue raised by the parties on this motion is whether, pursuant to s. 18 ofthe Act, the two year limitation period in respect of the Third Party Claim forcontribution and indemnity runs from “the day on which the first wrongdoer wasserved with the claim” or whether s. 18 incorporates the discoverability criteria ins. 5(1) and (2) such that it doesn’t begin to run until Yung and Lai have sufferedloss or damage which Yung submits was not until he became aware of the defaultjudgment against him.
+
+[28] In the alternative, Yung submits that the common law doctrine of fraudulentconcealment is applicable on the facts before the court and operates to suspend thelimitation period until Yung was advised by his Ontario counsel that he had aclaim against Sun.
+Summary Judgment
+
+[29] In Hyrniak v. Mauldin, [2014] 1 S.C.R. 87, the Supreme Court set out theprocedure to be followed in respect of a summary judgment motion pursuant toRule 20 of the Rules of Civil Procedure, R.R.O. 1990, Reg. 194. The court mustfirst determine based only on the evidence in the motion record, whether there is agenuine issue requiring a trial. The questions to be addressed are whether there issufficient evidence to enable the court to fairly and justly adjudicate the disputeand whether summary judgment would be a timely, affordable and proportionateprocedure.
+
+material times, she acted solely on Yung’s instructions and signed whatever heasked her to. She was not involved in any of the matters involving the Property anddid not have much contact with Sun.
+
+[30] Where, however, there appears to be a genuine issue for trial, it is necessaryfor the court to then determine whether the need for a trial can be avoided by usingthe powers granted under rules 20.04(2.1) (weighting evidence, evaluatingcredibility and drawing reasonable inferences) and 20.04(2.2) (hearing oralevidence), provided the use of such powers is not against the interest of justice.
+
+[31] In the present case, the motion record contains conflicting evidence fromSun on the one hand and Yung and Lai on the other concerning their relationshipand what took place between them in respect of the 2006 Restructuring and theBank’s subsequent Action. To the extent there is conflicting evidence, it cannot beresolved on the face of the record. I consider, however, that much of thatcontroversy need not be determined to fairly and justly adjudicate the disputebetween the parties. Rather, the issues between the parties can be resolved basedon the evidence which is not in dispute and on the evidence of Yung and Laialthough in the latter case, utilization of the powers under rule 20.04(2.1) isnecessary.
+The Limitation Issue
+
+[32] The overall purposes of the Act are certainty, finality and the unfairness ofsubjecting defendants to the threat of a lawsuit beyond a reasonable period of time:
+407 ETR Concession Co. v. Day, 2016 ONCA 709, 133 O.R. (3d) 762 (C.A.), atpara. 48. See too: Canaccord Capital Corp. v. Roscoe, 2013 ONCA 378, 115 O.R.
+(3d) 641 at para. 24.
+
+[33] Section 4 of the Act specifies that a proceeding shall not be commenced inrespect of a claim after the second anniversary of the day the claim was discovered.
+
+[34] Section 5 of the Act sets out the criteria to be applied in determining the dateon which a claim is discovered:
+5. (1) A claim is discovered on the earlier of,a) the day on which the person with the claim first knew,i. that the injury, loss or damage had occurred,ii. that the injury, loss or damage was caused by orcontributed to by an act or omission,
+
+iv. that, having regard to the nature of the injury, loss ordamage, a proceeding would be an appropriate meansto seek to remedy it; andb) the day on which a reasonable person with the abilities and inthe circumstances of the person with the claim first ought tohave known of the matters referred to in clause (a).
+(2) A person with a claim shall be presumed to have known of thematters referred to in clause (1) (a) on the day the act or omission onwhich the claim is based took place, unless the contrary is proved.
+
+[35] Section 5(1) (a) set out a subjective test addressing the knowledge of theperson with the claim and s. 5(1) (b) set out a modified objective test addressingthe knowledge of a reasonable person in the shoes of the person with the claim. A
+claim is discovered on the earlier of the date when the person first knew of theclaim or the date when they should have known: Clarke v. Faust, [2016] O.J. No1486 at para. 41 (C.A.).
+
+[36] Section 5(2) creates a presumption in respect of 5(1) (a) whereby the personwith the claim is presumed to know of all the matters in s. 5(1) (a) “on the day theact or omission on which the claim is based took place” unless the contrary isproved.
+
+[37] Section 18 of the Act concerns the limitation period in respect of a claim forcontribution and indemnity. It provides:
+18. (1) For the purposes of subsection 5(2) and section 15, in thecase of a claim by one alleged wrongdoer against another forcontribution and indemnity, the day on which the first allegedwrongdoer was served with the claim in respect of whichcontribution and indemnity is sought shall be deemed to be the daythe act or omission on which that alleged wrongdoer’s claim is basedtook place.
+(2) Subsection (1) applies whether the right to contributionand indemnity arises in respect of a tort or otherwise.
+
+iii. that the act or omission was that of the person againstwhom the claim is made, and
+
+[39] In Miaskowski (Litigation guardian of) v. Persaud, 2015 ONSC 1654,
+
+[2015] O.J. No. 1208, Perell J. held, in obiter, that having regard to the wording ofthe Act and specifically s. 18 as well as the policy purposes of the Act, s. 18
+provides for an absolute two year limitation period with respect to claims forcontribution and indemnity.
+
+[40] By contrast, in Demide v. Canada (Attorney General), 2015 ONSC 3000,
+
+[2015] O.J. No. 2611, Leach J. held, also in obiter, that by its wording, s. 18, whenread in conjunction with ss. 15(2) and 15 of the Act, is not intended to operate as astand-alone limitation period but rather is subject to discoverability.
+
+[41] With great respect to Madame Justice Leach, I prefer Justice Perell’sinterpretation that s. 18 of the Act establishes an absolute two year limitationperiod with respect to claims for contribution and indemnity. The wording of s. 18
+“deems” the limitation period for contribution and indemnity claims to be twoyears from the date the “first alleged wrongdoer was served with the claim inrespect of which contribution and indemnity is sought…”
+
+[42] As Perell J. stated in Miaskowski, at para. 82:
+82. I pause to emphasize that in the context of the discovery of aclaim that s. 18 uses the word “deemed,” which as a declarative legalconcept is a firmer or more certain assertion of the discovery of aclaim than the rebuttable presumption of discovery contemplated bys. 5 of the Limitations Act, 2002. Moreover, the deeming provision ins. 18 does not contain the moderating language “unless the contraryis proved” that is found in s. 5(2) of the Act. I will return to this pointbelow.
+
+[43] Justice Perell went on to state at para. 94 of Miaskowski that in his view, byusing the language of a deeming provision without any reference to the deeming ofdiscovery of the claim being rebuttable, the legislature intended to impose anabsolute two year limitation period with respect to claims for contribution andindemnity.
+
+[38] As noted in The Law of Limitations, G. Mew, 3rd edition 2016, LexisNexisCanada at para. 5.91, there is a conflict of judicial opinion in Ontario concerningwhether s. 18 of the Act establishes an absolute two year limitation period from thedate of service of the claim or whether discoverability still applies.
+
+... In my opinion, those words make it clear that section 18 was notintended to operate as a “stand alone” limitation period, withindependent application, or a provision to be viewed and readseparately and in contrast to s. 5(2). Rather, section 18 expressly wasenacted “For the purposes of subsection 5(2) and 15”, [emphasisadded]; i.e., to inform and dictate the meaning to be given to certainconcepts referred to in ss. 5(2) and 15, when applying those sections.
+
+[45] With great respect, I read the opening words “For the purposes…” in s. 18,to separate it from ss. 5(2) and 15 rather than incorporating it into those sections. Inother words, the two year limitation period is deemed to apply and there is nopresumption and no ability to prove the contrary.
+
+[46] I agree with the comments of Madame Justice H.M. Pierce at para. 37 ofHughes v. Dyck, 2016 ONSC 901, 129 O.R. (3d) 495 (S.C.J.), where, in holdingthat s. 18 provides for an absolute two year limitation period, she stated, in part:
+…. It is equally conceivable that by prefacing s. 18(1) with thephrase “For the purposes of subsection 5(2) and section 15,” theLegislature intended to signal that claims for contribution andindemnity are carved out from other claims that might otherwisequalify for an extension under s. 5(2). In other words, the prefacemight just as easily be read as a direction to exclude claims forcontribution and indemnity from the effect of s. 5(2) rather than as adirection to read them as subject to s. 5(2). If it is a rare case where aclaimant would not know whom to sue for contribution andindemnity, then this limitation on the scope of such claims,potentially two further years after the first limitation has run, wouldnot be unreasonable. Arguably, it would create greater certainty.
+
+[47] The interpretation that s. 18 establishes an absolute limitation period is also,in my view, more in keeping with the policy purposes of the Act. The two yearperiod from service of the claim on the first wrongdoer is clear, concise and morethan sufficient, in my view, to enable the first wrongdoer to commence a claimagainst another wrongdoer arising out of the plaintiff’s claim. To incorporate
+
+[44] Justice Leach disagrees with Justice Perell’s “deeming” analysis, stating thatit ignores the opening words of s. 18, “For the purposes of subsection 5(2) and15…” The learned judge states, in part, at para. 87 of Demide:
+
+[48] Yung and Lai submit that the Court of Appeal upheld the Motion Judge’sapplication of the discoverability principle to s. 18 in Fennell v. Deol, [2015] O.J.
+No. 4662 (S.C.J.); reversed in part on appeal, [2016] O.J. No. 1745 (C.A.). It isclear from both decisions, however, that the issue of whether s. 18 establishes anabsolute two year limitation period was not argued either before the Motion Judgeor the Court of Appeal.
+
+[49] The Statement of Claim was served on Lai sometime in early 2011, morethan four years before the Third Party Claim was issued. It was served on Yungeffective April 29, 2013, more than two years, four months prior to the Third PartyClaim being issued. While, in my view, s. 18 provides that the date when the timebegins to run is from the date of service of the Statement of Claim on Lai (the firstwrongdoer), in either case the Third Party Claim was commenced more than twoyears from service of the Statement of Claim and is accordingly statute barred.
+Fraudulent Concealment
+
+[50] The common law doctrine of fraudulent concealment is an equitableprinciple that operates to prevent a limitation period from operating as a
+“instrument of injustice”. When established, it prevents the limitation period fromrunning until the fraud is discovered or until, with reasonable diligence, it ought tohave been discovered. The conduct required is equitable fraud, which has beendescribed as “conduct which, having regard to some special relationship betweenthe two parties concerned, is an unconscionable thing for the one to do to theother.” See: Guerin v. Canada, [1984] 2 S.C.R 335 (S.C.C.) at paras. 111 and 115;Giroux Estate v. Trillium Health Centre (2005), 74 O.R. (3d) 341 (C.A.) at paras.
+22, 28 and 29.
+
+[51] Three elements must be established to make out the doctrine:
+a) the defendant and plaintiff are engaged in a special relationship with oneanother;b) given the special or confidential nature of the relationship, thedefendant’s conduct amounts to an unconscionable thing for the one todo to the other; and
+
+discoverability into a determination of the limitation period for contribution andindemnity gives rise to the same uncertainty that existed before the Act and whichs. 18 was intended to cure.
+
+See: Rajmohan v. Norman H. Solmon Family Trust, 2014 ONCA 352; [2014 O.J.
+No. 2170 (C.A.).
+
+[52] As Yung’s solicitor during the material time, I have no difficulty in findingthat Sun and Yung (and through him, Lai) were in a special relationship. In myview, however, the evidence does not establish that the causes of action alleged byYung were concealed by Sun.
+
+[53] As noted, the Third Party Claim alleges that Sun had a conflict of interest inrespect of the 2006 Restructuring and failed to advise Yung or Lai. On April 6,2006, however, Yung signed an Acknowledgement of Conflict of Interest andConsent on behalf of all the entities that had an interest in the Property expresslyacknowledging the conflict and consenting to Sun acting for other parties to thetransaction. Yung makes no specific reference in his affidavit to hisacknowledgement of the conflict and his consent. I do not accept his evidence thatbecause he didn’t speak English, he had no knowledge of what he was signing andwas only signing the documents on the advice of Sun. A lawyer (Mr. Mui),licensed to practice in Ontario, certified that, among other things, he explained thedocuments to Yung. In my view, Yung clearly knew about the conflict, understoodits implications and consented to it.
+
+[54] In their factum, Yung and Lai submit that they did not know that they had aclaim against Sun because he never told them he made an error in failing to cancelthe Guarantees. Further, when the error became apparent, they submit that Sunassuaged their concerns by repeated assertions that they had no legal exposure tothe Guarantees.
+
+[55] There is no question on the undisputed evidence, that both Yung and Laiknew at the latest in December 2009 that their guarantees to the Bank had not beenextinguished, contrary to their alleged instructions to Sun. Yung deposes that itwas in December 2009 he “realized, for the first time, that Sun may have failed toarrange for the cancellation of the Guarantees.”
+
+[56] Yung and Lai were also aware at that time that the Bank was looking tothem, as guarantors, in respect of the shortfall that resulted from the sale of theProperty. In my view, given Yung’s background as an experienced developer and
+
+c) the defendant conceals the plaintiff’s right of action (either actively, or asa result of the manner in which the act that gave rise to the right of actionis performed).
+
+[57] I accept that Sun never advised Yung and Lai that they had a claim againsthim. While failure to advise of a claim may give rise to fraudulent concealment,such failure by itself is not determinative. Rather, it is necessary to consider all thefacts. The issue is when the fraud (the concealment) has been or reasonably couldhave been discovered. Where, as here, the parties alleging fraudulent concealmentare aware of the essential facts giving rise to a claim against the allegedwrongdoer, the fact that they were not told of the claim directly by the wrongdoerdoes not operate to extend the concealment. Simply put, there is no longer anyconcealment.
+
+[58] Accordingly, I find there was no concealment of the facts giving rise to aclaim against Sun for failure to cancel the Guarantees. They knew, at the latest byDecember 2009, that the Guarantees had not been cancelled contrary to Yung’sallegedly clear instructions and Sun’s assurances and that the Bank was looking tothem on the Guarantees to reimburse it for any shortfall on the mortgage.
+
+[59] What is Yung and Lai’s evidence that Sun repeatedly told them they had noliability concerning the Guarantees? There is no evidence from Lai that Sun gaveany assurances that she had no liability under the Guarantees. In fact, the evidencesupports the contrary inference. When the action was commenced, Lai retained alawyer who entered a defence on her behalf and started a cross-claim againstYung.
+
+[60] Yung’s evidence is that Sun advised him they had no liability under theGuarantees because the value of the Property far exceeded the indebtedness owingto the Bank under the mortgage. That is contrary to Yung’s statement in hisaffidavit that based on what he understood the value of the Property was comparedto the amount owing on the mortgage, “I therefore concluded that there would beno reason to enforce the Guarantees.” He does not say that conclusion was a resultof anything Sun told him.
+
+[61] Even assuming Sun provided that advice, Yung was aware by December2009 that the Property had been sold for less than the amount owing to the Bankand that the Bank was looking to Yung and Lai to pay the shortfall pursuant to the
+
+businessman who had used lawyers in the past, he would have clearly known (andLai by extension) that they had a claim against Sun for not following hisinstructions.
+
+[62] Yung says that Sun advised him that his offer to purchase the Propertywould avoid liability and that the Bank’s failure to list the Property on MLS madeit impossible to claim a loss against them. The evidence does not establish Yungever made an offer to the Bank to purchase the Property. Further, once Yungbecame aware of the Action, he became aware of the potential for liability on theGuarantees.
+
+[63] Yung also states that Sun told him that he had no liability to the Bank if hewas not served with the Action. Yung clearly knew through Lai that the Bank hadcommenced the Action against them. Given their joint position that at all times Laiwas acting upon Yung’s directions in respect of the Property, it is reasonable toinfer that when she received the substituted service order in respect of Yung inearly 2013, she passed it onto him right away. Accordingly, I cannot accept hisevidence that he didn’t know he’d been served until the default judgment came tohis attention. In my view, and I find, Yung knew he had been served in accordancewith the substituted service order on or around the effective date of service of April29, 2013.
+
+[64] As a result, I find that the doctrine of fraudulent concealment does not applyto extend the limitation period for the Third Party Claim.
+Conclusion
+
+[65] For the above reasons, therefore, Sun and the Firm’s motion for summaryjudgment is allowed. The Third Party Claim is dismissed.
+
+[66] Sun and the Firm are entitled to their costs of the motion and the Third PartyAction on a partial indemnity basis. Having regard to the Cost Outlines filed byboth parties, the issues raised on the motion and the additional time spent inresponding to the Third Party Claim, I consider that costs fixed at $35,000 is fairand reasonable.
+
+Guarantees. Further, when the Bank commenced the Action, both Yung and Laiknew they had potential liability to the Bank.
+
+L. A. Pattillo J.
+
+Date Released: May 17, 2017
+

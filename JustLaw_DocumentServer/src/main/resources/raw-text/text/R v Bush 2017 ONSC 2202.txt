@@ -1,0 +1,973 @@
+CITATION: R. v. Bush, 2017 ONSC 2202
+COURT FILE NO.: 15-M7866
+DATE: 2017/05/18
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+HER MAJESTY THE QUEEN
+– and –
+IAN BUSH
+Accused
+
+James Cavanagh and Tim Wightman, for theCrown
+
+Geraldine Castle-Trudel, Martin Reesink,and Howard L. Krongold, for the AccusedHEARD: March 6–10, 16, 20, 21, and 23,2017
+
+REASONS FOR DECISIONS ON PRE-TRIAL APPLICATIONS
+C. MCKINNON J.
+Overview
+
+[1]
+
+Ian Bush (the “Accused”) stands charged with three counts of first-degree murder. It is
+
+alleged that on June 29, 2007 the Accused attended at the residence of the former Chief Justiceof the Tax Court of Canada, Alban Garon, and his wife, Raymonde Garon, where he suffocatedand bludgeoned the Garons and their next-door neighbour, Marie-Claire Beniskos. Theirresidence was a condominium located in the Riviera II apartment building at 1510 RiversideDrive in the city of Ottawa.
+
+[2]
+
+The Crown seeks to adduce certain hearsay statements made by Mrs. Garon to friends
+
+and family in the days leading up to her death (the “Hearsay Application”) and to lead similarfact evidence arising out of a 2014 attempt murder allegedly perpetrated by the Accused (the
+“Similar Fact Application”).
+
+ONTARIO
+
+[3]
+
+The Accused seeks to exclude his Tax Court of Canada (“TCC”) file as not properly
+
+falling within the ambit of s. 23 [evidence of judicial proceedings] or s. 30 [business records] ofexclude property seized under warrant at his place of residence (the “Application to ExcludeProperty”).
+
+[4]
+
+The Accused also seeks an order permitting Dr. James Robertson, a hair and fiber
+
+forensic expert, to testify by means of audio/visual technology under s. 714.2(1) of the CriminalCode and s. 46(2) of the Canada Evidence Act. This application was not contested by the Crown,and the order has been granted.
+
+[5]
+
+On March 23, 2017, at the conclusion of hearing submissions on the applications, I
+
+advised the parties that I would grant the Hearsay Application and the uncontested application toreceive video and audio evidence, and dismiss the balance of the applications, with reasons tofollow. These are those reasons.
+Crown Hearsay ApplicationBackground
+
+[6]
+
+On Wednesday, June 27, 2007, at a family gathering in Saint-Sauveur, Quebec, Mrs.
+
+Garon recounted what she believed to be a very odd occurrence that took place earlier that day.
+Mrs. Garon’s cousins, Danielle and Micheline Lécuyer, heard the story and gave a statement topolice on July 1, 2007, a few days after the murders.
+
+[7]
+
+Again on Thursday, June 28, 2007, at a friend’s 75th birthday party in Kanata, Ontario,
+
+Mrs. Garon recounted the same occurrence to her close friends, Liette and Adrien St. Cyr. TheSt. Cyrs relayed this information to police on July 2, 2007.
+
+[8]
+
+The statements of Mrs. Garon (the “Hearsay Statements”), as described by the four
+
+narrators, may be summarized as follows. On Wednesday morning, Mrs. Garon heard a knock ather apartment door. She had not been notified of a visitor from the security guard, nor hadanyone called her from the lobby intercom. Believing the knock to originate from a neighbour,
+
+the Canada Evidence Act, R.S.C. 1985, c. C-5 (the “Application to Exclude TCC File”), and to
+
+she opened the door. Mrs. Garon saw a man who identified himself as a courier. The man said hehad a package for her, and asked if she was Mrs. Garon. She stated that she was. The man then
+
+Mrs. Garon that he had left the package in his truck and stated that he was too busy to go get thepackage, as she had suggested. Mrs. Garon offered to go downstairs with him to retrieve thepackage, but the man declined, saying he was rushed for time, and told her that he would returnthe following day.
+
+[9]
+
+Mrs. Garon was surprised that someone would show up unannounced, and recounted how
+
+the man stated he was from a delivery service like UPS, but not UPS.
+Law
+
+[10]
+
+The Crown seeks admission of the Hearsay Statements under the principled exception to
+
+the rule against hearsay.
+
+[11]
+
+R. v. Khelawon, 2006 SCC 57, [2006] 2 S.C.R. 787, is the leading case governing the
+
+admissibility of hearsay statements. Under the principled exception, hearsay statements may beadmitted where they meet the twin criteria of necessity and reliability.
+
+[12]
+
+The Crown must establish admissibility on a balance of probabilities (R. v. Chretien,
+
+2014 ONCA 403, 309 C.C.C. (3d) 418, at para. 45).
+
+[13]
+
+The criterion of necessity must be given a flexible definition, capable of encompassing
+
+diverse situations; ordinarily, the relevant direct evidence is not available (R. v. Smith, [1992] 2
+S.C.R. 915, at pp. 933–34).
+
+[14]
+
+Khelawon sets out two routes to establish threshold reliability, neither of which excludes
+
+the other. Under the first route, threshold reliability may be established where the circumstancesof the statement do not disclose any motive to fabricate on the part of the declarant. Under thesecond route, threshold reliability may be established where other extrinsic evidence allows atrier of fact to assess or evaluate the truthfulness and accuracy of the statement.
+
+asked if her husband Alban Garon was home, to which she replied that he was not. The man told
+
+[15]
+
+The trial judge maintains a residual discretion to exclude a hearsay statement that is
+
+otherwise necessary and reliable where its prejudicial effect outweighs its probative value.
+
+[16]
+
+The Crown seeks to introduce the Hearsay Statements at trial for a number of purposes:
+
+they are relevant to the primary issue of identity and the ancillary issues of modus operandi,planning and deliberation, and motive. Moreover, the Crown asserts that the Hearsay Statementsprovide narrative value with respect to how the murders may have occurred and how theAccused made contact with the Garons and Ms. Beniskos.
+
+[17]
+
+The Crown argues that the Hearsay Statements meet the criterion of necessity as Mrs.
+
+Garon is deceased.
+
+[18]
+
+Threshold reliability is established under the first route, the Crown asserts, since the
+
+statements were made in casual conversation to close friends and family where there was nomotive to fabricate. It relies on a number of decisions to support this principle, where unrecordedhearsay statements of murder victims to family and friends have been admitted, namely, R. v.
+Foreman (2002), 62 O.R. (3d) 204 (C.A.); R. v. Pasqualino, 2008 ONCA 554, 233 C.C.C. (3d)
+319; R. v. Moo, 2009 ONCA 645, 247 C.C.C. (3d) 34; R. v. Sadiqi (2009), 68 C.R. (6th) 346
+(Ont. S.C.); R. v. Johnson, 2015 ONSC 5974; and R. v. Berry, 2017 ONCA 17.
+
+[19]
+
+Each of the statements arose in general conversation and were spontaneously volunteered
+
+by Mrs. Garon. The subject matter of the statements, while odd, is relatively innocuous. It is notuntil some days after the murders that these statements are given context and form part of alarger picture.
+
+[20]
+
+Under the second route, the Crown asks the Court to consider the extrinsic items of
+
+evidence that would allow a jury to assess the truthfulness and accuracy of the HearsayStatements. These extrinsic details include items seized at the Accused’s residence, includingfake “DHL delivery” credentials and a list entitled “PROCESS” that reads as follows:
+1. Access2. Secure Parties
+
+Crown Position
+
+[21]
+
+Moreover, the Crown contends that all four narrators shall be testifying at trial if the
+
+Application is successful and may be cross-examined on the circumstances surrounding Mrs.Garon’s utterances. The credibility of the narrators is not relevant to the threshold reliabilityanalysis under the principled exception to the hearsay rule: “the narrator’s credibility is a matterthat usually can be left safety to the trier of fact to consider” (Berry, at para. 50).
+
+[22]
+
+Finally, the Crown argues that the probative value of the Hearsay Statements eclipses the
+
+prejudice that may affect the Accused, pointing to the substantial value the statements have onthe central issues at trial. Although the evidence may operate unfortunately to the detriment ofthe Accused, its admission does not create a situation where it would operate unfairly (R. v. B.
+(L.) (1997), 35 O.R. (3d) 35 (C.A.), at para. 22).
+Defence Position
+
+[23]
+
+The Defence asserts that not every hearsay statement made by a deceased person meets
+
+the criterion of necessity solely by virtue of the fact that he or she is dead. Rather, one must lookto whether the evidence being tendered can be admitted by some other means. In support of thisproposition, the Defence cites the following passage from R. v. Dupuis, 2014 ONSC 2750, atparas. 107–09:
+The observations of the witnesses that the deceased received frequent telephonecalls and text messages at work is not relevant without evidence that the calls andmessages were from the accused. The evidence that the calls were from theaccused is based on statements of the deceased. The statements are hearsay. TheCrown must demonstrate necessity and reliability.
+Necessity has not been demonstrated. While the witness, the deceased, isunavailable, the evidence of the calls is available through the records. Thetelephone records are available and provide the best evidence of the frequency ofthe calls.
+The evidence of the witnesses as to the content of the text messages is notnecessary because there is a record of the text messages.
+
+3. Secure SIM Cards on phones4. Cash + credit card PINS
+5. Assets6. Leave Cards (calling cards)
+
+[24]
+
+The Defence argues that there are three direct ways to prove whether a courier visit
+
+occurred on the days in question: by video from the Riviera residence; by way of subpoena of the
+
+records exception in the Canada Evidence Act.
+
+[25]
+
+The Defence contends that the Crown has not explored all of its legal avenues to
+
+introduce the evidence it wishes to tender by way of the Hearsay Statements. These statementsare not the only, nor the necessary, manner to show that a delivery man was at the Garonresidence that day.
+
+[26]
+
+With respect to the issue of reliability, the Defence cites Khelawon, at para. 67, and
+
+argues that the following four facets of reliability emerge from the case law: an absence ofmotive, a capacity to know certain facts, influence-related characteristics, and a unique attributeto the evidence that was received. The Defence highlighted the last two of these factors.
+
+[27]
+
+For influence-related characteristics, the Defence argues that the four police statements
+
+are solicited by two police sergeants in the context of a formal investigation into the homicide ofthe narrators’ friends and relatives. At times, leading questions were posed to the witnesses.
+
+[28]
+
+The Defence emphasizes the lack of a particular stamp of reliability, pointing to the lack
+
+of corroboration by other evidence. For example, some of the narrators report UPS as the couriercompany identified by the delivery man, while others say it was not UPS. Some say the deliveryman went inside the apartment when he was let in; others do not confirm that there was an entry.
+The day the delivery man attended differs between witnesses. Finally, some of the statements topolice were made in the French language and were then summarized and translated into English.
+
+[29]
+
+In response to the Crown’s argument concerning the reliability of statements made to
+
+family and friends, the Defence argues that the cases relied upon by the Crown are not helpful. Inthose cases, the deceased made hearsay statements to intimate family members, and the victimsand the suspect in all cases were well known to each other.
+
+delivery company record; and through access to the delivery company records under the business
+
+[30]
+
+The Defence submits that, given the lack of necessity and the unreliability of the various
+
+utterances, the admission of the Hearsay Statements pose a tangible risk to the Accused’s right to
+
+Analysis
+
+[31]
+
+I agree with the position of the Crown. Considering the live issues at trial, including
+
+identity, I find that the statements are highly relevant.
+
+[32]
+
+I reject the Defence argument that the evidence tendered through the Hearsay Statements
+
+could be adduced through other forms of evidence. The Crown theory posits that the Accusedpretended to be a delivery man in order to gain knowledge from Mrs. Garon concerning Mr.Garon’s whereabouts. Video footage from the apartment complex could not capture theconversation between the delivery man and Mrs. Garon. Equally, company or delivery recordscould only prove that there was or was not a delivery scheduled or completed to the Garonresidence on the day in question; it could not show whether a fake delivery man made a fakedelivery to the Garon residence.
+
+[33]
+
+It is significant that the issue of whether any legitimate deliveries were made to the Garon
+
+residence in the days leading up to the murders was fully investigated by the police and provednegative.
+
+[34]
+
+Thus, for the foregoing reasons, I find that the evidence tendered through the Hearsay
+
+Statements is not available by any other means and therefore meets the criterion of necessity.
+
+[35]
+
+I also find that the statements meet threshold reliability for their admission. I agree with
+
+the submissions of the Crown that Mrs. Garon’s statements were made without any provocationor suggestion by her family and friends and that the significance of her comments was not knownto any of them at the time. There was no conceivable motive to fabricate or exaggerate the detailsof her encounter with the purported delivery man. While bizarre, the encounter was not of anature to prompt any fabrication or exaggeration on the part of Mrs. Garon.
+
+a fair trial.
+
+[36]
+
+I do not agree with the arguments of Defence counsel respecting the case law. There is no
+
+significance to the distinction between the cases cited by the Crown and the case at bar in terms
+
+victim and the recipients of her statements. The fact that the victim had no relationship to thesuspect substantially increases the reliability of the statements: when a victim knows herattacker, antemortem statements may tend to cast her attacker in a less favourable light.
+
+[37]
+
+Thus, on balance, I find that the Hearsay Statements are prima facie admissible.
+
+[38]
+
+Finally, in light of my findings, I find that the probative value of the Hearsay Statements
+
+outweighs their prejudicial effect. I decline to use my residual discretion to exclude thestatements.
+
+[39]
+
+In the result, the Hearsay Statements are held to be admissible.
+
+Crown Similar Fact ApplicationBackground
+
+[40]
+
+The Crown alleges that the Accused committed an attempt murder in 2014 that closely
+
+resembles the murders of the Garons and Ms. Beniskos.
+
+[41]
+
+On the morning of the triple homicide, the Accused is seen on video at OC Transpo’s
+
+Hurdman station, walking in the direction of the Riviera apartment buildings. He was carrying abag, allegedly containing the twine used to bind the victims in a hogtie ligature, firearms toensure silence and obedience, a blunt implement to overcome resistance, and plastic bags to killthem by asphyxiation. The Accused left the scene with the Garons’ credit cards and is againcaught on OC Transpo video walking back to the Hurdman station.
+
+[42]
+
+All three victims had plastic bags over their heads. Mr. Garon’s neck had a “hangman’s
+
+noose” around it. His arms were bound behind his back. The area around his right ear wasseverely beaten and his skull was fractured. The beating was consistent with the use of a bluntinstrument. Mrs. Garon and Ms. Beniskos both had plastic bags over their heads. Twine was tied
+
+of the suspect’s relationship to the victim. What is important is the relationship between the
+
+around their necks and attached to their ankles. They were “hogtied”. All three died ofasphyxiation. The Garons’ credit cards were missing from their wallets.
+On December 18, 2014, seven and a half years after the triple homicide, the Crown
+
+alleges that the Accused took public transportation to a secure condominium building on DurhamPrivate in Ottawa, Ontario. The suspect entered the condominium building and, once inside,gained entry to the apartment of Mr. Ernest Côté by impersonating a City of Ottawa employee.
+The suspect demanded money from Mr. Côté and was refused. He then attacked and bound Mr.Côté, pulling a plastic bag over his head, intending to asphyxiate him. The suspect stole $550 incash and a credit card belonging to Mr. Côté, demanded that Mr. Côté reveal his PIN, andsubsequently left the apartment. Mr. Côté saved his own life by freeing one of his bound handsand perforating the plastic bag with a pair of scissors. After fleeing the scene, the suspect visiteda Scotiabank ATM and was captured on video attempting to use the card.
+
+[44]
+
+The Accused was not known to Mr. Côté. The police attended at the scene and unknown
+
+DNA was found on the duct tape the assailant used to bind Mr. Côté. This DNA was comparedto a body hair root found at the Garon residence. The probability that the DNA on the duct tapecame from any other person than the person whose body hair was found at the Garon residencewas estimated by the Centre of Forensic Sciences to be 1 in 5.0 quadrillion.
+
+[45]
+
+During the investigation, the Accused was positively identified by members of his own
+
+family, captured by a security video in the lobby at Durham Private released by police to themedia. The Accused’s son also identified his father as being the individual seen walking from theHurdman station toward the Riviera apartments on June 29, 2007 at 10:18 a.m., and returning tothe station at 11:19 a.m. Other evidence will suggest that the murders occurred sometimebetween 10:30 a.m. and noon on that day.
+
+[46]
+
+Thereafter, as a result of a judicial warrant, the Accused’s DNA was obtained by police
+
+and compared to the DNA profile on the duct tape used to bind Mr. Côté. The Accused could notbe excluded as the originator of the DNA. The random match probability was estimated to be 1
+in 13 quintillion.
+
+[43]
+
+[47]
+
+The police also obtained a search warrant for the Accused’s residence, where they found
+
+a bag concealed in the basement ceiling containing Mr. Côté’s stolen credit card, duct tape, a
+
+found stacked among other items in a secluded part of the basement and contained large, semiclear plastic bags, duct tape, a length of braided rope, a length of metal pipe with a taped
+“handle”, an imitation firearm, an air pistol, a real firearm and ammunition, knives, a woodenstake, and wooden dowels.
+
+[48]
+
+In other areas of the Accused’s residence, the police found four notebooks and a diary
+
+belonging to the Accused, fake business cards, small handwritten forms to record PINs, twinesimilar to that used to bind the Garons and Ms. Beniskos, and correspondence with the CanadaRevenue Agency. The contents of the notebooks reveal the Accused’s visceral contempt for taxauthorities and of individuals and organizations supporting liberal causes, such as environmentaladvocates, human rights activists, and union leaders.
+
+[49]
+
+The “PROCESS” list, referenced above, was found, together with several “Assignment”
+
+lists targeting certain prominent individuals, including a highly experienced judge of the FederalCourt of Canada, a former associate chief justice of the Ontario Court of Justice, and a prominentprofessor at the University of Ottawa’s Faculty of Law involved in environmental advocacy. One
+“Assignment” named an individual who resided at the Durham Private residence: well-knownOttawa lawyer Pierre Richard, husband of the late Jennifer Lynch, herself a well-known lawyerand former chair of the Canadian Human Rights Commission. In each instance, the residentialaddress of the “Assignment” is noted, together with the bus routes to that residence from theAccused’s location in Orléans, Ontario.
+
+[50]
+
+The Crown seeks to admit this as evidence of the attempt murder purportedly committed
+
+by the Accused based on the striking similarity between the two offences.
+Law
+
+[51]
+
+It is well established that the rule allowing for the admissibility of similar fact evidence is
+
+perhaps best viewed as an “exception to an exception” to the basic rule that all relevant evidenceis admissible in a trial (R. v. Arp, [1998] 3 S.C.R. 339, at para. 38).
+
+length of braided rope, a letter opener with a blade, and a wooden dowel. A second bag was
+
+[52]
+
+Similar fact evidence is presumptively inadmissible. The onus is on the Crown to
+
+establish, on a balance of probabilities, that the evidence pertains to a live issue and that its
+
+at para. 55; R. v. MacCormack, 2009 ONCA 72, 241 C.C.C. (3d) 516, at para. 48).
+
+[53]
+
+Similar fact evidence going to identity is a subset of discreditable conduct evidence. In R.
+
+v. Arp, the Supreme Court held, at para. 43, as follows:
+[W]here identity is at issue in a criminal case and the accused is shown to havecommitted acts which bear a striking similarity to the alleged crime, the jury isnot asked to infer from the accused’s habits or disposition that he is the type ofperson who would commit the crime. Instead, the jury is asked to infer from thedegree of distinctiveness or uniqueness that exists between the commission of thecrime and the similar act that the accused is the very person who committed thecrime. This inference is made possible only if the high degree of similaritybetween the acts renders the likelihood of coincidence objectively improbable.
+[Emphasis in original.]
+
+[54]
+
+In evaluating the probative value of the similar fact evidence, the Court must first assess
+
+the degree of similarity demonstrated by the manner in which the acts in question werecommitted to determine whether it is likely the same person committed the alleged similar acts.
+However, evidence linking the accused to each alleged similar act should not be part of thisinquiry (Arp, at paras. 48–49).
+
+[55]
+
+The Supreme Court in Arp provided, at para. 50, the following suggestions in
+
+determining whether the probative value of the evidence outweighs its prejudicial effect:
+(1)
+
+Generally where similar fact evidence is adduced to prove identity a highdegree of similarity between the acts is required in order to ensure that thesimilar fact evidence has the requisite probative value of outweighing itsprejudicial effect to be admissible. The similarity between the acts mayconsist of a unique trademark or signature on a series of significantsimilarities.
+
+(2)
+
+In assessing the similarity of the acts, the trial judge should only consider themanner in which the acts were committed and not the evidence as to theaccused’s involvement in each act.
+
+(3)
+
+There may well be exceptions but as a general rule if there is such a degree ofsimilarity between the acts that it is likely that they were committed by the
+
+probative value outweighs its prejudicial effect (R. v. Handy, 2002 SCC 56, [2002] 2 S.C.R. 908,
+
+same person then the similar fact evidence will ordinarily have sufficientprobative force to outweigh its prejudicial effect and may be admitted.
+The jury will then be able to consider all the evidence related to the allegedsimilar acts in determining the accused’s guilt for any one act.
+[Emphasis added.]
+
+[56]
+
+The following oft-cited passages from Handy, at paras. 82–84 (references omitted), set
+
+out the relevant considerations in assessing the similarity of the acts:
+Factors connecting the similar facts to the circumstances set out in the chargeinclude:
+(1)
+
+proximity in time of the similar acts;
+
+(2)
+
+extent to which the other acts are similar in detail to the chargedconduct;
+
+(3)
+
+number of occurrences of the similar acts;
+
+(4)
+
+circumstances surrounding or relating to the similar acts;
+
+(5)
+
+any distinctive feature(s) unifying the incidents;
+
+(6)
+
+intervening events;
+
+(7)
+
+any other factor which would tend to support or rebut the underlyingunity of the similar acts.
+
+On the other hand, countervailing factors which have been found helpful inassessing prejudice include the inflammatory nature of the similar acts andwhether the Crown can prove its point with less prejudicial evidence. In addition,as stated, the court was required to take into account the potential distraction ofthe trier of fact from its proper focus on the facts charged, and the potential forundue time consumption. These were collectively described earlier as moralprejudice and reasoning prejudice.
+This list is intended to be helpful rather than exhaustive. Not all factors will exist
+(or be necessary) in every case….
+[Emphasis added.]
+
+[57]
+
+Citing Handy, the Ontario Court of Appeal in R. v. K. (C.P.) (2002), 62 O.R. (3d) 487,
+
+summarized, at para. 30, moral and reasoning prejudice in these terms:
+
+(4)
+
+[58]
+
+by considering the potential for “moral prejudice” against the accused,meaning the risk of convicting the accused because he is a “bad person”
+rather than based on proof that he committed this offence.
+
+by considering the potential for “reasoning prejudice” against the accused,meaning the risk of distracting or confusing the jury, or of undueconsumption of time, and the danger that the jury may have difficultydisentangling the subject matter of the charges from the similar factevidence.
+
+The high degree of similarity may come from a unique trademark or signature, or may be
+
+the result of a series of significant similarities, taken together, whose cumulative effectdemonstrates the requisite level of similarity (Arp, at para. 46, MacCormack, at para. 51).
+
+[59]
+
+When the evidence suggests that the same person committed the similar acts, the Court
+
+must then find a link between the accused and the alleged similar acts. This requirementdemands that there be some evidence that the similar acts were those of the accused; evidence ofmere opportunity to commit the similar acts is not sufficient (Arp, at paras. 54, 57; MacCormack,at para. 59).
+
+[60]
+
+There is some suggestion in the jurisprudence that an overlap exists between the
+
+similarity and linkage inquiries (see Arp, at para. 49; MacCormack, at paras. 80–81; R. v.
+Woodcock (2003), 177 C.C.C. (3d) 346 (Ont. C.A.), at paras. 79–80).
+
+[61]
+
+Justice Cory in Arp set out the following instruction: “In general, evidence linking the
+
+accused to each alleged similar act should not be part of this evaluation” (at para. 49, emphasisadded). Following the suggestions he proposed (above), he reiterated: “Once again these are putforward not as rigid rules but simply as suggestions that may assist trial judges in their approachto similar fact evidence” (at para. 50).
+
+[62]
+
+Indeed, in admitting the similar fact evidence in Arp, the trial judge adverted to the
+
+evidence linking the accused to the two murders, which included DNA evidence (at paras. 25–
+26). Reviewing the trial judge’s analysis in some detail, the Supreme Court upheld the admissionand did not criticize his approach in the context of that particular case.
+
+[P]otential prejudice to the accused may be assessed in the following manner:
+
+[63]
+
+Using the world “rule”, Justice Watt in MacCormack dealt, at para. 81, with the
+
+commingling of evidence concerning the involvement of an accused in similar acts with
+
+The rule against considering both evidence of the manner in which allegedlysimilar acts were committed and evidence of an accused’s involvement in the actsand determining whether the similarity requirement has been met is a generalprohibition, not an unyielding or invariable rule that brooks no exception: Arp atpara. 49; Woodcock at paras. 79-80. Sometimes, it is difficult to draw a bright linebetween similarities in the manner in which an act is committed and an accused’sinvolvement in that act. To apply a test of whether the objective improbability thatan accused’s involvement in the alleged acts is the product of coincidence withoutany regard to the evidence connecting the accused and the acts seems undulyantiseptic.
+
+[64]
+
+Dealing specifically with DNA, there are a number of cases in British Columbia that
+
+explicitly and implicitly treat DNA as an item of similarity: see R v. Pickton, 2009 BCCA 220,260 C.C.C. (3d) 132; R. v. Butorac, 2013 BCCA 421, 301 C.C.C. (3d) 504; R. v. Sharma, 2014
+BCSC 658; R. v. Kembo, 2014 BCCA 307, 359 B.C.A.C. 172; R. v. Legebokoff, 2014 BCSC
+1636.
+
+[65]
+
+In Sharma, the Court articulated that, in some cases, the evidence connecting the accused
+
+to the act is legitimately considered on the similarity inquiry. The Court held, at para. 54, that
+“the appearance of the offender may be part of the finding that the offences were likely allcommitted by the same person, but may also of course serve to link the accused to some or all ofthe offences”.
+
+[66]
+
+Likewise, in the multiple-murder cases of Pickton and Kembo, the British Columbia
+
+Court of Appeal endorsed the similarity analyses undertaken by the respective trial judges, whichincorporated evidence linking the accused to the victims (see Pickton, at paras. 82–83, 89–91;Kembo, at paras. 22–23, 26–29, 31). In Pickton, this feature arose specifically from the DNA
+evidence.
+
+[67]
+
+In Kembo, the British Columbia Court of Appeal upheld the admission of count-to-count
+
+similar fact evidence, specifically noting, at para. 23, that the trial judge incorporated asignificant degree of the evidence linking the accused to the victims in her similarity analysis :
+
+evidence of the manner in which his or her acts were committed:
+
+The system in this case is one where Mr. Kembo cultivated personalrelationships with each victim for a period of years with the ulteriormotive of exploiting those ties to benefit financially after he killed hisvictims. It is thus challenging to consider the similarities in a vacuumbefore making links to Mr. Kembo. Many of the similar acts that illustratethe system or pattern began in each case, long before the murder, andthose preliminary acts all surround the relationship between the victim andMr. Kembo. The murders are the culmination of a system that began withthat relationship with Mr. Kembo. The nature of the evidence does notlend itself to a bright line. The distinctive pattern or abnormal propensityis largely in the cultivation and exploitation of relationships. This patternis so similar in each case that, viewed objectively, it gives rise to animprobability of coincidence.
+
+[68]
+
+Finally, in Legebokoff, the trial judge relied upon the decisions of the Ontario Court of
+
+Appeal in Woodcock and MacCormack to find that, in some cases — and certainly in the casebefore him — evidence that links an accused to a crime, such as DNA, is relevant on thesimilarity analysis. He held, at paras. 117–21, as follows:
+Although Arp seems to make it clear that the similar fact analysis should proceedin two steps, the first of which is to evaluate the similarities between the varioustransactions without considering the evidence linking the accused to each similaract, subsequent authority suggests this is not a rigid or absolute rule.
+The Ontario Court of Appeal in Woodcock indicated [at para. 81] that not everycase will fit neatly into the two part test, which applies only “in general”:
+Based on Arp, in general, only if the manner of commission of the allegedsimilar acts tends to suggest the likelihood that all the alleged acts werecommitted by the same person is it necessary to then take the next step ofassessing the factors which connect the accused to the alleged acts. Thereception of the tendered similar fact evidence ultimately requires the trialjudge to be satisfied on both inquiries. I should not be taken, however, assuggesting that there will never be cases where evidence concerning theinvolvement of the accused in the alleged similar acts would not bematerial to the assessment of the similarities of the alleged acts. Theremay well be cases, as implicitly recognized by Cory J. in Arp, whereexamination of the factors which connect the accused to the alleged actsshould form part of the assessment of the manner of commission of thealleged similar acts and, hence, of the initial determination of whether the
+
+[The trial judge] then recognized [at para. 65] the two-step test in Arp could notbe inflexibly applied in this case, stating:
+
+tendered evidence is admissible: see, for example, R. v. Dickinson (1984),40 C.R. (3d) 384 (Ont. C.A.) at 389. This, however, was not such a case.
+
+Similar conclusions were reached by another panel of the Ontario Court of Appealsix years later in MacCormack, 2009 ONCA 72 at para. 45 and 80-81.
+This is a case which though factually different than Kembo raises similarchallenges to a process of examining the similarities in a vacuum withoutconsidering the links to Mr. Legebokoff.
+As an example, the tools with their links to both the blood and DNA of thevictims and potentially the injury patter[n]s were recovered from locations underMr. Legebokoff's control or his possession and form an important part of theconsideration of whether there is a modus operandi at work.
+
+This evidence and the DNA evidence itself does not lend itself to a bright linedivision and clearly considered separation by application of the two part test.
+[Emphasis added.]
+Crown Position
+
+[69]
+
+To the Crown, the evidence of the attempt murder of Mr. Côté is admissible at trial as
+
+relevant to
+
+a
+
+number of distinct issues,
+
+including planning and deliberation, unlawful
+
+confinement, and modus operandi — the predominant issue being the identity of the murderer. Itsubmits that the attempt murder bears such significant similarities to the charged murders that itmeets the high threshold of similar fact relevant to identity. On each of the remaining issues
+(with the possible exception of narrative), the probative value of the attempt murder outweighsits prejudicial effect.
+
+[70]
+
+Referring to the Handy factors, as set out above, the Crown submits that a consideration
+
+of the similarities between the two offences makes a persuasive case for the admissibility of theevidence of the attempt murder.
+
+[71]
+
+Although not proximate in time, the two offences spanning nearly eight years, the
+
+evidence going to the rarity of this kind of crime displaces the temporal gap. Evidence from the
+
+[Emphasis added in original.]
+
+Ottawa Police Service suggests that no similar attacks or murders perpetrated in the course ofhome invasions, numbering 638 incidents, have been committed over the last 17 years in Ottawa,
+
+asserts that this also goes to the third factor, number of occurrences of the similar acts.
+
+[72]
+
+Additionally, the Chief Coroner of Ontario would testify as to the extreme rarity of
+
+crimes involving the bagging of heads to promote death by asphyxiation.
+
+[73]
+
+On the extent of the similarities between, and the circumstances surrounding, the similar
+
+acts, the Crown submits that the manner of commission of the two offences meets the definitionof a unique trademark or signature. Each incident involved elderly victims attacked in their ownapartments within secure condominium buildings, bound and subsequently suffocated withplastic bags, and robbed of their credit cards.
+
+[74]
+
+Finally, the Crown posits that DNA evidence found at both crimes, having been
+
+compared to one another prior to when a sample of the Accused’s DNA was seized, may beconsidered at the similarity stage of the analysis. The Crown’s reasoning is that, having not yetbeen linked to the Accused, the Court need not enter into the linkage stage of the analysis toconsider such a striking similarity, enhancing improbability of coincidence. In fact, this mayproperly give meaning to the fifth Handy factor — “any distinctive feature(s) unifying theincidents” — which appears to broaden the inquiry from solely the “manner of the commissionof the offences”, and the second Handy factor, namely the “extent to which the other acts aresimilar in detail to the charged conduct”.
+Defence Position
+
+[75]
+
+While conceding that there is evidence which may link the accused to the similar acts,
+
+and acknowledging that there are similarities between the two offences, the Defence submits thatthe Court cannot reliably conclude that it is likely that the attempt murder was committed by thesame person that committed the Garon/Beniskos murders. Given some significant differencesbetween the two offences, it is not implausible to suggest that the similarities, separated by sucha lengthy period of time, could be the product of coincidence.
+
+counteracting any effect that the passage of time may have on the similarity analysis. The Crown
+
+[76]
+
+Conducting a holistic assessment of the likelihood that one person committed both
+
+offences, the Defence submits that the accumulated differences, the sequence of the two crimes,
+
+[77]
+
+The two incidents, committed many years apart, involve victims whose characteristics are
+
+only vaguely similar. Whereas the Garons and Ms. Beniskos were active and healthy people,ranging from 73 to 78 years old, the 101-year-old Mr. Côté lived independently and hadsignificant mobility issues, requiring a walker to get around.
+
+[78]
+
+The Defence also points to the overwhelming prejudice that results from the admission of
+
+the similar fact evidence. Even before the alleged connection between the Accused and themurders was revealed, the attempt murder of Mr. Côté attracted national attention. Faced with anaccused who, it would be argued, attempted to murder a vulnerable, 101-year-old World War II
+veteran with such callous indifference to his life, no jury trying the Accused for an equallyabhorrent triple murder can be expected to maintain its dispassion. Further, the Defencemaintains that a limiting instruction cannot reasonably be expected to extinguish the jury’srevulsion.
+Analysis
+
+[79]
+
+I agree with the Crown that the proposed evidence meets the requisite level of relevance
+
+to justify engaging in a similar fact analysis.
+
+[80]
+
+Having regard to the appropriate level of analysis set out in R. v. Shearing, [2002] 3
+
+S.C.R. 33, at para. 60, warning against “an excessively mechanical approach” to the similarityinquiry, I am persuaded on a balance of probabilities that there is such a high degree of similaritybetween the acts that it is likely that they were committed by the same person. Furthermore, I
+find that there is some evidence, beyond mere opportunity, that the similar acts — here, thecommission of an attempt murder — were those of the same individual. I am bolstered in thisconclusion by the fact that the investigating officer in the Côté case, as soon as she becameaware of the details, immediately contacted the investigating officer in the Garon/Beniskoshomicides, believing they were perpetrated by the same individual.
+
+and the passage of time tend to suggest that the similarities are a product of coincidence.
+
+[81]
+
+In addition, were there any doubt that the same individual committed the similar crimes,
+
+the DNA evidence found at both crime scenes proves the point beyond any doubt. In this case,
+
+similarity: at the point in time they were collected, no linkage to the Accused had been made.
+The DNA evidence in this case is independent of linkage and may be relied upon as one of thesimilarities.
+
+[82]
+
+It strikes me that it would be counterintuitive to disregard this highly probative and
+
+reliable evidence in the similarity analysis. In my view, the DNA evidence clearly falls into thefifth factor set out in Handy, namely “any distinctive feature(s) unifying the incidents”.
+
+[83]
+
+In cases involving similar fact evidence, it is timely for courts to recognize that DNA
+
+occupies a special place in the law of evidence and cannot be ignored. Its utterly unique capacityto implicate those guilty of crimes and exculpate those not guilty of crimes must be recognized.
+
+[84]
+
+Notwithstanding these findings, I find that the admission of this evidence would result in
+
+overwhelming prejudice to the Accused that could not be cured by a jury instruction. Thisprejudice outweighs the highly significant probative value of the similar fact evidence.
+
+[85]
+
+This case is entirely unique in the sense that the attempt murder of Mr. Côté attracted
+
+international media attention. The Prime Minister of Canada at the time, Stephen Harper,commented that he was “appalled” by the incident. The Prime Minister’s wife commented onTwitter: “Honoured to travel to France last June with D-Day vet Ernest Côté. Horrified to readhe was robbed. Our thoughts are with him & his family.”
+
+[86]
+
+The Minister of Veteran Affairs at the time, Julien Fantino, a former chief of police for
+
+the City of Toronto, commented: “From my days in law enforcement, I dealt with a lot ofcriminals. This man’s a low-life. I have no respect for him.” He tweeted “Sending my prayers toErnest Côté, my friend & CDN hero. This thug should go to jail.”
+
+[87]
+
+Mr. Côté was lionized in the media:
+[He was a] 101-year-old decorated war vet.
+
+the DNA found at the scenes are items of evidence that are capable of being compared for
+
+He fought on the beaches of Normandy to bring peace to this world…. ColonelErnest Côté encountered another enemy in his own home Thursday morning inOttawa. Côté was robbed in a home invasion in his condo on Durham Private inNew Edinburgh. It happened when a man buzzed Côté’s condo, claiming to be anemployee with the city of Ottawa. Côté was tied up and robbed in a violent attackthat this war veteran faced with courage....
+…
+The suspect searched the apartment and made off with several items. Côté
+managed to free himself and call police.
+
+[88]
+
+CTV featured Mr. Côté in a 70th anniversary of the Normandy Landing and was referred
+
+to as “the longest surviving member of the Royal 22nd Regiment — the storied ‘Van Doos’ —
+which is marking its 100th anniversary.”
+
+[89]
+
+Minister Fantino commented on the outpouring of public support for the veteran and
+
+stated, “He represents and embodies what we all respect and respect [sic] about veterans”. Hestated thatthere’s something terribly, terribly objectionable to the idea of someonecommitting a crime against anybody who’s 101 years old.
+All elderly people have the right to enjoy their golden years in peace, unmolestedby criminals.
+But it’s especially true of a man who went to war and fought for his country.
+
+[90]
+
+Following the attack, Mr. Côté participated in a CTV television report concerning the
+
+incident, which was widely watched and disseminated. He described in detail his ordeal and howhe managed to pierce through the plastic bag that had been placed over his head, intended toasphyxiate him, and phone 911. He spoke of his strength of will, notwithstanding his advancedage.
+
+[91]
+
+Shortly after the attack, video evidence was released to the media by the police showing
+
+the suspect gaining entrance to the Côté apartment and thereafter attempting to access fundsbelonging to Mr. Côté at an ATM. The Accused was identified by family members. TheAccused’s image and identity again made national news. The arrest was praised by the PrimeMinister and the Minister of Veterans Affairs.
+
+[92]
+
+Mr. Côté died from natural causes approximately three months after being attacked in this
+
+apartment. The headline in the New York Times read: “101-Year-Old Veteran Who Survived
+
+The 101-year-old war veteran who was tied up and robbed in his Ottawa home inDecember, then left to suffocate with a plastic bag over his head, only to freehimself and call the police, has died of natural causes, Canadian news outletsreported on Thursday.
+The attack on the veteran, Ernest Côté, attracted national attention. The policeinvestigation led to the arrest of a suspect, Ian Bush, who was also charged lastweek with a 2007 triple murder involving a break-in and suffocation with plasticbags.
+
+[93]
+
+In addition to the pervasive publicity involving Mr. Côté, in the event the similar fact
+
+evidence was admitted, jurors would learn that the intended victim was not Mr. Côté, but PierreRichard. The journals found during the warranted search of Mr. Bush’s home reveal his intensedislike for any person the Accused perceived to be associated with liberal politics. I conceive thatthese facts would shock the jury, and would be incapable of being cured by direction from me. I
+fear the very real possibility of a “media circus” being created, which could prove highlydistracting to the jurors.
+
+[94]
+
+Against this backdrop, and considering that the case against the Accused involving the
+
+attempt murder of Mr. Côté is utterly overwhelming, it is not difficult to imagine that jurorswould be highly prejudiced against the Accused in the event the facts of the Côté attack wereadmitted as similar fact evidence. I am concerned that a warning not to use this evidence for thewrong purpose, such as to punish the Accused for the Côté attack, would fall on deaf ears, giventhe shocking circumstances involving the attack, and the overwhelming evidence, includingDNA evidence, linking the Accused to the attempt murder of Mr. Côté.
+
+[95]
+
+Justice Sopinka, writing for the majority in R. v. D. (L.E.), [1989] 2 S.C.R. 111,
+
+described, at p. 124, such a situation:
+In the present case, however, the similar fact evidence bore nearly the entireburden of proving the Crown’s case against the appellant on the acts charged. Thetrial judge was thus correct in not admitting this evidence. Its probative value wasnot sufficient to overcome its prejudicial effect.
+
+Home Invasion Dies in Canada”. The article goes on as follows:
+
+[96]
+
+To my mind, for the foregoing reasons, this would aptly represent an “exception” to the
+
+There may well be exceptions but as a general rule if there is such a degree ofsimilarity between the acts that it is likely that they were committed by the sameperson then the similar fact evidence will ordinarily have sufficient probativeforce to outweigh its prejudicial effect and may be admitted. [Emphasis added.]
+
+[97]
+
+This is one of those rarest of cases where the similar fact evidence, although not as
+
+serious as the conduct charged, simply overwhelms the ability of a jury to dispassionatelyconsider the facts relating to the subject charges. To admit the similar fact evidence wouldeffectively bear the burden of proof of the Garon/Beniskos homicides.
+
+[98]
+
+In my view, the admissible evidence implicating the Accused in the Garon/Beniskos
+
+homicides, including his DNA, permit the Crown to “prove its point” by means other than theuse of similar fact evidence (see Handy, at para. 83).
+
+[99]
+
+In the result, I exercise my discretion to deny the admission of the similar fact evidence.
+
+Defence Application to Exclude TCC FileBackground
+
+[100] As part of its case, the Crown intends to introduce the Accused’s Tax Court of Canada
+(“TCC”) file as evidence of the Accused’s grudge against the tax system following the dismissalof his appeal to the TCC in the early 2000s. The Crown insists that Mr. Garon, Chief Justice ofthe TCC until his retirement in 2004, personified the institution the Accused hated. It submitsthat the contents of the TCC file are relevant to the issues of identity, motive, relationshipbetween the Accused and Mr. Garon, animus, and context.
+
+[101] The Defence, in response, brings this application to deny its admission.
+
+[102] During its investigation into the Accused’s involvement in the 2007 murders, the policelearned that the Accused had previously been involved in a dispute with Revenue Canada relatedto a reassessment of his personal income tax returns from 1992 and 1993.
+
+general rule expressed in suggestion “(3)” of Arp, at para. 50:
+
+[103] Over the course of several letters written to either “Extortion Canada” or “ExtortionCanada, Shakedown Division” throughout 1996, the Accused took issue with Revenue Canada’s
+“grossly assessed” and that Revenue Canada has “continued to harass the above noted accountcontrary to the applicable statutes”.
+
+[104] Revenue Canada Appeals Division informed the Accused that his notices of objectionwere filed late and could not be accepted, to which the Accused replied “BULL SHIT” inoversized, bold font. In a subsequent letter, the Accused writes: “In addition your liabilityassessed jointly and severally, is $19,913.47. To avoid greater liability you must remit paymentimmediately.”
+
+[105] As a result of a phone conversation with a Collection Contact Officer, the Accused wasgiven a 30-day extension of time to file his objections. The Accused did not comply and, on the30th day, wrote back to the Officer requesting a further extension of time. His request wasdenied.
+
+[106] Several months later, on April 22, 1997, the Accused wrote to the TCC providing noticeof his disagreement regarding his tax assessments. Then, on November 13, 1997, the Accusedretained counsel, Andrew Rouse, who filed a formal objection to the Accused’s tax assessmentsfor 1992 and 1993.
+
+[107] On February 4, 1998, by order of then Chief Justice Couture of the TCC, the Accused’snotices of objection were deemed to be valid. Mr. Rouse then filed a formal Notice of Appealwith the TCC on the Accused’s behalf, and the appeal was set to be heard on October 25, 2000 inFredericton, New Brunswick.
+
+[108] On September 8, 2000, Mr. Rouse wrote to the Registrar of the TCC and requested achange of venue to Ottawa. The requested was granted, and the appeal was scheduled to be heardin Ottawa on January 16, 2001. Presumably, Mr. Rouse was no longer going to be acting for theAccused in relation to this matter.
+
+position that he owed an outstanding balance of $17,669.66, insisting that his taxes have been
+
+[109] On “Bush and Associates Consulting” letterhead, and citing “business reasons”, theAccused then requested a “date change”. The request to adjourn was denied on December 7,O’Connor of the TCC dismissed the appeal for failure to appear and the order was mailed to theAccused.
+
+[110] The last document attached to the Accused’s TCC file is a letter, dated July 30, 2001,faxed from “Bush and Associates” and addressed to “Mr. Alban Garon, Chief Judge”. The letterpurports to be a summons from the “High Court of Humanitarian Justice” and is signed by theRegistrar, “A. P. Day”. The body of the letter reads as follows:
+RE: Your letter dated December 7, 2000
+Ian Bush v. Her Majesty the Queen 1999-1545(IT)I
+NOTICE OF REVIEW
+TAKE NOTICE THAT a review of this decision has been scheduled to be heardon the 7th day of August 2001 at 9:30am at [the Accused’s then-residence],Orléans, Ontario.
+
+TAKE NOTICE THAT if you fail to appear at the time and place set for thisreview, the decision and its related decisions will be nullified for failure to appear.
+Signed at Orléans, Ontario this 30th day of July, 2001
+
+[111] The Accused’s TCC file being prima facie admissible, the Defence seeks to exclude it asnot properly falling within the scope of s. 23 [evidence of judicial proceedings] or s. 30 [businessrecords] of the Canada Evidence Act.
+Law
+
+[112] Section 23 of the Canada Evidence Act sets out the admissibility of evidence of judicialproceedings:
+23 (1) Evidence of any proceeding or record whatever of, in or before any court inGreat Britain, the Supreme Court, the Federal Court of Appeal, the Federal Courtor the Tax Court of Canada, any court in a province, any court in a British colony
+
+2000, and the hearing proceeded on January 16, 2001 in the absence of the Accused. Judge
+
+or possession or any court of record of the United States, of a state of the UnitedStates or of any other foreign country, or before any justice of the peace orcoroner in a province, may be given in any action or proceeding by anexemplification or certified copy of the proceeding or record, purporting to beunder the seal of the court or under the hand or seal of the justice, coroner or courtstenographer, as the case may be, without any proof of the authenticity of the sealor of the signature of the justice, coroner or court stenographer or other proofwhatever.
+
+[113] Section 30 deals with business records to be admitted in evidence:
+30 (1) Where oral evidence in respect of a matter would be admissible in a legalproceeding, a record made in the usual and ordinary course of business thatcontains information in respect of that matter is admissible in evidence under thissection in the legal proceeding on production of the record.
+…
+(12) In this section,business means any business, profession, trade, calling, manufacture orundertaking of any kind carried on in Canada or elsewhere whether for profit orotherwise, including any activity or operation carried on or performed in Canadaor elsewhere by any government, by any department, branch, board, commissionor agency of any government, by any court or other tribunal or by any other bodyor authority performing a function of government;….
+Defence Position
+
+[114] The Defence classifies the TCC file into two categories: the correspondence between theAccused and the TCC, save and except the “summons” addressed to Mr. Garon, on one hand;and the “summons”, on the other.
+
+[115] With respect to the former, the Defence acknowledges their reliability and argues that thecorrespondence is simply not relevant to the murders for which the Accused is being tried.
+Identifying the evidence as going to motive, the Defence argues that there is an absence of arelationship between the Accused and Mr. Garon, such that the TCC file is not relevant as tomotive.
+
+[116] In the alternative, should the Court find that the correspondence is relevant, the Defenceasserts that the prejudicial effect of its admission outweighs its probative value.
+
+[117] Conversely, the last document attached to the TCC file, the “summons”, the Defenceargues, is a document that is neither reliable, nor trustworthy.
+
+[118] The Crown submits that the Accused’s TCC file, in its entirety, qualifies for admissionpursuant to s. 23 of the Canada Evidence Act as “evidence of any proceeding”.
+
+[119] Furthermore, the Crown submits that the TCC file is admissible under s. 30 of theCanada Evidence Act as a business record. Relying on the inclusive definition of “business” ins. 30(12), it argues that the collection and maintenance of records in the Accused’s TCC file cancome in under this exception.
+
+[120] To the Crown, the entire TCC file constitutes powerful, admissible evidence of motive,particularly where the Accused denies that he is responsible for the murders and, based upon theevidence heard during the preliminary inquiry, will present a defence of innocent association.
+Moreover, other items of evidence heighten the probative value of the TCC file. These includestatements from the Accused’s daughter that her father has an anti-government stance and hasfailed to pay his taxes, and the evidence that Mr. Garon received different and more severetreatment in the manner he was murdered.
+
+[121] Finally, the Crown submits that the evidence of the Accused’s alleged motive faroutweighs the prejudicial effect that may arise by the implication that the Accused failed to payhis taxes. The probative value is especially high given that the TCC file establishes the tangiblelink between the Accused and one of the three victims.
+Analysis
+
+[122] In my view, the TCC file is admissible pursuant to s. 23 of the Canada Evidence Act. It isa certified copy signed under the seal of the Tax Court of Canada. No resort to the provisions ofs. 30 is required.
+
+[123] The file is highly probative of the motive harboured by the Accused disparaging theTCC.
+
+Crown Position
+
+[124] The “summons” to Chief Justice Garon is unquestionably admissible. It is highlyprobative of the Accused’s contempt for the TCC and specifically links him to the most brutally
+
+[125] The probative value of the TCC file and “summons” to Chief Justice Garon greatlyoutweighs the prejudicial effect of its admission. Although the evidence may operateunfortunately to the detriment of the Accused, it cannot be said to operate unfairly.
+
+[126] In the result, the Application to Exclude TCC File is dismissed.
+Defence Application to Exclude PropertyBackground
+
+[127] During its investigation into the 2014 attempt murder and the identification of theAccused as the person who perpetrated the crime, the police obtained a warrant to search theAccused’s residence. Two warranted searches were performed: one on December 20, 2014; theother on January 20, 2015. The Crown seeks to introduce property seized as evidence at trial.
+
+[128] In light of my findings on the Similar Fact Application, the analysis relates only to thoseitems that are relevant and material to the Accused’s alleged commission of the triple homicide.
+Both parties agree that, absent an attack on the legality of the search, which did not occur here,any item seized is properly admissible where it meets the requisite degree of relevance andmateriality, and where the probative value of its admission outweighs its prejudicial effect.
+
+[129] Thus, the onus is on the Defence to establish a basis upon which to exclude any itemproffered by the Crown.
+Law
+
+[130] The concept of relevance was recently reviewed in R. v. Ansari, 2015 ONCA 575, 330
+C.C.C. (3d) 105, where Justice Watt expressed, at para. 104, the appropriate test:
+To be relevant, an item of evidence need not prove conclusively the proposition offact for which it is introduced. Nor does the evidence, to be relevant, need to
+
+beaten victim of the homicides committed on June 29, 2007, Alban Garon.
+
+[131] Such a definition encapsulates the long-established inclusionary policy in Canadiancriminal law enunciated by Chief Justice Dickson in R. v. Corbett, [1988] 1 S.C.R. 670, at p.
+697:
+I agree with my colleague, La Forest J., that basic principles of the law ofevidence embody an inclusionary policy which would permit into evidenceeverything logically probative of some fact in issue, subject to the recognizedrules of exclusion and exceptions thereto. Thereafter the question is one ofweight. The evidence may carry much weight, little weight, or no weight at all. Iferror is to be made it should be on the side of inclusion rather than exclusion andour efforts in my opinion, consistent with the ever‑ increasing openness of oursociety, should be toward admissibility unless a very clear ground of policy or lawdictates exclusion.
+Defence Position
+
+[132] The Defence argues that there is no factual or legal nexus between the property seized in2014/2015 and the murders committed in 2007. The evidence sought to be introduced bears norelationship to the issues in the case.
+
+[133] Given the passage of time involved, determining the ownership of the evidence and thedate of purchase of most of the items is not possible. The Defence submits that the evidenceconsists of mass produced items of unknown origin and ownership of no particular distinction. Infact, the Accused shared the residence with other family members, and thus any attribution ismere conjecture and speculation.
+
+[134] Even if the items can be attributed to the Accused, the Defence submits that the Crownhas not established that certain items seized, such as the notebooks decrying taxation, existed in2007.
+
+make the proposition of fact more probable than not. An item of evidence is notirrelevant simply because it can sustain more than one inference. The requirementof relevance is met where the item of evidence reasonably shows, “by theapplication of everyday experience and common sense[,] that the fact is slightlymore probable with the evidence than it would be without it….
+
+[135] The Defence submits that there is no demonstrable relevance to the items seized and thecommission of the murders. To permit guns, for example, to be admitted into evidence has a
+
+[136] Furthermore, the items serve no probative value given that the cause of the deaths isknown from the autopsy — strangulation and blunt force trauma — and the Crown intends torely on DNA and audio-visual evidence to link the Accused to the crime.
+
+[137] Finally, the Defence asserts that the prejudicial effect of adducing the items seized at trialoutweighs the probative value of their admission. If nothing else, the Defence argues that thejury will be diverted from the main issues by the complexity of the items and their actualsignificance to the issues at trial.
+Crown Position
+
+[138] In response, the Crown argues that significant links exist between specific items found atthe Accused’s property and the triple murders committed. These include a bag filled withequipment uniquely suited to home invasion, ensuring silence and obedience, overcomingresistance, binding, and suffocating victims with plastic bags. They also include notes,purportedly written in the Accused’s handwriting, setting out his unequivocal hatred for all formsof taxation and those who enforce the tax system.
+
+[139] A collection of correspondence between the Accused and the Canada Revenue Agencywas found among the Accused’s possessions, along with a note to call a “Craig” from the
+“CRA”. One document in particular, dated October 15, 2007, requests that the Accused file hisindividual income tax returns for the years 2000 to 2006.
+
+[140] Also found was a distinctive “fanny pack” and a pair of New Balance running shoes,which can both be linked to the date of the homicides, and a dark green (almost black) briefcasesimilar to that seen in OC Transpo video footage of Ottawa’s Hurdman station on June 29, 2007,corresponding to the date and time of the homicides.
+
+prejudicial effect that will cause impermissible propensity reasoning by members of the jury.
+
+[141] Thus, to the Crown, a number of items seized from the Accused’s residence are relevantto the commission of the triple murder.
+
+penmanship, the Crown intends to call every member of the Accused’s family to testify that theitems of interest did not belong to them and to identify the handwriting as being that of theAccused.
+
+[143] Finally, in response to Defence arguments concerning the availability of other evidence,the Crown argues that such an assertion is not a basis known to law for excluding probativeevidence that will assist the jury on any issue.
+Analysis
+
+[144] In my view, the items found are highly relevant and probative to the Crown theory thatthe Accused had a particular animus directed against the tax system, as well as the enforcementand payment of taxes. The deceased Alban Garon was situated at the apex of the tax system, asChief Justice of the Tax Court of Canada. The Accused’s writings are highly relevant to motive.
+
+[145] Respecting the items found in the black briefcase, the item that links the Accused to thehomicides is the “fanny pack” found inside the briefcase. The fanny pack found in 2014 isidentified to be the fanny pack seen in the OC Transpo video footage, which depicts anindividual walking from the Hurdman station at approximately 10:18 a.m. on June 29, 2007
+towards the Riviera apartments where the Garons resided, and returning at 11:19 a.m. Thatindividual has been identified by the Accused’s own son as being the Accused. He also identifiedthe “fanny pack” as belonging to his father.
+
+[146] The other contents of the briefcase are highly probative of the Crown theory that theassailant had the means to ensure the silence and obedience of the victims, the binding of thevictims, and the severe bludgeoning of the victims, particularly Alban Garon. The rubber glovesare consistent with evidence at the scene which indicated that blood in the carpet near the bodyof the victims had been washed. The twine used to bind the victims was determined to eitherhave originated from one of the spools found in the basement of the Accused’s residence or from
+
+[142] With respect to the issue of attribution, should the Accused not admit ownership or
+
+another twine “with indistinguishable construction”. Found in a computer laptop bag is anotebook with the “PROCESS” list, which is consistent with the method of the execution of the
+
+[147] The wallet and “I.D.” cards found in the den of the Accused, particularly identification inthe name of “Warren Yates” from “DHL Courier Services” is consistent with the statements ofMrs. Garon that an individual appeared at her door inquiring whether her husband was presentand that he was from UPS, but not UPS — in other words, a three letter courier company.
+
+[148] The dark green (almost black) “Cité collégiale” bag is consistent with the appearance ofthe dark green (almost black) bag carried by the individual at the Hurdman station on June 29,2007. It is also consistent with the observations of the witness Julio Santa Marta, employed toperform general maintenance for the Riviera apartments. Mr. Santa Marta saw an individualmatching the description of the Accused at approximately 11:00 a.m. on June 29, 2007 on one ofthe upper floors of the Riviera apartments occupied by the Garons and Ms. Beniskos. Mr. SantaMarta describes the bag carried by this individual as being “about maybe five inches thick, aboutsixteen inches long and maybe a foot high”. The bottom of the bag was soft and there seemed tobe heavy objects inside, making it bulge. The person carrying the bag was unknown to Mr. SantaMarta and appeared to have a “serious look” as if he were “afraid” of Mr. Santa Marta.
+
+[149] The bag carried by the individual at the Hurdman station appeared to be filled with heavyobjects and bulging at the bottom.
+
+[150] Police found certain photographs during the search of the Accused’s computer that theCrown seeks to introduce. One photograph depicts the Accused doing push-ups with a pair ofshoes beside him. The style of the shoes matches the style of the shoes worn by the individual inthe Hurdman station video. The shoes had a distinctive tread, similar to a particular model ofNew Balance running shoes. Tread marks were found going from the location of the washedblood stain in the Garon residence to the nearby bathroom. The tread marks match the NewBalance shoes seized from the Accused’s residence. Footprint impression evidence is routinelyaccepted by courts, unlike evidence of barefoot impressions in shoes, as was improperlyadmitted in R. v. Dimitrov (see R. v. Dimitrov (2003), 68 O.R. (3d) 641 (C.A.), at para. 40).
+
+crimes committed on June 29, 2007.
+
+[151] In my view, all the items sought to be introduced by the Crown are highly relevant andprobative of the theory that the Accused was the assailant, and should therefore be admitted.
+
+[153] In the result, the Defence Application to Exclude Property is dismissed.
+
+C. McKinnon J.
+Released: May 18, 2017
+
+[152] The prejudicial effect is clearly overborne by the probative value.
+
+CITATION: R. v. Bush, 2017 ONSC 2202
+COURT FILE NO.: 15-M7866
+DATE: 2017/05/18
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+HER MAJESTY THE QUEEN
+– and –
+IAN BUSH
+AccusedREASONS FOR DECISIONS ON PRE-TRIAL
+APPLICATIONS
+C. McKinnon J.
+Released: May 18, 2017
+

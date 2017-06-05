@@ -1,0 +1,76 @@
+SUPERIOR COURT OF JUSTICE – ONTARIO
+DIVISIONAL COURT
+RE:
+
+NORTH AMERICAN FINANCIAL GROUP INC. and others v. ONTARIO
+SECURITIES COMMISSION
+
+BEFORE:
+
+NORDHEIMER J.
+
+COUNSEL: S. Dewar & M. Bélanger, for the proposed interveners, Ian Smith, Scott FentonProfessional Corporation and Fenton, SmithR. Chapman, for the appellants/respondents on the motionM. Vaillancourt, for the respondent, Ontario Securities CommissionHEARD at Toronto: May 12, 2017
+
+EN D OR SEM EN T
+
+[1]
+Ian Smith, Scott Fenton Professional Corporation and Fenton, Smith bring this motion forleave to intervene in this appeal, brought by North American Financial Group Inc., NorthAmerican Capital Inc., Alexander Flavio Arconti and Luigino Arconti, from a decision of theOntario Securities Commission.1 By the time of the hearing, the parties had reached anagreement allowing the proposed interveners to intervene, subject to a couple of unresolvedissues, only one of which needs to be addressed in this endorsement.
+
+[2]
+The appellants asked that there be a term of the order that would prohibit the intervenersfrom appealing (or seeking leave to appeal) from any order that the Panel might make on theappeal. The interveners opposed any such term.
+
+[3]
+The appellants point to the decision in Gligorevic v. McMaster, [2010] O.J. No. 2848
+(S.C.J.) where D. Brown J. imposed such a term. It is not clear from the reasons in that case whythe term was imposed. However, one factor may be the fact, as I am advised by counsel, that,unlike the situation here, there were no parallel civil proceedings advancing negligence claims
+
+1
+
+Associate Chief Justice Marrocco made an order, pursuant to r. 13.03(1) of the Rules of Civil Procedure, R.R.O.
+1990, Reg. 194, designating me as the judge to hear and determine any motion for leave to intervene in thisproceeding.
+
+CITATION: North American Financial Group Inc. v. Ontario Securities Commission,2017 ONSC 2965
+DIVISIONAL COURT FILE NO.: 495/14
+DATE: 20170515
+
+-2-
+
+[4]
+It is important in this situation to remember that the interveners are being granted leave tointervene as parties under r. 13.01(1) of the Rules of Civil Procedure, R.R.O. 1990, Reg. 194 andnot as a friend of the court under r. 13.02. In my view, that is an important distinction for thepurposes of the issue that is raised before me.
+
+[5]
+
+Rule 13.01(1) reads:
+A person who is not a party to a proceeding may move for leave to intervene as anadded party if the person claims,
+(a) an interest in the subject matter of the proceeding;
+(b) that the person may be adversely affected by a judgment in the proceeding; or
+(c) that there exists between the person and one or more of the parties to theproceeding a question of law or fact in common with one or more of the questionsin issue in the proceeding.
+
+[6]
+In this case, the appellants contend that the adverse findings of the O.S.C. were made, atleast in part, due to the ineffective assistance of counsel. It should be easily seen from thatallegation that the proposed interveners satisfy each of the three criteria set out in r. 13.01(1),although satisfaction of only one of the criteria is sufficient.
+
+[7]
+It is typical where parties intervene as friends of the court to greatly restrict theirparticipation in the proceeding, including limiting the length of their facta, limiting the length oftheir oral submissions, and making them immune from any costs awards, whether favourable orunfavourable.
+
+[8]
+Where a person intervenes as a party, it seems to me that very different considerationsapply. An intervener, in that situation, should have the same rights as any other party. The onlyusual restriction would be that they may only participate in the issues that directly affect them.
+In this case, the alleged ineffective assistance of counsel issue will be argued as a discreet part ofthe overall appeal. That said, given that they are added as party interveners, I do not see anyreason in principle why they ought to be prohibited from appealing (or seeking leave to appeal)
+from an adverse determination of the issue in which they have the interest. In this case, forexample, the interveners would clearly be adversely affected if it should transpire that a decisionwas made allowing the appeal on the basis of ineffective assistance of counsel. Among otherreasons, it is possible that such a determination might give rise to res judicata or issue estoppelarguments in the solicitor’s negligence proceedings.
+
+[9]
+Further, it is clear that the appellants could appeal (or seek leave to appeal) from adismissal of their appeal, including a determination that ineffective assistance of counsel was notmade out. If that were to happen, the interveners should not have to rely on the O.S.C. torespond to that appeal, given the interest that the interveners have in that determination. It would
+
+against the lawyer involved. In this case, there are two outstanding civil claims for solicitor’snegligence being advanced by the appellants.
+
+-3-
+
+[10] It seems to me that, in the normal course, where an intervener is given leave to interveneas a party, the intervener should enjoy the same rights of appeal as any other party does, againrestricted to the issues in which their interests are engaged. While there may be cases where anintervener should not be afforded those rights of appeal, in my view, that would be the unusualresult, not the normal one. I note, in passing, that in Trempe v. Reybroek (2002), 57 O.R. (3d)
+786 (S.C.J.), Molloy J. permitted the former solicitor for the defendants to be added as a party ona motion for judgment brought by the plaintiffs “with all the same rights of participation as anyother party” (para. 27).
+
+[11] It is for these reasons that I declined to impose a term, in the order granting leave tointervene, that the interveners would not be allowed to appeal the ultimate decision on theappeal.
+
+NORDHEIMER J.
+
+DATE: May 15, 2017
+
+also appear to be counterproductive, in that situation, to require the interveners to bring yetanother motion for leave to intervene in the Court of Appeal.
+

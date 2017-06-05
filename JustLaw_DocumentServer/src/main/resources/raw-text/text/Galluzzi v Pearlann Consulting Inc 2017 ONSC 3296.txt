@@ -1,0 +1,197 @@
+CITATION: Galluzzi v. Pearlann Consulting Inc., 2017 ONSC 3296
+COURT FILE NO.: CV-14-00498084
+MOTION HEARD: 20170508
+
+RE:
+
+Salvatore Antonio Galluzzi, PlaintiffAND:
+Pearlann Consulting Inc. o/a Fine & Company, Chartered Accountants+,Defendant
+
+BEFORE:
+
+Master B. McAfee
+
+COUNSEL: James R. Olchowy for the Plaintiff, Moving PartyJordon Reiner for the Defendant and Proposed Defendant, Responding PartiesHEARD:
+
+May 8, 2017
+REASONS FOR DECISION
+
+[1]
+
+Further to my reasons for decision on the preliminary issue of privilege dated February 8,2017, the plaintiff’s motion for leave to amend the statement of claim, for service of afurther and better affidavit of documents and for a litigation timetable proceeded beforeme on May 8, 2017.
+
+[2]
+
+This is an action for wrongful dismissal. The plaintiff, an accountant, was dismissed fromhis employment on December 17, 2012, after having been employed for 5 years and 10
+months. Cause for dismissal is not alleged.
+
+[3]
+
+The statement of claim was issued on February 7, 2014. A notice of intent to defend wasdelivered on or about March 5, 2014. A statement of defence was delivered on or aboutApril 22, 2014.
+
+Leave to Amend the Statement of Claim
+
+[4]
+
+Rule 26.01 of the Rules of Civil Procedure provides:
+On motion at any stage of an action the court shall grant leave to amend apleading on such terms as are just, unless prejudice would result that could not becompensated for by costs or an adjournment.
+
+[5]
+
+Rule 5.04(2) of the Rules of Civil Procedure provides:
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+[6]
+
+Where an applicable limitation period has expired, a plaintiff cannot avoid the applicationof that limitation period by amending an existing claim to add a party or advance a newcause of action. Proposed amendments that constitute a new cause of action or theaddition of a party after the expiry of the relevant limitation period will not be permitted.
+The common law doctrine of special circumstances is longer applicable (see s. 21 of theLimitations Act, 2002, S.O. 2002, c. 24, as amended, and Joseph v. Paramount Canada’sWonderland, 2008 ONCA 469 (Ont. C.A.) at paragraphs 13, 25-26).
+
+[7]
+
+In Ascent Inc. v. Fox 40 International Inc., [2009] O.J. No. 2964 (Ont. Master), MasterDash describes a “cause of action” at paragraph 3:
+A “cause of action” has been defined as a “factual situation the existence of whichentitles one person to obtain from the court a remedy against another person. Thekey is whether substantially all of the material facts giving rise to the “new causeof action” have previously been pleaded or whether new facts are sought to beadded that are relied upon to support a new cause of action. A new cause of actionis not asserted if the amendments simply plead an alternative claim for reliefarising out of the same facts previously pleaded and no new facts are relied upon,or amount simply to different legal conclusions drawn from the same set of facts,or simply provide particulars of an allegation already pled or additional facts uponwhich the original right of action is based.
+
+[8]
+
+I will now turn to the proposed amendments. The proposed amendments can be groupedinto two main categories: claims pursuant to the Ontario Human Rights Code, R.S.O.
+1990, c.H.19, as amended, and the addition of David M. Fine as a defendant.
+
+[9]
+
+I am satisfied that the proposed amendments relating to further claims for relief pursuantto the Human Rights Code as set out at paragraphs 1f, 1g and 78 of the proposedamended statement of claim do not constitute new causes of action. In the originalstatement of claim damages are sought pursuant to the Human Rights Code at paragraph1e. In the original statement of claim the plaintiff pleads allegations concerning apoisoned work environment, although not using those specific words, at paragraphs 2936 and 78 – 82. In the original statement of claim the plaintiff pleads allegationsconcerning a failure to properly investigate complaints at paragraphs 38 and 85-86.
+Substantially all of the material facts that give rise to the further remedies set forth atparagraphs 1f and 1g of the proposed amended statement of claim have been previouslypleaded. In my view the amendments in this regard set out an alternative claim for reliefarising out of the same general factual matrix previously pleaded and not a new cause ofaction. Leave is granted to amend the statement of claim in this regard.
+
+At any stage of a proceeding the court may by order add, delete or substitute aparty or correct the name of a party incorrectly named, on such terms as are just,unless prejudice would result that could not be compensated for by costs or by anadjournment.
+
+I decline to exercise my discretion to grant leave to amend the statement of claim to addDavid M. Fine as a defendant. The plaintiff seeks to amend the statement of claim toclaim a declaration that the defendant and the proposed defendant David M. Fine werejointly the plaintiff’s employer (proposed amendments at paragraph 1, 1b, 7, 8a, andother proposed amendments referencing “the Employer”).
+
+[11]
+
+Based on the evidence before me, the plaintiff knew at all times who David M. Fine wasand knew David M. Fine’s role in the defendant. In is affidavit, the plaintiff states atparagraphs 23 and 24:
+On a human level, I rightfully felt that David Fine, as the human face anddirecting mind of Pearlann, was my boss and employer. He controlled my workflow and monitored my work as an accountant. He was more than an employee ofPearlann; he was the decision-maker.
+On a technical level, I understood that Pearlann, a corporation, was paying mysalary. When this litigation started, I further understood that Fine & Company wasthe business operating name for Pearlann, and that, as such Pearlann was the partywith which I had entered into my written employment agreement. But at all timesI understood, on a human and professional level, that David Fine was, insubstance – through the daily control he had over my employment – my trueemployer.
+
+[12]
+
+And at paragraph 39, the plaintiff states:
+As the facts I have already pleaded in my original Statement of Claim make clear,David Fine and Pearlann, together, functioned as my employer. All of mypersonal dealings as an employee, aside from my receipt of paycheques fromPearlann, were directly with David Fine himself. My employment contract wasspecifically with Fine & Company, but the human reality of the situation was thatmy boss was David M. Fine and he was inseparable from Fine & Company andPearlann.
+
+[13]
+
+The plaintiff agrees that David M. Fine could have been a defendant from the outset butargues that the addition of David M. Fine only became necessary when David M. Fine’salleged improper action of divesting the defendant of assets was discovered on or aboutFebruary 24, 2015 (see email of February 24, 2015). There is no proposed pleading thatDavid M. Fine improperly divested the company of assets. David M. Fine is sought to beadded on the basis of a common employer and the plaintiff’s evidence is that he alwaysfelt that David M. Fine was his employer.
+
+[14]
+
+To the extent that the plaintiff also argues that limitation period as against David M. Finehas not expired based on section 16(1.1) and (1.2) of the Limitations Act, I was notreferred to any claim or proposed claim as against David M. Fine personally formisconduct of a sexual nature or assault.
+
+[10]
+
+The plaintiff’s employment was terminated on December 17, 2012. Section 21 of theLimitations Act precludes adding a party after a limitation period has expired. Thelimitation period with respect to the addition of David M. Fine has expired.
+
+[16]
+
+The proposed amendment at paragraph 1e of the proposed amended statement of claimprovides the complete citation for the Human Rights Code and corrects the applicablesection number. This proposed amendment was not opposed.
+
+[17]
+
+The proposed amendment at paragraph 52 of the proposed amended statement of claimadds the word “health” after mental. There is no non-compensable prejudice as a result ofthis proposed amendment that adds a missing word.
+
+[18]
+
+The proposed amendment at paragraph 79 adds the words “mental disability.” Mentaldisability is pleaded in the original statement of claim (paragraph 78, 80, 87). There is nonon-compensable prejudice relating to this proposed amendment.
+
+[19]
+
+The proposed amendment at paragraph 92 updates the facts concerning mitigation. Thereis no non-compensable prejudice relating to this proposed amendment.
+
+[20]
+
+Leave is granted to amend the statement of claim with respect to the proposedamendments at paragraphs 1f, 1g, 78, 1e, 52, 79 and 92 only.
+
+Service of a further and better affidavit of documents of the defendant
+
+[21]
+
+The defendant, a corporation, served an individual affidavit of documents. Schedule B isnot itemized and Schedules C and D are blank. The defendant’s affidavit of documents isdeficient in these respects.
+
+[22]
+
+The plaintiff seeks an order that the defendant produce a further and better affidavit ofdocuments that includes the documents in the classes of documents listed in the letterfrom plaintiff’s counsel dated September 14, 2014.
+
+[23]
+
+To the extent that the succession arrangement and merger agreement with RosenbergSmith & Partners LLP referred to at paragraph 3 of the statement of defence is in writing,the agreement(s) shall be listed in a further and better affidavit of documents. Thedocument(s) are relevant based on that pleading.
+
+[24]
+
+On the motion, defendant’s counsel stated that if there are specific documents that theplaintiff seeks, he has no difficulty recommending that the documents be produced.
+
+[25]
+
+The evidence before me does not satisfy that the balance of the classes of records referredto in the letter are specific documents in existence that may have been omitted from thedefendant’s affidavit of documents (Rule 30.06). The motion for production of thebalance of the classes of records is dismissed, without prejudice to bring a further motionfollowing examinations for discovery.
+
+[15]
+
+A further and better affidavit of documents shall be served by the defendant that is inaccordance with Form 30B, that contains an itemized schedule B, completed schedules C
+and D, and lists any written succession agreement or merger agreement as referred to inthe statement of defence.
+
+Timetable
+
+[27]
+
+I am satisfied that the timetable proposed by the plaintiff in argument is reasonable. I alsoagree with the plaintiff’s submission that mediation ought to proceed before examinationsfor discovery in the circumstances of this case. The defendant did not make anysubmissions that the plaintiff’s proposal was unreasonable. The following timetable isordered:
+1. The amended statement of claim shall be served on or before 20 days fromtoday’s date;2. The amended statement of defence shall be served on or before 40 days fromtoday’s date;3. Any reply shall be served on or before 50 days from today’s date;4. A further and better affidavit of documents of the defendant shall be served onor before 60 days from today’s date;5. Mandatory mediation shall be conducted on or before 90 days from today’sdate;6. Examinations for discovery shall be conducted on or before 120 days fromtoday’s date; and,7. Any motions arising out of examinations for discovery shall be scheduled, notnecessarily heard, on or before 180 days from today’s date.
+
+Summary of Order
+
+[28]
+
+Order to go as follows:
+1. Leave is granted to amend the statement of claim with respect to the proposedamendments at paragraphs 1f, 1g, 78, 1e, 52, 79 and 92 of the proposedamended statement of claim only.
+2. Leave to amend the statement of claim to add David M. Fine as a defendant isdenied;3. The defendant shall serve a further and better affidavit of documents that is inaccordance with Form 30B, that contains an itemized schedule B, completed
+
+[26]
+
+schedules C and D, and lists any written succession agreement or mergeragreement as referred to in the statement of defence.
+
+i.
+
+The amended statement of claim shall be served on or before 20 daysfrom today’s date;
+
+ii.
+
+Any amended statement of defence shall be served on or before 40
+days from today’s date;
+
+iii.
+
+Any reply shall be served on or before 50 days from today’s date;
+
+iv.
+
+The defendant’s further and better affidavit of documents shall beserved on or before 60 days from today’s date;
+
+v.
+
+Mandatory mediation shall be conducted on or before 90 days fromtoday’s date;
+
+vi.
+
+Examination for discovery shall be conducted on or before 120 daysfrom today’s date;
+
+vii.
+
+Any motions arising out of examinations for discovery shall bescheduled, not necessarily heard, on or before 120 days from today’sdate.
+
+Costs
+
+[29]
+
+If any party seeks costs and if after reasonable attempts to agree on costs the parties areunable to agree, the parties may re-attend before me to speak to the issue of costs. Anyre-attendance to speak to costs shall be scheduled, not necessarily heard, on or before 120
+days from today’s date.
+
+Master B. McAfeeDate: May 29, 2017
+
+4. The following timetable is ordered for the balance of this proceeding:
+

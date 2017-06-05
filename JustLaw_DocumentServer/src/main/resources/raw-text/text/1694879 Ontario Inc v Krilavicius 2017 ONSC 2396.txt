@@ -1,0 +1,598 @@
+CITATION: 1694879 Ontario Inc. v. Krilavicius, 2017 ONSC 2396
+COURT FILE NO.: CV-14-513189
+DATE: 20170524
+
+SUPERIOR COURT OF JUSTICE
+1694879 ONTARIO INC.
+Plaintiff )
+) Krista Chaytor for 1694879 Ontario Inc. and
+- and ) Daryl Black
+ROMAS KRILAVICIUS, WILLIAM R.
+RUTHERFORD LIMITED,
+STEVE SANDERSON, BAFFO’S
+INCORPORATED, ROSS GRAY and
+) Jamie Sanderson, for Baffo’s IncorporatedJENNIFER GRAY
+Defendants )
+AND RE:
+) James Wortzman and John Ventrella for
+) Romas Krilavicius, Steve Sanderson,ROMAS KRILAVICIUS, STEVE
+) Jennifer Gray, William R. RutherfordSANDERSON and JENNIFER GRAY
+) Limited and Ross Gray
+Plaintiffs by Counterclaim )
+- and –
+1694879 ONTARIO INC. and DARYL
+BLACK
+Defendants by Counterclaim )
+AND RE:
+BAFFO’S INCORPORATED
+Plaintiff by Counterclaim )
+- and –
+1694879 ONTARIO INC. and DARYL
+BLACK
+Defendants by Counterclaim )
+) HEARD: January 24, 2017
+BETWEEN:
+
+ONTARIO
+
+KRISTJANSON J.
+
+[1]
+This is a decision on three summary judgment motions and cross-motions relating to thecommercial landlord’s claims for fraudulent removal of goods and chattels from Baffo’srestaurant contrary to s. 50 of the Commercial Tendencies Act, R.S.O. 1990, c. L-7, a wrongfuldistress and conversion counterclaim by Baffo’s Restaurant, and a counterclaim for assault andabuse of process relating to events the evening that chattels were removed from the restaurant.
+
+[2]
+Baffo’s operated a restaurant on premises leased from the commercial landlord, 1694879
+Ontario Inc. Baffo’s was behind on the rent in January, 2014. There is no dispute that goods andchattels belonging to Baffo’s were removed from the leased premises on January 8, 2014. Theowner of Baffo’s, Aldo Buccioni (“Aldo”) was present, as were the five defendants RomasKrilavicius (“Romas”), Steve Sanderson (“Steve”), Ross Gray (“Ross”), Jennifer Gray
+(“Jennifer”), and trucks belonging to William R. Rutherford Limited (“Rutherford”) (collectively
+“the Personal Defendants”). There were 15 to 20 other unidentified individuals on the premises.
+Goods were being loaded onto trucks parked outside of Baffo’s restaurant when the Landlord’spresident, Daryl Black, and three of Black’s representatives, Tim Ayling, Dave Yellowlees andAndré Paquette, arrived at the restaurant that evening.
+
+[3]
+After receiving two phone calls, three officers from the Ontario Provincial Policeattended at Baffo’s and brokered an agreement between Aldo and Black which allowed for theremoval of goods and chattels that had already been loaded into vehicles, and certain items fromthe main floor.
+
+[4]
+The following day, the Landlord and Black retained a locksmith to change the locks, aswell as padlocking and chaining the doors, thereby preventing Aldo and Baffo’s from gainingaccess to the leased premises, or carrying on its ordinary business from the leased premises. Atthe same time, the Landlord and Black purported to exercise a distress over all of Baffo’s goods,chattels, trade fixtures and leasehold improvements in the leased premises.
+
+[5]
+Nine months after the lockout and distress, the Landlord accepted an unsolicited offer tobuy the leased premises. It sold Baffo’s distrained goods to the buyer for an additional sum of
+$25,000.
+
+[6]
+The Personal Defendants have brought a motion for partial summary judgment seekingan order dismissing the Landlord’s action against them for wilfully and knowingly aiding orassisting Baffo’s in the fraudulent removal or concealment of goods and chattels pursuant tosection 50 of the Commercial Tenancies Act (“Act”). Baffo’s has brought a cross-motion forsummary judgment dismissing the fraudulent removal claim as against it, and for judgment onthe wrongful distress/conversion counterclaim against the Landlord and Daryl Black. TheLandlord has brought cross-motions for summary judgment seeking judgment against the
+
+REASONS FOR JUDGMENT
+
+Personal Defendants and Baffo’s on the fraudulent removal claims. The Personal Defendantsbrought a cross-motion for summary judgment on the abuse of process and assaultcounterclaims, while the Landlord and its president, Daryl Black, sought summary judgmentdismissing the counterclaims, although these were not argued due to insufficient time allocatedfor the motions.
+
+[7]
+I grant summary judgment to dismiss the fraudulent removal claims against the PersonalDefendants. I grant summary judgment to Baffo’s on the wrongful distress claim, and direct areference to a Master for the assessment of damages. I dismiss the fraudulent removal claimagainst Baffo’s.
+Issues
+
+[8]
+
+The issues before me are:
+(1)
+
+What is the test for summary judgment, and is the test met here?
+
+(2)
+
+Did the Personal Defendants wilfully and knowingly aid or assist Baffo’s in thefraudulent removal or concealment of chattels contrary to section 50 of theCommercial Tenancies Act?
+
+(3)
+
+Were there arrears of rent owing by Baffo’s, and if so, how much was owingJanuary 8, 2014?
+
+(4)
+
+Did Baffo’s fraudulently remove goods and chattels contrary to section 50 of theCommercial Tenancies Act?
+
+(5)
+
+Did the Landlord have the right to distrain against Baffo’s chattels? If so, was thedistress wrongful, as alleged by Baffo’s, or reasonable, as alleged by the Landlordand Black?
+
+(6)
+
+If the Landlord levied wrongful distress, is Baffo’s entitled to damages, andshould an accounting or reference be ordered in the circumstances?
+
+(7)
+
+Is the Landlord liable in conversion?
+
+(8)
+
+If the distress was wrongful, is Black personally liable?
+
+(9)
+
+Are punitive damages warranted in the circumstances?
+
+(10)
+
+Are substantial indemnity costs warranted in the circumstances?
+
+[9]
+These summary judgment motions are really a trial-in-two-boxes.
+The seventeenaffidavits with exhibits, contained in the seven motion records, cross-motion records andsupplementary records include:
+
+From the Personal Defendants: nine affidavits, two affidavits from each of Romas, Ross,Jennifer, Steve, and an affidavit from a legal assistant attaching documents;From Baffo’s: two affidavits of Aldo; andFrom the Landlord/Black: Six affidavits, three affidavits of Black and affidavits ofBlack’s associates, Dave Yellowlees, Tim Ayling, Andy Paquette.
+
+[10]
+Ten transcripts of cross-examinations on affidavits were provided to the court, as well asa brief of undertakings, under advisements, refusals and exhibits. There are 29 volumes ofmaterial before me, yet the case was scheduled for and argued in a day. There was insufficienttime to argue the abuse of process/assault summary judgment motions.
+
+[11]
+I set out below facts common to many of the issues. In some cases, detailed discussion ofrelevant facts is contained with the issues, given the volume of materials and consequentcomplexity of the facts.
+Issue #1: Test for Summary Judgment
+
+[12] Rule 20.04(2)(b) provides that the court shall grant summary judgment if “the parties agreeto have all or part of the claim determined by a summary judgment and the court is satisfied thatit is appropriate to grant summary judgment”. All of the parties agreed that the motions andcross-motions should be determined by way of summary judgment, save for the damages claimby Baffo’s on the wrongful distress/conversion claim, as the extensive evidentiary record wouldenable the motions judge to decide all issues in dispute. I must determine that the case isappropriate for summary judgment notwithstanding the agreement of the parties: Anjum v. JohnDoe, 2016 ONSC 7784, 2016 CarswellOnt 19599, at para. 21.
+
+[13] Rule 20.04(2)(a) of the Rules of Civil Procedure provides that the court shall grantsummary judgment if: "the court is satisfied that there is no genuine issue requiring a trial withrespect to a claim or defence." In Mayers v. Khan, 2017 ONSC 200, 2017 CarswellOnt 253,Justice Glustein summarized the Hryniak principles as follows at para. 18:
+i)
+Summary judgment must be interpreted broadly, favouring proportionalityand fair access to the affordable, timely and just adjudication of claims. It is nolonger merely a means to weed out unmeritorious claims but rather a “legitimatealternative means for adjudicating and resolving legal disputes” (Hryniak, atparas. 5 and 36);ii)
+An issue should be resolved on a motion for summary judgment if themotion affords a process that allows the judge to make the necessary findings offact, apply the law to those facts, and is a proportionate, more expeditious and lessexpensive process to achieve a just result than going to trial (Hryniak, at paras. 4
+and 49);
+
+iii)
+On a motion for summary judgment, the judge must first determine if thereis a genuine issue requiring a trial based only on the evidence before the judgeand without using the judge’s fact-finding powers. If there appears to be a genuineissue requiring a trial, the judge should then determine if the need for a trial canbe avoided by using the powers under Rules 20.04(2.1) and (2.2) (Hryniak, atpara. 66); andiv)
+The standard for determining whether summary judgment will provide afair and just adjudication is not whether the procedure is as exhaustive as a trial,but rather “whether it gives the judge confidence that [the judge] can find thenecessary facts and apply the relevant legal principles so as to resolve the dispute”
+(Hryniak, at para. 50). A judge must be confident that he or she can fairly resolvethe dispute (Hryniak, at para. 57).
+
+[14] The court has before it a very full evidentiary record, including 17 affidavits andtranscripts of ten cross-examinations. A court is entitled to assume that the record contains allthe evidence that the parties would present if the matter proceeded to trial: Sweda Farms Ltd. v.
+Egg Farmers of Ontario, 2014 ONSC 1200 (ONSC) at paras. 26-27; aff'd 2014 ONCA 878 (Ont.
+C.A.).
+
+[15] I am satisfied that the record provides me with the necessary evidence in order toadjudicate the dispute in a timely, affordable and proportional manner under rule 20.04(2). I havedetermined that there is no genuine issue requiring trial, and I am satisfied that I can find thenecessary facts and apply the relevant legal principles so as to resolve the motions and crossmotions. For the reasons set out below I grant summary judgment as there is sufficient evidenceto fairly and justly adjudicate the disputes, and summary judgment is a timely, affordable andproportionate procedure. I direct a reference on damages for wrongful distress and arrears owingas at January 8, 2014.
+Issue #2: Fraudulent Removal – Wilful and Knowing Aid or Assistance
+
+[16]
+I will first review the facts and law relevant to the Landlord’s claim against the PersonalDefendants for wilful and knowing aid or assistance in fraudulent removal of a tenant’s goodsand chattels contrary to Section 50 of the Commercial Tenancies Act.
+
+[17] Section 50 of the Commercial Tenancies Act imposes a penalty of twice the value ofgoods fraudulently removed on persons who wilfully and knowingly aid or assist a tenant inremoving its goods from a premise to defeat a landlord’s ability to distrain them. Sections 48(1)
+and 50 of the Act provide:
+48.(1) Where any tenant … of any … lands, upon the demise or holding whereofany rent is reserved, due, or made payable, fraudulently or clandestinelyconveys away, or carries off or from the premises the tenant’s goods orchattels to prevent the landlord from distraining them for arrears of rent so
+
+reserved, due, or made payable, the landlord or any person lawfully empoweredfor that purpose by the landlord, may, within thirty days next ensuing suchconveying away or carrying off, take and seize such goods and chattels whereverthey are found, as a distress for such arrears of rent, and sell or otherwise disposeof them in such manner as if they had actually been distrained by the landlordupon such premises for such arrears of rent.
+...
+50.
+If a tenant so fraudulently removes, conveys away or carries off thetenant’s goods or chattels, or if any person wilfully and knowingly aids orassists the tenant in so doing, or in concealing them, every person so offendingshall forfeit and pay to the landlord double the value of such goods or chattels, tobe recovered by action in any court of competent jurisdiction. [emphasis added]
+
+[18] Section 50 is a penalty provision imposed upon parties who wilfully and knowingly assista tenant in removing its goods from a premise to defeat a landlord’s ability to distrain them.
+
+[19] In order to establish liability of the third parties, the Personal Defendants, the burden ofproof on the Landlord is to establish, on a balance of probabilities, that:
+(a)
+
+The tenant is in arrears of rent;
+
+(b)
+
+The tenant has fraudulently removed, conveyed or carried off the tenant’s goodsor chattels;
+
+(c)
+
+The tenant did so to prevent the landlord from distraining for the arrears of rent;and
+
+(d)
+
+The third parties willfully and knowingly aided or assisted the tenant infraudulently removing or concealing the goods and chattels with the intent ofpreventing the landlord from distraining against them.
+
+[21] Even if a Landlord can establish that the removal of goods from a premises was wilfuland in breach of the lease, it does not necessarily follow that the removal of the property wasfraudulent: Amexon Property Management Inc. v Unique Benefits Group Corp., 2006
+CarswellOnt 3834, at para 70.
+
+[23] In light of this, I first examine the issue of rental arrears, and then turn to the role of eachof the Personal Defendants with respect to the events of January 8, 2014.
+Background Facts
+(1)
+
+Baffo’s and the Landlord
+
+[24] Baffo’s Inc. was owned by Aldo Buccioni. It operated a restaurant, Baffo’s Pizza andPasta, in Bolton. Baffo’s leased the premises from the 1694879 Ontario Ltd. (the “Landlord”), acompany owned by Daryl Black, a defendant by counterclaim. Baffo’s took possession of thepremises in 2009, and made extensive renovations and leasehold improvements to the premisesbetween 2009 and 2013. Baffo’s and the Landlord had two leases, expiring in 2019 and 2020.
+
+[25] The Leases provided that the tenant would be in default if it had failed to pay rent for aperiod of 15 consecutive days, regardless of whether demand for payment had been made
+(Article 9 of 2009 Lease, Article 10 of 2010 Lease). On default, the Leases provided that theLandlord “shall have the right to terminate this Lease and to re-enter the premises and deal withthem as he may choose.” The Leases also provided that if the Landlord chose to waive his rightto exercise the remedies available under the leases or at law, “the waiver shall not constitute acondonation of the Act of default, nor shall the waiver be pleaded as an estoppel against theLandlord to prevent his exercising his remedies with respect to a subsequent” act of default, andany waiver must be in writing and signed by the Landlord. The parties entered a LeaseAmending Agreement in February, 2013, when the Landlord advanced moneys to Baffo’s,secured by a promissory note.
+(2)
+
+The Rental Arrears on January 8, 2014
+
+[26] There is a dispute between Baffo’s and the Landlord as to whether Baffo’s was in arrearsprior to January, 2104, and if so, the amount of arrears. There is a dispute about cheques cashedwith insufficient funds, charges for those cheques, differences on base rent, whether the landlordimproperly claims for TMI. The Landlord agreed that it improperly charged HST on the taxportion of the TMI payments under the lease, but has refused to advise the amount. I cannotresolve all these disputes on the written record, but I am able to decide a number of issues onthese motions without resolving this dispute.
+
+[27] In the Bailiff’s Notice of Distress dated January 9, 2014, the Landlord claimed for arrearsof rent owing in the amount of $97,231.91. However, Black’s first affidavit of February, 2016
+swore that the rental arrears were $30,171.56. Black’s second affidavit of June, 2016 then sworethat the rental arrears on January 8, 2014 were $36,919.48. Although the Landlord now takes theposition that the arrears prior to the January rent were approximately $21,634.05, dating back toOctober, 2012, it is clear that at all times prior to January, 2014, Baffo’s continued to remit rents
+
+[22] Whether or not a party has acted fraudulently or with wrongful intent in breach of Section50 of the Act is a question of fact based upon all of the circumstances: Nebete Inc. v. SanelliFoods Ltd., [1999] OJ No. 525 at paras 50 and 55.
+
+[28] Aldo’s evidence is that he believed he was current on the rent, although he acknowledgesthat the January rent was not paid on time. Aldo understood that the January rent was
+$14,908.39, but he takes the position that no rent was overdue other than the January rent. Forthe analysis of the summary judgment motions which I am able to decide, I use the Landlord’soverdue rent figure of $36, 919.48, without accepting that this was the amount of arrears owingas of January 8, 2014.
+
+[29] Baffo’s asserts the Landlord was holding the last month’s rent in the sum of $13,486.95;the Landlord asserts it held $11,163.20. Aldo advised the Landlord that it would be late withrental payment in January, due to CRA seizure of moneys in Baffo’s bank account.
+(3)
+
+The Events of January 8, 2014
+
+[30] There is no dispute that goods and chattels belonging to Baffo’s were removed from theleased premises on January 8, 2014. The following people were present on at Baffo’s on theevening of January 8, 2014: Aldo; the five Personal Defendants; Black; three of Black’sassociates, Tim Ayling, Dave Yellowlees and Andre Paquette; approximately 22 otherunidentified persons, and at least three officers from the Ontario Provincial Police who weredispatched after calls from Black and Jennifer (the “Police”), including Constable Sage.
+(4)
+
+Jennifer Gray
+
+[31] On January 8, 2014, Jennifer decided to run errands. She went to Village Shoe Repairlocated on Chapel Street adjacent to Baffo’s where she parked in one of the shop’s designatedparking spots, and then went to the bank. When she returned to her car, a truck and trailer hadparked along Chapel Street and blocked her car in its parking space. At approximately 5:34 p.m.
+Jennifer telephoned her father, Ross, for assistance in locating the driver of the trailer.
+
+[32] Ross was at in a Rotary Club meeting, and told her to ask Aldo if he could help. Jenniferwent to Baffo’s to ask Aldo if he knew the driver of the trailer. He advised Jennifer that he didnot know the owner, and requested that Jennifer assist him with putting some dishes into a boxwhile she waited for her vehicle to be unblocked. Jennifer, at Aldo’s request, packaged one boxwith dishware. Her evidence is that she never removed any goods from the premises. DarylBlack conceded on cross-examination that he never saw Jennifer remove anything from thepremises or load any goods into trucks, although he did observe her packing dishes into boxes.
+While Tim Ayling said in his affidavit that Jennifer “appeared to be actively involved in theloading of goods unto the truck”, on cross-examination he said that he saw Jennifer with one boxinside the premises, and he heard her giving directions.
+
+to the Landlord, who accepted the rents. There is also no written notification to Baffo’s in thematerials before me of rents outstanding, demands for payment, or other indications that as ofDecember, 2013, the Landlord took the position that Baffo’s had rental arrears in the amount of
+$21,634.05.
+
+[34] There is a dispute, which I do not need to resolve for the purposes of this motion, as towhether Black assaulted Jennifer. However, after the disputed event, Jennifer contacted herfather, Ross, at 17:55 and told him she had been assaulted by Black, who refused to remove thetrailer that was blocking her car. Ross told her that he would leave the Rotary Club meeting andcome to the premises, which he did. Ross advised Jennifer to contact the police by calling 911 ifshe felt threatened by Black. Jennifer called the police at 17:58 and reported that the Landlordhad blocked the gate and was “extremely violent.” The 911 operator told Jennifer that police hadalready been dispatched to the premises. Black had called the police at 17:48.
+
+[35] Although in his affidavit Black swore that Jennifer never raised the issue of her car beingblocked with him or his associate Tim, on cross-examination he agreed that she told him shewanted to move her car, and asked him to move the truck and trailer so she could go home. Heinstructed Andy Paquette to move it so that she could leave. Once her vehicle was unblocked,Jennifer left the premises and went home, before the agreement with the Police was finalized.
+
+[36] I find that Jennifer attended at the premises on January 8, 2014 by coincidence. Prior toher attendance she had no knowledge of the fact that any items were being removed from thepremises, and had not spoken to Aldo or anyone else about their attendance at the premises onthat day. She assisted in packing, but did not remove any chattels from the premises. She had noknowledge of Baffo’s financial situation, and did not know that it was in arrears of rent. She didnot have the intent required under s. 50 of the Act, and did not knowingly aid or assist in afraudulent removal. I dismiss the section 50 claim against Jennifer.
+(5)
+
+The Police and the Agreement
+
+[37] On January 8, 2014, Aldo and Black came to an agreement (with the assistance of thePolice) that the items already loaded into the trucks supplied by Rutherford and the goods on themain floor of the premises could be removed from the premises, with the rest of the goods andchattels to remain at the premises until the lawyers for Baffo’s and the Landlord could discussthe matter (the “Agreement”). In accordance with this Agreement the goods on the main floorwere loaded, and the Rutherford trucks departed the evening of January 8. Black acquiesced tothis and it occurred in his presence and the presence of the Police.
+
+[38]
+
+The Agreement as set out in the Police notes states:
+“In order to avoid potential conflict [between] parties tonight, suggested thatparties deal with matter with lawyers present tomorrow, before property isremoved from building. Advised that this is their decision and was up to them onhow to handle matter. Both parties agreed that they would contact each other to
+
+[33] Black arrived at Baffo’s between 5:30 and 6 p.m. When Black arrived, Jennifer learnedthat the truck trailer was owned or controlled by Black or his representatives. Black refused toremove the truck trailer despite repeated requests, and admitted that he was acting aggressivelyby screaming and yelling at all those in attendance at the premises, including Jennifer.
+
+schedule a meeting with lawyers tomorrow. Agreed that property on mainlevel…could be taken out tonight and that the rest would be dealt with later.
+Parties were cooperating and understand that Police are not the decision maker tolandlord/tenant disputes. Tenants’ workers (15-20) removing property into trucksand landlord present during process.
+Parties came to an agreement [with] respect to the items remaining in therestaurant and what can be removed out of the place tonight. [Approximately] 1015 [people] at location to help move items out. P.C. Sage spoke to both parties.
+Stood by while items moved out from ground floor restaurant.”
+
+[39] The Agreement was reached through discussions among Aldo, Black, and ConstableSage. Aldo deposed that the terms of the Agreement were that:
+(a)
+Baffo’s was free to remove and all goods and chattels that had alreadybeen loaded into vehicles or that were on the first floor of the premises;
+(b)
+
+No further goods would be removed on the evening of January 8, 2014; and
+
+(c)
+Baffo’s and the Landlord would sort the matter out with their lawyers onJanuary 9, 2014.
+
+[40] Black swore that he never entered into the Agreement on the terms expressed by Aldoand in the Police notes, and that during the meeting between him, Aldo and the Police, he wasgiven “limited choice” with respect to the goods and chattels already removed from the premises.
+Black’s evidence is that the terms of the Agreement were (contrary to Aldo’s understanding andthe Police notes) that the doors to Baffo’s would be locked; Aldo would undertake not to returnthrough the night; and nothing would leave the Baffo’s until the parties’ lawyers had theopportunity to discuss the matter.
+
+[41] Black has also denied that he agreed to allow Aldo to remove the goods or chattels thathad already been loaded onto the trucks and has asserted that that version of the Agreement asset out by Aldo and Constable Sage was merely their “opinion.”
+
+[42] Even if the position of Black with respect to the terms of the Agreement is accepted,Black has conceded that following the private meeting with Aldo and the Police where theAgreement was reached, he consented to certain items being moved and loaded onto the trucks;he never “raised a stink” or advised the people in attendance that they could not move the trucksor that the “stuff” inside the trucks had to be put back into the premises; he never said that thetrucks could not leave the premises; he facilitated the trucks’ departure by removing the vehiclesthat were blocking them; and he was present when the trucks left.
+
+[43] Black agreed that he saw Constable Sage speaking to Aldo, Romas and Ross, but that hecould not hear what Constable Sage was saying as he was not a party to that conversation.
+
+[44] Each of the Personal Defendants, aside from Jennifer Gray who had already left thepremises have, under oath, sworn to the fact that (1) any goods removed in their presence onJanuary 8, 2014, were removed in accordance with their understanding of the Agreement, eithercommunicated to them by the Police or by Aldo, and (2) the removal was in the presence ofBlack and the Police, and without objection by Black. I accept this evidence.
+
+[45] While Black gave evidence that he never consented to or accepted the removal of thegoods and chattels that had been loaded onto the vehicles, Black, on behalf of the Landlord, inthe presence of the Police, consented to the trucks leaving and instructed his people to movevehicles that were blocking the trucks. Black’s conduct is consistent with the evidence of theAgreement as recorded in the police notes, and the evidence of Aldo, Ross, Steve and Romas.
+
+[46] Romas (and Rutherford) admitted to assisting in the removal of goods from the premiseson January 8, 2014, but deny that the removal was done with the wrongful or fraudulent intentrequired by Section 50 of the Act because the removal was after the Agreement, and theLandlord consented to the removal.
+
+[47] Black has admitted that he does not know who loaded any goods into the trucks and/orwhat goods were specifically loaded prior to his arrival at the premises. Black has also admittedthat following his attendance at the premises on January 8, 2014, no goods were removed out ofthe parking lot until after the Police arrived. There is no evidence that the Personal Defendantsremoved goods and chattels from Baffo’s before the police arrived. Therefore, for the purposesof the summary judgment motion brought by the Personal Defendants to dismiss the actionagainst them, the critical time for analysis is the time between the each arrived at the premisesand the time they departed the premises, as well as their actions while on the premises. These aredescribed below.
+(6)
+
+Ross Gray
+
+[48] On the evening of January 8, 2014, Ross was the chair of a Rotary Club meeting todiscuss an annual charity golf tournament. The meeting commenced at 17:30 at a restaurant inBolton. These meetings typically take 2 to 3 hours to conduct and, given Ross’ position as chair,he had no intentions of leaving the meeting that evening. Ross attended at the premises onJanuary 8, 2014 after getting a call from his daughter, Jennifer, who stated that she had beenassaulted by Black.
+
+[49] I accept Ross’ evidence that prior to being contacted by Jennifer and his arrival at thepremises, he had no knowledge that any goods were being removed or that Aldo planned to shutdown Baffo`s. I find he arrived at the restaurant on January 8, 2014, for the sole purpose ofassisting his daughter, Jennifer. Ross arrived at about 18:15, and never removed or assisted in theremoval of any goods.
+
+[50] Black, on cross-examination, admitted that between his arrival (prior to Ross’ arrival) andthe arrival of the Police no goods were removed out of the parking lot and he never saw Ross
+
+“put anything in a box or carry anything to a truck or remove any goods from the premises”.
+Ross’ evidence of his understanding of the Agreement was that the items removed on January 8,2014 were removed pursuant to the Agreement with the Police, with Black in attendance. Heheard the Police announcement that the parties had agreed that all items on the ground floor andthe property already loaded in the vehicles could be removed.
+
+[51] Black’s affidavit stated that “Ross assisted in the illegal removal of goods…bychallenging my rights as a Landlord in front of the police and provided at least a distraction toenable the other people to continue loading the trucks.” On cross-examination, he agreed thatwhat he was referring to, and the basis for the claim against Ross, was that Ross asked, in thepresence of the Police, “How do we know he’s in arrears of rent.” The cross-examination ofBlack was as follows:
+Q: Okay, but are you suing Ross Gray because he had a conversation with apolice officer that you feel undermined your authority as the Landlord?
+A: Yes.
+
+[52] There is no evidence to suggest that Ross assisted Baffo’s in removing goods from thepremises in any manner. He did not have the intent required under s. 50 of the Act, and did notknowingly aid or assist in a fraudulent removal. I dismiss the section 50 claim against Ross.
+(7)
+
+Steve Sanderson
+
+[53] I accept the evidence of Steve that he was contacted by Romas on January 8, 2014, toldfor the first time that Baffo’s was moving, and that Aldo needed some assistance. Steve’sevidence is that he arrived about 5-10 minutes prior to the Police.
+
+[54] Steve arrived after Black and at a time when no goods were being removed. Additionally,Black on cross-examination testified he did not see Steve remove any items from the premises,and did not see Steve load anything onto trucks. I accept Steve’s evidence that the onlyassistance he provided on the night of January 8, 2014 was that, after having been informed bythe Police and Aldo that the Landlord and Aldo had reached the Agreement, he moved atelevision set so that it did not block a pathway and he packaged some dishware into boxes.
+
+[55] There is no evidence that contradicts Steve’s sworn assertion that he was unaware of anyrental arrears that Baffo’s may have been in on the evening of January 8, 2014. Black states thatin 2013 he told Steve that there were arrears of rent; however, a statement of arrears in 2013 doesnot give rise to knowledge months later of arrears. Even if Steve found out about the purportedarrears on the evening of January 8, 2014, as is suggested by Black, neither Black nor Aylingsaw Steve remove any goods from the premises and Steve denies removing any goods. He didnot have the intent required under s. 50 of the Act, and did not knowingly aid or assist in afraudulent removal. I dismiss the section 50 claim against Steve.
+(8)
+
+Romas Krilavicius
+
+[56] Romas is the owner of the defendant William R. Rutherford Ltd., which is a truckingcompany. He states that he was contacted by Aldo on or around January 7 or 8, 2014. Aldorequested that Romas provide him with the use of a truck to assist in moving goods from Baffo’sas he knew that Romas had access to trucks through Rutherford. Romas agreed to provide Aldowith a truck after Rutherford’s normal business hours. Romas denied that he was aware thatBaffo’s was in breach of its lease with the Landlord or had any arrears in rent.
+
+[57] Three Rutherford trucks were sent to Baffo’s on January 8, 2014. Each truck arrived at adifferent time as they were sent to Baffo’s once their once their ordinary drivers had finishedtheir daily deliveries. When Romas attended at the premises at approximately 17:30 pm, hewitnessed a truck parked at the rear entrance of the premises being loaded.
+
+[58] By the time Black arrived at the premises, one truck had been loaded and a second truckwas half loaded. Both trucks were blocked in the Baffo’s parking lot by Black and/or one of theLandlord’s representatives’ vehicles. A third Rutherford truck arrived after the Police were inattendance. None of the trucks provided by Rutherford left the premises until after the Policeattended and the Agreement was reached as between the Landlord and Baffo’s.
+
+[59] The only evidence that items were removed prior to the time the Police attended is thehearsay evidence of Tim Ayling, who stated that another person told him that a loaded truck hadarrived at 2 p.m. and left before 5 p.m. The Landlord provides no reason why the other personwas not called to provide evidence, and I give no weight to that hearsay evidence of an earliertruck.
+
+[60] The evidence before this Court does not support the Landlord’s bald assertions thatRomas played an important role in planning the removal of goods from the premises and/or thathe had the authority to stop the goods from being removed: O’Laughlin v. Byers, 2014 ONSC
+[61] I accept the evidence in his affidavit and on cross-examination that Romas did not plan orin any way assist in planning the move and had no knowledge of who may have assisted; did nothave any authority over the 15-20 unidentified people in attendance; had no role to play inorganizing a flatbed truck and forklift to attend at the premises; and never knew of or saw anytrades at the premises.
+
+[62] The affidavit evidence of Romas with respect to his understanding of the Agreement asfollows:
+Following the meeting, I was advised that the parties (being Aldo and DarylBlack) had come to an agreement with respect to removing certain items from thepremises. I cannot recall exactly who advised me of the agreement. In any event,in the presence of the Police, I assisted Aldo in loading certain items into theRutherford trucks that Mr. Black agreed could be removed from the premises.
+
+he drove one of the Rutherford trucks containing goods from theand that the other trucks also brought goods to his warehouse wherewas done following the Agreement as between the Landlord andof the Police and Black.
+
+[64] Just prior to the doors being locked, Romas asked Black and the Police whether theparties could remove some personal items of Aldo’s that were hanging on the walls. Blackagreed that the personal items could be removed. Black agreed that he only saw Romas putsomething on the truck with his express consent, in the presence of the Police. Black arranged forthe vehicles that were blocking the Rutherford trucks to be moved as per the Agreement. Blackstood by with the Police while the trucks left and never objected. Accordingly, to the extent thatRomas removed any goods, in Rutherford trucks, it was with Black’s consent and pursuant to theAgreement.
+
+[65] A dispute as to the terms of the Agreement reached as between the parties does not meanthat Romas acted or with the necessary knowledge and intent. There is no evidence before me tosuggest that the Personal Defendants were not acting pursuant to the terms of the Agreement as itwas communicated to them by either Aldo or Constable Sage. To the extent that there was adisagreement between what Aldo and the Police notes say, on the one hand, and Black, on theother hand, about the Agreement, Black has admitted that he did not express this disagreement toanyone outside of his meeting with Aldo and the Police. Regardless of the actual terms of theAgreement, Romas clearly acted based on his understanding that the goods were being removedon consent. Romas would have had no way of knowing that Black was not consenting to theremoval of the goods. Accordingly, he never wilfully or knowingly aided or assisted in thefraudulent removal of anything.
+As such, I find that the Landlord has failed to establish asection 50 case against Romas or Rutherford, and I dismiss the action against them.
+The Distress
+
+[66] In this next section, I will review the facts relevant to the wrongful distress claim as wellas the fraudulent removal claim against Baffo’s.
+(1)
+
+Events of January 9th
+
+[67] The next day, January 9, 2014, Black retained a locksmith to open the door and to changeall of the locks of the premises leased by Baffo’s. Aldo was not present when Black gainedaccess to the premises on January 9, 2014 and did not consent to Black or the Landlord gainingaccess to the premises.
+
+[68] The Landlord changed the locks without providing Baffo’s with a key, and put chains andpadlocks on the front door and second level door of the premises. Baffo’s was denied access tothe premises. The chains and padlocks shackled around the door handles by Black preventedBaffo’s from carrying on its ordinary business and from gaining access to the Leased premises inthe ordinary course.
+
+[63] Romas admits thatpremises to his warehouse,they remain. Again, thisBaffo’s and in the presence
+
+And further take notice that it may be necessary for the protection of your goodsand chattels and protection of the Landlord’s right of distress that the locks on theentry of the premises are changed notwithstanding the change of locks by theLandlord for the purpose of protection of said goods and chattels. Your rights asTenant to the premises continue to be recognized and you may, upon request tothe Landlord, or its Bailiff, re–enter the premises and continue to occupy the sameand replevy your goods and chattels upon payment of arrears of rent plus costsand charges aforesaid.
+This is not a forfeiture of the said tenancy agreement, but a distress against thegoods and chattels. For greater certainty, this distress is not intended in any wayto terminate the said tenancy agreement.
+…
+In the event that the locks are changed, reentry into the premises must be bypermission of the landlord or their bailiff and such re-entry will not beunreasonably withheld by arrangement. (emphasis added)
+
+[70] The notice of distress indicated the sum of $97,231.91 was owing for arrears of rent, andthat access would be provided once the arrears were paid, with costs. However, this contradictsthe Landlord’s current position that the sum of $36,919.48 was owing for arrears of rent as ofJanuary 8, 2014. Although there is a disputed claim for accelerated rent due to arrears, and aclaim for payment of a promissory note, it appears that payments were made regularly untilJanuary, 2014, and there is no evidence that the Landlord exercised any options prior to January9 to require payment. In addition, the Landlord’s factum on the summary judgment motionsclearly asserted that the arrears of rent were $36,919.48 and not the $97,231.91 asserted in theJanuary 9, 2014 Bailiff’s Notice.
+
+[71] The Landlord seized all of the goods on the premises on January 9, 2014, including alltrade fixtures, and did not sell the goods or fixtures until October 3, 2014 (approximately ninemonths later).
+(2)
+
+Events After January 9, 2014
+
+[72] On January 30, 2014 (approximately 21 days after purporting to levy distress and beforeany seized goods were sold), the Landlord applied to the Alcohol and Gaming Commission ofOntario to have Baffo’s liquor licence transferred to the Landlord. On March 14, 2014, Baffo’sliquor licence was transferred to the Landlord. As of March 14, 2014, Baffo’s could no longercarry on business at the premises as a licenced restaurant because its liquor licence had beentransferred to the Landlord. This action is inconsistent with a landlord exercising the remedy of
+
+[69] A Bailiff’s Notice was posted on the door of Baffo’s on January 9, stating that theLandlord had taken distress for arrears of rent owing in the amount of $97,231.91 plus costs.
+That notice provided in part:
+
+[73] On February 1, 2014 (approximately 23 days after purporting to distress and before anyof the seized goods had been sold), the Landlord listed the Leased premises for lease on MLS.
+The Landlord advertised that Leased premises had “$500K of leasehold improvements in placeplus $120K in equipment” in its MLS Listing posted by its agent. The Landlord was attemptingto lease the premises for $14.00 square foot, which was approximately $2.10 per square footmore than he had been receiving from Baffo's under the Lease (which averaged $11.90 persquare foot).
+
+[74] There was no auction or other attempt to sell the goods seized from Baffo’s. Rather, theLandlord seized all of the goods, including fixtures, on the premises on January 9, 2014. TheLandlord accepted an unsolicited bid for sale of the building containing the leased premiseswhere Baffo’s had been located. All of Baffo’s goods, chattels, equipment, fixtures andleasehold improvements were sold to the buyer of the building for $25,000.00 on October 3,2014 (approximately nine months after the distress was levied).
+(3)
+
+No Inventory or Notice of Costs of Distress
+
+[75] The Landlord admitted that on January 9, 2014, the date of the distress, neither theLandlord nor its bailiff prepared an inventory of the goods seized, contrary to section 53 of theAct. The Landlord admitted during cross-examination that it did not provide Baffo's with noticeof an inventory of the goods seized. The Landlord undertook to advise whether Baffo's wasgiven written notice of the costs and expenses of the distress. As the Landlord did not answerthis undertaking, I draw an adverse inference that such notice was never given to Baffo's contraryto the Costs of Distress Act, R.S.O. 1990, c. C.41, as amended, s. 6(1).
+(4)
+
+The Appraisals
+
+[76] No sworn appraisals were obtained or provided to Baffo’s. Black has appended to hisaffidavit two unsworn appraisal reports valuing the chattels that remained at the premisesfollowing the Landlord’s termination of the Lease. The Commercial Tenancies Act, section 53,provides that appraisals must be sworn. The first appraisal report prepared by TurnbullAppraisals and Liquidations set fair market value at $95,000 and liquidation value at $17, 285.
+
+[77] The second appraisal report prepared by Restaurant Auction Service dated January 16,2014, also unsworn, set value in place at $48,000, and liquidation value at $26,000. I note thatthis report is incomplete as it is missing pages.
+
+[78] It is Aldo’s evidence that the Landlord’s two appraisals did not include the following,which the Landlord has agreed were located on the premises and subject to the distress:
+Elevator (dumb waiter system) with a value of approximately $40,000;
+
+distress (which is based upon a continuing tenancy), but is consistent with a landlord who hasterminated the tenancy.
+
+New A/C roof unit with a value of approximately $19,000;
+
+New heating + A/C system downstairs with a value of approximately $10,000;Two finished fully functioning marble top bars with a collective value of $60,000; andFive awnings with a collective value of approximately $19,000.
+
+[79] Some of these appear to be trade fixtures, others fixtures, and others may be chattels. I
+find that the appraisals failed to include these additional chattels and fixtures. The Leaseprovided in para. 7(6) that:
+If the Tenant has complied with his obligations according to the provisions of thisLease, the Tenant may remove his Trade Fixtures at the end of the Term or othertermination of this Lease…
+
+[80] Aldo in his affidavit states that the Landlord improperly distrained assets properlybelonging to Baffo’s, including fixtures and trade fixtures, with an acquisition value ofapproximately $319, 500.
+Issue # 3 & 4: Arrears and Fraudulent Removal by Baffo’s
+
+[81]
+
+As noted above, the burden is on the landlord to show:
+Arrears of rent owing or reserved and not paid by the tenant, andFraudulent intent to remove chattels to defeat landlord’s right of distress.
+
+[82] The right of distress extends only to the value of the rental arrears. While it is disputed,the value of rental arrears now claimed by the Landlord is $36, 919.48 which I accept for thepurposes of these motions.
+
+[83] The Landlord’s evidence as to the value of distrained goods is from two unswornappraisal reports, one of which is on its face incomplete (only 6 of 8 pages are in the motionrecord), and both of which are attached as exhibits to Black’s affidavit. They are classic hearsayreports, as the authors were not made available for cross-examination. While information andbelief evidence is permissible on summary judgment motions, I must consider the quality ofevidence on this key issue put forward by the parties. I note that the issue is of the Landlord’smaking, as it did not comply with two key requirements of the Commercial Tenancies Act – theduty to provide an inventory, and the requirement to provide sworn appraisal evidence. Aldo, theowner who ran the restaurant, has filed evidence as to the value of chattels remaining on thepremises at $240,500 (excluding trade fixtures of the full service bars, $60,000, and the fiveawnings, $19,000). The Landlord agrees that the items in Aldo’s list were at the premises on
+
+New A/C wall unit with a value of approximately $3,000;
+
+[84] On cross-examination of Black the parties sought an undertaking for production of thefull Turnbull appraisal file; the answer to undertaking states that the Landlord/Black “have beenunable to obtain the entire Turnbull file.” The parties on cross-examination also soughtproduction of “the entire Restaurant Auction Service Report including all pages andattachments”; the answer was that “the entire Restaurant Auction Service report is not availableat this time.” The parties also sought a copy of the entire Restaurant Auction appraisal file; theanswer was that the Landlord/Black “have been unable to obtain” the entire file.
+
+[85]
+As a general rule, when a party seeks to adduce expert evidence on a summaryjudgment motion, the evidence of the expert must comply with rule 53.03, unlessthe opinion evidence is based on the witness’ observation of or participation in theevents in issue, as explained in Westerhof v. Gee Estate, 2015 ONCA 20629, aff’d 2014 ONCA 887 (CanLII).
+
+[86] Providing unsworn reports on this key issue as exhibits to the Landlord’s affidavitimmunizes the authors from cross-examination on a critical issue on this motion; the failure toproduce the entire Restaurant Auction Report, or either appraisal file, compounds the issuesregarding the reliability of the appraisal evidence. Rule 20.02(1) provides that the court may
+“draw an adverse inference from the failure of a party to provide the evidence of any personhaving personal knowledge of contested facts”, and I do so in the present case. I give no weightto that evidence. The only other evidence of value is that the goods (including trade fixtures)
+were sold in an unsolicited bid, nine months after the distress, to the purchaser of the property foran additional $25,000. I do not find this to be reliable evidence of the value of goods distrained,given the circumstances of the disposition. I note as well that on February 1, 2014, the Landlordlisted the premises for lease on MLS. The Landlord advertised that premises had “$500K ofleasehold improvements in place plus $120K in equipment” in the MLS Listing posted by itsagent.
+
+[87] On the evidence before me I accept that the value of goods and chattels remaining on thepremises according to Aldo’s evidence were far in excess of the $36,919 claimed as rentalarrears.
+
+[88] There cannot be a fraudulent removal within the meaning of s. 50 of the Act with respectto goods that could not have been subject to the landlord’s right of distress at the time of theremoval: Cowie Industries Developments v. National Clearance Warehouse, 1999 O.J. No. 1386,
+
+January 9, 2014, but does not agree that the values ascribed to them are accurate, or that theitems were Baffo’s.
+
+[89] In addition, the goods and chattels were removed in the presence of Black and the Police,and pursuant to the Agreement. As such, there was no fraudulent removal: Amexon PropertyManagement Inc. v. Unique Benefits Group Corp., 2006 CarswellOnt 3834 at paras. 69-70;Novacrete Construction Ltd. v. Profile Building Supplies Inc., 2000 CarswellOnt 2553, [2000]
+O.J. No. 3179 (Sup. Ct.) at para. 101.
+
+[90] I grant summary judgment to Baffo’s dismissing the fraudulent removal claim againstBaffo’s.
+Issue # 5:
+
+The Landlord Exercised Wrongful Distress
+
+[91] Distress is a self-help remedy which gives a landlord the right, where a tenant is inarrears, and without impairing the ongoing tenancy, to seize goods and chattels of the tenant andto sell those goods to satisfy rental arrears. There is no supervision by the courts of the distressprocess. For this reason, distress must be exercised in strict compliance with the many rulesgoverning its use. If a landlord exercises distress in contravention of the governing rules, thetenant may have a claim against the landlord for damages suffered: Excellent Fashion v. NamdevProperty Management, 2003 O.J. No. 422, 2003 CarswellOnt 426 (SCJ) at para. 14.
+
+[92] A fundamental principle is that termination of a lease and distress are mutually exclusiveremedies. As stated by Campbell J. in Malka and Circle Inc. v. Vasilladis and Lugassy, 2011The law is clear that when a tenant defaults in the obligation to pay rent, thelandlord has two mutually exclusive legal remedies, and must elect which remedyto pursue. The landlord can elect to enter the premises and distrain the goodsowned by the tenant for purposes of satisfying the debt owed by way of rent, butwith a view to continuing the lease. Alternatively, the landlord can elect to retake possession of the premises and terminate the lease, and potentially pursueother additional remedies. (citations omitted)
+
+[93] Distress is an affirmation of the lease, and the lease cannot be terminated while a distressis ongoing. If a landlord exercises distress in a manner to exclude the tenant from possession ofthe premises, from carrying on its ordinary business on the premises or gaining access to thepremises in the ordinary course, it may have the effect of terminating the lease: S. Graff and B.
+Kenworthy, in H. Haber, ed., Tenant’s Rights and Remedies in a Commercial Lease, A PracticalGuide, 2nd ed. (Toronto: Canada Law Book, 2014) at p. 299.
+
+[94] A distress may be illegal, irregular, or excessive. An action in damages for conversionexists in all cases of wrongful distress, whether illegal, excessive or irregular. An illegal distress
+
+1999 CarswellOnt 1083 (Ont. C.A.) at para. 7. Removing items from the premises in itself doesnot constitute fraudulent intent, since the focus is on a deliberate intention to deprive the landlordof the goods for the purposes of distress against rental arrears. As the goods remaining farexceeded the rental arrears, there was no fraudulent removal.
+
+occurs where the proceedings are improper from the outset because the landlord or its agent hasbreached one or more of the fundamental principles regulating the remedy of distress; an illegaldistress entitles the tenant to recover all damages sustained as a result of the distress: S. Graffand B. Kenworthy, in H. Haber, ed., Tenant’s Rights and Remedies in a Commercial Lease, A
+Practical Guide, 2nd ed. (Toronto: Canada Law Book, 2014) at p. 301.
+
+[95] The Landlord submits that it was entitled to enter the premises with the assistance of thelocksmith in the face of Baffo’s abandonment. It also says that in changing the locks, theLandlord was merely protecting the goods from further removal and was not conducting atermination of the lease, relying on the Bailiff’s Notice of Distress. In this case, however,through a combination of the forced entry, changing of locks, affixing padlocks and chains onthe doors, seizing all goods and fixtures, and making the right of re-entry conditional on paymentof a grossly inflated statement of arrears, the Landlord terminated the lease during the distress.
+The effect was not avoided by the Bailiff’s Notice stating that this was not a forfeiture of thetenancy agreement: Church of Our Lady of Fatima v. Equity Three Holdings Inc., 2010 ONSC
+5143 (SCJ) at paras. 7-8; S. Graff and B. Kenworthy, in H. Haber, ed., Tenant’s Rights andRemedies in a Commercial Lease, A Practical Guide, 2nd ed. (Toronto: Canada Law Book,2014) at pp. 298-299.
+
+[96] In this case I find that the distress is illegal and that the proceedings were improper fromthe outset. I find that the Landlord:
+
+made an unlawful forced entry onto the premises with the assistance of a locksmith;changed the locks on the premises and subsequently padlocked and chained the frontdoor and second level door, thereby interfering with Baffo’s ability to carry on itsbusiness;posted a Bailiff’s Notice of Distress claiming that $97,231.91 was owing for arrears ofrent, and that access would be provided once the arrears were paid, with costs, when theLandlord’s current position is that rental arrears were $36,919.48;improperly seized all of Baffo’s chattels, fixtures and improvements in the course of thedistress: Illegal distress has been found where a landlord seizes a tenant’s fixtures andimprovements: 859587 Ontario Ltd. v. Starmark Property Management Ltd., 1998
+CarswellOnt 2937 (C.A.) at para. 9. In this case, having illegally distrained andconcurrently forfeited the lease, the Landlord retained the value of all of Baffo’s tradefixtures and improvements; andengaged in an unreasonable delay of nine months in completing the distress: Thelandlord must sell the goods within a reasonable time after the seizure: Excellent Fashionv. Namdev Property Management, [2003] O.J. No. 422, 2003 CarswellOnt 426 (SCJ) atpara. 16.
+
+[97] During the nine-month distress period, the Landlord took significant actions inconsistentwith the subsistence of the lease in addition to the points noted above. These include:
+
+On January 30, 2014 (approximately 21 days after purporting to levy distress and beforeany seized goods were sold), the Landlord applied to the Alcohol and GamingCommission of Ontario to have Baffo’s liquor licence transferred to the Landlord, and itwas transferred to the Landlord on March 14, 2014. As of March 14, 2014, Baffo’s couldno longer carry on business at the premises as a licenced restaurant because its liquorlicence had been transferred to the Landlord. This action is inconsistent with a landlordexercising the remedy of distress (which is based upon a continuing tenancy), but isconsistent with a landlord who has terminated the tenancy.
+
+On February 1, 2014 (approximately 23 days after purporting to distress and before anyof the seized goods had been sold), the Landlord listed the Leased premises for lease onMLS. The Landlord advertised that Leased premises had “$500K of leaseholdimprovements in place plus $120K in equipment” in its MLS Listing posted by its agent.
+
+There was no auction or other attempt to sell the goods seized from Baffo’s for rentalarrears. Rather, the Landlord seized all of the goods, including fixtures, on the premiseson January 9, 2014 and did not sell them until October 3, 2014, in response to anunsolicited offer (approximately nine months later).
+
+[98] I have also found that the distress is irregular. A distress will be characterized as irregularwhere the landlord acts in breach of the technical requirements pertaining to a distress or wherethe statutory formalities have not been fully complied with after seizure: S. Graff and B.
+Kenworthy, in H. Haber, ed., Tenant’s Rights and Remedies in a Commercial Lease, A PracticalGuide, 2nd ed. (Toronto: Canada Law Book, 2014) at pp. 302-303. Section 54 of the Actprovides that any irregularities which occur after the distress has taken place do not make thedistress unlawful, but they give the aggrieved party a right to claim against the landlord fordamages suffered. The Landlord has acted in breach of technical requirements and failed tocomply with statutory formalities, including:
+
+failing to obtain appraisals under oath in accordance with section 53 of the Act,neither the Landlord nor the bailiff made an inventory of the goods seized at the time ofseizure, and they failed to provide the tenant with a notice setting out the inventory ofgoods seized as required by section 54 of the Act: S. Graff and B. Kenworthy, in H.
+Haber, ed., Tenant's Rights and Remedies in a Commercial Lease, A Practical Guide, 2nded. (Toronto: Canada Law Book, 2014) at pp. 295, 302,failing to give a copy of the demand or a statement of the costs and expenses of thedistress to the tenant as required by the Costs of Distress Act, R.S.O. 1990, c. C.41, asamended, s. 6(1).
+
+[99] In this case there were a number of illegalities and irregularities in the execution of thealleged distress that in my view contribute to a finding of wrongful distress and bear upondamages, including punitive damages, and the liability of Black. Because distress is a highly
+
+intrusive self-help remedy, it is critical that a distraining landlord strictly comply with theapplicable statutory and common law provisions.
+
+[100] Section 55 of the Act provides:
+55. (1) A distrainor who takes an excessive distress, or takes a distresswrongfully, is liable in damages to the owner of the goods or chattels distrained.
+(2)
+Where a distress and sale are made for rent pretended to be in arrears anddue when, in truth, no rent is in arrears or due to the person distraining, or to theperson in whose name or right such distress is taken, the owner of the goods orchattels distrained and sold, the owner’s executors or administrators are entitled,by action to be brought against the person so distraining, to recover fullsatisfaction for the damage sustained by the distress and sale.
+Section 43 of the Commercial Tenancies Act provides that distress is to bereasonable. Section 55 of the Act provides that a landlord who takes an excessivedistress, or takes a distress wrongfully, is liable in damages to the owner of thegoods distrained. For a distress to be reasonable, the landlord must not seize andsell more goods than are reasonably necessary to satisfy the rent arrears. Wherethe distress is illegal, the tenant may recover from the landlord full generaldamages, including damages for loss of business. Where the distress is excessive,the damages will normally be special damages, as an irregularity, under s. 54 ofthe Act. However, where the wrongful distress is very excessive and thelandlord’s conduct has been oppressive, the distress may be found to be illegaland subject to a claim for general and special damages. Punitive or exemplarydamages have also been awarded against a landlord where its exercise of distresswas oppressive and there have been aggravating circumstances. (See: Posen “TheTenant’s Remedies for Wrongful Distress”, pp. 134-137, in Haber ed. Distress, A
+Commercial Landlord’s Remedy (Aura, Ont. Canada Law Book 2001).
+
+[102] In this case, I find the Landlord’s actions to be illegal, very excessive, and oppressive andfind Baffo’s entitled to general and special damages for the distraint.
+
+[103] Baffo’s also seeks punitive damages against the Landlord, in light of what it says was a
+“deliberate and flagrant breach of the landlord-tenant relationship to obtain a financial benefit”
+for the Landlord at the expense of Baffo’s. Baffo’s submits that the Landlord had a choice: itcould exercise distress and return the premises to Baffo’s or it could have terminated the leases
+(and set aside Baffo’s chattels for return), but the Landlord intentionally chose both, to the
+
+Issue #6: Punitive Damages and Reference on Damages for Wrongful Distress
+
+[104] As noted above, in 1526183 Ontario Inc. v. Grant Equipment Corp., Justice Shaw heldthat punitive or exemplary damages may be awarded against a landlord where its exercise ofdistress was oppressive and there have been aggravating circumstances.
+
+[105] In Hodgkinson v. Rodd, Ferguson J. awarded punitive damages against a landlord, takinginto consideration the landlord’s inconsistent exercise of both forfeiture and distress and the factthat the landlord had, by its conduct, prejudiced the tenant’s ability to prove his damages.
+Punitive damages were $7,500, where the tenant’s damages were assessed at $8,275:
+Hodgkinson v. Rodd, 1996 CarswellOnt 1491 (Gen. Div.).
+
+[106] I have found that the Landlord terminated the Leases and exercised illegal and irregulardistress at the same time, and its actions were illegal and oppressive. I find punitive damages areappropriate for the Landlord’s deliberate, illegal and wrongful distress, and set those damages inthe amount of $20,000.00.
+
+[107] Rule 20.04 includes various mechanisms for quantifying damages where the court issatisfied that this is the only genuine issue which cannot be determined on a summary judgmentmotion. Section 20.04(3) provides:
+20.04(3) Where the court is satisfied that the only genuine issue is the amount towhich the moving party is entitled, the court may order a trial of that issue orgrant judgment with a reference to determine the amount.
+
+[108] Baffo’s evidence is that the distrained goods had an original value of approximately
+$319,500 and that collectively the goods, chattels, trade fixtures, equipment and leaseholdimprovements distrained had an original value of approximately $1,100,000. The failure of theLandlord to render a proper inventory at the time of the alleged distress, the failure to provide theappraisal affidavit evidence required under the Commercial Tenancies Act, and the decision tosell Baffo’s trade fixtures together with its chattels on an unsolicited bid as part of a package ofsale of the leased premises makes the issue of damages determination more difficult.
+
+[109] In Baffo’s counterclaim, it has sought an accounting with respect to its damages. I directthat Baffo’s damages for wrongful distress pursuant to section 55(1) of the CommercialTenancies Act should be determined on a reference to a Master. The issue of rental arrears mustalso be determined on the reference, as the Landlord has a set-off for rental arrears to January 9,2014, the date that it terminated the Leases. Baffo’s is also entitled to damages for conversion, ifthere is a difference between damages under s. 55(1) of the Commercial Tenancies Act anddamages for conversion.
+Issue #7:
+
+The Landlord is Liable for Conversion
+
+financial detriment of Baffo’s. Baffo’s also relies on the illegal and irregular distress, reflectingthat the distress was “nothing more than a fiction created by the Landlord and Black to suit theirpurposes.”
+
+(e)
+
+The plaintiff has a possessory interest in the property;
+
+(f)
+
+The personal property is identifiable or specific;
+
+(g)
+
+The defendant intentionally committed a wrongful act in respect of the propertyinconsistent with the plaintiff’s right of possession; and
+
+(h)
+
+The plaintiff suffered damages.
+
+[111] An action for damages for conversion exists in all cases of wrongful distress, whetherillegal, excessive or irregular: S. Graff and B. Kenworthy, in H. Haber, ed., Tenant’s Rights andRemedies in a Commercial Lease, A Practical Guide, 2nd ed. (Toronto: Canada Law Book,2014) at p. 304. I find that the Landlord is liable for conversion, as well.
+Issue # 8:
+
+Black is Personally Liable
+
+[112] Where officers or directors of corporate landlords have been personally involved indirecting an illegal distress, they may be held personally liable for their tortious actions: BeaverSteel Inc. v. Skylark Ventures Ltd., 1983 CarswellBC 223 (Sup. Ct.) at paras. 23-30; Sigrist v.
+McLean, 2011 CarswellOnt 14424 (SCJ.) at para. 139-141.
+
+[113] In Beaver Steel Inc. v. Skylark Ventures Ltd., where the bailiff was involved in an illegaldistress by virtue of using a locksmith to gain access to the premises, Davis J. held that thepresident of the corporate landlord was personally liable as he knew the bailiff did not have a keyto the premises and that entry would have to be gained by picking or forcing the locks.
+
+[114] I accept the following facts to find that Black should be held personally liable for theactions of the Landlord:
+(1)
+
+Black was the sole owner/shareholder, officer, director and president of theLandlord;
+
+(2)
+
+Black admitted during cross-examination that he was the guiding/operating mindof the Landlord;
+
+(3)
+
+Black alone dealt personally with Baffo’s and Aldo throughout. The relationshipof landlord-tenant was with Black and Aldo;
+
+(4)
+
+Black admitted during cross-examination that the Landlord was simply a singlepurpose ownership vehicle for the Leased premises;
+
+[110] The elements of tort of conversion are as follows: Murray v. Toth, 2012 CarswellOnt12711 (Ont. S.C.J.) at para. 22:
+
+(5)
+
+The actions and conduct of the Landlord and Black vis-à-vis Baffo’s and Aldo,including the lockout and the distraint, were the acts of Black acting personallyand also as the sole owner/shareholder and the Landlord; and
+
+(6)
+
+Black’s actions were motivated by self-interest. Black stood to gain personally byterminating the tenancy and distraining all of Baffo’s property in the Leasedpremises.
+
+COSTS
+
+[115] The Personal Defendants and Baffo’s seek costs on a substantial indemnity basis.
+Generally, costs are awarded on a partial indemnity basis. There are, however, circumstanceswhere elevated costs awards are required and justified. One such circumstance is where a partyhas made baseless or unproven allegations of fraud or deceit as against another.
+
+[116] Justice Lax in Manning v. Epp, [2006] OJ No 4239 (Sup. Ct.) discussed the rationale foran award of costs on a substantial indemnity basis where unproven allegations of fraud havebeen made, at paras. 7-8:
+Costs on the higher scale can be awarded as a form of chastisement and as a markof the court's disapproval of a litigant's conduct. This is intended to punish as wellas to deter others from engaging in similar conduct. Unproved allegations of fraudfrequently attract awards on the higher scale. Unproved allegations of breach oftrust, conspiracy, misrepresentation, breach of fiduciary duty, and the like, mayalso attract this kind of award: Beaver Lumber Co. v. 222044 Ontario Ltd. (1997),5 C.P.C. (4th) 253 (Ont. Gen. Div.) at p. 256.
+Cost sanctions are imposed for these kinds of unproved allegations because theyare rooted in assertions of dishonesty and deceit and go to the heart of a person'sintegrity: Bargman v. Rooney (1999), 30 C.P.C. (4th) 259 (Ont. Gen. Div.) at pp.
+268-269; Dyer v. Mekinda Snyder Partnership Inc. (1998), 40 O.R. (3d) 180
+(Gen. Div.) and see cases referred to at pp. 184-185. . . .
+
+[117] The Landlord brought a claim of knowingly aiding and assisting in fraudulent removalagainst the five Personal Defendants. Section 50 is a penal provision, and imputes a finding ofdishonesty. This is a claim which includes an element of deliberate misfeasance and acts infurtherance of fraud. The Landlord was wholly unsuccessful in this claim. Given the nature ofthe claims, I find that substantial indemnity costs are warranted in the circumstances. Themotions and cross-motions were hard fought, with many affidavits and out-of-court crossexaminations. The Landlord claimed $100,000 from each of the Personal Defendants, for a totalcost of $500,000. The Personal Defendants seek substantial indemnity costs in the amount of
+$152,808/25; partial indemnity costs would have been $104,814.90. Taking into considerationthe factors set out in Rule 57.01, I award the Personal Defendants substantial indemnity costs in
+
+[118] Baffo’s also seeks substantial indemnity costs, for the same reasons. It seeks substantialindemnity costs in the amount of $85,872.47, and would have sought partial indemnity costs inthe amount of $59,604.38. Taking into consideration the factors set out in Rule 57.01, I awardBaffo’s substantial indemnity costs in the amount of $78,000.00 inclusive of fees anddisbursements, as an amount that is just and reasonable in the circumstances.
+Seized of Future Summary Judgment Motions
+
+[119] If there are additional summary judgment motions in this file, they should be broughtbefore me as I am seized of this matter.
+
+Kristjanson J.
+Released: May 24, 2017
+
+the amount of $140,000.00 inclusive of fees and disbursements, as an amount that is just andreasonable in the circumstances.
+
+CITATION: 1694879 Ontario Inc. v. Krilavicius, 2017 ONSC 2396
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+1694879 ONTARIO INC.
+Plaintiff
+- and ROMAS KRILAVICIUS, WILLIAM R.
+RUTHERFORD LIMITED,STEVE SANDERSON, BAFFO’S INCORPORATED,ROSS GRAY and JENNIFER GRAY
+DefendantsAND RE:
+ROMAS KRILAVICIUS, STEVE SANDERSON andJENNIFER GRAY
+Plaintiffs by Counterclaim
+- and 1694879 ONTARIO INC. and DARYL BLACK
+Defendants by CounterclaimAND RE:
+BAFFO’S INCORPORATED
+Plaintiff by Counterclaim
+- and 1694879 ONTARIO INC. and DARYL BLACK
+Defendants by CounterclaimREASONS FOR JUDGMENT
+Kristjanson J.
+
+ONTARIO
+
+Released: May 24, 2017
+

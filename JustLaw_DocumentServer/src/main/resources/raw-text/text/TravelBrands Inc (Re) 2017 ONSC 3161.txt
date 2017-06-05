@@ -1,0 +1,213 @@
+CITATION: TravelBrands Inc. (Re), 2017 ONSC 3161
+COURT FILE NO.: CV15-10980-00CL
+DATE: 20170601
+
+IN THE MATTER OF THE COMPANIES’ CREDITORS ARRAGNEMENT ACT, R.S.C.
+1985, c. C-36, AS AMENDED
+AND IN THE MATTER OF A PLAN OF COMPROMISE OR ARRANGEMENT OF
+TRAVELBRANDS INC.
+RE:
+
+75 Eglinton Avenue East Limited Partnership, ApplicantAND:
+222485 Ontario Inc., Respondent
+
+BEFORE:
+
+Mr. Justice H.J. Wilton-Siegel
+
+COUNSEL: Michael Kestenberg and Marc Kestenberg, for the ApplicantJohn A. MacDonald and Waleed Malik, for the RespondentHEARD:
+
+March 24, 2017
+ENDORSEMENT
+
+[1]
+The applicant, 75 Eglinton Avenue East Limited Partnership (the “Landlord”), seeks anorder declaring that harmonized sales tax (“HST”) must be added at the applicable rate to theSettlement Payments (as defined below) required to be made by 222485 Ontario Inc. (“222”) tothe Landlord pursuant to an agreement made as of October 30, 2015 among TravelBrands Inc.
+(“TravelBrands”), 222 and the Landlord, among others (the “Settlement Agreement”).
+Factual Background
+
+[2]
+The Landlord leased certain office space to TravelBrands pursuant to a lease dated March28, 2008 (the “Lease”).
+
+[3]
+On May 27, 2015, TravelBrands commenced proceedings under the Companies’
+Creditors Arrangement Act, R.S.C. 1985, c. C-36 (the “CCAA”).
+
+[4]
+
+TravelBrands disclaimed the Lease pursuant to the CCAA effective June 28, 2015.
+
+SUPERIOR COURT OF JUSTICE – ONTARIO
+
+- Page 2 [5]
+TravelBrands and the Landlord negotiated the Settlement Agreement with a view to theLandlord supporting the plan of compromise and arrangement to be proposed by TravelBrandsunder the CCAA (the “Plan”).
+The Settlement Agreement addressed two issues that are relevant for the present motion.
+
+[7]
+First, the Settlement Agreement quantified the Landlord’s voting claim in respect of thePlan at $15 million, based on the Landlord’s calculation of its claim at $15,580,398.66. TheLandlord says that its calculation was based on the difference between the basic rent thatTravelBrands was obligated to pay under the Lease and the rent that the Landlord considered thatit would receive at prevailing market rates for the remaining term of the Lease. The Landlordsays these calculations were based on a price per square foot for the leased premises exclusive ofHST.
+
+[8]
+Second, pursuant to ss. 2 and 3(a) of the Settlement Agreement, 222 agreed to pay to theLandlord the amount of $5 million over ten years. In addition, in s. 3(b) of the SettlementAgreement, 222 agreed to make certain additional payments of up to $3 million based onTravelBrands’ working capital and certain other conditions. As a technical matter, there is adifference of interest between 222, the parent company of TravelBrands which is the obligorunder the Settlement Agreement, and TravelBrands, which has guaranteed the obligations of222.
+
+[9]
+It is agreed that the parties did not discuss HST during their negotiations. Neither s. 2 nors. 3 of the Settlement Agreement addresses the obligation to pay HST.
+
+[10] The Plan was approved. On November 26, 2015, 222 caused TravelBrands to make aninitial payment on account of the Settlement Payments due pursuant to s. 2 of the SettlementAgreement. It also caused TravelBrands to make a second payment on December 3, 2015. Bothpayments included an amount on account of HST in addition to the amount of the SettlementPayments.
+
+[11] The issue on this motion first came to the attention of the parties as a result of an email ofthe Landlord to TravelBrands on December 2, 2015 in which the Landlord queried whether theSettlement Payments constituted a “taxable supply”. Of note, nothing in this email suggested,however, that 222 should not have added HST to the Settlement Payments to the extent that HST
+was exigible. It is understood that 222 has not included amounts for HST in its SettlementPayments since the payment on December 3, 2015.
+
+[12] It is agreed that 222 is entitled to a refundable input tax credit in the amount of any HST
+paid to the Landlord. The effect of TravelBrands’ position is that 222’s net obligation to theLandlord under ss. 2 and 3(a) of the Settlement Agreement would be reduced from $5 million toapproximately $4.4 million. The Landlord says that the business deal between the parties wasthat it would receive $5 million net.
+
+[6]
+
+- Page 3 Applicable Provisions of the Settlement Agreement
+
+2.
+222 shall pay to 75 Eglinton an aggregate of $500,000, which shall bepayable in twelve (12) equal monthly instalments, commencing on November 1,2015 (collectively, the “Initial Payment”).
+3.
+Subject to the terms, conditions and adjustments provided for herein,including the satisfaction of the Additional Payment Conditions (as definedbelow) prior to the payment of any Additional Payment (if any), 222 shall pay to75 Eglinton:
+(a)
+$450,000, which shall be payable in twelve (12) equal monthlyinstalments, commencing on the ninetieth (90th ) calendar day after the endof each of the Applicable Fiscal Years (such payments totalling, and not toexceed, $4.5 million in the aggregate and $450,000 in any given year,collectively, the “Minimum Payments”); and
+(b)
+on the ninetieth (90th ) calendar day after the end of each of theApplicable Fiscal Years, an Additional Payment (the AdditionalPayments, collectively with the Initial Payment and the MinimumPayments, being the “Settlement Payments”).
+7.
+The payment of Additional Payments are subject to the followingconditions (“the Additional Payment Conditions”):
+(a)
+the aggregate amount of all Additional Payments (if any) shall beno greater than $3 million; …
+…
+19.
+If, at any time during the Period, the sum of $8 million plus the RecoveredLease Amounts plus any Property Sale Profit (for greater certainty, the addition ofProperty Sale Profit only applies in the event of a sale of less than a 50% interestin the Property) exceeds the Disclaimed Lease Amount, then such excess (the
+“Return Amount”) shall be immediately due and payable by 75 Eglinton to 222,up to a maximum of the Settlement Payments paid to 75 Eglinton (if any). TheReturn Amount may be set-off [sic] against future Settlement Payments; however,such set-off shall be applied first against any payable Additional Payments (ifany) and second against future Minimum Payments (if any). If the Return Amountis set-off [sic] against the future Minimum Payments (if any), such set-off shall beapplied on a pro rata basis across all future Minimum Payments.
+
+[13] The applicable provisions of the Settlement Agreement are ss. 2, 3, 7 and 19, which readas follows:
+
+- Page 4 -
+
+“Applicable Fiscal Years” means the fiscal years of TravelBrands that areapplicable to the terms of this Agreement, being the fiscal year ending on October31 of each calendar year between 2016 and 2025, including for greater certainty,the fiscal year ending October 31, 2016, and “Applicable Fiscal Year” means anyone of them;
+…
+“Disclaimed Lease Amount” means the sum of all amounts that would have beenpaid by TravelBrands to the Landlord for the Period under the Lease, includingrent, taxes, maintenance, insurance and operating costs, if the Lease was notdisclaimed by TravelBrands;
+…
+“Property Sale Profit” means the price the Property is sold for during the Period,less $36 million; or, in the event of a sale of a partial interest in the Propertyduring the Period, the price such interest is sold for, less the percentage of theentire Property which the interest represents multiplied by $36 million, in eachcase less any reasonable amounts paid or payable by the Landlord in connectionwith the sale of the Property, including the marketing of the Property, broker’sfees, tenant inducements, improvement allowances and legal fees incurred by 75
+Eglinton (and for greater certainty, legal fees incurred by 75 Eglinton as a resultof the Disclaimer shall not be included in the calculation of “Property SaleProfit”).
+“Recovered Lease Amounts” means any amounts paid or payable to the Landlordfrom any lease or leases of all or a portion of the Property in respect of the Period,including rent, taxes, maintenance, insurance and operating costs, less anyreasonable amounts paid or payable by the Landlord in the leasing of theProperty, including the marketing of the Property, broker’s fees, tenantinducements, improvement allowances and legal fees incurred by 75 Eglinton
+(and for greater certainty, legal fees incurred by 75 Eglinton as a result of theDisclaimer shall not be included in the calculation of “Recovered LeaseAmounts”);
+“Total Settlement Amount” means CDN$8,000,000;Applicable Law
+
+[15] For clarity, the Landlord does not assert any claim against TravelBrands or 222 for HST
+pursuant to the provisions of the Excise Tax Act, R.S.C. 1985, c. E-15. The parties agree that the
+
+[14] The following definitions in s. 1(d) of the Settlement Agreement are relevant for theforegoing provisions:
+
+- Page 5 -
+
+[16] The applicable principles of contractual interpretation were set out by Blair J.A. inVentas, Inc. v. Sunrise Senior Living Real Estate Investment Trust, 2007 ONCA 205, 85 O.R.
+(3d) 254, at para. 24, as follows:
+[A] commercial contract is to be interpreted,
+(a) as a whole, in a manner that gives meaning to all of its terms andavoids an interpretation that would render one or more of its termsineffective;
+(b) by determining the intention of the parties in accordance with thelanguage they have used in the written document and based upon the
+"cardinal presumption" that they have intended what they have said;
+(c) with regard to objective evidence of the factual matrix underlying thenegotiation of the contract, but without reference to the subjectiveintention of the parties; and (to the extent there is any ambiguity in thecontract),
+(d) in a fashion that accords with sound commercial principles and goodbusiness sense, and that avoid [sic] a commercial absurdity. [Citationsomitted.]
+
+[17] In addition, in the recent decision of Sattva Capital Corp. v. Creston Moly Corp., 2014
+SCC 53, [2014] 2 S.C.R. 633, at paras. 57-58, Rothstein J., speaking for the Supreme Court,addressed the extent to which surrounding circumstances can inform contractual interpretation asfollows:
+While the surrounding circumstances will be considered in interpreting the termsof a contract, they must never be allowed to overwhelm the words of thatagreement (Hayes Forest Services, at para. 14; and Hall, at p. 30). The goal ofexamining such evidence is to deepen a decision-maker’s understanding of themutual and objective intentions of the parties as expressed in the words of thecontract. The interpretation of a written contractual provision must always begrounded in the text and read in light of the entire contract (Hall, at pp. 15 and 3032). While the surrounding circumstances are relied upon in the interpretiveprocess, courts cannot use them to deviate from the text such that the courteffectively creates a new agreement (Glaswegian Enterprises Inc. v. B.C. TelMobility Cellular Inc. (1997), 101 B.C.A.C. 62).
+The nature of the evidence that can be relied upon under the rubric of
+“surrounding circumstances” will necessarily vary from case to case. It does,however, have its limits. It should consist only of objective evidence of the
+
+resolution of the issue on this motion involves, and is limited to, the contractual interpretation ofthe Settlement Agreement.
+
+background facts at the time of the execution of the contract (King, at paras. 66
+and 70), that is, knowledge that was or reasonably ought to have been within theknowledge of both parties at or before the date of contracting. Subject to theserequirements and the parol evidence rule discussed below, this includes, in thewords of Lord Hoffmann, “absolutely anything which would have affected theway in which the language of the document would have been understood by areasonable man” (Investors Compensation Scheme, at p. 114). Whether somethingwas or reasonably ought to have been within the common knowledge of theparties at the time of execution of the contract is a question of fact.
+Analysis and Conclusions
+
+[18] In its Factum, TravelBrands states that the cap imposed in s. 19 “ensures that paymentsmade under the Settlement Agreement plus amounts recovered by the Landlord are no greaterthan what the Landlord would have received if the Lease was not terminated.” It says that oncethe Landlord “breaks even,” it must pay back any additional recoveries. The Landlord does notdispute that this is an accurate description of the business deal underlying the arrangements in ss.
+2, 3, 7 and 19 of the Settlement Agreement.
+
+[19] The parties also agree that the Settlement Payments constitute a “taxable supply” underthe Excise Tax Act for HST purposes. The parties dispute whether the Settlement Agreement issusceptible of differing interpretations regarding the obligation to pay HST.
+
+[20] The Landlord submits that the silence of the Settlement Agreement regarding thepayment of HST renders ss. 2 and 3 ambiguous and, accordingly, that it is necessary to look tothe context in which the Agreement was negotiated and executed as well as the subsequentconduct of the parties to interpret the Agreement.
+TravelBrands submits that the SettlementAgreement addresses HST and, therefore, in the absence of any ambiguity, it is not necessary togo beyond the language of the Settlement Agreement itself.
+The TravelBrands argumentproceeds at a general level on the principle that, because taxes are referred to in severalprovisions of the Settlement Agreement, the parties must be taken to have addressed HST whererelevant in the Settlement Agreement.
+
+[21] The TravelBrands position relies heavily on the operation of the provisions of s. 19 of theSettlement Agreement. TravelBrands says that s. 19 addresses HST in a meaningful manner byincorporating the definitions of “Disclaimed Lease Amount” and “Recovered Lease Amounts”,both of which TravelBrands says specifically provide for inclusion of amounts referable to taxesincluding HST. Based on this approach to the treatment of tax in these two definitions,TravelBrands argues that, viewed as a whole, the Settlement Agreement indicates that the partieswere aware of, and turned their minds to, the issue of HST. It argues that, therefore, the silenceof ss. 2 and 3 with respect to HST must be interpreted to reflect an intention that the SettlementPayments would include HST. There are, however, two interrelated difficulties withTravelBrands’ argument.
+
+- Page 6 -
+
+- Page 7 -
+
+[23] However, the difficulty with TravelBrands’ position is that the treatment of HST payablein respect of the amounts referred to in s. 19 is not consistent. On the one hand, on a first reading,it would appear that the reference to “all amounts” in the definition of “Disclaimed LeaseAmount” includes HST, given the provisions of para. 5.4(c) of the Lease. That paragraphrequired the payment to the Landlord of “Rental Taxes”, which were defined in para. 3.1(oo) ofthe Lease to include HST. On the other hand, the definition of “Property Sale Profit” does notinclude HST. Further, the operation of the definition of “Recovered Lease Amounts”, whichincludes any amounts “paid or payable to the Landlord from any lease”, is dependent upon thetreatment of HST under any actual lease(s) giving rise to the “Recovered Lease Amounts”.
+While it is more likely than not that HST would be included in any payments made under anysuch lease(s), that is not a necessary result.
+
+[24] Accordingly, s.19 contemplates the Landlord’s receipt of a tax-exclusive amount in theform of a “Property Sale Profit” as well as receipt of amounts on account of “Recovered LeaseAmounts”, which could be tax-inclusive or tax-exclusive amounts.
+
+[25] Second, in support of its position, TravelBrands argues that if HST were payable inaddition to the Settlement Payments, the Landlord’s obligation to repay additional recoverieswould not be triggered at the Landlord’s break-even point. It submits that this is because thedifference between the “Disclaimed Lease Amount” and the “Recovered Lease Amounts” is atax-inclusive value as both of these amounts are tax-inclusive. There are two problems with thisanalysis.
+
+[26] First, if I understand TravelBrands’ position correctly, it effectively begs the question forthe reason that the amount of $8 million in s. 19 is not connected directly to any particularpayments. Under s. 19, repayment is triggered at the Landlord’s break-even point whether the
+“Disclaimed Lease Amount” and the “Recovered Lease Amounts” are both tax-inclusiveamounts or are both tax-exclusive amounts. A problem only arises if payments on account ofthese amounts treat HST differently.
+
+[27] Second, as a significant complication, if the “Recovered Lease Amounts” are intended tobe tax-inclusive, as TravelBrands suggests, s. 19 operates differently depending upon whetherthe Landlord’s recovery is derived from “Recovered Lease Amounts” or a “Property Sale Profit”,which would not include an amount on account of HST.
+
+[28] If the Landlord’s recovery were to proceed by way of a “Property Sale Profit” and if the
+“Disclaimed Lease Amount” includes HST, the formula in s. 19 would not operate to triggerrepayment at the Landlord’s break-even point in the same manner as would be the case if allsuch amounts were either all tax-inclusive or all tax-exclusive. In particular, if TravelBrands’
+approach is accepted such that the definition of “Disclaimed Lease Amounts” is treated asrequiring payment of HST, the formula in s. 19 would only trigger repayment at the Landlord’s
+
+[22] First, I accept that, if the amounts addressed in s. 19 included HST in all cases, this wouldprovide support for TravelBrands’ position. Similarly, if the amounts addressed in s. 19 excludedHST in all cases, such treatment would provide support for the Landlord’s position.
+
+- Page 8 -
+
+[29] Given the inconsistent impact on the Landlord under s. 19 of the Settlement Agreementdepending upon whether it receives “Recovered Lease Amounts” or a “Property Sale Profit”, I
+conclude that the provisions of that section do not support TravelBrands’ position. Section 19
+does not constitute an unequivocal expression of the intention of the parties regarding thetreatment of HST therein.
+
+[30] Further, I am of the opinion that s. 19, and the definitions incorporated therein, should beinterpreted on a basis that excludes HST in respect of all amounts dealt with under s. 19 for thefollowing two reasons.
+
+[31] First, as described above, the business deal reached between the parties is that ReturnPayments will commence once the Landlord has recovered, by lease or sale, the “DisclaimedLease Amount”. The “Disclaimed Lease Amount” could, in principle be calculated to include orexclude HST payments. The only conceptual requirement is that any amounts credited againstthis amount be calculated on the same basis. However, as a practical matter, it is more likely thatthe parties expected, and therefore intended, to calculate this amount exclusive of HST to obtaincertainty of the amount to be received by the Landlord and, in particular, to avoid the possibilityof an unanticipated shortfall to the Landlord arising from a future increase in the rate at whichHST is payable (and a corresponding windfall to TravelBrands). This suggests that,notwithstanding the reference to taxes in the definition of “Disclaimed Lease Amount”, suchdefinition should be interpreted to exclude HST payments in the calculation of such amount.
+
+[32] Second, as described above, if the “Disclaimed Lease Amount” includes HST, inwhere the “Disclaimed Lease Amount” is reduced entirely by a “Property Sale Profit”, thes. 19 would not operate until the Landlord effectively absorbed an amount in respect
+“Property Sale Profit” that included notional HST, notwithstanding that it is agreed thattransaction giving rise to any “Property Sale Profit” would be HST-exempt.
+
+a casecap inof thea sale
+
+[33] Based on the foregoing, I think that the better interpretation of the language “all amountsthat would have been paid by TravelBrands to the Landlord for the Period under the Lease” inthe definition of “Disclaimed Lease Amount” would exclude any HST payable under the Leaseto be remitted under the Excise Tax Act, and, similarly, that the language “any amounts paid orpayable to the Landlord from any lease or leases” in the definition of “Recovered LeaseAmounts” would also exclude any HST payments to be so remitted.
+
+[34] Section 19 therefore does not support the conclusion that the silence of ss. 2 and 3 withrespect to HST must also reflect the intention of the parties respecting the treatment of HST. Tothe contrary, to the extent that the treatment of taxes in s.19 informs the interpretation of ss. 2
+and 3 of the Settlement Agreement, it reflects an intention of the parties that HST would beborne by the party obligated to do so under the Excise Tax Act, that is, by 222.
+
+break-even point after the Landlord had effectively absorbed notional HST on the “Property SaleProfit” out of its own pocket. In my view, this is a perverse result that suggests a contraryinterpretation, as is discussed below.
+
+- Page 9 -
+
+[36] For the following reasons, I conclude that such context and conduct also compels theinterpretation that the Settlement Payments required by ss. 2 and 3 of the Settlement Agreementare to be made exclusive of HST, that is, that 222 is required to pay the applicable HST inrespect of the Settlement Payments.
+
+[37] First, I think that the following principle articulated by Cumming J. in Ravelston Corp.,Re., [2006] G.T.C. 1276, [2006] O.J. No. 3764 (Sup. Ct.), at para. 39 is also applicable in thepresent circumstances:
+It is common commercial practice to quote the price point for a good or service asexcluding GST. A person contracting for any type of good or service, other thanin very limited exemption situations (such as the purchase of food in grocerystores), knows that the normative situation is that GST is properly payable on topof the posted price.
+
+[38] In that decision, at paras. 39 and 40, Cumming J. held as follows, on facts that are forpresent purposes indistinguishable from the present facts:
+In this case, although the MSA is silent as to the application of GST, the monthlyamounts paid by CanWest, under the terms of the MSA over its 52-month life,consisted of the contractual amount, plus applicable GST.
+Given that there was no discussion, it was implicit, both from their past dealingsthrough the 52 months of monthly payments and from common predominantcommercial practice, that the normative regime would apply: that is, the recipientof the supply of a service would pay any GST payable upon the considerationpayable for that supply. Applying an objective test to the situation, it would bethe reasonable expectation of both the Receiver and CanWest that CanWestwould pay the GST payable on 50% of the termination fee and monthly paymentsunder the MSA.
+
+[39] In the present case, the parties were well aware of the HST regime. Moreover, it iscommon practice in the real estate industry to quote rental rates exclusive of HST. Given thatthere was no discussion between the parties regarding the application of HST, it was implicit,both from their past dealings under the Lease and from the common practice in the real estateindustry, that the normative regime would apply: that is, the recipient of the supply of a servicewould pay any HST payable upon the consideration payable for that supply.
+
+[40] I do not think that it is significant for present purposes that GST was not specified in theagreement at issue in Ravelston Corp., Re. but was provided for in the Lease. The more
+
+[35] I have, however, proceeded on the basis that the operation of s. 19 is not, by itself,determinative of the contractual interpretation of ss. 2 and 3 of the Settlement Agreement. Inthese circumstances of ambiguity, the Court can have regard to the factual background or contextin which the Settlement Agreement was negotiated and signed, as well as the post-executionconduct of the parties, in order to interpret the intentions of the parties.
+
+- Page 10 -
+
+[41] Second, 222’s own actions reflect such an expectation that the Settlement Paymentsconstituted a “taxable supply” and that such Payments would be exclusive of HST. The first twoSettlement Payments were made pursuant to s. 2 of the Settlement Agreement in an amount thatincluded a further amount representing the applicable HST. It was only after the Landlord’semail of December 2, 2015, that TravelBrands asserted that the Settlement Payments specified ins. 2 are inclusive of HST. For clarity, nothing in the Landlord’s actions suggest that it consideredthat the Settlement Payments included any applicable HST.
+
+[42] Third, the financial provisions of the Settlement Agreement, being ss. 2, 3 and 19,contemplate that the Landlord could receive an amount equal to the “Disclaimed Lease Amount”
+from two sources: (1) $8 million in Settlement Payments pursuant to ss. 2 and 3; and (2) anadditional amount by way of “Recovered Lease Amounts”, a “Property Sale Profit” or somecombination thereof. Under these provisions, the result to the Landlord should be the sameregardless of how the amounts paid to it were sourced. As described above, that is not the case.
+
+[43] Based on the foregoing, I conclude that the Landlord is entitled to an order declaring thatHST must be added at the applicable rate to the Settlement Payments required to be made by 222
+to the Landlord pursuant to the Settlement Agreement. Costs in the agreed amount of $10,000
+plus HST are payable forthwith by TravelBrands to the Landlord.
+
+Wilton-Siegel J.
+
+Date: June 1, 2017
+
+important point is that, in both Ravelston Corp., Re. and the present case, the parties were awarethat payments under the agreement that was being substituted for were subject to GST or HST,as applicable. Applying an objective test to the present circumstances, it would be the reasonableexpectation of all of the parties to the Settlement Agreement that the amount of the SettlementPayments would not include HST and that 222 would pay the HST payable thereon.
+

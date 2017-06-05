@@ -1,0 +1,166 @@
+CITATION: Tuffnail v. Meekes, 2017 ONSC 2751
+COURT FILE NO.: 3724-11
+DATE: 20170512
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+Gregory Alan Tuffnail, Patricia Diane
+Tuffnail, David Alan Tuffnail and Michael
+Alan Tuffnail
+Plaintiffs )
+– and –
+Steven Andrew Meekes, State Farm Mutual )
+Automobile Insurance Company, Sharon
+Carlene Drown as Litigation Administrator
+for the Estate of Thomas Michael Bolton
+Defendants
+– and –
+Steve Coulthard
+Third Party )
+
+J. D. Virtue and R. El-Tawil, for theplaintiffs
+
+J. Masterson, for State Farm InsuranceB. Mitchell, for Tom BoltonJ. Brown, for Steve Coulthard
+
+HEARD: April 20, 2017
+
+RADY J.
+Ruling – Expert Opinion on Signs of Intoxication
+
+[1]
+
+Gerald Kupferschmidt was tendered by the defendant Bolton Estate to give experttoxicological opinion evidence respecting the blood alcohol concentration levels of Mr.Meekes and Mr. Tuffnail on the night of the accident.
+
+[2]
+
+The plaintiffs objected to that part of his proposed testimony on the issue of whether Mr.Meekes exhibited signs of intoxication while at the wedding reception. They alsoobjected to various parts of his report which they characterized as a “polemic”, by which
+
+ONTARIO
+
+[3]
+
+In any event, I ruled that Mr. Kupferschmidt was qualified to give opinion evidence aboutthe two men’s BAC levels based on the assumptions that he was asked to make. Hecould comment about the effect of an individual’s physiology and tolerance on BAC
+levels. I would not permit him to offer opinion evidence on Mr. Meekes’ signs ofintoxication at the reception or others’ ability to detect impairment or intoxication. I notethat Dr. Ward had not offered an opinion on this latter issue.
+
+[4]
+
+I had been provided with a copy of Mr. Kupferschmidt’s report, dated January 30, 2017.
+In it, Mr. Kupferschmidt concluded on the issue of Mr. Meekes’ BAC and impairment:
+1.
+
+A serum alcohol level of 116 mg/100 ml is equivalent to 104 mg/100 ml in bloodwhen considering the average conversion factor.
+
+2.
+
+Based upon the indicated consumption for Mr. Meekes his BACs at 10:30 pm,12:04 am and 2:20 am, should not have exceeded 0-64 mg/100 ml, 0-48 mg/100
+ml and 0-25 mg/100 ml respectively.
+
+3.
+
+In order to generate a reading of 104 mg/100 ml at 2:20 am, Mr. Meekes wouldhave been required to consume 10.6-15.9 standard drinks beginning at 4:00 pm.
+
+4.
+
+Because the indicated consumption pattern for Mr. Meekes was notcommensurate with the BAC reported for him at 2:20 am, it would have beennecessary for him to consume an additional 4.0-9.3 standard drinks thanindicated at some point between 4:00 pm and 11:00 pm.
+
+5.
+
+Ignoring the consumption of alcohol from 4:00 pm to 7:30 pm, Mr. Meekeswould have been required to consume 8.8-12.4 standard drinks while at thereception when consideration is given to a blood alcohol level of 104 mg/100 mlat 2:20 am.
+
+6.
+
+Assuming a blood alcohol level of 104 mg/100 ml at 2:20 am, Mr. Meekes’ BAC
+at 12:04 should not have exceeded 107-149 mg/100 ml. Between 10:30 pm and11:00 pm should not have exceeded 117-180 mg/100 ml.
+
+7.
+
+Even though a retrograde extrapolation suggest a BAC of 117-180 mg/100 ml at10:30 pm, when Mr. Meekes’ left the reception, it is important to note that anassumption must be made that no alcohol was consumed after leaving thereception. If any alcohol was consumed after the fact, it is clear that theprojected readings at 10:30 pm would need to be reduced, as would the projectedquantity he may have consumed at the reception. There was an indication that abottle of rye was present in his truck, as well as an open case of beer in Tuffnailvehicle.
+
+I understood them to suggest Mr. Kupferschmidt was being partisan or going beyond thebounds of his expertise. However, neither did I understand counsel to say that he was notqualified to give opinion evidence on BAC levels.
+
+Mr. Meekes was identified as a moderately tolerant drinker. This would suggestthat he may have been able to mask the symptoms of alcohol intoxication, whichwas corroborated by all those who saw him that evening.
+
+[5]
+
+The plaintiffs considered paragraphs one to six above to be unobjectionable but expressedconcern about the final two and, in particular, the reference to the bottle of rye at theaccident scene and Mr. Meekes’ ability to mask signs of intoxication.
+
+[6]
+
+They also objected to several other passages in his report in which Mr. Kupferschmidtreviewed evidence from examinations for discovery and mediation briefs in order to offerthe following comments:
+
+Mr. Meekes had a tolerance for alcohol;
+
+Mr. Meekes “and his friends” engaged in binge drinking;
+
+Mr. Meekes might have been able to mask some or all signs ofintoxication;
+
+observers might not be able to detect from him signs of intoxication;
+
+Mr. Meekes may have become impaired or intoxicated after leaving thereception; and
+
+the absence of rear brakes in the Meekes’ vehicle could have dictated theoutcome, regardless of alcohol consumption.
+
+[7]
+
+In my view, Mr. Kupferschmidt seems to have taken a hypothesis (ie. that Mr. Meekesdrank after leaving the reception) and looked for support for it by sifting through theevidence. This, it seems to me, is anathema to the role of an expert. Clearly, had Mr.Kupferschmidt been asked to assume that Mr. Meekes consumed alcohol between 11:00
+p.m. and midnight and determined its impact on his BAC level at the time of the accident,this would be unobjectionable. It is not his function, however, to look for evidence insupport of a hypothetical or theory he himself developed.
+
+[8]
+
+As to the issue of the bottle of rye found at the accident scene, Mr. Virtue submitted thatthere was absolutely no evidence of alcohol consumption after the three men left thereception. I disagree. There was indirect evidence on the issue. Mr. Tuffnail had norecollection of events after leaving Tavistock. Mr. Meekes had no recollection of theevents after the wedding ceremony. The half empty bottle of rye was found at the scene.
+Mr. Meekes smelled of alcohol according to a first responder and the homeowner wherethe accident occurred. Whether that evidence would support an inference remained to beseen and would be the subject of an instruction.
+
+[9]
+
+Returning then to the issue of signs of intoxication, the decision in R. v. Graat, [1982] 2
+S.C.R. 819 is instructive.
+
+8.
+
+In that case, the accused was convicted of driving while impaired. In support of hisappeal, he contended that the trial judge erred in admitting the opinions of police officersthat his ability to drive was impaired. The Supreme Court disagreed and at para. 54, itnoted:
+54 Nor is this a case for the exclusion of non-expert testimony because thematter calls for a specialist. It has long been accepted in our law thatintoxication is not such an exceptional condition as would require a medicalexpert to diagnose it. An ordinary witness may give evidence of his opinionas to whether a person is drunk. This is not a matter where scientific,technical, or specialized testimony is necessary in order that the tribunalproperly understands the relevant facts. Intoxication and impairment ofdriving ability are matters which the modern jury can intelligently resolve onthe basis of common ordinary knowledge and experience. The guidance ofan expert is unnecessary.
+
+[11]
+
+Robert Simpson, who testified on State Farm’s behalf, developed the predecessor to theSmart Serve protocol, a service to those in the hospitality industry to protect againstliability. The workbook was marked as an exhibit and Mr. Simpson testified about itscontents. Notably it contained a chart setting out signs of intoxication. It would no doubtbe of assistance to a jury and Mr. Kupferschmidt’s testimony would add nothing to theirconsideration of the facts.
+
+[12]
+
+In other words, the opinion evidence of Mr. Kupferschmidt regarding signs ofintoxication at the reception or others’ ability to detect impairment or intoxication wasnot necessary in order for the jury to make a correct judgment in the absence of specialknowledge: see White Burgess v. Abbott, 2015 SCC 23, following the test earlier set outin R. v. Mohan, [1994] 2 S.C.R. 9.
+
+[13]
+
+Finally, I note that a commercial host does not escape liability because a guest does notexhibit visible signs of intoxication if in the circumstances, it knew or ought to haveknown that the patron was becoming intoxicated. See McIntyre v. Grigg, [2006] O.J. No.
+4420 (C.A.).
+
+[14]
+
+I concluded therefore that Mr. Kupferschmidt’s opinion on BAC levels and impairmentwould be of assistance to and necessary for the jury’s understanding of the underlyingscience. However, the issue of signs of intoxication and the ability to detect such signs isa question of fact for the jury and required no expert opinion. The jury would beperfectly capable of making that determination based on their assessment of the evidenceand relying on their own experience and common sense.
+
+“Justice H. A. Rady”
+Justice H. A. Rady
+
+[10]
+
+Released: May 12, 2017
+
+CITATION: Tuffnail, et al v. Meekes et al, 2017 ONSC 2751
+COURT FILE NO.: 3724-11
+DATE: 20170512
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+BETWEEN:
+Gregory Alan Tuffnail, Patricia DianeTuffnail, David Alan Tuffnail and MichaelAlan TuffnailPlaintiffs
+– and –
+Steven Andrew Meekes, The Optimist Clubof Downie Inc., State Farm MutualAutomotive Insurance Company, TomBolton, The Corporation of the Township ofPerth South, and Doug HearnDefendants
+– and –
+Steve CoulthardThird Party
+
+RULING – EXPERT OPINION ON SIGNS OF
+INTOXICATION
+Rady J.
+Released: May 12, 2017
+

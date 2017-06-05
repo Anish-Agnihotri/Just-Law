@@ -1,0 +1,266 @@
+CITATION: FCI Concrete v. Buttcon Limited, 2017 ONSC 3326
+COURT FILE NO.: 1900-16
+DATE: 20170529
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+FCI Concrete Forming Inc. and FCI
+Concrete Holdings Inc.
+Plaintiffs )
+– and –
+Buttcon Limited, Carpenters’ District
+Council of Ontario, United Brotherhood of
+Carpenters & Joiners of America, Local494, Tomi Hulkkonen and Tony Iannuzzi
+
+D. Cowling and A. Van Klink, for thePlaintiffs
+
+D. Shields, for the Defendants, Carpenters’
+District Council of Ontario, UnitedBrotherhood of Carpenters & Joiners ofAmerica, Local 494, Tomi Hulkkonen andTony Iannuzzi
+
+Defendants
+
+HEARD: March 8, 2017
+
+RAIKES J.
+
+[1]
+
+The defendants, Carpenters’ District Council of Ontario, United Brotherhood ofCarpenters & Joiners of America, Local 494, Tomi Hulkkonen and Tony Iannuzzi
+(hereafter “the Union defendants”), move to stay or dismiss the plaintiffs’ action under r.
+21.01(3)(a) on the basis that the Ontario Labour Relations Board (“OLRB”) has exclusivejurisdiction over the claim.
+
+[2]
+
+The plaintiffs are creditors of Southern Ontario Concrete Forming Ltd. (hereafter
+“SOCF”). SOCF is a joint venture corporation controlled equally by the plaintiffs andAlliance Forming Ltd. (hereafter “Alliance”).
+
+[3]
+
+SOCF is a bankrupt. The plaintiffs obtained an order dated July 27, 2016 pursuant to s.
+38 of the Bankruptcy and Insolvency Act permitting SOCF’s trustee in bankruptcy toassign SOCF’s claim against the defendants to the plaintiffs which it did on July 28,2016.
+
+[4]
+
+The statement of claim was issued July 29, 2016. In this action, the plaintiffs seekdamages from each of the defendants for the tort of conspiracy to injure, as well as
+
+ONTARIO
+
+[5]
+
+The Union defendants argue that boiled down to its essence, the plaintiffs’ claim is theUnion defendants conspired to improperly use the grievance procedure to coerce SOCF
+to sign a collective agreement which amounts to an unfair labour practice contrary to s.
+76 of the Labour Relations Act, 1995, S.O. 1995, c. 1, Sched. A (“LRA”). The OLRB hasexclusive jurisdiction over unfair labour practices.
+
+[6]
+
+The plaintiffs characterize the claim differently. They say that at its core, this action is aclaim for damages in tort that arises from the actions of the defendants to preventpayment to SOCF for work it performed under a contract with Buttcon Limited (hereafter
+“Buttcon”).
+
+Background
+
+[7]
+
+Based on the submissions of counsel and the material filed on this motion, the followingfacts appear to be undisputed:
+1) Buttcon was the general contractor on a construction project for the Universityof Windsor at the former Windsor Star Building in Windsor, Ontario
+(hereafter “the project”);2) SOCF did concrete forming and finishing work;3) Buttcon and SOCF entered into a contract evidenced by a purchase orderdated October 15, 2013;4) Pursuant to that purchase order, SOCF was to provide labour and materials tocomplete the concrete forming and finishing for the project;5) Buttcon was a signatory to the provincial collective agreement between theCarpenters’ Employer Bargaining Agency and the Carpenters District Councilof Ontario (hereafter “the collective agreement”);6) The collective agreement was in place before the purchase order was madeand continued in place throughout the time that SOCF did work on theproject;7) Pursuant to the collective agreement, all carpentry work on the project,including the concrete forming work by SOCF, had to be done by carpenterswho were members of Local 494;8) It was a term of the purchase order that SOCF be a signatory to the collectiveagreement;
+
+damages from only the Union defendants for the torts of unlawful interference witheconomic relations and inducing breach of contract.
+
+9) SOCF was not a signatory to the collective agreement but FCI ConcreteForming Inc. and Alliance were signatories;
+
+11) Work under the purchase order started in November, 2013;12) The Union defendants served a grievance on Buttcon on December 19, 2014;13) The grievance alleged that Buttcon violated the collective agreement bycontracting with SOCF which was not a signatory to the collective agreement;14) Following receipt of the grievance, Buttcon stopped paying SOCF.
+
+[8]
+
+The plaintiffs allege that as a consequence of the cessation of payments owing byButtcon, SOCF was unable to pay its creditors and went bankrupt.
+
+Allegations in Statement of Claim
+
+[9]
+
+The plaintiffs make, inter alia, the following allegations in their statement of claim:
+1) SOCF caused the work required by the purchase order to be done as well asextras for which it was entitled to be paid2) Buttcon paid SOCF $1,588,222.23 but stilled owed $1,566,054.10;3) The defendants knew from the start of the work that SOCF was not asignatory to the collective agreement and made no objection until thegrievance was filed;4) It was always intended and understood by SOCF and Buttcon that SOCF
+would subcontract the concrete forming work to FCI Concrete Forming Inc.
+and Alliance;5) The defendants were not concerned that SOCF was not a signatory to thecollective agreement because the subcontractors were signatories and all thework was being done by union members;6) All of the carpentry work under the purchase order was done by members ofLocal 494;7) SOCF was bound by the collective agreement because of its corporaterelationship to the plaintiffs and Alliance, and the defendants knew that it wasbound;8) The Board made an order on January 11, 2016 declaring that SOCF wasbound by the collective agreement from its inception;
+
+10) The concrete forming work by SOCF was subcontracted to FCI ConcreteForming Inc. and Alliance whose employees were members of Local 494;
+
+10) On April 30, 2014, an employee of Facca Incorporated (hereafter “Facca”)
+filed an application to decertify the union as the exclusive bargaining agent forthe employees of Facca;11) Facca is a related corporation to the plaintiffs and SOCF;12) The Union defendants opposed the decertification application;13) The Union defendants served the grievance against Buttcon after thedecertification application was filed;14) The defendants knew the grievance had no merit and was untimely;15) By doing nothing for 11 months, the Union defendants had waived or wereestopped from asserting any claim or right arising from SOCF not being asignatory to the collective agreement;16) The grievance had no practical purpose because SOCF had no employees;17) There were no damages to the Union because the work was done entirely byunion members;18) The grievance was not filed for any real or genuine concern about SOCF notbeing a party to the collective agreement or to seek resolution from Buttcon;19) Instead, the grievance was filed,
+“with the intention of inducing and causing Buttcon to stop payments toSOCF under the Purchase Order and to cause economic injury to SOCF soas to compel it to execute the Collective Agreement in order to obtainfurther payment from Buttcon. The signing of the Collective Agreementwould then aid the Union Defendants in their efforts to again immediatelybecome the exclusive bargaining agent of the Facca employees byoperation of subsection 1(4) of the Act in the event the decertificationapplication was successful”;20) Buttcon and the Union defendants, “acting in concert”, took no steps toresolve or prosecute the grievance after it was filed;21) The defendants left the grievance outstanding to cause economic injury toSOCF;
+
+9) From November 2013 to October 2014, Buttcon made payments to SOCF
+without any objection or concern that SOCF was not a signatory to thecollective agreement;
+
+23) Buttcon wanted to cause economic injury to SOCF to avoid having to paySOCF;24) Buttcon used SOCF’s failure to sign the collective agreement as an excuse notto pay;25) The filing of the grievance was an abuse of process because it was filed forthe reasons indicated above;26) SOCF offered to sign an agreement recognizing Local 494 as the exclusivebargaining agent for any carpenters employed by SOCF;27) The Union defendants refused to accept that proposal because it was notsigned by the principal of Facca on behalf of SOCF;28) SOCF then executed a Voluntary Recognition Agreement (VRA) to recognizeLocal 494 as the exclusive bargaining agent for carpenters but the agreementcontained a proviso that in doing so, the agreement could not be used by theUnion in other proceedings involving other related companies; and29) The Union refused to accept and sign the VRA.
+
+[10]
+
+The plaintiffs assert the following causes of action:
+a. Civil conspiracy;b. Abuse of process; andc. Inducing breach of contract.
+
+Analysis
+
+[11]
+
+There are two categories of civil conspiracy: lawful means conspiracy (sometimesreferred to as simple motive conspiracy) and unlawful means conspiracy: CanadaCement LaFarge Ltd. v. British Columbia Lightweight Aggregate Ltd., [1983] 1 S.C.R.
+452 at pp. 471-2.
+
+[12]
+
+“Lawful means conspiracy” occurs when two or more persons act in concert with the
+“predominant purpose” of causing injury to the plaintiff. The defendants’ conduct can belawful or unlawful. The focus is on the predominant purpose of their conduct: CanadaCement Lafarge, at p. 471 and p. 466 citing the House of Lords in Lonrho Ltd. v. ShellPetroleum Co. Ltd., [1982] A.C. 173 at pp. 189 and 464.
+
+22) The Union defendants wanted to cause economic injury to SOCF to “aid theUnion Defendants in their efforts to remain in place as the exclusivebargaining agents for the Facca employees”;
+
+[13]
+
+An “unlawful means conspiracy” does not require that the predominant purpose of thedefendants’ conduct be to cause injury to the plaintiff; rather, there is a constructiveintent which derives from the fact that the defendants should have known that injury tothe plaintiff would ensue: Agribrands Purina Canada Inc. v. Kasamekas, 2011 ONCA
+460 at para. 24.
+
+[14]
+
+In oral argument, plaintiffs’ counsel took the position that the conspiracy claim pleadedin the statement of claim falls into the first category: lawful means conspiracy. I observethat:
+a. At para. 37, the plaintiffs plead that the defendants left the grievanceoutstanding and unresolved for the predominant purpose of causing economicinjury to SOCF.
+The pleading then immediately states: “The UnionDefendants sought to cause economic injury to SOCF to aid the UnionDefendants in their efforts to remain in place as the exclusive bargaining agentfor the Facca employees”;b. At para. 41, the plaintiffs allege that the filing of the grievance was “an abuseof process”. The grievance was not filed to resolve the matters grieved but tocause economic injury to SOCF “in an effort to compel it to execute theCollective Agreement and assist the Union Defendants in their efforts toremain as the exclusive bargaining agent for the Facca employees ”.
+
+[15]
+
+Counsel for the plaintiffs argued variously that:
+a. Filing the grievance was not an unlawful act;b. Filing this grievance was an abuse of process;c. The failure to file the grievance in a timely manner and to diligently pursue itbelies its legitimacy – this was a stratagem employed to coerce SOCF to signthe collective agreement which would have benefits for the Union vis-à-visthe Facca employees; andd. The unlawfulness of the grievance may be relied upon to justify punitivedamages.
+
+[16]
+
+Counsel for the Union defendants asserts that the conduct complained of by the plaintiffsis prohibited by s. 76 of the LRA, and a remedy may be obtained by the plaintiffs under s.
+96(4) of the LRA. Accordingly, the claim is unquestionably a matter which falls withinthe exclusive jurisdiction of the OLRB pursuant to s. 114(1).
+
+[17]
+
+S. 76 of the LRA states:
+“No person, trade union or employers’ organization shall seek by intimidation orcoercion to compel any person to become or refrain from becoming or to continueto be or to cease to be a member of a trade union or of an employers’ organization
+
+or to refrain from exercising any other rights under this Act or from performingany obligations under this Act.”
+S. 96(4) of the LRA states:
+“Where a labour relations officer is unable to effect a settlement of the mattercomplained of or where the Board in its discretion considers it advisable todispense with an inquiry by a labour relations officer, the Board may inquire intothe complaint of a contravention of this Act and where the Board is satisfied thatan employer, employers’ organization, trade union, council of trade unions,person or employee has acted contrary to this Act it shall determine what, ifanything, the employer, employers’ organization, trade union, council of tradeunions, person or employee shall do or refrain from doing with respect thereto andsuch determination, without limiting the generality of the foregoing may include,despite the provisions of any collective agreement, any one or more of,
+(a) An order directing the employer, employers’ organization, trade union,council of trade unions, employee or other person to cease doing the act oracts complained of;
+(b) An order directing the employer, employers’ organization, trade union,council of trade unions, employee or other person to rectify the act or actscomplained of.”
+The obligation to rectify may include payment of damages or compensation to thewronged party.
+
+[19]
+
+S. 114(1) states:
+“The Board has exclusive jurisdiction to exercise the powers conferred upon it byor under this Act and to determine all questions of fact or law that arise in anymatter before it, and the action or decision of the Board thereon is final andconclusive for all purposes, but nevertheless the Board may at any time, if itconsiders it advisable to do so, reconsider any decision, order, direction,declaration or ruling made by it and vary or revoke such decision, order, direction,declaration or ruling.”
+
+[20]
+
+The Union defendants argue that the “essential character” of the claims asserted againstthem are matters which fall within the exclusive jurisdiction of the Board. This is alabour relations dispute regardless how the plaintiffs try to mask it otherwise by commonlaw claims.
+
+[21]
+
+The Union defendants contend that in addition to lack of jurisdiction by this court, theclaim asserted by the plaintiffs is devoid of any merit because,1) The financial harm suffered by SOCF predated the grievance letter;
+
+[18]
+
+2) Local 494 had good reason to bring the grievance; and
+
+[22]
+
+I note that the motion before me is brought under r. 21.01(3)(a). It is not a r. 20 summaryjudgment motion. The merits of the Union defendants’ action are not before me; rather,the focus of the motion is whether the OLRB has exclusive jurisdiction over this claim.
+
+[23]
+
+The plaintiffs’ position is that the essential character of this dispute is a claim fordamages in tort. SOCF lacked standing in the grievance filed between the Union andButtcon. The underlying motive of the Union defendants does not detract from or changethe allegation that the predominant purpose of the conduct of the Union defendants wasto cause economic harm to SOCF. This court has jurisdiction over tort claims.
+
+[24]
+
+Plaintiffs’ counsel also argued that it is doubtful whether the claim falls within s. 76 ofthe LRA and whether the Board would exercise its discretion to hear the claim if madepursuant to s. 96 as there is no labour relations purpose to be served by doing so. SOCF
+is bankrupt and there is no ongoing labour relationship.
+
+[25]
+
+Counsel agree that the applicable test is “the essential character” of the dispute which isdetermined based on the facts surrounding the dispute, not how the parties have framedthe legal issues: Weber v. Ontario Hydro, [1995] 2 S.C.R. 929 at paras. 48, 56-59. InWeber, the Supreme Court of Canada rejected the concurrent jurisdiction model. Instead,the court held that claims which arise from the interpretation, application or violation ofcollective agreements lie within the exclusive purview of the Board and are entitled todeference by the courts.
+
+[26]
+
+In Gendron v. Supply & Services Union of P.S.A.C., Local 50057, 1990 CarswellMan 205
+at para. 56, the Supreme Court of Canada confirmed that the exclusive jurisdictionextended to statutory decision making structures under the employment-relatedlegislation over which the Board has jurisdiction.
+
+[27]
+
+The courts have recognised, however, that not every dispute in a workplace falls under acollective agreement. It does not follow that every dispute between the employer andemployee is determinable within the context of collective agreement or the legislationthat governs the labour relationship: Piko v. Hudson’s Bay Co., [1998] O.J. No. 4714
+(ON CA) at paras. 9 and 11. See also McNeil v. Brewers Retail Inc., 2008 ONCA 405 atpara. 39.
+
+[28]
+
+The courts continue to have jurisdiction in civil matters which are not governed by acollective agreement or the provisions of the LRA: see Piko, at paras. 3, 17-18; FordingCoal Ltd. v. United Steelworkers of America, Local 7884, 1999 BCCA 38 at paras. 21.
+24, 27 and 30. For example, issues that arise in the context of picketing continue to bematters over which the courts have jurisdiction.
+
+3) The plaintiffs’ action is brought to retaliate for an ORLB finding that theplaintiffs’ principal, Mr. Gardinio, violated the LRA in other dealings with theUnion defendants.
+
+[29]
+
+The plaintiffs argue in the alternative that Weber does not stand for the proposition thatlabour arbitrators always have exclusive jurisdiction in every manner of labour dispute.
+Rather, the Courts and other tribunals may possess overlapping, concurrent or exclusivejurisdiction. In the case of overlapping or concurrent jurisdiction, the court should applythe “better fit test” taken in Quebec (Commission des droits de la personne et des droitsde la jeunesse) v. Quebec (Attorney General), [2004] 2 S.C.R. 185 at paras. 11, 14 and15; see also Society of Energy Professionals v. Ontario Power Generation (Group andPolicy Grievance), [2013] OLAA No. 432 at paras. 5-11, 19-21, 27, 28, 31, 42 and 46.
+
+[30]
+
+Both the Quebec and Society of Energy Engineers cases are distinguishable from the casehere. In each of those cases, there were multiple statutory tribunals which had expertiseand potential jurisdiction over the subject-matter of the dispute. A common senseapproach was taken to ascertain which tribunal was best able to determine the core issuesin dispute. Each of the tribunals had subject-matter jurisdiction by statute.
+
+[31]
+
+In the case before, there is no dispute that if the essential character of the dispute is a tortclaim, jurisdiction rests with the courts. On the other hand, if the essential character ofthe dispute is the interpretation, application or administration of a collective agreement orthe statutory processes over which the Board has jurisdiction, the jurisdiction restsexclusively with the Board. It is an either/or scenario which depends for its outcome onthe application of the essential character test.
+
+[32]
+
+In my view, the essential character of the dispute in this case is a labour relations disputegoverned by the provisions of the provincial collective agreement or the provisions of theLRA. In coming to that view, it find the following:
+a. Central to the plaintiffs’ claim is the filing and non-prosecution of a bogusgrievance by the Union defendants to secure an improper labour relationsobjective: to coerce SOCF to sign the collective agreement and thereby gain alabour relations advantage for the Union involving another employee group;b. On its face, that conduct would, if true, appear to contravene s. 76 of the LRA
+which may give rise to remedies under s. 96;c. The Board has an extensive jurisdiction to fashion the appropriate remedyincluding an award of damages;d. The alleged “abuse of process” is an abuse of the right to grieve, a matterclearly within the jurisdiction of the Board;e. If, as the plaintiffs contend, SOCF was already bound by the collectiveagreement, it follows that it had the right to oppose the grievance or to at leastseek standing from the Board as an affected party to do so;f.
+
+The pleading sends a mixed message as to the predominant purpose for whichthe Union defendants acted. On the one hand, it alleges that the predominantpurpose was to cause economic harm to SOCF; however, it also repeatedly
+
+g. I cannot presume that the Board will decline jurisdiction or decline to hold ahearing. In the latter case, such refusal would not give jurisdiction to thiscourt in any event.
+
+[33]
+
+Although framed as a tort action, the allegations against the Union defendants amount toassertions of misuse of the grievance process to gain a labour relations advantage towhich it was not entitled by means prohibited by the LRA. To gain that advantage, it hadto cause economic harm to SOCF. S. 76 of the LRA prohibits conduct by a union or otherperson that coerces anyone to continue to be a member of a union or from exercising aright under the Act to be free of the union. The alleged Union defendants’ conductappears to fit within the scope of this provision.
+
+[34]
+
+The plaintiffs argue that the effect of declining jurisdiction is the claims against thealleged conspirators must proceed in separate jurisdictions with the prospect ofinconsistent results. That is a regrettable possibility which does not justify side-steppingthe jurisdiction of the Board.
+
+[35]
+
+In any event, I am advised by counsel that there is a separate action to which theseplaintiffs are parties as against Buttcon for damages for breach of contract. That actionwas also authorised by the Trustee under s. 38 and there are additional creditors who havejoined in that action.
+
+[36]
+
+I find that the claim asserted falls within the exclusive jurisdiction of the LabourRelations Board and, as such, this court has no jurisdiction. Therefore, I order that thisaction be stayed indefinitely. The plaintiffs may, subject to the terms of the s. 38 order,pursue their remedies under the LRA.
+
+[37]
+
+If the parties cannot agree on costs of the motion, they may make written submissionswithin 30 days not to exceed 5 pages.
+
+Original signed by R. RaikesJustice R. M. Raikes
+
+makes clear that harming SOCF was ultimately merely means to an end: toforce SOCF to sign the collective agreement. I conclude from the pleadingitself that the overarching purpose of the Union defendants’ actions was toforce SOCF to sign the collective agreement so that the Union remained thebargaining agent for the Facca employees; and
+
+Released: May 29, 2017
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+FCI Concrete Forming Inc. and FCI Concrete HoldingsInc.
+Plaintiffs
+– and –
+Buttcon Limited, Carpenters’ District Council ofOntario, United Brotherhood of Carpenters & Joiners ofAmerica, Local 494, Tomi Hulkkonen and TonyIannuzziDefendants
+
+REASONS FOR JUDGMENT
+
+Raikes, J.
+SCJ
+Released: May 29, 2017
+
+CITATION: FCI Concrete v. Buttcon Limited, 2017 ONSC 3326
+COURT FILE NO.: 1900-16
+

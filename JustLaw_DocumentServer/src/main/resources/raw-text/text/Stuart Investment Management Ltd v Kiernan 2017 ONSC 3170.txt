@@ -1,0 +1,423 @@
+CITATION: Stuart Investment Management Ltd. v. Kiernan 2017 ONSC 3170
+COURT FILE NOS.: CV-14-517311; CV-17-570498
+DATE: 20170529
+
+SUPERIOR COURT OF JUSTICE
+Court File No. CV-14-517311 )
+STUART INVESTMENT
+) Michael Byers, for the ApplicantsMANAGEMENT LTD. and SUNNYSIDE
+INVESTMENTS INC.
+Applicants )
+– and –
+JAMES KIERNAN and CORNERSTONE
+) Peter V. Matukas, for the RespondentsCAPITAL PARTNERS L.P.
+Respondents )
+AND BETWEEN:
+Court File No. CV-17-570498 )
+) Peter V. Mutukas, for the ApplicantsJAMES KIERNAN and CORNERSTONE
+CAPITAL PARTNERS L.P.
+Applicants )
+– and –
+STUART INVESTMENT
+) Michael Byers, for the RespondentsMANAGEMENT LTD. and SUNNYSIDE
+INVESTMENTS INC.
+Respondents )
+) HEARD: May 19, 2017
+BETWEEN:
+
+REASONS FOR DECISION
+DIAMOND J.:
+Overview
+
+ONTARIO
+
+[1]
+In or around mid-2013, the corporate parties entered into a commercial transaction wherebythe respondent Cornerstone Capital Partners L.P. (“Cornerstone”) sold all of its shares in theapplicant Stuart Investment Management Ltd. (“Stuart”) to the co-applicant Sunnyside InvestmentsInc. (“Sunnyside”).
+
+[2]
+The transaction closed on or about October 1, 2013. The applicants argue that after theclosing date, they incurred liabilities as a result of the respondents’ breaches of variousrepresentations and warranties under a Share Purchase Agreement (to be defined hereinafter).
+As a result, the applicants seek compensation from the respondents for those liabilities pursuantto indemnity clauses under the Share Purchase Agreement.
+
+[3]
+The respondents dispute the applicants’ position, and have advanced their ownapplication seeking payment of outstanding rent allegedly due under a sublease agreement.
+
+[4]
+At the conclusion of the hearing of both applications, I took my decision under reserve.
+These are my Reasons.
+Background
+
+[5]
+Stuart is an Ontario corporation headquartered in Montreal, Quebec, and at all materialtimes carried on business as an investment dealer and immigration advisor. Stuart is registeredwith and regulated by the Investment Industry Regulatory Organization of Canada (“IIROC”).
+
+[6]
+Cornerstone is an Ontario limited partnership controlled and operated by its President andCEO, the co-respondent James Kiernan (“Kiernan”). In or around 2008, Cornerstone purchasedall of the issued and outstanding shares in Stuart.
+
+[7]
+In late 2012, Sunnyside was looking to acquire a corporation with appropriate IIROC
+registrations in order for Sunnyside to provide financial services to immigrants in Quebec.
+Sunnyside wanted a company which was already established, believing that such an approachwould be cheaper than having to start up a new company. Based upon the transcripts from thecross-examination of the affiants, it appears that the parties all agree that Sunnyside was lookingfor a “clean” company with an IIROC broker/dealer license.
+
+[8]
+To assist Sunnyside with its search and acquisition, Sunnyside engaged the professionalservices of:
+(a)
+
+Gilles Seguin (“Seguin”), a Montreal lawyer;
+
+(b)
+
+The firm of Cassels, Brock & Blackwell LLP (“CB”), retained to prepare thenecessary agreements and assist with due diligence for the acquisition of anIIROC registered company, and
+
+(c)
+
+Sutton Boyce Gilkes Regulatory Consulting Group Inc. (“Sutton Boyce”),retained to assist with the review of an IIROC registered company for, inter alia,compliance purposes.
+
+The Transaction
+
+[9]
+On or about April 3, 2013, the parties entered into a Letter of Intent (“LOI”) whichcontemplated a share purchase transaction that would be conditional on Kiernan accepting a sixmonth employment agreement under which he would act as Stuart’s Ultimate Designated Person
+(for IIROC purposes), Chief Compliance Officer and Sales Representative.
+
+[10] On or about April 12, 2013, Stuart entered into a further agreement with PortfolioStrategies Securities Inc. (“PSSI”) to assist Sunnyside with the acquisition of Stuart. Thatagreement allowed PSSI to acquire all of Stuart’s client accounts and securities together withfour “critical employees”, and it closed on or about June 30, 2013.
+
+[11] On June 1, 2013, Kiernan, Cornerstone, Sunnyside and Stuart all executed a SharePurchase Agreement (“SPA”) whereby Cornerstone agreed to sell all of the issued andoutstanding shares in Stuart to Sunnyside for the sum of $150,000.00. Sunnyside would alsoemploy and pay Kiernan a salary of $140,000.00 over his six month employment period, andinject an additional $675,000.00 in regulatory capital into Stuart.
+
+[12] The SPA further provided that Rocchina Oppedisano (“Oppedisano”,Stuart employee), would continue her employment with Stuart pursuant to a “tomonth employment agreement (i.e. the same length as Kiernan’s employment).
+maintain that Oppedisano’s post-closing employment was a term requested bythe SPA negotiations, and was not a term found in the original LOI.
+
+a long-standingbe drafted” sixThe applicantsKiernan during
+
+Key SPA Provisions
+
+[13] For the purposes of the two applications. I am reproducing below the various clauseswhich the parties relied upon in their respective submissions at the hearing:
+Article 3.1 - Representations and Warranties of the VendorThe Vendor represents and warrants to the Purchaser (and acknowledges that thePurchaser is relying on such representations and warranties in completing the transactioncontemplated herein) that:
+(h)
+
+Financial Statements - The Financial Statements present fairly the financialposition of Stuart as at the respective dates thereof in all material respects andhave been prepared in accordance with IFRS, consistently applied with prior fiscalyears of Stuart. The balance sheets forming part of the Financial Statements of
+
+Stuart present fairly and in all material respects true and complete statements ofthe assets, liabilities (whether accrued, absolute, contingent or otherwise) andfinancial condition of Stuart as at the respective dates thereof, and the statementsof income (loss) and retained earnings (deficit) and statement of changes infinancial position forming a part of the Financial Statements accurately set forththe results of the operations of Stuart and the source and application of the fundsthereof throughout the respective periods covered thereby;
+(i)
+
+Absence of Liabilities - Except as set out in Schedule 3.1(i), or pursuant toContracts set out in Schedule 3.1(k) or Schedule 3.1(o), Stuart does not have anyoutstanding indebtedness or any liabilities or obligations (whether accrued,absolute, contingent or otherwise), or any material outstanding commitments orobligations of any kind whether or not such obligations or commitments arepresently considered liabilities of Stuart under IFRS ("Liabilities");
+
+(n)
+
+Litigation - Except as disclosed in Schedule 3.1(n) there is no suit, action, dispute,civil or criminal litigation, claim, arbitration orlegal, administrativeor otherproceeding or investigation of or before any Authority, including appeals andapplications for review (collectively, "CorporationClaims"), threatened or, to thebest of the Vendor's knowledge, pending against or relating to Stuart, or any of itspresent or former employees, officers, directors or agents (in respect of theiremployment or engagement with Stuart). There are no facts or circumstancesknown to the Vendor which are likely to give rise to any such Corporation Claims.
+Except as disclosed in Schedule 3.1(n), neither Stuart, nor any of its present orformer employees, officers, directors or agents (in respect of their employment orengagement with Stuart), is subject to any judgment, execution, decree, injunction,rule or order of any Authority;
+
+(o)
+
+Contracts - Except for the Contracts referred to in Schedule 3.1(k) and Schedule3.1(o) or in any other Schedule hereto, Stuart is not a party to or bound by anycontract or commitment either now or in the future, whether oral or written. Thecontracts referred to in Schedule 3.1(k) and Schedule 3.1(o} are all in full forceand effect unamended and, except as disclosed in Schedule 3.1(k) and Schedule3.1(o), no default exists in respect thereof on the part of Stuart or, to the knowledgeof the Vendor, any of the other parties thereto;
+
+(p)
+
+Employm ent Matters –
+(i)
+
+Full details of the current salaries, benefits and other remuneration, and date oflast salary increases applicable to the Retained Employee, have been provided tothe Purhaser.
+
+(x)
+
+Stuart has no other employees, and is not a party to or bound by any agreementswith past employees, agents or independent contractors .
+
+Business and Corporate Records –
+(ii)
+
+The books, records and accounts of Stuart, including any predecessorcorporations: (1) have been maintained in accordance with good businesspractices on a basis consistent with prior years; (2) are stated in reasonabledetail and accurately and fairly reflect the transactions and dispositions ofthe assets of Stuart; and (3) accurately and fairly reflect the basis for theFinancial Statements. Stuart has devised and maintained a system of internalaccountingcontrolsufficienttoprovidereasonableassurancesthattransactions are recorded as necessary: (A) to permit preparation of theFinancial Statements in conformity with IFRS or any other criteria applicableto such statements (including any requirements under applicable SecuritiesLegislation); and (B) to maintain accountability for assets.
+
+Article 3.3 - Non-Waiver.
+No investigations made by or on behalf of any party at any time shall have the effectof waiving, diminishing the scope of or otherwise affecting any representation orwarranty made by the other Parties herein or pursuant hereto;Article 4.1 - The Purchaser's Conditions.
+The obligation of the Purchaser to complete the purchase of the Purchased Shareshereunder shall be subject to the satisfaction of, or compliance with, at or before theTime of Closing, each of the following conditions (each of which is herebyacknowledged to be inserted for the exclusive benefit of the Purchaser):
+(b)
+
+Representations, Warranties and Covenants - The representations andwarranties of the Vendor made in or pursuant to this Agreement shall be true andaccurate at the Time of Closing with the same force and effect as though suchrepresentations and warranties had been made as of the Time of Closing. TheVendor shall have complied with all covenants and agreements in thisAgreement to be performed or caused to be performed by it at or prior to theTime of Closing.
+
+(f)
+
+Employment Agreements
+(i)
+
+James Kiernan shall have entered into an employment agreement (the
+"Executive Employment Agreement") at the Time of Closing with Stuartpursuant to which he will act as Ultimate Designated Person, Chief
+
+(ii)
+
+Compliance Officer and a sales representative for a total salary of
+$140,000 for a six-month period, payable on a semi-monthly basis (i.e.
+two times per month, on the 1st and 15th day of each month).
+(ii)
+
+The Retained Employee shall have entered into an employment agreementat the Time of Closing with Stuart pursuant to which she will act asregistered representative/investment advisor for a total salary of $30,000
+for a six month period, payable on a semi-monthly basis;
+
+(g)
+
+Sublease - The Vendor shall have entered into a sublease with Stuart for thepremises leased under the Lease on the terms described in Schedule 4.1 (g) andotherwise in a form satisfactory to the Purchaser;
+
+(i)
+
+Termination of Employee Plans - All Employee Plans shall have beenterminated or assumed by another Person, such that Stuart shall not have anyLiability in respect thereof following the Closing.
+
+Article 6.1 – Indemnification by the VendorThe Vendor covenants and agrees with the Purchaser and Stuart to indemnify and saveharmless the Purchaser and Stuart, and their respective directors, officers, employees andagents, from and against any complaint, claim, demand, action, cause of action, damage,loss {including lost profits), cost, liability or expense (including reasonable professionalfees and disbursements) which are made, or brought against the Purchaser and Stuart ortheir respective directors, officers, employees or agents, or any one or more of them, orwhich they or any one or more of them suffers or incurs in respect of, as a result of, orarising out of:
+(a)
+
+any nonfulfillment of any covenant or agreement on the part of the Vendor,contained in this Agreement or any document or certificate given pursuant to thisAgreem ent;
+
+(b)
+
+any inaccuracy in or breach of any representation or warranty of the Vendor, containedin this Agreement or any document or certificate given pursuant to this Agreement;and
+
+(c)
+
+any Liabilities relating to the conduct of the Business prior to the Closing Date,including any liability described in Schedule 3.1(i) or other liability in respect of anyemployees of Stuart or Employee Plans except pursuant to the employmentagreements described in Section 4.1(f).
+
+The Employment Agreements
+
+[14] As contemplated in the SPA, both Kiernan and Oppedisano signed employmentagreements which mandated both of them to provide their respective services to Stuart for “aperiod of six months”. Oppedisano was to be paid a gross income of $30,000.00 during the sixmonth period. This income was exactly 50 percent of her annual $60,000.00 salary at the timeleading up to the SPA.
+
+[15] While Oppedisano’s employment agreement contained an “Entire Agreement” clause, itis not disputed that Oppedisano was a longstanding Stuart employee. It is the respondents’
+position that Oppedisano’s employment agreement did not explicitly provide that heremployment with Stuart would “come to an end after the six month period”.
+The Wellington Property Lease and Sublease
+
+[16] In accordance with IIROC’s requirement, Stuart needed to maintain a physical officespace. On or about June 24, 2013, a lease of the premises known as 95 Wellington Street West,Suite 910, Toronto (“the Wellington property”) was entered into between 95 Wellington WestLeaseholds Limited (as landlord) and Cornerstone Opportunities Canada Inc., (“Cornerstone’sOpportunities”, the parent company of Cornerstone) as tenant. The Wellington property leaseran from August 1, 2013 to July 31, 2015, and had an early termination clause (with a
+$15,000.00 early termination fee) permitting the lease to be terminated upon six months’ notice.
+
+[17] Clause 4.1(g) of the SPA required Cornerstone to enter into a sublease with Stuart for theWellington Property. Cornerstone Opportunities ultimately entered into a sublease agreementdated September 26, 2013 with Stuart. The term of that sublease ended on April 1, 2014, andrequired Stuart to pay Cornerstone Opportunities monthly rent in the amount of $2,898.16.
+
+[18] It is the respondents’ position that the sublease was varied by Stuart when it advisedCornerstone to continue on with the lease and not exercise the early termination clause. Theapplicants dispute this position.
+The Alleged Liabilities
+
+[19] Once the parties received IIROC approval, the transaction closed on or about September30, 2013. The applicants maintain that they incurred two sets of liabilities which ran contrary tothe respondents’ representations and warranties set out in the SPA:
+a)
+
+McCarthy Tetrault Invoices
+
+[20] Within days of the parties executing the SPA, Kiernan met with Sean Sadler (“Sadler”, asecurities law partner at McCarthy Tetrault LLP). The purpose of the meeting was to discuss aninvestigation commenced by IIROC in November 2012 into a former business unit of Stuart.
+According to Kiernan, Stuart had advised Sutton Boyce of the IIROC investigation. The
+
+[21] The applicants submit that Kiernan did tell them that there was “a compliance issue”
+under review by IIROC, but that he assured them that there was “nothing to worry about”.
+
+[22] McCarthy was retained by Stuart and in the ensuing months reviewed documentation,met with Kiernan and other former Stuart employees, attended IIROC interviews and deliveredwritten submissions to IIROC on behalf of Stuart.
+
+[23] McCarthy sent Stuart monthly invoices for its services. The invoices were rendered onAugust 30, 2013, October 30, 2013, December 6, 2013 and February 21, 2014. The total amountof the four invoices was $54,874.20.
+
+[24] It is the applicants’ position that after taking over Stuart, it was not until early April 2014
+that they discovered McCarthy’s outstanding invoices, as they knew nothing of the existence ofsuch invoices (or invoices to be rendered) prior to or at the closing of the SPA.
+
+[25] McCarthy ultimately commenced its own legal proceeding against Stuart seekingpayment of the outstanding invoices. Sadler swore an affidavit in support of the application. A
+review of various exhibits attached to Sadler’s affidavit discloses:
+●
+
+On April 8, 2014, Sadler delivered an email to Kiernan which stated, inter alia:
+“I gather from your note that you have agreed with SIM (Stuart) tobe responsible for our invoices. I can arrange to have the invoicestransferred into the name of Cornerstone Asset Management L.P.,but only if it first pay the invoice…
+You and I have had several discussions about the invoices and youhave, on more than two occasions, said that you would arrangepayment but no such payment has been made. I don’t think I needto ask again. If you are willing to pay the invoices please arrangefor it now. Otherwise I will assume that you have decided to notpay the invoices and I will take the matter up with SIM (Stuart).”
+
+●
+
+Kiernan had requested Sadler to re-issue and mail the outstanding invoices toCornerstone. Kiernan also requested that Sadler “issue and mail cancellations forthe invoices to Stuart”.
+
+●
+
+Kiernan subsequently left a voice mail message with Sadler stating as follows:
+
+respondents submit that in response, the applicants made no additional inquiries into the IIROC
+investigation.
+
+“Sean its Jamie Kiernan at 11:00 am on Holy Thursday. I want tojust go over this bill with you. It’s going to be my responsibility,obviously. I am trying to figure out how to get a cheque to you andstart this down and get a few more details so give me a call (416)
+597-1234.”
+●
+
+On May 27, 2014, Kiernan left another voice mail message with Sadler stating asfollows:
+“Hey Sean its Jamie Kiernan and I am calling on Tuesday morningat 10:00 am. I just want to go over detail with your bill and howwe can propose to pay this back to you. I am still workingthorough with Stuart about this. Obviously we have acknowledgedour liability on it but clearly since its billed to Stuart where itshould be we have to get this done, so please give me a call and I
+look forward to chatting with you.”
+
+[26] Ultimately, the respondents did not make any payment towards theThe applicants entered into a settlement of McCarthy’s legal applicationamount of $45,000.00. The applicants paid McCarthy $45,000.00 to settleinvoices, and now look to the respondents (including Kiernan personally)
+pursuant to the SPA’s indemnity provisions.
+b)
+
+McCarthy invoices.
+for the all-inclusivethe four outstandingto reimburse them
+
+The Oppedisano Claim
+
+[27] On or about May 1, 2014 (after her six month employment period ended), the applicantsreceived a demand letter from a lawyer representing Oppedisano seeking damages for wrongfuldismissal. Oppedisano subsequently commenced a legal action against Stuart seeking damagesin lieu of notice of termination, including her loss of pension and benefits pursuant to Stuart’spension and benefit plan.
+
+[28] Approximately one year later, at the conclusion of a mediation of Oppedisano’s action,Stuart settled Oppedisano’s claim for the all-inclusive sum of $67,581.70, which was paid in fullby August 25, 2015.
+
+[29] The respondents are not challenging the reasonableness of the settlement amount giventhe traditional wrongful dismissal factors, but rather they take the position that the responsibilityto fund this settlement does not lay at their feet. In support of their position, the respondentssubmit that Oppedisano’s employment did not conclude at the end of the six month term underher employment agreement, and as such it was the applicants’ decision to terminate Oppedisanoat the conclusion of the six month period which was the cause of the applicants’ obligation toremit payment of (and ultimately settle) Oppedisano’s wrongful dismissal claims.
+
+[30]
+
+These two applications raise the following four issues:
+(a)
+
+are the respondents required to indemnify the applicants for payment of thesettlement of the McCarthy invoices?
+
+(b)
+
+are the respondents required to indemnify the applicants for payment of thesettlement of the Oppedisano claim?
+
+(c)
+
+If the respondents must indemnify the applicants for either or both of the abovepayments, is Kiernan personally liable to pay such amounts?
+
+(d)
+
+are the applicants required to pay the respondents outstanding rent in the amountof $45,000.00 under the sublease?
+
+Disposition of Applications Generally
+
+[31] I am being asked to determine matters advanced by way of applications. The dispositionof an application is governed by Rule 38.10 of the Rules of Civil Procedure which empowers thepresiding judge to:
+(a)
+
+grant the relief sought, or dismiss or adjourn the application, in wholeor in part and with or without terms; or
+
+(b)
+
+order that the whole application or any issue proceed to trial and givesuch directions as are just.
+
+[32] As recently held by the Court of Appeal for Ontario in Maurice v. Alles 2016 ONCA 287
+(C.A.), an application is a summary process restricted to situations permitted under the Rules ofCivil Procedure or in cases where certain enumerated relief is claimed. The presence ofconflicting evidence that requires credibility determinations on central issues will result in theapplication being converted to an action.
+
+[34] In Pereira v. Quatsch, [2013] O.J. No. 95 (S.C.J.), the Court found that a judge presidingon an application is entitled to finally decide the rights of the parties on the merits so long as theprinciples which inform and define the parameters of a properly constituted application haveotherwise been met.
+
+Issues to be Decided
+
+Issue #1
+
+a)
+
+whether there are material facts in dispute;
+
+b)
+
+whether there are complex issues requiring expert evidence or aweighing of that evidence;
+
+c)
+
+whether there is a need for the exchange of pleadings and fordiscoveries; and,
+
+d)
+
+the importance and impact of the application and the relief sought.
+
+Are the respondents required to indemnify the applicants for payment of thesettlement of the McCarthy invoices?
+
+[36] On their face, the McCarthy invoices relate to Stuart’s “business” prior to the closingdate, as Kiernan retained McCarthy in early June 2013 in respect of an investigation commencedby IIROC in 2012. I find that both McCarthy’s ongoing retainer and the McCarthy invoiceswere liabilities, obligations and/or commitments that ought to have been disclosed to theapplicants under the terms of the SPA.
+
+[37] As previously stated, all parties understood that the applicants were looking to acquire a
+“clean” company free from any liabilities or obligations. At the hearing of the applications, itbecame apparent that the respondents’ position was not that the McCarthy invoices did not needto be disclosed, but that they were in fact disclosed, and more importantly the applicants took nostep to inquire further after they learned of their existence. As such, I am being asked to makesome findings of fact, and cannot do so unless I am satisfied that the issues before me are not socomplex that a weighing of the evidence requires a trial of this issue.
+
+[38] The respondents submit that the applicants knew of the ongoing IIROC investigation, hadan obligation to make further inquiries in that regard, and failed to discharge that obligation. Inaddition, the respondents submit that the existence of the McCarthy invoices was known to theapplicants through the production and delivery of Staurt’s financial statements prior to and onclosing.
+
+[39] While there is evidence in the record before me that Sutton Boyce (as the applicants’
+agent) may have been aware of the ongoing IIROC investigation, I do not have any reliableevidence before me to support the respondents’ contention that they did in fact disclosed Stuart’sretainer of McCarthy, and the existence of the McCarthy invoices which were rendered, andwould likely be rendered.
+
+[35] In determining whether it is possible to finally decide the rights of parties to anapplication on the merits, the Court must consider the following factors:
+
+[40] I do not find the presence of any legal obligation upon the applicants to have madefurther inquiries of the respondents with respect to the IIROC investigation, and in particularwhether any law firms had been retained for that purpose. The financial statements deliveredprior to and on closing disclose that in the relevant ledgers, itemized invoices were posted fordebts owing to third parties, including (ironically) other law firms. Even though at least some ofthe McCarthy invoices were issued and covered services rendered prior to the closing of thetransaction, there is no specific reference to the McCarthy invoices anywhere in the financialstatements.
+
+[41] The applicants were entitled to rely upon the provisions of the SPA, which was acommercial agreement negotiated between sophisticated parties. Clauses 3.1, 3.3, 4.1 and 6.1
+were inserted in the SPA to protect the applicants’ interests and ensure that there would be no
+“unforeseen surprises” after closing. A party can only make reasonable inquiries into matters ofwhich they were aware, and I find that the respondents did not make adequate disclosure in thecircumstances.
+
+[42] Further, Kiernan’s post-closing comments and behaviour indicate an acknowledgmentthat the McCarthy invoices were never supposed to be, or remain, the responsibility of theapplicants. In email exchanges between himself and Sadler, Kiernan unilaterally stated that theMcCarthy invoices were to be re-issued to Cornerstone who was the party always obligated toremit payment. McCarthy was willing to accept payment of its invoices from Cornerstone andthen re-issue them in the name of Cornerstone. This is understandable, as Cornerstone was neverMcCarthy’s client, and McCarthy could only look to its client for payment if necessary.
+
+[43]
+
+Accordingly, the answer to Issue #1 is “Yes”.
+
+Issue # 2
+
+Are the respondents required to indemnify the applicants for payment of thesettlement of the Oppedisano claim?
+
+[44] In order to succeed on this issue, the applicants must prove that there was an existing realor potential liability to Oppedisano arising from her employment with Stuart prior to closing.
+The balance of section 6.1(c) does not apply to Oppedisano, as her employment agreement wasexplicitly carved out of that indemnity provision.
+
+[45] Oppedisano’s employment with Stuart was long-standing and in full force and effectduring the entire negotiations leading up to the closing date. In addition to Kiernan, she was theone employee who would continue with Stuart post-closing. The applicants were not “successoremployers” as that term is defined under the Employment Standards Act 2000 S.O. 2000 C.41
+and the relevant jurisprudence. This was a share purchase transaction, and in my viewOppedisano’s employment with Stuart never ended until the applicants took the position that heremployment was terminated at the end the six month term in her employment agreement - adocument which was drafted solely by the applicants.
+
+[46] Full details of Oppedisano’s pre-closing salary, benefits and other remuneration wereprovided to the applicants by the respondents. As a long-standing employee, Oppedisano couldnot be terminated without being provided with adequate reasonable notice, and the applicantswere obviously well aware of same. As Oppedisano’s employment was to continue with Stuartpost-closing, in my view there was simply no liability to Oppedisano prior to or at closing. Theonly liability to Oppedisano was to provide reasonable notice in the event her employment wasever terminated.
+
+[47] The terms of Oppedisano’s employment agreement were anything but clear in relation towhat would occur at the end of the six month employment term. While the employmentagreement did contain an entire agreement clause, it did not explicitly specify whetherOppedisano gave up her right to claim common-law reasonable notice, something which ought tohave been addressed especially in light of the fact that the employment agreement was a fixedterm contract.
+
+[48] I agree with the respondents that the liability to Oppedisano was created post-closing bythe applicants. While the applicants could have (and arguably should have) attempted to addressthis known liability to Oppedisano in the employment agreement, they chose not to do so andthus bore the risk of knowingly exposing themselves to a claim for wrongful dismissal.
+
+[49]
+
+Accordingly, the answer to Issue #2 is “No”.
+
+Issue #3
+
+If the respondents must indemnify the applicants for either or both of the abovepayments, is Kiernan personally liable to pay such amounts?
+
+[50] Under the terms of the SPA, Cornerstone is the vendor of its shares in Stuart, andSunnyside is the purchaser. While Kiernan is a signatory, he is not a guarantor of Cornerstone’sobligations save and except for Clause 6.5 wherein Kiernan irrevocably and unconditionallyguaranteed Cornerstone’s obligation to repay a $75,000.00 regulatory capital loan together withall reasonable out of pocket costs and expenses. That loan was fully repaid.
+
+[51] The applicants argue that the SPA further provides that Kiernan’s knowledge is deemedto be the knowledge of Cornerstone, and thus all of the representations and warranties given byCornerstone should apply to Kiernan as well. I do not agree with this submission. Kiernan didnot provide any representations or warranties in his personal capacity to the applicants. While itis true that I have found that Kiernan failed to disclose the existence of the McCarthy invoices tothe applicants, this finding in and of itself does not result in personal liability. As previouslystated, the terms of the SPA were negotiated between sophisticated commercial parties, and apartfrom Clause 6.5 Kiernan has no contractual obligations under the SPA.
+
+[52]
+
+Accordingly, the answer to Issue #3 is “No”.
+
+Are the applicants required to pay the respondents outstanding rent in theamount of $45,000.00 under the sublease?
+
+[53] In my view, Cornerstone has no standing to seek damages for unpaid rent as Cornerstoneis not a party to either the lease or the sublease. While there may be a relationship betweenCornerstone and Cornerstone Opportunities, they are separate, corporate legal entities.
+
+[54] Cornerstone Opportunities could have commenced its own application, or perhapsassigned its cause of action to one of the respondents. No such steps were taken, and as such thelaw of privity of contract governs. Cornerstone never suffered any losses under the lease, and assuch cannot claim the damages allegedly suffered by Cornerstone Opportunities.
+
+[55]
+
+Accordingly, the answer to Issue #4 is “No”.
+
+Summary
+
+[56] I therefore grant judgment in favour of the applicants against Cornerstone in the amountof $45,000.00 plus $7,617.63 for the legal fees and disbursements incurred by the applicants inrespect of the McCarthy legal proceeding.
+
+[57]
+
+The balance of the application and counter-application is dismissed.
+
+Costs
+
+[58] In my view, success was divided on these applications. If the parties take a differentview, I would first urge them to try and resolve the issue of costs of both applications. Absent anagreement, they may serve and file written submissions to me in accordance with the followingschedule:
+(a)
+
+the applicants may serve and file its costs submissions within 10 business days ofthe release of these Reasons. Those submissions shall be no more than five pagesincluding a Bill of Costs.
+
+(b)
+
+the respondents shall thereafter have an additional 10 business days from thereceipt of the applicants’ costs submissions to deliver their responding costssubmissions which shall also be no more than five pages including a Bill of Costs.
+
+Issue #4
+
+Released: May 29, 2017
+
+Diamond J.
+
+CITATION: Stuart Investment Management Ltd. v. Kiernan 2017 ONSC 3170
+COURT FILE NOS.: CV-14-517311; CV-17-570498
+DATE: 20170529
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+Court File No. CV-14-517311
+STUART INVESTMENT MANAGEMENT LTD. andSUNNYSIDE INVESTMENTS INC.
+Applicants
+– and –
+JAMES KIERNAN and CORNERSTONE CAPITAL
+PARTNERS L.P.
+RespondentsAND BETWEEN:
+Court File No. CV-17-570498
+JAMES KIERNAN and CORNERSTON CAPITAL
+PARTNERS L.P.
+Applicants
+– and –
+STUART INVESTMENT MANAGEMENT LTD. andSUNNYSIDE INVESTMENTS INC.
+
+RespondentsREASONS FOR DECISION
+Diamond J.
+
+Released: May 29, 2017
+
+ONTARIO
+

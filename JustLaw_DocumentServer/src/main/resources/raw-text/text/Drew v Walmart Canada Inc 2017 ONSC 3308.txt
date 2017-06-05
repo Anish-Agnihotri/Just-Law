@@ -1,0 +1,160 @@
+BETWEEN:
+
+HEATHER DREW
+Plaintiff )
+- and )
+WALMART CANADA INC. and PNI )
+DIGITAL MEDIA INC.
+Defendants )
+Proceeding under the Class Proceedings Act, 1992 )
+
+Sean A. Brown for the Plaintiff
+
+David Byers, and Vanessa Voakes for theDefendant PNI Digital Media Inc.
+John Laskin and Molly Reynolds for theDefendant Walmart Canada Inc.
+
+HEARD: May 30, 2017
+
+PERELL, J.
+REASONS FOR DECISION
+1. Factual and Procedural Background
+
+[1]
+Pursuant to the Class Proceedings Act, 1992, S.O. 1992, c. 6, this is a motion forapproval of a settlement and for approval of Class Counsel’s fee request.
+
+[2]
+Heather Drew brought a proposed class action against Walmart Canada Inc. and PNI
+Digital Media Inc.
+Class Counsel were retained under a contingency fee agreement thatstipulated a counsel fee of 30% of the value of any award to the Class.
+
+[3]
+The parties settled the litigation, and, on consent, they moved for and were grantedcertification for settlement purposes. See Drew v. Walmart Canada Inc., 2016 ONSC 8067.
+
+[4]
+The background facts are that on May 5, 2015, Ms. Drew created an account on WalmartCanada Inc.’s online photocentre website, and to do so, she provided personal and financialinformation including her name, address, telephone number, and credit card information.
+
+[5]
+Walmart is the well-known big-box store merchant of goods and services. Its head officeis in the City of Toronto, and it operates more than 400 locations nationwide. Its websiteindicates that it serves more than 1.2 million customers every day.
+
+CITATION: Drew v. Walmart Canada Inc., 2017 ONSC 3308
+COURT FILE NO.: CV-15-532271-00CP
+DATE: 20170530
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+
+2
+
+[7]
+Unfortunately, there was a data breach in the online system, and third parties had accessto Walmart’s customers’ personal and financial information. Ms. Drew was advised about thedata breach by email messages from Walmart on July 15, 2015 and October 30, 2015.
+
+[8]
+After being advised of the data breach, Ms. Drew commenced this class action. In herStatement of Claim, she advanced claims of: (a) breach of contract; (b) negligence; (c) breach offiduciary duty; (d) breach of confidence and violation of privacy; (e) instruction upon seclusion;
+(f) breach of statutory duty including but not limited to the Personal Information and Protectionof Electronic Documents Act, S.O. 2000, c. 5; and (g) waiver of tort and claims for restitution,unjust enrichment, and disgorgement of profits.
+
+[9]
+
+In the class action, Ms. Drew is the Representative Plaintiff for the following Class:
+All persons resident or situated in Canada who used Wal-Mart Canada Corp.’sPhotocentre website www.walmartphotocentre.ca (the “Website”) during theperiod from June 1, 2014 to July 10, 2015.
+
+[10] After Ms. Drew delivered her material for a contested certification, the parties engaged insettlement negotiations and they reached a settlement. The main terms of the settlement are asfollows:
+a. The Defendants make no admission of liability.
+b. The Defendants will pay for a one-year Equifax Complete Premier Plan, orreasonably equivalent credit monitoring plan, selected by the Defendants withapproval of Class Counsel, for any Class Member who makes a valid claim withinthe Claim Period and will reimburse any Class Member who can demonstrate thathe or she subscribed to a credit monitoring and/or identity theft monitoringprogram after being notified of the Data Security Incident for which he or she hasnot already been reimbursed by any other source, provided the claim forreimbursement is valid as determined by the Claims Administrator and madewithin the Claim Period.
+c. The maximum cumulative total available under the Settlement Agreement forCredit Monitoring is $350,000.00, to be distributed in the order in which theclaims were made.
+d. The Defendants will pay for valid claims made during the Claim Period forreimbursement made by Class Members for out-of-pocket losses, unreimbursedcharges and time spent remedying issues fairly traceable to the Data SecurityIncident on the following basis:
+i. any Class Member making a claim must attest that he or she has notalready been compensated, in part or in full, for any asserted loss, byinsurance, an employer, a financial institution or in any other manner;
+
+[6]
+In 2014, Walmart retained PNI Digital Media, a company incorporated in BritishColumbia, to supply the software platform that is used by Walmart to provide online photoprinting services to Walmart customers.
+
+3
+
+iii. any Class Member making a claim for out-of-pocket losses orunreimbursed charges may receive $15/hr. for up to five hours of timespent remedying those losses or charges, if he or she can providedocumented evidence of such losses; if he or she cannot provideddocumented evidence of such losses, the Class Member may receive
+$15/hr. for up to two hours of time spent remedying the losses or charges.
+e. The maximum cumulative total available under the Settlement Agreement for theRecovery of Expenses is $400,000.00 to be distributed to Class Members who areeligible and submit a valid claim, in the order in which claims are made. Thefunds are to be distributed to claimants on a pro rata basis if the maximumcumulative available total is reached.
+f.
+
+Class Members can receive both credit monitoring and recovery of expenses,where eligible.
+
+g. The Claim Period is 90 days. Payments will be made after the close of the ClaimsPeriod on first-come, first-served basis.
+h. Notice of the settlement was by an email notice program to the personal emailaddresses of Class Members.
+i.
+
+There is an on-line Claims Process set out in the Plan of Distribution andadministered by the Claims Administrator.
+
+j.
+
+In total, the exposure of the Defendants under the settlement is $1.25 million.
+
+[11] The Settlement Agreement stipulates that the Defendants shall pay Class Counsel’s feesof $250,000, inclusive of taxes and disbursements. This amount represents a fee award ofapproximately $215,000, which is essentially equal to the time spent to date by counsel, as wellas further time that will be required until the claims process is complete. Class Counsel haswaived its claim for a contingency fee and for any future disbursements in completing thesettlement.
+
+[12]
+
+Class Counsel and Ms. Drew recommend approval of the settlement.
+
+[13] Deloitte LLP was appointed Claims Administrator and oversaw the notice of certificationand the settlement approval hearing. Although there would be come duplicate or redundant emailaddresses, the Administrator sent out over 650,000 email notices of which only 6% werereturned.
+
+[14] As of May 15, 2017, there were 3 objections to the settlement of which it is not clear that2 of the objectors were Class Members. Two objectors did not explain their objection and the thethird objector said objected that their objection was no bodies business to know. There was thusno meaningful objection to the settlement from Class Members.
+
+[15] There is a parallel proposed class action in Saskatchewan, Banadyga v. Wal-MartCanada Digital Media Inc., (Court File No. QBG 2015 of 2015), in which the Merchant LawGroup was Class Counsel. The settlement in the immediate case was conditional upon the
+
+ii. the total amount eligible to be received by any one Class Member is amaximum of $5,000.00; and
+
+4
+
+2. Settlement Approval
+
+[16] Section 29 (2) of the Class Proceedings Act, 1992, provides that a settlement of a classproceeding is not binding unless approved by the court. To approve a settlement of a classproceeding, the court must find that, in all the circumstances, the settlement is fair, reasonable,and in the best interests of the class: Fantl v. Transamerica Life Canada, [2009] O.J. No. 3366
+(S.C.J.) at para. 57; Farkas v. Sunnybrook and Women’s Health Sciences Centre, [2009] O.J. No.
+3533 (S.C.J.) at para. 43; Kidd v. Canada Life Assurance Company, 2013 ONSC 1868.
+
+[17] In determining whether a settlement is reasonable and in the best interests of the class, thefollowing factors may be considered: (a) the likelihood of recovery or likelihood of success; (b)
+the amount and nature of discovery, evidence or investigation; (c) the proposed settlement termsand conditions; (d) the recommendation and experience of counsel; (e) the future expense andlikely duration of the litigation; (f) the number of objectors and nature of objections; (g) thepresence of good faith, arm’s-length bargaining and the absence of collusion; (h) the informationconveying to the court the dynamics of, and the positions taken by, the parties during thenegotiations; and (i) the nature of communications by counsel and the representative plaintiffwith class members during the litigation. See: Fantl v. Transamerica Life Canada, supra, at para.
+59; Corless v. KPMG LLP, [2008] O.J. No. 3092 (S.C.J.) at para. 38; Farkas v. Sunnybrook andWomen’s Health Sciences Centre, supra, at para. 45; Kidd v. Canada Life Assurance Company,supra.
+
+[18] In determining whether to approve a settlement, the court, without making findings offact on the merits of the litigation, examines the fairness and reasonableness of the proposedsettlement and whether it is in the best interests of the class as a whole having regard to theclaims and defences in the litigation and any objections raised to the settlement: Baxter v.
+Canada (Attorney General) (2006), 83 O.R. (3d) 481 (S.C.J.) at para. 10. An objective andrational assessment of the pros and cons of the settlement is required: Al-Harazi v. Quizno’sCanada Restaurant Corp. (2007), 49 C.P.C. (6th) 191 (Ont. S.C.J.) at para. 23.
+
+[19] In the immediate case, having regard to the various factors that the court must consider inapproving or rejecting a settlement, I conclude that the settlement is fair, reasonable, and in thebest interests of the Class Members. I approve the settlement.
+3. Fee Approval
+
+[20] The fairness and reasonableness of the fee awarded in respect of class proceedings is tobe determined in light of the risk undertaken by the lawyer in conducting the litigation and thedegree of success or result achieved: Parsons v. Canadian Red Cross Society, [2000] O.J. No.
+2374 (S.C.J.) at para. 13; Smith v. National Money Mart, 2010 ONSC 1334 at paras. 19-20,varied 2011 ONCA 233; Fischer v. I.G. Investment Management Ltd., [2010] O.J. No. 5649
+
+defendants obtaining a stay of the Saskatchewan proceeding. In those proceedings, theDefendants moved for a stay and did not oppose a condition that the Merchant Law Group bepaid fees of $250,000. On April 7, 2017, Justice Schwann of the Saskatchewan Queen’s Benchgranted a stay and approving the fee request. Justice Schwann’s order is contingent upon theapproval of this court of the Settlement Agreement.
+
+5
+
+[21] Factors relevant in assessing the reasonableness of the fees of class counsel include: (a)
+the factual and legal complexities of the matters dealt with; (b) the risk undertaken, including therisk that the matter might not be certified; (c) the degree of responsibility assumed by classcounsel; (d) the monetary value of the matters in issue; (e) the importance of the matter to theclass; (f) the degree of skill and competence demonstrated by class counsel; (g) the resultsachieved; (h) the ability of the class to pay; (i) the expectations of the class as to the amount ofthe fees; and (j) the opportunity cost to class counsel in the expenditure of time in pursuit of thelitigation and settlement: Smith v. National Money Mart, supra; Fischer v. I.G. InvestmentManagement Ltd., supra, at para. 28.
+
+[22] In my opinion, having regard to the various factors used to determine whether to approvethe fees of class counsel, the fee request in the immediate case should be approved.
+4. Conclusion
+
+[23]
+
+Orders accordingly.
+
+___________________
+Perell, J.
+Released: May 30, 2017
+
+(S.C.J.) at para. 25.
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+HEATHER DREW
+Plaintiff
+- and WALMART CANADA INC. and PNI DIGITAL
+MEDIA INC.
+Defendants
+
+REASONS FOR DECISION
+PERELL J.
+
+Released: May 30, 2017
+
+CITATION: Drew v. Walmart Canada Inc., 2017 ONSC 3308
+COURT FILE NO.: CV-15-532271-00CP
+DATE: 20170530
+

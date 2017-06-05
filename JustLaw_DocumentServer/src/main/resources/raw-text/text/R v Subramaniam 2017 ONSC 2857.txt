@@ -1,0 +1,130 @@
+CITATION: R. v. Subramaniam, 2017 ONSC 2857
+COURT FILE NO.: 94/16
+DATE: 20170510
+
+SUMMARY CONVICTION APPEAL
+TORONTO
+BETWEEN:
+HER MAJESTY THE QUEEN
+Appellant )
+– and –
+GABILAN SUBRAMANIAM
+Respondent )
+
+REGION
+
+Martin Sabat, for the Appellant
+
+Jason Rabinovitch, for the Respondent
+
+HEARD: April 19, 2017
+
+K.P. WRIGHT J.
+Introduction
+
+[1]
+The Respondent, Gabilan Subramaniam, was driving a car in the City of Toronto when hewas involved in a single motor vehicle accident. The Respondent called CAA with the intentionof having his vehicle towed. While waiting for CAA, another tow truck arrived on scene andafter a short conversation with the Respondent, the tow truck driver called the police. The policearrived on scene and the Respondent was arrested after he registered a fail on the approvedscreening device. He was taken to the police station where he provided two samples of his breathresulting in readings of 150 milligrams and 140 milligrams of alcohol in 100 milliliters of blood.
+He was charged with impaired care or control and over 80.
+
+[2]
+On September 29, 2016, the Respondent was acquitted on both charges after trial in theOntario Court of Justice.
+
+[3]
+
+The Crown appeals those acquittals and advances the following grounds of appeal:
+(1)
+
+The trial judge erred in his application of the presumption of care or controlpursuant to section 258(1)(a) of the Criminal Code, R.S.C. 1985, C.C-46;
+
+(2)
+
+The trial judge erred by not providing sufficient reasons in relation to the issue ofimpairment;
+
+SUPERIOR COURT OF JUSTICE
+
+(3)
+
+The trial judge failed to correctly apply the legal test in relation to the issue ofimpairment;
+
+(4)
+
+The trial judge misapprehended the evidence in making inconsistent findings offact in relation to the location of the motor vehicle at the time of police arrival;
+
+(5)
+
+The trial judge erred in his application of the test for risk of danger whenconsidering whether the Respondent had care or control of the motor vehicle.
+
+Analysis
+
+[4]
+The first step in assessing care or control is to determine whether the Respondentoccupied the driver’s seat. Where a person occupies the driver’s seat, section 258(1)(a) of theCriminal Code presumes that he or she was in care or control of the motor vehicle. An accusedcan rebut that presumption by calling evidence that shows, on a balance of probabilities, that heor she did not occupy the driver’s seat with the intention of putting the vehicle in motion. In R. v.
+Hatfield [1997] O.J. No. 1327 (C.A.), the Ontario Court of Appeal explained the presumption asfollows at paras. 19 and 27:
+A proper reading of the presumption section must, in my view, be true to thatobjective. Hence, it seems to me that, where an intoxicated person is discoveredoccupying the driver’s seat of a vehicle, the presumption will apply unless theperson can demonstrate that his or her occupancy began without the purpose ofsetting the vehicle in motion…
+…In summary, therefore, it is my view that to rebut the presumption of care orcontrol the appellant must show that his occupancy began without the purpose ofsetting the vehicle in motion. The evidence here was entirely to the oppositeeffect. The appellant occupied the driver’s seat in order to drive the vehicle awayfrom the restaurant where he had been drinking. He intended to continue drivingwhen he decided that he was no longer impaired.
+
+[5]
+At trial, the Respondent testified that earlier in the evening he had attended a party wherehe consumed alcohol. He testified that he drove two people home after the party and then atapproximately 1:10 a.m., collided with the curb on the roadway bringing his vehicle to a stop. Hecalled CAA. A tow truck not sent by CAA, had arrived on scene at approximately 2 a.m. Policearrived on scene at approximately 2:36 a.m.
+
+[6]
+After considering all of the evidence, the trial judge found that the Respondent did notintend to put his vehicle in motion between 2:00 a.m. and 2:36 a.m. and had, therefore,successfully rebutted the statutory presumption.
+
+[7]
+The Crown takes the position that there were four distinct periods of time that requiredthe presumption analysis:
+
+(1)
+
+The driving up to the time of the collision, approximately 1:10 a.m.;
+
+(2)
+
+Calling CAA at 1:15 a.m. when the accused re-entered the driver’s seat;
+
+(3)
+
+Waiting for CAA to arrive at approximately 2 a.m.;
+
+(4)
+
+Waiting for police arrival.
+
+[8]
+The first period of time identified by the Crown is the time of collision at approximately1:10 a.m. The Crown argues that the trial judge fell into error when he failed to apply thepresumption analysis to this particular time period.
+
+[9]
+The Respondent does not dispute that he was driving at the time of the collision andthereby would have presumptively had care or control of the vehicle. However, the Respondentargues that the trial Crown, in submissions, directed and restricted the judge’s analysis to thetime period between 2:00 a.m. and 2:36 a.m. He argues that the trial Crown took the position thatthis was the only relevant time period for the court to consider.
+
+[10]
+
+I disagree. And here is why.
+
+[11] I am mindful that the trial Crown’s submissions were somewhat fragmented and mayhave been difficult to follow at times. However, there are at least two occasions in her closingsubmissions when the trial Crown clearly asks the court to find that the Respondent had notrebutted the presumption from the time he originally entered the vehicle until the collision.
+In my submission, Mr. Subramaniam cannot rebut the presumption, because whenhe originally mounted the motor vehicle, when he originally entered the motorvehicle, he entered it for the purpose of driving after he had been drinking.
+Trial Transcript, September 29, 2016, at p. 68 (line 11).
+…the Crown may, in my submission, rely upon the presumption, and pursuant toHatfield, it has not been rebutted. Because when he first entered into the vehicle,he did so for the purpose of setting it in motion, and he has not rebutted thatpresumption.
+Trial Transcript, September 29, 2016, at p. 78 (line 5).
+
+[12] Moreover, even if the trial judge was confused as to the Crown’s position, the evidence attrial required a full consideration of the presumption analysis for the entire time period. The trialjudge’s failure to engage in this analysis put him into error.
+
+[13]
+
+The appeal is allowed, the verdict of acquittal set aside, and a new trial ordered.
+
+Released: May 10, 2017
+
+K.P. Wright J.
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+HER MAJESTY THE QUEEN
+Appellant
+– and –
+GABILAN SUBRAMANIAM
+RespondentREASONS FOR DECISION
+K.P. WRIGHT, J.
+
+Released: May 10, 2017
+
+CITATION: R. v. Subramaniam, 2017 ONSC 2857
+COURT FILE NO.: 94/16
+DATE: 20170510
+

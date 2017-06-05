@@ -1,0 +1,301 @@
+CITATION: Cricket Canada v. Bilal Syed, 2017 ONSC 3301
+COURT FILE NO.: CV-17-573372
+DATE: 20170530
+
+BETWEEN:
+CRICKET CANADA
+
+– and –
+BILAL SYED
+
+SUPERIOR COURT OF JUSTICE
+) Jordan Goldblatt, for the Applicant
+Applicant )
+) No One appeared for the Respondent
+Respondent )
+) HEARD: May 24, 2017
+REASONS FOR JUDGMENT
+
+KRISTJANSON J.
+
+[1]
+This is an application by Cricket Canada under section 46(1)(3) of the Arbitration Act1991, S.O. 1991, c. 17 (the “Act”) to set aside severable parts of an arbitration award made byArbitrator Ross C. DuMoulin of the Sport Dispute Resolution Centre of Canada (“SDRCC”).
+The arbitration concerned allegations made by the respondent, Bilal Syed (“Syed”), a failedcandidate in an election process, that Cricket Canada’s internal election process was tainted byfraud, discrimination, bias, and a failure to follow its own corporate by-laws. While granting apart of the respondent’s claim and directing a new election in which the respondent participated,the Arbitrator went on to direct Cricket Canada to amend its by-laws to put in place specificinternal governance measures and prospective policy changes that he viewed as appropriate. I
+find these portions of the award were outside the scope of the arbitration agreement, and setaside those portions of the Arbitrator’s decision as ultra vires his mandate.
+
+ONTARIO
+
+FACTS
+
+[2]
+The respondent, Bilal Syed, unsuccessfully sought election to the Cricket Canada Boardof Directions (the “Board”) in May, 2016, and subsequently commenced the disputed arbitration.
+
+[3]
+The applicant Cricket Canada is a government funded not-for-profit corporation, withoutshare capital, incorporated under the Canada Not-for-Profit Corporations Act, S.C. 2009, c. 23
+(the “NFP Act”). Cricket Canada is the National Sports Organization (“NSO”) for the sport ofcricket in Canada. The federal government, through Sport Canada, recognizes such nationalsports organizations, establishing eligibility for funding and the ability to create a national team.
+Sports Canada requires, as a condition of funding, that NSOs are required to submit certainsports related disputes to arbitration.
+Cricket Canada’s Corporate Structure and Governance
+
+[4]
+Cricket Canada’s affairs are governed by the NFP Act and its by-laws, which wereapproved by the Board on September 11, 2015 (the “By-laws”). In accordance with the By-laws,Cricket Canada’s Board alone has the power to “make policies and procedures or manage theaffairs” of Cricket Canada in accordance with the NFP Act and the By-laws.
+
+[5]
+The internal process for amending or repealing by-laws is stipulated by the By-Laws:
+(Article IX, s. 9.1). Any amendment to or repeal of a by-law may be made by ordinary resolutionat a meeting of the Board and then submitted to the members of Cricket Canada for ratification.
+
+[6]
+Under s. 2.1 of the By-Laws, Cricket Canada has one category of membership,
+“Provincial Members”, also known as Provincial Sports Organizations (“PSO”). A PSO is aprovincial cricket association that is responsible for organized cricket within a province. The
+“Voting Privileges” provision of the By-laws provides that the number of votes a PSO may castin any meeting of members co-relates to the number of teams run by that PSO so that the moreteams in a PSO’s jurisdiction, the more votes it will control at a meeting of members (By-Laws,s. 3.13).
+
+[7]
+Cricket Canada’s By-laws require it to hold an annual general meeting at least everyfifteen months, but not later than six months after the end of its preceding financial year. TheCricket Canada Board is comprised of a President, Vice-President, Secretary, Treasurer and threeat-large directors. The election of the directors must take place at each annual general meetingof members.
+
+[8]
+The By-laws require the Board to appoint a Nominations Committee, tasked withsoliciting nominations for the election of directors, and performing an initial screening ofindividuals who seek to win election to the Board. Individuals interested in running for the Boardcan contact the Nominations Committee directly to request that their name be added to the ballot.
+
+The Parties
+
+[9]
+Cricket Canada’s 2016 annual general meeting (“AGM”) took place on March 19 and 20,2016. The portion of the AGM convened to elect new directors was adjourned until May, 2016
+as the Board had not yet formed the Nominations Committee.
+
+[10] The Vice-President of Cricket Canada directed the General Manager of Cricket Canada toassemble a Nominations Committee. After appointing the General Manager to the NominationsCommittee, the Vice-President resigned that post so he could run for President at the May, 2016
+AGM.
+
+[11] On May 13, 2016, the respondent Syed contacted the Nominations Committee by emailand requested that his name be placed on the ballot for the Board elections. After vetting by theNominations Committee, his name was included on the ballot presented to members. He did notsucceed in gaining office.
+
+[12] Cricket Canada has a dispute resolution policy (the “Dispute Policy”) which permits thesubmission of certain disputes to binding arbitration before the Sport Dispute Resolution Centreof Canada (“SDRCC”). In October, 2016, Syed commenced an SCRCC arbitration regarding hisfailure to secure a position on the Cricket Canada Board.
+Sport Dispute Resolution Centre of Canada
+
+[13] The SDRCC provides dispute resolution services, including mediation and arbitration forsports disputes in Canada. It is established under section 9 of the Act to Promote PhysicalActivity and Sport S.C. 2003, c.2. Sport Canada mandates that as a consequence of funding,NSOs, such as Cricket Canada permit parties access to the SDRCC’s dispute resolution servicesfor sports-related disputes.
+
+[14] SDRCC’s rules of procedure are set out in the Canadian Dispute Resolution Code (the
+“Code”). The Code generally applies in respect of “Sports-Related Disputes”. Article 2.1 of theCode provides that the SDRCC will “administer the Code to resolve Sports-Related Disputes”.
+
+[15]
+
+The Code defines “Sports-Related Disputes” in Article 1(mm) as follows:
+“Sports-Related Dispute” … means a dispute affecting participation of a Person ina sport program or a sport organization. Such disputes may include (but are notlimited to) those related to: (i) team selection; (ii) a decision made by a NSO
+board of directors, a committee thereof or an individual delegated with authorityto make a decision on behalf of a NSO or its board of directors, which affects anyMember of a NSO; (iii) any dispute affecting participation of a Person in a sportprogram or a sport organization, for which an agreement to conduct an SDRCC
+Mediation, Arbitration or Med/Arb or use the services of the ResolutionFacilitator of the SDRCC has been entered into by the Parties; and (iv) anydispute arising out of the application of the Anti-Doping Program.
+
+The May, 2016 Annual General Meeting (the “May, 2016 AGM”)
+
+The dispute resolution processes of Resolution Facilitation, Mediation,Arbitration or Med/Arb under this Code are available to any Person in connectionwith the resolution of a Sports-Related Dispute…
+
+[17] Article 6.24 of the Code provides that the law applicable to SDRCC arbitrations is thelaw of the Province of Ontario and the Arbitration Act, 1991.
+The Arbitration
+
+[18] On October 11, 2016, Syed submitted a ‘Claimant’s Request’ under Article 3.4 of theCode (the “Request”).
+
+[19] Syed’s Request asserted that he was disputing the legitimacy of Cricket Canada’s May19, 2016 election results on the following grounds:
+“Election fraud, failing to follow the procedure as laid out in the bylaws orapproved guideline of CCA
+Discrimination and Racism making a decision which was influenced by bias, lackof neutrality, to such an extent that decision maker is unable to consider othersviews.
+Deliberate concealment exercising its discretion for an improper purpose.”
+
+[20]
+
+In respect of the description of the decision to be appealed, Mr. Syed stated:
+“Election was illegal and unfaircompromised election committee no proper process was adoptedunauthorized voter was useddiscrimination and deliberate concealment”
+
+[21]
+
+In respect of the remedy he was seeking, Syed stated:
+“Find out the election process. Screening, scrutinizing and voter eligibility criteriawho was eligible for vote in 2016 election and how? Revoke illegal electionresults May 19th , 2016.
+Fair re-election of cricket Canada through proper process and under thesupervision of neutral body to condemn politics.
+
+[16] Article 3 of the Code sets out the availability of the SDRCC’s dispute resolutionprocesses as follows:
+
+Forensic audit of cricket Canada for last ten years to reveal corruption andconspiracyto
+
+participate
+
+in
+
+election
+
+without
+
+[22] Cricket Canada submitted a response to Syed’s Request (the “Answer”), stating amongother things that its elections were “carried out in accordance with [Cricket Canada] Bylaws andguidelines.”
+
+[23] While Cricket Canada’s Dispute Policy contemplated that a formal arbitration agreementwould be entered into upon the commencement of the SDRCC proceeding, no formal arbitrationagreement was ever completed, although the Arbitrator was appointed and a four day arbitrationwas held.
+The Arbitrator’s Decision
+
+[24] The Arbitrator delivered reasons for his decision on March 15, 2017. The Arbitratormade nine specific awards, ultimately directing that new Board elections take place.
+
+[25] The Arbitrator held that the elections in some respects were conducted in a propermanner, and in others were improperly conducted. He held that Cricket Canada officialscommunicated adequately with Syed, and provided him with the necessary information. Hefound that the “Nomination Committee fulfilled its function in a proper manner throughout theelection process.” While Syed had alleged discrimination, the Arbitrator found that there was noevidence of discrimination.
+
+[26]
+The Arbitrator determined that Cricket Canada had erred in permitting the province ofSaskatchewan’s vote to be carried by its former President, not its President who was properly inoffice as at the date of the May, 2016 AGM, and ordered a new election. Cricket Canada doesnot seek to set aside that decision.
+
+[27] The Arbitrator went on to find other “improprieties” with the elections, including thatindividuals who sat on boards of PSOs could also run for election to the Board of CricketCanada; that individuals seeking election to the Board could discuss with voting members whatportfolios they might be given in exchange for their vote; and that individuals seeking election tothe Board could determine the composition of the Nominations Committee. On the basis of thesefindings, the Arbitrator made the following awards, which are the portions of the award whichCricket Canada seeks to set aside. He directed that:
+(1)
+
+any person having a role in the selection of the members of the NominationCommittee shall be prohibited from running in elections;
+
+Equal opportunity to all Canadiansdiscrimination in Cricket Canada”
+
+[28]
+
+(2)
+
+any provincial Director, or any other person with voting rights by virtue of theirposition, who intends to run in the elections must resign from his or her positionbefore the elections are held;
+
+(3)
+
+any offer, suggestion or promise of a benefit by a person running in the electionsto a voter in the election is prohibited, and
+
+(4)
+
+since these awards were not provided for under Cricket Canada’s By-laws orrules, “all necessary amendments to the bylaws shall be made to achieve completecompliance with the Canada-Not-for-profit-Corporations Act and with thefindings of this award”.
+
+The above awards are collectively referred to as the “impugned decisions”.
+
+The Arbitration Act
+
+[29] This Application is brought under Section 46(1) of the Arbitration Act, 1991 (the “Act”),which provides that a party may apply to set aside portions of an arbitration award. Section46(1)3 of the Act provides jurisdiction to this Court to set aside an arbitration award if “[t]heaward contains a decision on a matter that is beyond the scope of the [arbitration] agreement.”
+Section 46(2) of the Act provides that a party may apply to set aside only certain parts of anaward as follows:
+(2) If paragraph 3 of subsection (1) applies and it is reasonable to separate thedecisions on matters covered by the arbitration agreement from the impugnedones, the court shall set aside the impugned decisions and allow the others tostand.
+ISSUES
+
+[30]
+
+This application raises the following issues:
+(1)
+
+What is the standard of review with respect to setting aside a portion of anarbitrator’s award on the grounds that it contains a decision on a matter that isbeyond the scope of the arbitration agreement?
+
+(2)
+
+Were the impugned decisions beyond the scope of the arbitration agreement, andif so, should they be set aside?, and
+
+(3)
+
+Is Ontario the proper jurisdiction, and should this application proceed?
+
+ANALYSIS
+
+[31] On the question of whether a portion of an arbitrator’s award should be set aside on thegrounds that it contains a decision on a matter that is beyond the scope of the arbitrationagreement, and thus not subject to arbitration, the standard of review is correctness.
+
+[32] In Creston Moly Corp. v. Sattva Capital Corp., 2014 SCC 53 (S.C.C.), the SupremeCourt of Canada applied the standard of review framework established in New Brunswick (Boardof Management) v. Dunsmuir, 2008 SCC 9, [2008] 1 S.C.R. 190 (S.C.C.) to commercialarbitrations, noting at para. 105:
+[J]udicial review of administrative tribunal decisions and appeals of arbitrationawards are analogous in some respects. Both involve a court reviewing thedecision of a non-judicial decision-maker. Additionally, as expertise is a factor injudicial review, it is a factor in commercial arbitrations: where parties choosetheir own decision-maker, it may be presumed that such decision-makers arechosen either based on their expertise in the area which is the subject of dispute orare otherwise qualified in a manner that is acceptable to the parties. For thesereasons, aspects of the Dunsmuir framework are helpful in determining theappropriate standard of review to apply in the case of commercial arbitrationawards.
+
+[33] In Smyth v. Perth and Smiths Falls District Hospital, 2008 ONCA 794, the Court ofAppeal held that where an arbitrator makes a determination in respect of the scope of his or herjurisdiction, the standard of review is correctness, holding at para. 17:
+[A]n arbitrator must address the issues, and only the issues, referred to him in thearbitration agreement. In this case, the respondent's position was that theArbitration Agreement set out two specific issues for resolution and did notauthorize the arbitrator to go beyond those questions in order to determinewhether the board of the Hospital should accept or reject the respondent'sapplication for reappointment. In my view, the respondent's position raised ajurisdictional issue within the description above in Dunsmuir. Accordingly, theapplication judge's review of the arbitrator's decision on this issue on acorrectness standard was appropriate.
+
+[34] There has been an evolution in the standard of review jurisprudence with respect tojurisdictional issues in administrative law since 2008. This application is brought under s.
+46(1)(3) of the Arbitration Act, 1991 on the grounds that the award contains decisions on mattersthat are beyond the scope of the arbitration agreement. It is clear that a private arbitrator has nojurisdiction to make any decisions except those granted to him or her under the arbitrationagreement. As a result, this challenge under the Arbitration Act, 1991 raises a true question of
+
+Issue #1: Standard of Review
+
+Issue #2: Scope of Arbitrator’s Jurisdiction and the Agreement to Arbitrate
+
+[35] In order for this Court to determine whether the impugned decisions are outside the scopeof the agreement to arbitrate, it must first determine the limits of the agreement to arbitrate. Anarbitrator’s jurisdiction is circumscribed by the terms of the arbitration agreement. A privatelyappointed arbitrator has no inherent jurisdiction. His or her jurisdiction comes only from theparties’ agreement: Advanced Explorations Inc. v. Storm Capital Corp., 2014 ONSC 3918
+[36] As the parties did not execute a formal arbitration agreement as required by the DisputeResolution Policy, I must determine the content and scope of the arbitration agreement. Section1 of the Act defines an arbitration agreement as “an agreement by which two or more personsagree to submit to arbitration a dispute that has arisen or may arise between them.” CricketCanada submits that the arbitration agreement was reflected in three documents: the provisionsof the SDRCC Code providing for arbitration of ‘Sports-Related Disputes’, the Request and theAnswer. I agree.
+
+[37] Under the Code, Article 2.1(b) and (c), the arbitration is to consider only matters inrespect of a dispute “affecting the participation of a Person in a sport program or a sportorganization.” It clearly contemplates issues affecting specific individuals. Cricket Canadasubmits that at no point did the parties submit to arbitration whether the general By-laws andpolicies of Cricket Canada should be amended as the Arbitrator ordered. Cricket Canada submitsthat there was no lis between the parties to the arbitration in respect of what By-laws CricketCanada should adopt—indeed, Cricket Canada further submits that what was at issue was theparticipation by Mr. Syed, not future internal corporate governance issues which are to be set bythe members.
+
+[38] The Arbitrator erred in creating jurisdiction for himself to dictate future Cricket Canadapolicies and internal governance requirements. I review each of the impugned decisions,separately, and determine that they were all outside of the arbitration agreement.
+Decision #1: Limitation on Director Eligibility for Election
+
+[39] The Arbitrator determined that, in the future, members of PSOs who seek election to theBoard of Cricket Canada must resign their positions with the PSOs, and that the By-laws beamended in accordance with this award.
+
+[40]
+The By-laws define who is eligible to serve as a Director, making no distinction inrespect of whether the individual also serves on the board of a PSO. Section 126 of the NFP Act
+
+jurisdiction to which the correctness standard applies. Even if the standard is reasonableness, I
+find that the Arbitrator’s impugned decisions are unreasonable, within the meaning of Dunsmuir,for the reasons set out below.
+
+126 (1) The following persons are disqualified from being a director of acorporation:
+(a)
+
+anyone who is less than 18 years of age;
+
+(b)
+
+anyone who has been declared incapable by a court in Canada or in anothercountry;
+
+(c)
+
+a person who is not an individual; and
+
+(d)
+
+a person who has the status of a bankrupt.
+
+(2) Unless the by-laws otherwise provide, a director of a corporation is notrequired to be a member of the corporation.
+
+[41] Syed did not seek the relief granted in his Request. Syed was not a member of CricketCanada, and he was not a member of a board of a PSO when he sought election to the Board.
+The question of whether there would always be a disqualifying conflict in respect of a PSO boardmember also serving on the Board of the NSO was entirely ultra vires the dispute in respect ofthe particular election in issue. No evidence was presented in respect of whether PSO boardmembers could serve capably as NSO board members. This was clearly outside the scope of thearbitration agreement, and was not a ‘sports related dispute’.
+
+[42] Robert’s Rules of Order are incorporated by reference into the By-laws. Robert’s Rulesprovide that members may vote for themselves for an office in which they seek election. TheArbitrator held holding that this must change, stating at para. 75:
+The fact that the Robert’s Rules of Order referenced in the By-laws state that amember is not prevented from voting for himself for any office is all the morereason to make sure that Provincial Directors do not get into the position of beingable to run in the elections while retaining their substantial voting power by notresigning.
+
+[43] The issue of Director eligibility is prescribed by s. 4.2 of the By-laws. While theArbitrator could consider the By-laws as they affected Syed’s candidacy, he had no jurisdictionto tell Cricket Canada that they should be changed. There may be perfectly sound reasons whymembers may want consistent representation between PSOs and NSOs. Indeed, the By-lawsexpressly grant weighted voting in favour of PSOs who have more teams. Eligibility to stand forelection is a core issue of internal governance, outside the scope of the arbitration agreement,which was beyond the jurisdiction of the Arbitrator
+
+also limits the eligibility of directors. There is no reference to conflict of interest in terms ofpositions held with other organizations. Section 126 provides:
+
+[44] Section 4.3 of the By-laws provides that the Nominations Committee is to be appointedby the Board. The Arbitrator found that the Nominations Committee in this case discharged itsobligations appropriately, but went on to decide that in the future, an individual who stood forelection could have no role in putting in place a Nominations Committee.
+
+[45] The decision of the Arbitrator, if carried through, would require that anyone involved onthe Board who seeks re-election cannot be involved in appointing a future NominationsCommittee.
+
+[46] If the members wish to limit which directors may be involved in constituting aNominations Committee, then it is the members who ought to exercise such power. There was noreal suggestion in Syed’s Request that anything untoward occurring with regard to the role of theVice-President in selecting the Nominations Committee, which committee received, vetted andapproved Syed’s request to stand for election. There is simply no basis for the Arbitrator todetermine for the future, regardless of the wishes of the members, who may and may notdetermine how nominations for the Board should be vetted. This is a core issue of Boardgovernance, outside the scope of the arbitration agreement, which was beyond the jurisdiction ofthe Arbitrator.
+Decision #3: Communications by Candidates
+
+[47] The Arbitrator determined that “any offer, suggestion or promise of a benefit by a personrunning in the elections to a voter in the election is prohibited”. Nothing in the By-laws or theNFP Act limits the types of communications that can be made by a candidate to electors. Theissues that Syed sought to have determined were procedural in nature—i.e., were the CricketCanada rules followed, and was there fraud, discrimination, or some other matter of proceduralfairness/natural justice which made the election result unfair to Syed. The question ofcommunications between members and candidates—and imposing a future limit on all suchcommunications – simply was not before the Arbitrator as a “sports related dispute” and is alimitation that if desired, should be made by the members and not the Arbitrator.
+
+[48] The plain language of the decision would limit candidates from being able to speak tomembers about why his or her candidacy would be beneficial, which is important in a democraticsystem. Given the central role of expressive activity in the democratic process, any limitationson speech within the context of an election must be approached very carefully, especially whenthose limitations have not been considered or accepted by the members, This, again, is a coreissue of internal governance, outside the scope of the arbitration agreement, which was beyondthe jurisdiction of the Arbitrator.
+
+Decision #2: Nominations Committee Limitations
+
+[49] The Arbitrator directed that the By-laws be amended to implement his decision. CricketCanada concedes that if the Arbitrator determined that its actions were not consistent with theBy-laws, the Arbitrator could require compliance, and that if the By-laws did not comply withthe NFP Act, then the Arbitrator could require Cricket Canada to bring itself into compliance.
+Cricket Canada also submits that the Arbitrator’s direction to amend the By-laws createsuncertainty within Cricket Canada, including what would occur if the members of CricketCanada, at any time in the future, chose to vote against these amendments.
+
+[50] Generally, an arbitrator must show deference and should not interfere with acorporation’s ability to govern itself in accordance with the decisions of the members and thechoices they make in their by-laws: Saskatchewan WTF Taekwondo Assn. Inc. v. TaekwondoCanada [2015] O.J. No. 2296 at para. 21. This is a not-for-profit organization. As held byNordheimer, J. in Lee v. Lee’s Benevolent Assn. of Ontario, (2004) CarswellOnt. 8790 (Ont.
+S.C.) at para. 12:
+Non-profit organizations such as the Association should not be required to adhererigorously to all of the technical requirements of corporate procedure for theirmeetings as long as the basic process is fair. Nor should the court be too quick togrant relief in such circumstances that may only serve to encourage a disgruntledmember of such an organization to seek such relief. Absent some demonstratedevidence that any irregularities went to the heart of the electoral process or lead toa result which does not reflect the wishes of the majority, the court should beloathe to interfere in the internal workings of such groups.
+
+[51] Under the By-Laws, the authority to make, amend and repeal by-laws is within theauthority of the members. It is for the members to decide on changes to Cricket Canada’s Bylaws, policies and procedures. Such changes are properly the subject of negotiation, consultationand input from all stakeholders and votes by the members, and not the unilateral decision of anarbitrator in a sports-related dispute regarding the participation of an individual in an election:
+see University of Toronto Graduate Students’ Union v. Canadian Federation of Students (2016)
+ONSC 4503 at para. 51.
+
+[52] The Arbitrator’s impugned decisions deal with significant internal and Board governanceissues which are properly to be determined by the members of the corporation. They are outsidethe scope of the arbitration agreement pursuant to s. 46(1)(3) of the Act, and pursuant to s. 46(2)
+of the Act I set aside the four impugned decisions made as part of the Arbitration Awardrendered March 15, 2017. The four impugned decisions are severable, and the remainder of theaward stands.
+
+Decision #4: Direction to Amend By-Laws
+
+Issue #3: Jurisdiction and Decision to Proceed
+
+[54] I agree with Cricket Canada that Ontario is the appropriate forum for determination ofthis dispute. The Code directs that “the applicable law for Arbitrations shall be the law of theProvince of Ontario and the arbitration legislation in place in Ontario shall be the law of SDRCC
+Arbitrations.” Syed, a Saskatchewan resident, subjected himself to the jurisdiction of the courtsof the province of Ontario in bringing his Request under the Code. Cricket Canada’s head officeis in Ontario therefore, any changes to its By-laws without member approval would be made atits head office.
+
+[55] Syed was personally served with the Notice of Application on April 18. CricketCanada’s counsel also mailed a cover letter to Syed advising him that the Rule of CivilProcedure require that he deliver a Notice of Appearance, and inquired about dates. Syed did notdeliver a Notice of Appearance. E-mail correspondence he sent to Cricket Canada and its counselsince being served makes it clear he is aware of this proceeding. On April 25, Mr. Goldblattadvised Syed that the Arbitrator’s decision held that the current Board may stay in place untilJune 30, 2017, the only court availability was late May, and informed him of the return date.
+Even though Syed was not entitled to any further notice of the application, on May 12 CricketCanada commendably chose to provide him with a courtesy copy of the application materials.
+On May 12, Syed wrote Mr. Goldblatt indicating that “Legal Aid is not available for hearing”,and requesting that it be rescheduled. Mr. Goldblatt indicated that Legal Aid Ontario is notavailable for civil proceedings, and Syed replied: “You misunderstood again. I never said legalAid Ontario.”
+
+[56] In light of the importance of regularizing the election procedures and any challenges tothe election, and in light of the failure of Syed to file a Notice of Appearance or any evidencethat he has applied to or is eligible for Legal Aid in Saskatchewan, or that Saskatchewan LegalAid would cover an Ontario civil proceeding, I proceeded with the scheduled hearing. I note thatSyed was an unsuccessful candidate in an election conducted in observance of the Arbitrator’sdecision. Even without Syed’s attendance or participation, the burden was on Cricket Canada tosatisfy the Court that the impugned decisions should be set aside, and it has discharged thatburden.
+
+Kristjanson J.
+Released: May 30, 2017
+
+[53] I address two issues: the jurisdiction of this court on the application, and the decision toproceed in the absence of Syed.
+
+CITATION: Cricket Canada v. Bilal Syed, 2017 ONSC 3301
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+CRICKET CANADA
+Applicant
+– and –
+BILAL SYED
+Respondent
+
+REASONS FOR JUDGMENT
+
+Kristjanson J.
+
+Released: May 30, 2017
+
+ONTARIO
+
