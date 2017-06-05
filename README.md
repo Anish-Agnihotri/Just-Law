@@ -10,7 +10,7 @@ We took a look at cluttered solutions such as CANLII & FindLaw, and decided to i
 
 ![CanLII Website](http://i.imgur.com/PN3w0bm.gif "CanLII Website")
 
-![FindLaw Website](http://imgur.com/ST54htT.gif "FindLaw Website")
+![FindLaw Website](http://imgur.com/1QhYKE6.gif "FindLaw Website")
 
 ## Installation
 
