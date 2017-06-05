@@ -1,0 +1,155 @@
+CITATION: Landau v. Attorney General of Canada, 2017 ONSC 2938
+COURT FILE NO.: CV-16-558269
+DATE: 20170512
+
+RE:
+
+Reva Landau (Applicant)
+AND:
+Attorney General of Canada (Respondent/Moving Party)
+
+BEFORE:
+
+Justice Kristjanson
+
+COUNSEL: R. Lee, for the Respondent/Moving PartyR. Landau, In PersonHEARD:
+
+May 10, 2017
+ENDORSEMENT
+
+[1]
+The Applicant Ms. Landau is a single woman currently receiving a retirement pensionunder the Canada Pension Plan. She has brought an application seeking a declaration that thesurvivor pension provisions of the Canada Pension Plan, R.S.C. 1985, c. C-8 (“CPP”) violatesection 15(1) of the Canadian Charter of Rights and Freedoms on the ground of marital statusand cannot be justified under section 1 of the Charter. She seeks to strike the CPP provisionsestablishing survivor benefits or to amend the CPP to provide an enhanced benefit to unmarriedpersons sufficient to offset the benefits a survivor of a CPP contributor would receive.
+
+[2]
+I find that the Applicant’s core issue—whether she is entitled to an enhanced benefit byvirtue of discrimination under s. 15(1) of the Charter on the grounds of marital status—fallssquarely within the jurisdiction of the Social Security Tribunal. The Tribunal is an adjudicativeadministrative decision-maker with jurisdiction to determine questions of law and fact relating toCPP benefits and amounts payable, including the constitutional validity of CPP provisions. TheSocial Security Tribunal has the power to consider the constitutional issues raised in thisApplication and provide an appropriate remedy even though it does not have jurisdiction to issuea formal declaration of invalidity.
+
+[3]
+The courts have repeatedly held that specialized tribunals like the Social SecurityTribunal should decide all matters, including constitutional questions, whose essential characterfalls within the tribunal's specialized statutory jurisdiction. In general, parties should not bypass astatutory process by seeking a declaratory remedy from the superior courts before they haveexhausted their administrative remedies, even where the constitutional validity of legislation ischallenged.
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+- Page 2 -
+
+[4]
+Ms. Landau is a never-married woman, not living in a common-law relationship, who iscurrently receiving a CPP retirement pension. Ms. Landau commenced an application in thisCourt seeking a declaration that the current survivor pension provisions of the CPP violate s.
+15(1) of the Charter on the ground of marital status.
+
+[5]
+The Application also asked for a declaration that either: (a) all references to thesurvivor’s pension in the CPP be declared void, or (b) any references to giving a survivor’spension before the survivor has turned 65 be declared void and that the CPP be amended so aCPP contributor who has not been married and is not in a common-law relationship when theybegin receiving their CPP retirement pension receives an enhanced amount sufficient to offsetthe benefits a survivor would receive on the death of the CPP contributor if the CPP contributorwere married, separated, or in a common-law relationship.
+
+[6]
+Ms. Landau relies on the affidavit evidence of actuary Kelley McKeating that theestimated present value of what Ms. Landau’s estate would receive if she were married at thetime of her death was $61,201 to $115,212 more than the amount her estate would receive ifnever-married and not in a common-law relationship.
+
+[7]
+Kelley McKeating also noted that for “non-subsidized” spousal benefits in the privatesector, a retiree who wanted an eligible spouse to receive a 60% survivor’s benefit would receiveonly, for example, $876 a month at the time of retirement compared to the $1,000 month a retireewithout an eligible spouse would receive.
+
+[8]
+The Attorney General has brought this motion to strike the Application under the Rules ofCivil Procedure, R.R.O. 1990, Reg. 194, rules 21.01(1) and (3) and 25.11(c) on the grounds thatthe Social Security Tribunal is the appropriate forum and that Ms. Landau lacks standing to bringthe Application.
+Overview of CPP Legislative SchemeLegislative purposes of the CPP Act
+
+[9]
+The CPP is a federal compulsory social insurance scheme “enacted in 1965 in order toprovide contributors and their families with reasonable minimum levels of income upon theretirement, disability or death of the wage earner”: Law v. Canada (Minister of Employment &
+Immigration, [1999] 1 S.C.R. 497, at para. 8. The legislative purpose of the CPP is to amelioratethe conditions of particular groups: SM-R v. Canada, 2013 FCA 158, 285 C.R.R. (2d) 348, atpara. 56. In particular, it is aimed at ameliorating conditions of those “who experience a loss ofearnings owing to retirement, disability, or the death of a wage-earning spouse or parent”:
+Granovsky v. Canada, 2000 SCC 28, [2000] 1 S.C.R. 703, at para. 9.
+
+[10] The CPP system has detailed eligibility and qualification rules. Each of the six types ofCPP benefits relates to a specific contingency or life event of a contributor or his or herdependents. For example, the CPP retirement pension provides a reasonable minimum level of
+
+Background Facts
+
+- Page 3 -
+
+CPP survivor’s pension
+
+[11] This Application involves a challenge to the CPP survivor’s pension, which is a monthlybenefit paid to a surviving spouse or common-law partner whose deceased partner has madesufficient contributions to the CPP and who meets certain eligibility criteria, namely an agethreshold, responsibility for dependent children, or disability: CPP, s. 44. The purpose of thesurvivor’s pension is to deal with the financial dependency of a couple who, at the date of thedeath of one of them, are in a relationship with mutual legal rights and obligations and to ensurea basic level of long-term financial security for those who lose a spouse: Law v. Canada, atparas. 102-103.
+
+[12] If, at the time of her death, the Applicant is not married and not in a common-lawrelationship, there would not be a person who might meet the eligibility requirements to receive aCPP survivor’s pension by virtue of being her survivor.
+Statutory process for determining eligibility and pension amounts
+
+[13] Parliament has enacted a comprehensive, national procedure governing the determinationof eligibility for CPP benefits and pension amounts. This includes the right to appeal ministerialadministrative decisions to the Social Security Tribunal, an independent adjudicative tribunalwith expertise and jurisdiction to consider the constitutional validity of the CPP legislation, aswell as subsequent recourse to the Federal Courts.
+
+[14] Section 60 of the CPP provides that every application for a benefit must be made to theMinister of Employment and Social Development, who either approves the payment of thebenefit and determines the amount payable or determines that no benefit is payable. An applicantwho is “dissatisfied with any decision made under section 60” may ask the Minister for areconsideration pursuant to s. 82 of the CPP. The applicant may appeal the Minister’sreconsideration decision to the Social Security Tribunal: Department of Employment and SocialDevelopment Act, S.C. 2005, c. 34, ss. 52(1), 55 and 56.
+
+[15] Parliament has, by statute, conferred upon the Social Security Tribunal the jurisdiction toconsider questions of law. In cases relating to the CPP, it has the mandate to decide a number ofenumerated issues including “questions of law or fact as to whether any benefit is payable to aperson or its amount”: Department of Employment and Social Development Act, s. 64(2). TheSocial Security Tribunal Regulations, SOR/2013-60, s. 20(1) provide that a party may raise anissue before the Tribunal concerning “the constitutional validity, applicability or operability ofany provision of the Canada Pension Plan” but must give notice to the Attorney General ofCanada and the attorneys general of every province.
+
+income to a wage-earner upon reaching retirement age, whereas the CPP survivor’s pensionameliorates the conditions of an eligible person who experiences a loss of household incomeowing to the death of a wage-earning spouse or common-law partner. Other types of benefitsprovide financial security to contributors who become disabled and their dependents, if any.
+
+- Page 4 -
+
+The Social Security Tribunal is the Appropriate Forum
+
+[17] The Attorney General submits that this Application should be struck because this Court isnot the appropriate forum to adjudicate the Applicant’s claim that the CPP survivor’s pensionviolates s. 15 of the Charter on the grounds of marital status and that she should be entitled to
+“receive an enhanced amount” to her retirement pension. I find that the Applicant’s core issue—
+whether she is entitled to an enhanced benefit by virtue of discrimination on the grounds ofmarital status—falls squarely within the jurisdiction of the Tribunal which is an administrativedecision-maker dealing with complaints about CPP benefits and amounts payable, includingcomplaints grounded upon the alleged constitutional invalidity of the enabling legislation. TheApplicant must first exhaust her remedies under the statutory process before turning to thecourts.
+
+[18] I find that the Social Security Tribunal has the power to consider the constitutional issuesraised in this Application, namely the constitutional validity of the CPP, which is one of its homestatutes. The Social Security Tribunal’s relationship with the CPP Act meets the two-part testestablished by the Supreme Court in R v. Conway, 2010 SCC 22, [2010] 1 S.C.R. 765, at paras.
+63-77, to determine whether it is within an administrative tribunal's jurisdiction to subject alegislative provision to Charter scrutiny.
+
+[19] First, the Tribunal’s enabling statute explicitly confers jurisdiction upon it to decide
+“questions of law or fact as to whether any benefit is payable [under the CPP] to a person or itsamount”: Department of Employment and Social Development Act, s. 64(2). Therefore, theTribunal presumptively has the power to determine the constitutional validity of the provisionsof the CPP concerning which benefits, if any, are payable to a person and the amounts payable.
+Second, there is no legislative intention to exclude the Charter from the Tribunal’s jurisdiction.
+On the contrary, its jurisdiction to consider the constitutional validity of the provisions of theCPP is explicitly contemplated. The Social Security Tribunal Regulations, s. 20(1) provide that aparty may raise an issue before the Tribunal concerning “the constitutional validity, applicabilityor operability of any provision of the Canada Pension Plan”.
+
+[20] The Supreme Court has repeatedly held that specialized tribunals, like the Social SecurityTribunal, should decide all matters, including constitutional questions, whose essential characterfalls within the tribunal's specialized statutory jurisdiction: Conway, at paras. 30 and 79. Whilejudicial review is available afterwards, parties must not bypass a statutory process by obtaining aremedy from the courts before they have exhausted their administrative remedies, even where theconstitutional validity of legislation is challenged: Dioguardi Tax Law v. Law Society of UpperCanada, 2016 ONCA 531, 133 O.R. (3d) 151, at para. 7.
+
+[16] The Federal Courts Act, R.S.C. 1985, c. F-7, provides that the Federal Court of Appealhas jurisdiction to hear applications for judicial review of substantive decisions of the SocialSecurity Tribunal. Other decisions of the Social Security Tribunal, for example proceduralmatters such as extensions of time, are reviewable in the Federal Court.
+
+- Page 5 -
+
+[22] First, specialized tribunals are in the best position to hear and decide constitutional casesrelated to their statutory mandates because of their expertise. The scheme governing CPP
+benefits is complex and the Tribunal applies and interprets the legislation and regulations on adaily basis. The experience of working with the CPP scheme gives the Tribunal a deepunderstanding of how the provisions practically affect a broad range of individuals in differentsituations and how the various parts of the program interact and work together to achieve thelegislative objectives. As the Supreme Court held in Nova Scotia v. Martin, 2003 SCC 54, [2003]
+2 S.C.R. 504, at para. 30: “Charter disputes do not take place in a vacuum. They require athorough understanding of the objectives of the legislative scheme being challenged, as well asof the practical constraints it faces and the consequences of proposed constitutional remedies.”
+
+[23] Second, permitting the Tribunal to conduct the initial adjudication of the dispute ensuresthat a court on judicial review or appeal has the benefit of the Tribunal’s fact-finding expertise aswell as its decision on the constitutional issues. As the Supreme Court has noted, “the factualfindings and record compiled by an administrative tribunal, as well as its informed and expertview of the various issues raised by a constitutional challenge, will often be invaluable to areviewing court”: Martin, at para. 30. It is also respectful of Parliament’s decision to assigninitial decision-making authority to the administrative tribunal with supervisory jurisdiction inthe courts by way of judicial review, an essential aspect of rule of law and parliamentarysupremacy.
+
+[24] Third, this approach also respects the legislative intention that individuals can have allaspects of their matters concerning the CPP dealt with in one forum. It has the practical benefitof avoiding the bifurcation of proceedings or the need for parallel proceedings, withconstitutional aspects decided in one forum and non-constitutional aspects decided in another,assuming they can even be cleanly divided.
+
+[25] Ms. Landau submits that this Court clearly has jurisdiction to grant the declaratory reliefsought and the Tribunal does not have jurisdiction to issue declaratory relief. The fact that astatutory tribunal cannot issue a formal, general declaration of invalidity is not a reason to bypassthe statutory administrative process. As Justice Belobaba explained in Dioguardi Tax Law v. TheLaw Society of Upper Canada, 2015 ONSC 3430, 133 O.R. (3d) 151 at para. 11 (Ont. S.C.),affirmed 2016 ONCA 531, dealing with an application brought to Superior Court in respect of amatter within the jurisdiction of the Law Society Tribunal:
+The only remedy that cannot be granted by the Law Society Tribunal is a formaldeclaration of invalidity under s. 52 of the Constitution Act. However, as theSupreme Court made clear in Okwuobi, the fact that the administrative tribunalcannot issue a formal declaration of invalidity "is not ... a reason to bypass theexclusive jurisdiction of the Tribunal." The expert administrative tribunal should
+
+[21] There are good reasons to allow the statutory process to run its course, which reflectParliament’s decision to give initial decision-making authority in a complex area to anadministrative decision-maker and the important role of administrative decision-makers in oursystem of justice.
+
+- Page 6 -
+
+[26] Previous s. 15 Charter challenges to the CPP have followed the statutory process,commencing with an application to the Minister, then an appeal to the Social Security Tribunal
+(or its predecessors), judicial review in the Federal Court of Appeal, and further appeal to theSupreme Court of Canada:
+(a)
+
+Law v. Canada: challenge to the survivor’s pension provisions, allegingdiscrimination on the basis of age;
+
+(b)
+
+Hodge v. Canada, 2004 SCC 65, [2004] 3 S.C.R. 357: challenge to the definitionof “spouse” as applied to the survivor’s pension, alleging discrimination on thebasis of marital status:; and
+
+(c)
+
+Granovsky v. Canada: challenge to the disability pension provisions, allegingdiscrimination on the basis of disability.
+
+[27] Further, I note that this Court does not have the ability to compel the Tribunal or theMinister to award the Applicant an enhanced pension. Decisions with respect to the amountspayable are reserved to the Minister and the Tribunal. Pursuant to the Federal Courts Act, theFederal Courts have exclusive original jurisdiction to issue a writ of mandamus or to grantdeclaratory relief against any federal board, commission, or other tribunal.
+
+[28] Ms. Landau submits that the application forms provided by the CPP are only for pensionsand benefits currently provided by the CPP in s. 44, do not include an “enhanced” retirementpension, and there is no place on the prescribed forms for an applicant to apply for an
+“enhanced” retirement benefit on Charter grounds. The Attorney General concedes that in a casesuch as this, where the Applicant wishes to challenge legislation and claim an additional benefit,the application to the Minister for reconsideration and payment of an enhanced benefit may bemade not in the normal form but as a special application supported by materials similar to thosesupporting this Application. I expect that the Minister will consider the application forreconsideration regardless of the form of the materials in light of the Attorney General’sargument that the Minister and the Tribunal are the appropriate forum for this application.
+
+[29] Ms. Landau also submits that the retirement pension, and the other pensions, must becalculated according to the rules laid out in ss. 45 and 46 of the CPP and the Tribunal has nopower to vary them: C.W. v. Minister of Employment and Social Development, 2015 SSTGDIS
+hear the constitutional challenge and make its ruling. If the applicant loses, it canappeal or seek judicial review. And it is "at this stage of the proceedings" i.e.
+when the matter makes its way to the court, that a formal declaration of invaliditycan be sought. [Footnotes omitted.]
+
+[30] The Attorney General seeks to strike this Application on the grounds that the Ministerand Tribunal are the appropriate forum. I agree that the Tribunal should determine this issue. I
+am concerned, however, with the limitation period set out in ss. 81(1) and 82 of the CPP. A
+reconsideration application is to be made within 90 days, subject to the Minister’s discretion toextend that time. If the Minster were to decline to exercise his discretion to hear Ms. Landau’sapplication on the grounds of the 90-day limitation period, then Ms. Landau should be able toapply to this Court, as she would be foreclosed from arguing the merits on a preliminary timelimit ground which would not apply to her Application. As a result, I direct that this Applicationbe stayed, and do not strike the Application.
+
+[31] It is not clear whether the Minister has jurisdiction to decide questions of law, includingCharter and constitutional questions. Even if the Minister does not have jurisdiction, it is clearthat having raised the issue with the Minister, Ms. Landau would be able to raise her Charterarguments before the Tribunal. The Attorney General concedes that if the Minister does not haveCharter jurisdiction, the issue could be raised before the Tribunal, particularly if it is raised onMs. Landau’s reconsideration application. The Tribunal has notice provisions specific to caseswhere the constitutional validity of any provision of the CPP is to be raised before the Tribunal.There will thus be a full opportunity for Ms. Landau to argue these issues on an appropriateevidentiary basis before the Tribunal.
+Standing
+
+[32] There was argument as to whether Ms. Landau had private interest or public intereststanding to proceed with her Application. The Attorney General agrees, however, that Ms.Landau has private interest standing to apply to the Minister, and the Tribunal, in respect of herclaim to “receive an enhanced amount” to her retirement pension on the grounds of s. 15 of theCharter. Since I have stayed the Application pending a determination by the Tribunal, and anysubsequent rulings by the Federal Courts, I do not have to decide this issue today and decline todo so.
+Conclusion
+
+[33] This Application is stayed to allow Ms. Landau to raise her s. 15 Charter argumentschallenging the CPP survivor pension provisions and seeking an enhanced retirement benefitbefore the Minister and the Tribunal. The Tribunal is the appropriate forum for raising theseissues. Any judicial reviews or appeals should be pursued in the Federal Courts, pursuant to thelegislation. It is only if the Minister refuses to exercise his discretion to extend time to hear Ms.Landau’s application on the merits pursuant to s. 81 of the CPP that Ms. Landau may bring thisApplication back, on 30 days’ notice to the Attorney General.
+
+- Page 7 -
+
+Justice Freya Kristjanson
+
+Date: May 12, 2017
+
+- Page 8 -
+

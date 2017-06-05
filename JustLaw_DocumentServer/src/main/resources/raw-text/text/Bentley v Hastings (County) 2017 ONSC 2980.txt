@@ -1,0 +1,201 @@
+CITATION: Bentley v. Hastings (County), 2017 ONSC 2980
+COURT FILE NO.: CV-16-0041-00A1
+DATE: 2017 May 15
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+KATIE BENTLEY
+Plaintiff
+– and –
+CORPORATION OF THE COUNTY OF
+HASTINGS, HASTINGS LOCAL
+HOUSING CORPORATION and STEVE
+WALT PROPERTY MAINTENANCE
+Defendants
+– and –
+ECONOMICAL MUTUAL INSURANCE
+COMPANY
+Third Party
+
+AND BETWEEN:
+KIMBERLY CAUL
+Plaintiff
+– and –
+CORPORATION OF THE COUNTY OF
+HASTINGS, HASTINGS LOCAL
+HOUSING CORPORATION and STEVE
+WALT PROPERTY MAINTENANCE
+Defendants
+
+Angela James, for the Plaintiff
+
+Shaneka M. Taylor, for theDefendant/Moving Parties, Corporation ofthe County of Hastings and Hastings LocalHousing Corporation
+
+Dawn Searle, for the Defendant, Steve WaltProperty Maintenance and the Third Party,Economical Mutual Insurance Company
+
+COURT FILE NO.: CV-16-0040-00A1
+Angela James, for the Plaintiff
+
+Shaneka M. Taylor, for theDefendant/Moving Parties, Corporation ofthe County of Hastings and Hastings LocalHousing Corporation
+
+ONTARIO
+
+– and –
+
+Dawn Searle, for the Defendant, Steve WaltProperty Maintenance and the Third Party,Economical Mutual Insurance Company
+
+HEARD at Belleville: April 24, 2017
+
+MACLEOD-BELIVEAU J.
+
+[1]
+
+These are two similar Rule 21.01(1) (a) motions for the determination before trial, of aquestion of law in relation to the duty to defend as between the Corporation of the Countyof Hastings, Hastings Local Housing Corporation, (hereinafter, collectively “theCounty”), and the third party, Economical Mutual Insurance Company, (hereinafter,
+“Economical”), raised by a pleading in an action where the determination of the questionof law may dispose of all or part of the action, substantially shorten the trial or result in asubstantial saving of costs. Counsel have agreed that the motions can be argued togetheras the issues are identical save and except for the date of loss.
+
+[2]
+
+The County brings these motions for a declaration that the defendant, Steve WaltProperty Maintenance, (hereinafter, “Steve Walt”), is in breach of his contract with theCounty for failing to procure insurance naming the County as an additional insured on hispolicy of insurance as required in his contract with the County, and for an order awardingdamages to the County equivalent to the amount that the County has incurred and willincur in defending the main actions. Steve Walt was the County’s winter maintenancecontractor for the residential parking lot where both plaintiffs claim they fell and wereinjured. He signed a contract for the delivery of winter maintenance services with theCounty (hereinafter, “the contract”).
+
+[3]
+
+In addition, the County seeks an order that the County is entitled to appoint and instructcounsel of its choice, at the expense of Steve Walt, to defend it in the main actions due toa conflict of interest, and for costs.
+
+[4]
+
+Economical asks that the motions be dismissed. It is the third party’s position that there isa disagreement about the nature of the contract between the County and Steve Walt andtherefore a material fact is in dispute. As such, Economical submits that a Rule 21
+motion is inappropriate to determine the issue as extrinsic evidence is required with a fullevidentiary record, and that the motion is premature and more properly brought as asummary judgment motion under Rule 20.
+
+The Issues:
+
+[5]
+
+Are the issues in the case appropriately determined in a Rule 21 (1) (a) motion?
+
+ECONOMICAL MUTUAL INSURANCE
+COMPANY
+Third Party )
+
+[6]
+
+Is the County entitled to damages arising from Steve Walt’s breach of contract in failingto procure insurance naming the County as an additional insured?
+
+[7]
+
+If so, what is the measure of those damages?
+
+[8]
+
+Is the County entitled to appoint and instruct counsel of its choosing to defend the mainactions at Steve Walt’s expense?
+
+[9]
+
+Costs.
+
+The Result:
+
+[10]
+
+These are proper Rule 21 motions. The questions of law are answered in favour of theCounty, as set out herein. Costs are reserved for written submissions.
+
+Analysis:
+
+[11]
+
+The plaintiff Bentley alleges that on February 3, 2014 she slipped and fell on ice whilewalking through the parking lot of 46 Tracey Park Drive, a community housing locationin Belleville, Ontario. The plaintiff Coul alleges that on February 27, 2014 she slippedand fell on ice in the same parking lot at the same residential location.
+
+[12]
+
+Statements of claim were issued in both actions naming the County and Steve Walt asdefendants, alleging negligence by the defendants for failure to remove ice from theparking lot. The negligence claims against both defendants are identical and were issuedby the same lawyer representing both plaintiffs.
+
+[13]
+
+The County and Steve Walt entered into the contract for winter maintenance activities,including snow clearing and de-icing services, for the lot in question on October 29,2013. I find the contract’s terms are clear and unambiguous.
+
+[14]
+
+The contract required Steve Walt to obtain third party liability insurance in the amount oftwo million dollars for himself which he did through Economical. The contract alsorequired Steve Walt to obtain insurance naming the County as an additional insured,which Steve Walt failed to do.
+
+[15]
+
+The third party, Economical, as the insurer of Steve Walt, has refused to take over thedefence of the County, as Steve Walt did not obtain coverage naming the County an asadditional insured as required by the contract. In addition, Steve Walt has refused todefend that County in the main actions.
+
+[16]
+
+The County argues that Steve Walt and Economical have an interest in establishing thatthe sole responsibility for the plaintiffs’ injuries is that of the County, in showing that thecause of the plaintiffs’ injuries were not due to any failure on the part of Steve Walt forany of his responsibilities under the contract, but rather, the County’s own independentomissions, so as to avoid having to indemnify the County.
+
+[17]
+
+The County further argues that Economical and Steve Walt would be in a conflict ofinterest position if allowed to appoint counsel to defend the County in the main actions. Itis the County’s position that they are entitled to appoint counsel of its choice to defenditself, at the sole expense of Steve Walt.
+
+[18]
+
+The parties, in their pleadings, have made claims and cross-claims against each other.
+The pleadings refer to the contract of October 29, 2013 and to the Certificate of Insurancedated November 7, 2013. Both Economical and Steve Walt have denied that they have aduty to defend and have taken off coverage positions.
+
+[19]
+
+There are some potential uncovered claims only against the County, that the County wasan occupier and a landlord of the property in question. However, if the insurance hadbeen in place as required to cover all defence costs relating to a claim, those defencecosts do not increase because they also assist the insured in the defence of an uncoveredclaim. (See Hanis v. Teevan, 92 O.R. (3d) 594 (Ont. C.A.)
+
+[20]
+
+I am satisfied that this is a proper matter to be determined by a Rule 21 motion. A duty todefend motion is best brought at the close of pleadings. Only the pleadings anddocuments referred to in the pleadings need be referred to. Economical acknowledgesthat there is a contract. There is no ambiguity in the contract between the County andSteve Walt. The terms of the contract are clear as to what the contract required SteveWalt to do. No alternative agreement has been put forward by Economical.
+
+[21]
+
+I find that Steve Walt is in breach of his contract with the County on the plain reading ofthe contract and the Certificate of Insurance. Steve Walt failed to name the County as anadditional insured on his policy of insurance with Economical. The County has suffereddamages from Steve Walt’s failure to obtain insurance. Had the insurance been obtained,given the nature of the allegations of negligence by the plaintiffs, the insurer would havehad a duty to defend. Had Steve Walt kept his contractual promise, the County wouldhave a policy of insurance covering the costs of defending the claims made against theCounty by the plaintiffs.
+
+[22]
+
+The purpose of damages is to put the County in funds and to restore them to the samefinancial position as if the contract had been complied with and performed. I find theCounty is entitled to damages and to be put in the same position as if the breach had notoccurred and the insurance had been obtained. Steve Walt must pay the County’s costs ofdefence, past and ongoing, in the main actions. (See Amello v. Bluewave Energy LimitedPartnership, 2014 ONSC 4040, Perrell, J.; Papapetrou v. 1054422 Ontario Ltd.,2012
+ONCA 506, Laskin, Simmons, Cronk JJ.A.)
+
+[23]
+
+I agree with counsel for the County, and find that there is a clear conflict of interestbetween the parties and the coverage issues between the parties as demonstrated in thepleadings, the cross-claims and the off coverage positions taken by the parties. Wherethere is such a conflict of interest, the County is able to choose its own counsel and tohave its costs for that counsel paid for by Steve Walt. There is no agreement in this caseto defend or to indemnify. In these circumstances, separate counsel is required by theCounty at the expense of Steve Walt to defend itself in the main actions.
+
+[24]
+
+A declaration shall issue that Steve Walt is in breach of contract for failing to procureinsurance naming the County as an additional insured.
+
+[25]
+
+An order awarding damages to the County equivalent to the amount it has incurred in thepast and will incur in defending the Main Actions in Court file No. CV-16-0041-00A1
+(Bentley) and CV-16-0040-00A1 (Caul) shall issue.
+
+[26]
+
+An order shall issue that the County is entitled to appoint and instruct counsel if itschoice, at the expense of Steve Walt, to defend it in the Main Actions in Court file No.
+CV-16-0041-00A1 (Bentley) and CV-16-0040-00A1 (Caul).
+
+Costs:
+
+[27]
+
+If the parties are unable to agree on the issue of costs on or before June 1, 2017, I willreceive brief written submissions on or before June 23, 2017, after which time I willdetermine the issue of costs, based upon the material filed.
+
+Honourable Madam Justice H. MacLeod-BeliveauReleased: May 15, 2017
+
+Conclusion:
+
+CITATION: Bentley v. Hastings (County), 2017 ONSC 2980
+COURT FILE NO.: CV-16-0041-00A1
+DATE: 2017 May 15
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+KATIE BENTLEY
+Plaintiff
+– and –
+CORPORATION OF THE COUNTY OF HASTINGS,HASTINGS LOCAL HOUSING CORPORATION andSTEVE WALT PROPERTY MAINTENANCE
+Defendants
+– and –
+ECONOMICAL MUTUAL INSURANCE COMPANY
+Third Party
+
+MOTION DECISION
+
+MacLeod-Beliveau J.
+Released: May 15, 2017
+

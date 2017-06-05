@@ -1,0 +1,172 @@
+CITATION: Baca v. Tatarinov, 2017 ONSC 2935
+COURT FILE NO.: CV-17-570057
+DATE: 20170515
+
+RE:
+
+Ginter Baca and Lease Administration Corporation, PlaintiffsAND:
+Vasili Tatarinov, Vitalii Godonooga, Ontario Consumer Home Services Inc. andViva Financial Inc., Defendants
+
+BEFORE:
+
+Carole J. Brown, J.
+
+COUNSEL: Michael Simaan, for the PlaintiffsPradeep Chand, for the DefendantsHEARD:
+
+May 12, 2017
+ENDORSEMENT
+
+[1]
+The moving party plaintiffs, Ginter Baca and Lease Administration Corporation, bringthis motion for an order pursuant to Rule 44 of the Rules of Civil Procedure and section 104 ofthe Courts of Justice Act for the interim recovery of possession of personal property.
+
+[2]
+The defendants bring a cross-motion for a stay of the action on the ground that theplaintiffs are in default of a requirement of the Corporations Information Act, RSO 1990, cC 39
+(“CIA”) and the Ontario Business Corporations Act, R.S.O. 1990, c B.16 (“BCA”). Both motionand cross-motion were argued before me on May 12.
+
+[3]
+
+I will first deal with the cross-motion and thereafter with the main motion.
+
+The Defendants Cross-Motion For A Stay Of The Action
+
+[4]
+The defendants submit that the plaintiff is in breach of sections 18(1) of the CIA and115(2)(a) of the BCA, in that, at the time of the bringing of this application and the motion, nodirector was named in the Corporation Profile Report. They further submit that, despite the factthat they brought this to the attention of the plaintiffs, nothing was done to correct this. As aresult, the action should be stayed.
+
+[5]
+
+The CIA, section 18 states as follows:
+(1) A corporation that is in default of a requirement under this Act to file a return ornotice or that has unpaid fees or penalties is not capable of maintaining a proceeding in
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+- Page 2 a court in Ontario in respect of the business carried on by the Corporation except withleave of the court.
+
+(a) the failure to file the return or notice or pay the fees or penalties was inadvertent;
+(b) there is no evidence that the public has been deceived or misled; and
+(c) at the time of the application to the court, the Corporation has filed all returns andnotices required by this Act and has no unpaid fees or penalties.
+
+[6]
+
+Subsection 115(2) of the BCA states:
+(2) A corporation shall have a board of directors which shall consist of,
+(a) in the case of a corporation that is not an offering corporation, at least oneindividual; and
+(b) in the case of a corporation that is an offering corporation, not fewer than threeindividuals.
+
+[7]
+It is the submission of the plaintiffs that the filing was corrected shortly after theomission to name a director was brought to their attention. They stated that the issue was broughtto their attention in April 2016 and, once their counsel returned from out of country, it wasattended to and corrected in May 2016. The plaintiff, Ginter Baca, stated in his affidavit and oncross-examination on the affidavit that he had been the Director since 2003 and that the omissionwas inadvertent and was corrected. Both in the motion record and at the return of the motion onMay 12, evidence was adduced of the correction of the filings, which indicated that Mr. Bacawas director of LAC and had held that position since 2003.
+
+[8]
+Pursuant to the Courts of Justiceon motion by any person, whether or notterms as are considered just. Pursuant tothe court is satisfied that the tests set forth
+
+Act (CJA), section 106, a court, on its own initiative ora party, may stay any proceeding in the court on suchsection 18(2) of the CIA, the court shall grant leave iftherein have been satisfied.
+
+[9]
+I am satisfied based on the evidence before me that the failure to name a director wasinadvertent and was corrected within a reasonable time after it was brought to the plaintiffs’
+attention. There is no evidence to indicate that the public was deceived or misled by theinadvertence. The error in the Corporate Profile Report was corrected following its being broughtto the plaintiffs’ attention. I am satisfied, based on the searches done on December 19, 2016 andMay 12, 2017, and the Corporation Profile Reports produced at the times of those searches,contained in the evidence before this Court, that the inadvertent breach was rectified well prior tothe hearing of this motion.
+
+(2) The court shall grant leave if the court is satisfied that
+
+- Page 3 -
+
+The Motion Pursuant to Rule 44 of the Rules of Civil Procedure
+
+[11] Lease Administration Corporation (“LAC”) is the licensee under a License Agreementwith Decision Systems Inc. This License Agreement entitles LAC to the non-exclusive use of anequipment, vehicle and personal property lease portfolio management software system known as
+“Infolease” together with its integral operating platform by Unidata. The License Agreementspecifically prohibits LAC from transferring, assigning, sublicensing or permitting the use of thesystem by any other party. Any contravention of these restrictions could void the license. Thelicense remains active to this date.
+
+[12] The Infolease software operated by LAC is, according to the plaintiff, a unique assemblyof hardware and software products that cannot be purchased or replicated in its current form.
+LAC maintains that it has spent 25 years and hundreds of thousands of dollars building anddeveloping programs that surround this application to customize it and allow it to produceproduct for the marketplace.
+
+[13] LAC generates its primary income through the provision of contract administration andmanagement services to financial institutions, lenders, vendors and other companies involved inthe leasing and finance industry. In order to provide the services, LAC is entirely reliant on theInfolease system and other applications developed by it and at its expense that integrate withInfolease.
+
+[14] In November 2013, LAC began providing the services to Ontario Consumer HomeServices Inc. (“OCHS”) pursuant to an Administration Agreement concluded between theparties.
+
+[15] In January 2014, the individual defendants, Vasili Tatarinov and Vitalii Godonooga (“theindividual defendants”), the controlling minds of OCHS, proposed to the individual plaintiff,Ginter Baca (“the individual plaintiff” or “Baca”) that LAC combine its resources and operationwith OCHS and the defendant, Viva Financial Inc. (“Viva”), which was not, at that timeincorporated.
+
+[16] The proposal was accepted and LAC moved its offices and the LAC property into OCHS
+premises in March 2014.
+
+[17] Negotiations ensued regarding the structuring of the new agreement, but the parties wereunable to reach a final agreement and the three entities, LAC, OCHS and Viva continued asseparate legal entities.
+
+[10] Accordingly, I grant leave to permit the plaintiff to proceed with its motion pursuant toRule 44 of the Rules of Civil Procedure. While the defendant argued that the plaintiff had notsought leave from this court, on the basis of section 106 of the CJA, I am satisfied that, just asthis Court may, on its own initiative or on a motion by any other party, stay any proceeding inthe court it may, rather than staying the preceding, grant leave to continue the proceeding.
+
+- Page 4 -
+
+[19] In April 2015, there were discussions regarding sale of LAC stock to the individualdefendants and, in contemplation of reaching a final agreement, Viva assumed responsibility forpayment of the salaries, benefits and other amounts to become due to LAC employees, and alsocertain of LAC’s operating expenses. Further, Baca was hired as Viva’s president. In May 2015,with the benefit of the LAC property and related services supplied by LAC, Viva began billingOCHS monthly for the contract administration services previously billed by LAC for its ownbenefit. Viva continues to bill OCHS to this date.
+
+[20] However, in January 2016, due to a financing issue with Sun Life, Baca was terminatedas president of Viva, without cause or notice and was prevented from accessing the premisesfrom which OCHS, Viva and LAC operated and which is also where the LAC property (softwareand hardware) is located.
+
+[21] Attempts were made unsuccessfully to negotiate a satisfactory exit package for Baca,coupled with a purchase of the LAC property. In September, 2016, as no agreement was reached,LAC forwarded a revised administration agreement to the defendants which set forth the cost ofLAC continuing provision of services to OCHS. No response was received. Nevertheless, LAC
+began invoicing OCHS and Viva for services. To date, no invoices have been paid foradministration services or the continued use of the LAC property, which remains with thedefendants. As a result, the statement of claim in this matter was issued on February 21, 2017,which includes a request for an interim order under Rule 44.
+
+[22] In order to continue operating and generating profit, LAC has entered into negotiations toexecute new administration agreements with clients. However, these administration agreementsare contingent on LAC’s continued ability to use Infolease and the other LAC property for thebenefit of these new clients and to continue to provide contract administration and managementservices. Accordingly, it seeks, on an urgent basis, the return of the LAC property, given the timesensitive nature of the administrative agreements into which it is proposing to enter.
+
+[23] In response to this application, the defendants maintain that without the Infolease system,Viva would lose access to the data stored on the system for 37,000 customers, including billingand collection information for its customers, and, as a result, would lose those customers, suffera significant financial loss and be exposed to claims from its financial partners, customers andthird parties that rely on the Infolease system. However, the plaintiffs are amenable to having thedefendants print or download the records contained in the Infolease system at any time prior toreturn of the LAC property to LAC.
+
+[24]
+Further, the defendants submit that, if the LAC property is returned to LAC, they will beunable to complete the administration services going forward. However, LAC has undertaken tocontinue to provide administration services to Viva through use of the LAC property on the samebasis that it provided services to them prior to the attempts to merge, and on the condition thatViva enter into an administration agreement with LAC for said administrative services, in the
+
+[18] LAC billed OCHS for administration services rendered by LAC regarding the Infoleasesystem, pursuant to the Administration Agreement from October 2013 through April 2015.
+
+- Page 5 -
+
+[25] It is the position of the defendants that LAC has unfettered access to the Infolease systemthrough VPN, which allows it to perform contract administration and management services forclients. It concedes, in its materials, that the VPN is not exclusive or private. The defendantsfurther submit that the plaintiffs are, as a result, able to fully carry on business with their clients.
+Indeed, the defendants maintain that the plaintiffs are currently using the Infolease system. Thereis no evidence before this Court to that effect. The plaintiffs maintain that the VPN does notprovide them with exclusive access to their new clients’ information, which could also beaccessed by the defendants. As a result, they cannot guarantee their new clients confidentiality ofinformation as regards their systems.
+
+[26] As regards the hardware sought to be returned, it remains in the OCHS premises. Theplaintiff maintains that there is no issue as to the ownership by LAC of the hardware, that noissue was raised in the statement of defence and there was no evidence from the defendantsbefore this Court that raised an issue regarding ownership. At this motion, the defendant took theposition that in cross-examination, Ginter Baca was unable to produce receipts or invoicesregarding purchase by LAC of the hardware in question, such that there is no evidence that itwas, in fact, owned by the plaintiffs.
+The Law
+
+[27] The test for an Order pursuant to section 104 of the Courts of Justice Act and Rule44.01(1) of the Rules is as follows:
+1. There are substantial grounds for the plaintiff’s assertion that it is the legal owner orentitled to possession of the property;2. There are substantial grounds for its claim that the property is being unlawfullydetained by the defendants; and3. The balance of convenience favours the plaintiff.
+Clark Door of Canada Ltd. v Inline Fiberglass Ltd.¶ (1996), 45 C.P.C. (3d) 244 atparas 11, 17 and 18; Knew Order Co. Ltd. v 2291955 Ontario Inc., cob Tai GroupssInc. and Chia Yang Shen (2012) ONSC 3991
+
+[28] In order to establish entitlement to an Order pursuant to Rule 44.01, the moving partymust establish the following:
+1. A description of the property sufficient to make it readily identifiable;
+
+same way the services were provided to OHCS prior to the attempted merger with LAC. Thisproposal would permit the defendants to continue using the LAC property, but provide LAC withcontrol of its property and the ability to use it for the benefit of other clients as well. While thedefendants maintain that the amounts sought for payment for services are well beyond marketprices today, they have not provided any evidence to support this contention.
+
+- Page 6 2. The value of the property;
+
+4. That the property was unlawfully taken from the possession of the plaintiff or isunlawfully detained by the plaintiff; and5. The facts and circumstances giving rise to the unlawful taking or detention.
+Analysis
+
+[29] Based on all of the evidence before me, I am satisfied that the moving party plaintiffshave established the tests, as set forth at paragraph 28 above, and the requisite elements of theirmotion as set forth above at paragraph 29, above.
+
+[30] Pursuant to paragraph 29, above, the plaintiffs have provided a detailed description of theproperty such that it is readily identifiable, at Schedule A of the motion record and Schedule C ofthe factum. The plaintiffs maintain that the property is unique, such that it is difficult todetermine a value for it. They have, nevertheless, accepted the defendants’ value of $750,000 asthe cost of replacement of the Infolease system. The plaintiffs maintain that, in any event, thevalue of property would only be relevant if a security payment pursuant to Rule 44 were found tobe appropriate. I am satisfied that there are sufficient grounds to found its assertion that it is thelegal owner of the property and that the property has been unlawfully retained, as set forthbelow.
+
+[31] I am satisfied that there are substantial grounds for the plaintiffs’ assertion that LAC isthe rightful owner of or entitled to the possession of the LAC property. The LAC propertycomprises the LAC Infolease license and surrounding systems. The defendants do not disputethat the LAC property belongs to LAC, nor have they claimed ownership over any part of thatproperty. Indeed, the defendants attempted to purchase the LAC property, but negotiationsproved unsuccessful. Had LAC not been the rightful owners/licensees of the property, therewould have been no need for negotiations concerning a purchase from LAC by the defendants ofthe said property. I note that LAC’s licensing agreement contains restrictions against assigning,sublicensing or permitting the use of Infolease by third parties, as set forth in paragraph 12,above. Thus, a majority of LAC’s shares would have to be purchased by the defendants in orderto exercise effective control over LAC’s assets. No such purchase was ever effected between theparties.
+
+[32] While the defendant submitted that on cross-examination on the affidavit of Mr. Baca, hewas unable to produce any bills, receipts or other documentation proving ownership of thehardware, there was equally no evidence to suggest that it was not the plaintiffs’ property or thatit was owned by the defendants. I do not accept the defendants’ submissions in this regard.
+
+3. That the plaintiff is the owner or lawfully entitled to possession of the property;
+
+[33] I am further satisfied that there are substantial grounds for the claim that the property isbeing unlawfully detained by the defendants. The evidence before this Court indicates that thedefendants have had possession and control of the LAC property to the exclusion of LAC sinceapproximately January of 2016 and have failed to pay LAC for the use of the Infolease systemsince September 2016. There is no dispute before this Court that the defendants are in possessionof the LAC property. While the plaintiffs have requested the return of the LAC property onnumerous occasions, the defendants have refused to do so. Based on the evidence before me, I donot accept the defendants’ submissions that no request was ever made to them to return theproperty.
+
+[34] I am satisfied that the balance of convenience in this case favours the return of the LAC
+property by the defendants to LAC. Without return of its property, LAC cannot operate itsbusiness nor generate income. It has contracts under negotiation with new clients but is unable torealize on them until it has possession and control of the LAC property. LAC has proposedoptions to respond to the concerns raised by the defendants as regards return of the property toLAC, as set forth at paragraphs 24-25, above. These include permitting the defendants todownload all their client information or returning to the relationship of the parties prior to LAC
+moving into the OHCS premises, when the relationship was simply that of provision by LAC ofthe Infolease services to OHCS for payment of said services pursuant to the AdministrationAgreement. Based on the foregoing, I find that LAC will suffer serious harm if the property isnot returned, such that the balance of convenience favours LAC in the return of the property to it.
+
+[35] It would seem most appropriate pending trial and until the defendants are able to find areplacement system if they so desire, which they stated in their materials may take six months orso, that the parties resume the relationship they had prior to LAC moving into the OHCS
+premises, with LAC providing its administrative services and the defendants paying for same.
+Any issue that the defendants may have regarding the amount of said payments to be made toLAC is an issue to be determined at trial and any adjustments in that regard would be made attrial.
+
+[36] As regards the posting of security, this was not vigourously argued by either side. Theresponding party defendants acknowledged that pursuant to Rule 44.03, the court may, but is notrequired to, order security, and simply submitted that it should be ordered in this case consistentwith Rule 44 and CJA section 104. The moving party plaintiffs submitted that security isgenerally ordered where there is a dispute over ownership, which does not exist here where thereis no real dispute over ownership.
+
+[37] I have considered the case law relied upon by the parties, including Clark Door, supraand Knew Order Co., supra. I do not find in the circumstances of this case that security need tobe posted. There is no serious argument as regards ownership of the property and no serious orirreversible consequences which need be protected or indemnified against, particularly given theproposals of LAC, as set forth at paragraphs 24 and 25, above. As a result, no security is requiredor posted by the plaintiff.
+
+- Page 7 -
+
+- Page 8 -
+
+Costs
+
+[39] The plaintiffs, as the successful parties, areindemnity basis in the total amount of $14,403.59.
+the defendants in their Bill of Costs and iscircumstances. I grant the plaintiffs their costspayable forthwith.
+
+entitled to costs, which they seek on a partialThis is slightly less than the amount sought byreasonable and proportionate in all of thein the amount of $14,403.59, all inclusive,
+
+Carole J. Brown, J.
+
+Date: May 15, 2017
+
+[38] Order to go as sought by LAC granting an interim interlocutory order requiring thedefendants to deliver up to the plaintiffs the LAC property, as defined in Schedule A of thesupporting affidavit to the motion record, forthwith and, at latest, within 10 days of the date ofthis decision, and until further court order or determination of the issues raised in the action.
+

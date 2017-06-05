@@ -1,0 +1,300 @@
+CITATION: R. v. Evans, 2017 ONSC 3141
+COURT FILE NO.: 16-01471
+DATE: 20170525
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+HER MAJESTY THE QUEEN
+– and –
+ANDRE EVANS
+
+Defendant )
+
+Jennifer Gleitman, for the Crown
+
+David Parry, for the Defendant
+
+HEARD: May 17, 2017
+
+REASONS FOR DECISION ON s. 8 CHARTER MOTION
+BOSWELL J.
+INTRODUCTION
+
+[1]
+In Canada, everyone has the right to be free from unreasonable search and seizure;section 8 of the Charter of Rights and Freedoms guarantees it.
+
+[2]
+Mr. Evans says that he was not free from an unreasonable search on August 2, 2015 andhe implores the court to exclude any items seized by the police during the search they conductedof his apartment that day.
+
+[3]
+The impugned search was conducted pursuant to a warrant that an officer of the YorkRegion Police Service obtained just after midnight on August 2, 2015. The warrant was obtainedusing the telewarrant process outlined in s. 487.1 of the Criminal Code. Mr. Evans submits thatthe police did not establish, nor have, the proper grounds to avail themselves of the telewarrantprocedure. Moreover, he submits that they did not have sufficient grounds to support the warrantgranted by a justice of the peace (“JP”) pursuant to that procedure. He asks that the warrant beset aside and the warrantless search of his apartment declared a breach of his s. 8 protected right.
+
+[4]
+
+The following reasons explain why I conclude that the application fails.
+
+ONTARIO
+
+2
+THE FACTS
+
+[5]
+A call came into 911 dispatch on July 31, 2015 at about 4:38 p.m. The caller identifiedherself as KJ and reported that she was being harassed and slandered by the defendant. She saidthe defendant had been pimping her out for five years. She described a violent relationship; thatthe defendant beat her regularly and took all of her earnings. When asked if the defendant wasknown to carry weapons, she answered, “probably, yeah” and advised that he had shot someonein the past. She also said he trafficked in marijuana and cocaine. She said she had left him twomonths prior to the call and that she was living in fear of him. He had recently found out whereshe was staying.
+
+[6]
+Uniformed officers were dispatched to her location at the Novotel Hotel in Vaughan.
+Officers from the vice team were called in, including DC Leahey and DC Organ. KJ wastransported to a local police station to give a videotaped interview.
+The Interview
+
+[7]
+KJ was interviewed by DC Organ, with DC Leahey monitoring and taking notes. Theinterview began just before 7:30 p.m. and continued until almost 11:00 p.m. DC Leaheydescribed the content of KJ’s interview as containing “a lot of allegations”. KJ said, forinstance, that:
+(a)
+
+She had a five year relationship with the defendant. During that time hecontinuously let her know that if she left him he would hurt her or kill her;
+
+(b)
+
+The defendant had pimped her out, working her 7 days a week. He took all of themoney she earned;
+
+(c)
+
+She had left the defendant two months ago, but he had recently found her locationby posing as a prospective client. He was calling her 20 times per day andharassing her;
+
+(d)
+
+She had seen bullets in a small safe he had in the apartment they once shared inMississauga, located at 55 Strathaven Drive, unit 802. She admitted that she hadnot seen a gun. She also said there was a large sum of cash kept in the safe;
+
+(e)
+
+The defendant regularly beat her. She said she documented some of her injuries ona Samsung cell phone that she had left in the apartment. She didn’t know if thepictures were still on the phone or if the phone would still be there; and,
+
+(f)
+
+The defendant trafficked in marijuana and cocaine and he kept drugs in theapartment in Mississauga.
+
+The 911 Call
+
+3
+
+[8]
+The police were anxious to search the Strathaven Drive apartment in an effort to locateevidence to support KJ’s allegations of human and drug trafficking. Some brief surveillance wasconducted on the defendant with a view to connecting him to the apartment. His car was locatedin the early hours of August 1, 2015 and he was followed from a nightclub where he purportedlyworked back to 55 Strathaven Drive.
+
+[9]
+DC Leahey was tasked with preparing applications for warrants to search the StrathavenDrive apartment, as well as the defendant’s car. She began to prepare the paperwork at about4:15 a.m. on August 1, 2015. She had been on shift since 2:00 p.m. the prior day. She workeduntil about 6 a.m., when her supervisor instructed her to go home and get some rest. Shereturned back to work at 2:00 p.m. that afternoon (August 1) and continued to prepare thewarrant applications.
+
+[10] Officer Leahey testified that she utilized three main sources of information when sheprepared the warrant applications and the supporting information to obtain it (the “ITO”): theinformation from the 911 call; KJ’s videotaped statement; and the surveillance conducted by hercolleagues. She also did some additional investigation on the defendant by way of computerchecks: she accessed the York Region Police Service Versadex records system to obtain anylocal information on file. She also sourced his criminal record from CPIC.
+
+[11] Throughout her career as a police officer, DC Leahey has, she said, prepared hundreds ofwarrant applications and ITOs. She was aware that the normal procedure to obtain a warrantinvolves the ITO being presented in person to a JP. She testified that if the courts are closed,however, and the matter is urgent, the police will resort to the telewarrant procedure. If thematter is not urgent, they will wait until the court is next open to present the warrant applicationto a JP in person.
+
+[12] August 1, 2015 was a Saturday. It was also a long holiday weekend. The courts wereclosed and would not re-open until Tuesday August 4, 2015. Her warrant applications werecompleted and ready for submission at about 9:30 p.m. on August 1.
+
+[13] DC Leahey determined that she would submit the warrant applications through thetelewarrant system. She disagreed with defence counsel’s suggestion that there was no urgencyto obtaining the warrants. She testified that there were a number of factors that made thesituation urgent in her view: (1) KJ gave evidence that the defendant had abused her for anumber of years. He had mistreated her and threatened her with harm; (2) KJ had left thedefendant but he had recently found out where she was and was harassing her; (3) the defendanthad a criminal record which included a youth conviction for second degree murder; and (4) KJ
+told the police that she had seen bullets in the apartment. While KJ had not seen a gun, DC
+Leahey said she generally associates possession of ammunition with possession of a firearm.
+
+The Warrant Applications
+
+4
+
+[15] Defence counsel suggested to DC Leahey that she might have waited until the morning ofAugust 2, 2015 and submitted the warrant application to a JP presiding in WASH (weekend andstatutory holiday) court. She testified that in her experience, JPs are in WASH court to deal withbail hearings, not warrant applications. She did not know of any JPs who would be prepared todeal with a warrant application on a WASH court date when there is a telewarrant system inplace to deal with warrant applications when courts are otherwise closed.
+
+[16] In any event, DC Leahey sent off a request to the Central East Telewarrant Centre at 9:40
+p.m. on August 1, 2015 for approval to submit a warrant application by fax. She received aresponse back at 10:03 p.m. asking her to fax all of the supporting materials to the assigned JP.
+She immediately faxed in her warrant applications and the supporting ITO. At 12:19 a.m. onAugust 2, 2015 she got confirmation that the warrant applications had been signed.
+
+[17] The search was conducted in the early morning hours of August 2, 2015. No issue istaken with respect to the manner in which the search was conducted. Mr. Evans was not presentin the apartment at the time of the search.
+The ITO
+
+[18] The police sought warrants under both the Criminal Code and the Controlled Drugs andSubstances Act. Various human trafficking offences were alleged, as well as possession for thepurpose of trafficking in marijuana and cocaine. The warrant applications sought approval tosearch for the following items:
+
+Cocaine;Marijuana;Drug packaging, scales, debt lists and currency;KJ’s identification and identification of other possible female victims;Cell phones, tablets, laptops or other electronic devices;Ammunition;Financial documents;Black professional camera; and,Land titles documents.
+
+[19] DC Leahey began the ITO with a description of her own background, then set out thealleged offences and the items sought.
+
+[20] She then gave a general overview of KJ’s 911 call and her subsequent interview. Theoverview was followed by more specific information regarding the officer’s grounds to believethe alleged offences had taken place. She set out details provided to the police by KJ during the911 call and the subsequent interview. She provided brief details of the defendant’s criminalrecord and the results of the limited surveillance that had been conducted.
+
+[14] DC Leahey testified that as a responsible police officer, charged with protecting people,she believed she needed to do something to protect KJ. She said she did not want to be thatofficer who didn’t follow up and then something tragic happened.
+
+5
+
+[22] She concluded the ITO with the following short paragraph as to why the telewarrantprocedure was justified:
+47. This application is being made during a time to which the courts areclosed and a Justice of the Peace is not available.
+The Search
+
+[23]
+
+When the warrant was executed at the apartment, the police seized, amongst other things,
+
+A sawed off shotgun;A bag of ammunition;
+$11,000 in Cdn currency;24 grams of cocaine in powder form;91 grams of crack cocaine;160 grams of marijuana; and,Some of KJ’s personal items.
+
+The Indictment
+
+[24] The defendant is charged with fifteen offences under the Criminal Code and theControlled Drugs and Substances Act (“CDSA”), including: procuring (x2); human trafficking
+(x2); assault (x2); criminal harassment; possession for the purpose of trafficking (x2); firearmsoffences (x5); and breach of recognizance.
+The Evidentiary Record
+
+[25] The defendant’s application was argued on the basis of an evidentiary record thatincluded a transcript of KJ’s 911 call; a copy of the dispatch call detail record; excerpts fromKJ’s police interview; and the warrant applications, including the supporting ITO. Defencecounsel was also granted leave, on consent, to conduct a cross-examination of the affiant of theITO, DC Leahey, focused on the live issues in the application.
+THE POSITIONS OF THE PARTIES
+
+[26] The defence attack on the warrants is two-pronged: one prong relates to allegedprocedural flaws; the other, alleged substantive flaws. In either event, the defence argues that theflaws are fatal to the validity of the warrants.
+
+[27] The procedure-based attack focuses on the use of the telewarrant process to obtain thewarrants used to search the defendant’s residence.
+
+[21] DC Leahey then set out her grounds for believing the items sought may reasonably belocated in the apartment and/or the defendant’s car and the grounds she had for believing that theitems sought would afford evidence of the alleged offences.
+
+6
+
+[29] DC Leahey failed, in counsel’s view, to establish that there was an urgency to the warrantapplications. Her position that they could not wait until a JP was available to deal with them inperson was not supported by the evidence. She furthermore made no inquiries about theavailability of a JP in WASH court on August 2, 2015 and more or less assumed that it would beout of the question. Moreover, if DC Leahey was correct in her view that the JP presiding inWASH court would not make himself or herself available to deal with a warrant application, thenthere is a complacency in the system that should not be countenanced by the court.
+
+[30] The defendant’s substantive attack focuses on the general sufficiency of the ITO. Thedefence argues that the evidence relied upon was outdated because KJ had not lived in theapartment for two months. Moreover, DC Leahey overstated the evidence, failed to identifycertain frailties in it and generally demonstrated an intention to obtain the search warrants at anycost. Taking into account the facial and subfacial flaws in the ITO there was, in the view ofdefence counsel, insufficient evidence to support the conclusion that there were reasonablegrounds to believe the search of the apartment would yield evidence of the alleged offences.
+
+[31] The Crown’s response was brief. The Crown’s position is essentially that DC Leahey dideverything the law expects her to do in preparing and filing the warrant applications and thesupporting ITO. There was nothing missing, subversive or false about the contents of the ITO,all of which were substantiated in the statements made by the complainant. The statutory prerequisites were met and the warrants were validly issued.
+DISCUSSION
+The Telewarrant Procedure
+
+[32] The usual procedure engaged when the police seek a Criminal Code or CDSA searchwarrant involves a personal attendance by an officer before a JP and the filing of information onoath to support the issuance of the warrant.
+
+[33] As the old proverb goes, however, crime never sleeps. The police know this and are onduty 24 hours a day, 7 days a week – a total of 168 hours per week. By contrast, the courtsoperate in accordance with typical business hours, or roughly 40 hours per week. In the result,JPs are available for in-person attendances approximately one-quarter of the time that the policeare working.
+
+[34] The Criminal Code recognizes that there may be instances where the police need awarrant, but a JP is not readily available for an in-person meeting. Section 487.1 of the Codemakes provision for warrants to be obtained through a telewarrant system:
+487.1(1) Where a police officer believes that an indictable offence hasbeen committed and that it would be impracticable to appear personallybefore a justice to make application for a warrant in accordance with s.
+
+[28] Defence counsel argues that the police were not justified in using the telewarrantprocedure. He describes the procedure as exceptional. It is not intended to be used as a matterof course, as he submits it was in this instance.
+
+7
+
+[35]
+
+There is a Telewarrant Centre in Newmarket staffed by a JP around the clock.
+
+[36] DC Leahey’s warrant applications were completed at about 9:30 p.m. on August 1, 2015.
+She opted to submit them immediately through the telewarrant system.
+
+[37] Section 487.1(1) required DC Leahey to establish on evidence that it would beimpracticable to appear personally before a JP to submit her applications.
+
+[38] Defence counsel submits that an affiant for a telewarrant has a duty to establish a factualfoundation as to the impracticability of appearing personally before a JP. This duty requiresmore than a bald statement as to the unavailability of a JP: R. v. Scott, 2012 BCCA 99 at para.
+34. It requires sufficient details, including time exigencies and the availability of a JP, to permitthe reviewing justice to assess the reasonableness of the affiant’s claim of impracticability:
+Scott, as above, para. 34; R. v. Adansi, [2008] O.J. No. 1202 at para. 74. He asserts that DC
+Leahey’s evidence, contained in paragraph 47 of the ITO, is insufficient. It is nothing more thana bald statement as to the unavailability of a JP.
+
+[39] I agree that s. 487.1(1) requires the affiant of an ITO submitted through the telewarrantsystem, to provide an evidentiary foundation for the conclusion that it would be impracticable toappear personally before a JP. It is, frankly, impossible to disagree with such a submission, inview of s. 487.1(4)(a) which provides that an ITO “submitted by telephone or other means oftelecommunication shall include a statement of the circumstances that make it impracticable forthe peace officer to appear personally before a justice”.
+
+[40] I also agree that the evidentiary foundation should provide information as to thecircumstances of the case and the availability, or lack thereof, of a JP. A bald assertion is notevidence.
+
+[41] Having said that, I make three broad observations that, in my view, are dispositive of thisissue in this instance.
+
+[42] First, the ITO must be considered as a whole. The evidence supporting the use of thetelewarrant procedure in this case is not restricted to the statement set out at paragraph 47 of theITO. The exigencies of the case would have been apparent from a holistic review of thedocument. For instance, Mr. Evans was noted to have dominated and abused KJ for some fiveyears. She had recently broken free of his control, but he had located her. He was said to havehad a history of violence with her. He had a record for second degree murder. And he waspurportedly known to carry a firearm. Permission to exercise the search warrant at night weresought on the basis that “Evans poses a high risk to [KJ’s] safety”. (Para. 45).
+
+256 or 487, the peace office may submit an information on oath bytelephone or other means of telecommunication to a justice designatedfor the purpose by the chief judge of the provincial court havingjurisdiction in the matter.
+
+8
+
+[44] Second, it is not, as a matter of law, necessary that the affiant establish that there is someurgency before the telewarrant process may be resorted to. While the telewarrant process is notmeant to be simply a matter of convenience, s. 487.1(1) clearly does not require, on its face, theestablishment of urgency. It requires the establishment of “impracticability”. See R. v. Persaud,2016 ONSC 8110 at para. 78.
+
+[45] Third, the “impracticability” standard is a low one. As my colleague Justice Di Lucarecently observed in R. v. Ricciardi, 2017 ONSC 2788 at para. 58, citing R. v. Le, 2009 BCCA
+14, at paras. 32-34, “impracticable in s. 487.1(1) means something less than impossible andimports a large measure of practicality, what may be termed common sense”.
+
+[46] Defence counsel takes the position that the warrant applications in this case were noturgent and could have waited. DC Leahey testified that, in her view, they were urgent. It is notnecessary that I make any finding about urgency. It is only necessary that I be satisfied that therewas a basis in the evidence to reasonably conclude that it would be impracticable for DC Leaheyto present her applications in person. I am so satisfied.
+
+[47] It was not impossible, of course, that DC Leahey could have waited until the courts wereopen again on August 4, 2015. It was not impossible that she may have persuaded a JP to giveher some of his or her time at WASH court on August 2, 2015. But I am satisfied, as thereviewing JP obviously was, that it was impracticable in all the circumstances. It was 10 p.m.
+on the Saturday night of a long weekend. DC Leahey was anxious, in my view reasonably so, tomove the investigation forward. There were not going to be any JPs available for 2 ½ days, savein WASH court. In her experience, JPs preferr that the police access the telewarrant system onweekends, rather than attempt to attend in WASH court. I suspect she is right about that.
+
+[48]
+Paragraph 47 of the ITO could have and probably should have been more fulsome. Atthe same time, reading the ITO as a whole, and keeping in mind that s. 487.1(1) does not createan onerous obligation, I am satisfied that there were sufficient grounds in this instance to justifyresort to the telewarrant process. While there is no requirement to establish urgency, I amsatisfied that DC Leahey reasonably considered the matter urgent. For all practical purposesthere would not be a JP available for an in-person meeting for more than 2 days. Theimpracticability threshold was met in these circumstances.
+
+[49] As a final observation on this issue, I acknowledge counsel’s stated concerns aboutsystemic complacency. Specifically, that JPs should be more accessible to receive and reviewwarrant applications in person on weekends. As I indicated to counsel in oral argument, I am inno position, on the evidentiary record now before the court, to make any findings about systemiccomplacency.
+
+[43] It is important to recognize, as well, that the JP does not review the ITO in a vacuum.
+The reviewing JP will likely have his or her own understanding of local conditions and it isreasonable that he or she take account of these conditions: see R. v. Scott, as above, at para. 34.
+
+9
+
+[51] I move on to the issue of whether there were otherwise reasonable grounds to issue theimpugned warrants.
+The Sufficiency of the ITO
+
+[52] The principles that guide the court when reviewing the sufficiency of an ITO in the faceof a challenge to a warrant are well-settled.
+
+[53] Warrants, as issued, are presumptively valid. The onus is on the party challenging thewarrant to establish that sufficient grounds did not exist to support the issuance of the warrant: R.
+v. Campbell, 2010 ONCA 588, at para. 45, aff’d 2011 SCC 32.
+
+[54] The role of the reviewing justice, when considering a presumptively valid warrant, is notto substitute his or her own views about whether the warrant ought to have been issued. Instead,the role is to assess whether, on the basis of the ITO as amplified and/or excised on review, theJP could have (not should have) issued the warrant: R v. Garofoli [1990] 2 S.C.R. 1421 at para.
+56. See also R. v. Araujo (2009), 149 C.C.C. (3d) 449 (S.C.C.) at para. 54, R. v. Morelli, 2010
+SCC 8 at para. 40, and R. v. Mahmood, 2011 ONCA 693 at para. 99.
+
+[55] The pre-requisites to the issuance of a search warrant are reasonable grounds to believethat an offence has been committed and that there is evidence of the offence to be found at theplace of the search: Morelli, as above, at para. 39.
+
+[56] The “reasonable grounds” standard does not require proof beyond a reasonable doubt, noreven proof to the balance of probabilities standard. Instead, it imports a credibly-basedprobability standard. As Watt J.A. held in R. v. Sadikov, 2014 ONCA 72 at para. 81, “If theinferences of criminal conduct and recovery of evidence are reasonable on the facts disclosed inthe ITO, the warrant could be issued.”
+
+[57] Assessing whether reasonable grounds existed, the reviewing court must consider theITO as a whole, taking a common sense, practical, non-technical view of it. Any reasonableinferences arising from the facts as set out in the ITO must be considered as well: Sadikov, asabove, at para. 82.
+
+[58] The onus is on the defence to establish that the ITO was deficient. Defence counselraised both facial and sub-facial concerns.
+
+[59] A facial challenge to an ITO, as the name suggests, is premised on the basis that the ITO,on its face, fails to provide a sufficient basis upon which the impugned warrant could be issued.
+A sub-facial challenge, again as the name suggests, scratches below the surface and attacks thecredibility or reliability of the content of the ITO. I will discuss the defence position on bothlevels.
+
+[50] The onus, in this Charter application, is on the defendant to establish, on a balance ofprobabilities, that the standard of impracticability was not met: see R. v. Nguyen, 2009 BCCA
+89, at para. 18. In this instance, the defendant has not met that onus.
+
+10
+
+[60] Defence counsel argues that the ITO, on its face, fails to provide reasonable grounds tobelieve that evidence of the offences of human trafficking and/or drug trafficking will be foundon the premises sought to be searched. I note that while the police sought and obtained warrantsto search the defendant’s car, the only warrants in dispute on this application are the CriminalCode and CDSA warrants authorizing the search of apartment 802, at 55 Strathaven Drive,Mississauga.
+
+[61] The defence arguments are organized around two themes. First, that there is aninsufficient temporal nexus between KJ’s occupation of the apartment and the timing of thewarrant applications. Second, that some of the items searched for are either not evidence of acriminal offence, or their descriptions lack the specificity required to support the reasonablebelief that they are evidence of a particular offence under investigation. I will consider boththemes in turn.
+Recency
+
+[62] It is axiomatic in my view that an ITO should contain information that is recent enough tosupport the assertion that it is reasonable to believe the item(s) in issue will still be present in theplace sought to be searched: R. v Turcotte (1989), 39 C.C.C. (3d) 193 (Sask. C.A.), R. v. Barnes,2015 ONSC 228, at para. 28.
+
+[63] KJ told the police that she had not lived in the apartment on Strathaven Drive for twomonths. Two months is arguably a long time to be sitting on a stash of drugs and money. Thatsaid, KJ’s information was that the defendant was involved in drug dealing and that he keptdrugs and cash in the apartment. Her information suggested that the defendant was involved inthe drug trade on an ongoing basis; not as a one-off transaction. Two months is not so long aperiod of time that it is no longer reasonable to believe that there will still be drugs and money inthe apartment.
+
+[64] In terms of KJ’s personal belongs, including her identification and cell phone, it isentirely possible that someone disposed of those items in the two months since KJ vacated theapartment. But the evidence in the ITO was that the defendant was harassing KJ to get backtogether. It was certainly open to the JP to infer that he had not yet disposed of her belongings,even though she had moved out.
+
+[65] In my view, KJ’s evidence was not so dated that it could no longer support the necessaryinferences and conclusions the JP would need to draw to issue the warrants.
+Specificity
+
+[66] My colleague, Di Luca J. described the requirement of specificity succinctly in R. v.
+Ricciardi, as above, at para. 15 as follows:
+An ITO must contain a reasonable degree of precision about the itemsbeings searched for, assessed within the context of the case: see Church
+
+Facial Validity
+
+11
+
+[67] The defendant’s complaint in this instance involves two particular items sought under theCriminal Code warrants. Specifically, the black professional camera and identification ofpossible other female victims.
+
+[68] KJ described the defendant using a black professional camera to take pictures of her topost in internet ads some five years ago. There was no information in the ITO that suggested thepictures were still on the camera, or that the camera was located at 55 Strathaven.
+
+[69] Based on KJ’s police statement, there was a reasonable basis to infer that KJ may nothave been the only female sex worker under the control and/or direction of the defendant. Thatsaid, I tend to agree with defence counsel that the search for identification of other females wasperhaps a bit of a fishing expedition. The existence of such identification and its connection with55 Strathaven were not set out with any particular precision in the ITO.
+
+[70] Though I agree with defence counsel that the search for the camera and third partyidentification was not sufficiently supported, I do not conclude, on that basis, that the warrantsare entirely vitiated. Ultimately, the camera was not found during the search, nor was any thirdparty identification. In my view, in the final analysis, nothing turns on the fact that two minoritems searched for were not sufficiently supported in the ITO.
+Sub-Facial Validity
+
+[71] Defence counsel suggested that the affiant failed to take sufficient steps to inform herselfabout the information she included in the ITO. She did not, for instance, listen to the 911
+recording. Instead she reviewed the call detail records. She also failed to review the contents ofKJ’s cell phone – even though KJ had it with her at her interview – to determine if there wererecords of numerous calls and texts in it from the defendant.
+
+[72] Defence counsel also suggested that some of the content of the ITO was misleading. Forinstance, there is an indication that the defendant is known to carry weapons, specifically a 9 mmhandgun. DC Leahey obtained that information from the call detail records. A review of the 911
+transcript makes it apparent that KJ had never seen the defendant with a gun and indicated thathe was “probably” known to carry weapons. She did not express any certainty about a 9 mmgun. Further, DC Leahey deposed that KJ had documented some of her injuries on a Samsungcell phone. She did not explain, however, that KJ said she did not know if the pictures were stillon the phone or if the phone was still in the apartment.
+
+[73] I found DC Leahey to be a forthright and compelling witness. In my view, she had agenuine concern for KJ’s safety. She did as thorough a job as she could with the information shehad to work with, in the time that she had. I have no concern that she attempted to mislead the
+
+of Scientology and the Queen (No. 6) (1987), 31 C.C.C. (3d) 449 (C.A.)
+at page 509.
+The ITO must also establish a basis for the reasonablebelief that those items will afford evidence in respect of an offence underinvestigation: see Canadian-Oxy Chemicals Ltd. v. Canada (AttorneyGeneral), [1999] 1 S.C.R. 743, at para. 15.
+
+12
+
+[74] A review of an ITO is not meant to be a microscopic parsing of minor imperfections,misstatements or omissions. In hindsight there may have been some other details that DC
+Leahey could have put into the ITO. She could have been a little more careful when sheoutlined the evidence about whether the defendant was known to carry a weapon. But even if I
+were to excise the reference to the 9 mm gun, there remained evidence that KJ observedammunition in the apartment. The warrant did not indicate that the police were searching for agun; only ammunition.
+
+[75] The intrusion by state actors into someone’s home and the rummaging through of theirpersonal effects is always a serious matter. No one disputes that the police should be careful andprecise in the drafting of an ITO: Morelli, as above, at para. 167. But minor flaws and/oromissions are generally to be expected. A standard of perfection is not imposed. The question iswhether, allowing for any excision, the core substance of the ITO could support the JP’sauthorization: R. v. Persaud, as above, at para. 64(7).
+
+[76] In my view, the concerns raised by the defendant do not, individually or cumulatively,rise to a level that would vitiate the warrants. The ITO could have been better. But at its core itwas fair, not misleading, and sufficient to support the JP’s exercise of discretion to issue thewarrants.
+
+[77] In the result, the defence application is dismissed. In the circumstances it is unnecessaryto consider the arguments in relation to s. 24(2) of the Charter.
+
+Boswell J.
+Released: May 25, 2017
+
+reviewing JP or that she acted in any way in bath faith. I am also satisfied that she tooksufficient steps to inform herself of the relevant details of the investigation.
+

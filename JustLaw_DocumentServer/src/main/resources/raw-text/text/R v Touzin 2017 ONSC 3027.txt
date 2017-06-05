@@ -1,0 +1,469 @@
+CITATION: R. v. Touzin, 2017 ONSC 3027
+COURT FILE NO.: CR-15-00000033-AP
+DATE: 20170516
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+HER MAJESTY THE QUEEN
+– and –
+GAETAN TOUZIN
+Respondent )
+
+J. Rumleskie, for the Crown
+
+T. Tichinoff, for the Respondent
+
+HEARD: April 24, 2017
+
+DECISION ON APPEAL
+WILCOX, J
+INTRODUCTION
+
+[1]
+
+The Crown appealed against the acquittal of the respondent, Gaetan Touzin, by Her
+
+Honour Justice M. Rocheleau of the charge of operating a motor vehicle with more than 80
+milligrams of alcohol per 100 millilitres of blood, contrary to section 253(1)(b) of the CriminalCode. The grounds for appeal as stated in the Notice of Appeal are:
+1. The Honourable Trial Judge erred in law by finding that the accused's rights undersection 10(b) of the Charter of Rights and Freedom were breached.
+2. The Honourable Trial Judge misapprehended the facts by finding that the accusedwas not asked if he wished to speak to a lawyer and by finding that Police ConstableGraeme Ettles believed he did not have grounds to make an approved screeningdevice demand without the accused's admissions;3. The Honourable Trial Judge erred in law by effectively imposing an obligation ofthe police to give rights to counsel before a failed approved screening device test wasundertaken.
+4. The Honourable Trial Judge erred in law by excluding statements of the accusedthat were introduced as grounds to make an approved screening device demand.
+
+ONTARIO
+
+6. The Honourable Trial Judge erred in law by failing to do a section 24(2) ofCharter of Rights and Freedoms analysis before excluding the Approved ScreeningDevice breath results and the Intoxilyzer 8000c breath results.
+
+[2]
+
+However, the Crown withdrew ground number 5 at the outset of the hearing.
+
+OVERVIEW
+
+[3]
+
+Gaetan Touzin was charged with impaired driving and over 80 arising out of an incident
+
+which took place on July 8, 2013. Trial took place July 21, 2014 and May 25, 2015. The decisionwas reserved and was delivered on November 9, 2015. The trial judge acquitted Touzin of theimpaired driving charged. The appellant takes no issue with Her Honour’s finding on that charge.
+At trial, defence counsel brought a Charter application asking for the breath samples collected tobe excluded under s. 8, 10(a) and 10(b). In relation to the over 80 charge, the trial judgedismissed the s. 8 and s. 10(a) arguments, but found a breach under s. 10(b) of the Charter. Inparticular, the trial judge found that there was a s. 10(b) breach of Touzin’s rights to counselbecause police failed to implement his rights to counsel. As a result, Touzin’s statements topolice prior to the approved screening device (ASD) demand could not be used by the officer toinform his reasonable suspicion. Without these admissions, the police no longer had grounds tomake an ASD demand. Without the ASD result, the police no longer had grounds for therespondent’s arrest. For the same reason the Crown was unable to rely on the statutorypresumption found in section 258. No s. 24(2) Grant analysis was performed. The respondentwas ultimately acquitted on the over 80 charge.
+FACTS
+
+[4]
+
+The Crown in its appellant’s factum provided a “brief review of the evidence at trial”
+
+which was largely accepted by the respondent, subject to comments which will be addressed indue course. The Crown’s overview is as follows, using its paragraph numbering:
+8. A number of civilian witnesses testified at trial. Broadly stated, their evidence wasthat at approximately 5:15p.m. they observed Mr. Touzin enter the business knownas Pete's Small Engine's (sic) located on Highway 65E in the City of TemiskamingShores. The witnesses believed that Mr. Touzin was impaired by alcohol and driving
+
+5. The Honourable Trial Judge erred in law by finding that Police Constable GraemeEttles had no authority and no grounds to make an Approved Screening Devicedemand.
+
+his vehicle. As a result of their observations of the civilian witnesses contacted policeto make a report.
+
+10. Cst. Ettles immediately departs the New Liskeard detachment in an attempt tointercept the suspect vehicle. As Cst. Ettles leaves the detachment he is met by athird party who advises that Mr. Touzin was just at Pete small Engine (sic) andreeked of booze.
+11. Cst Ettles locates the suspect vehicle at Mr. Touzin's address at 17:36. Cst.
+Pouliot arrives at the residence at approximately the same time.
+12. As police approach the residence, both officers make observationssuspect vehicle which is consistent with it being recently operated
+
+of
+
+the
+
+13. Police were greeted by a male who answered the door later identified as Mr.Touzin. After a brief conversation, they were invited inside.
+14. Cst. Ettles told Mr. Touzin: that he was investigating a driving complaint thatmay involve him and, depending on the interview, he could be charged with impaireddriving or over 80.
+15. Cst. Ettles also provided informational rights to counsel. Cst. Ettles told Mr.Touzin that he can speak to a lawyer, including a free lawyer, that they would stopthe interview and get a hold of a lawyer for him. The toll free number was notexpressly provided to Mr. Touzin, however Mr. Touzin was made aware that hecould call a lawyer for free.
+16. A conversation takes place, where Mr Touzin admits to coming back from Pete'sSmall Engines. Based on the admission, Cst. Ettles makes an ASD demand where aFail result is obtained.
+17. Mr. Touzin also testified at trial. His testimony differed in terms of whattranspired at his residence when police arrived.
+Trial Judge's Decision18. The Trial Judge began by summarizing her findings of fact in the case over thecourse of 7 pages. For the purpose of this appeal, the Trial Judge accepted thefollowing facts1.
+Ms. Miron reported to police that the accused drove away from Pete'sSmall Engine and that he had alcohol on his breath2.
+After receiving the report from Cst. Plante, Cst. Ettles tried to intercept thevehicle between New Liskeard and Haileybury or go to the accused'sresidence in order to investigate the potential impaired driving
+
+9. At approximately 17:30 police receive the impaired driving complaint.
+
+3.
+While on route, Cst. Ettles was stopped by Mr. Cook who advised Mr.Touzin left Pete's Small Engine with his truck and that he had a strong odour ofalcohol on his breath
+
+5.
+The suspect vehicle was not intercepted on route and Cst. Ettles arrived atMr. Touzin's residence in Haileybury at 5:36p.m.
+6.
+The suspect motor vehicle was located in the driveway of Mr. Touzin'sresidence. As the officer walked by the vehicle towards the door, he noticed wettire tracks behind the tires, tingling sound from the exhaust and heat comingfrom the engine. All of these observations led the officer to believe the suspectvehicle was recently driven7.
+Cst. Ettles knocked on the door. A male identifying himself as GaetanTouzin answered8.
+
+Cst. Ettles advised Mr. Touzin that he was investigating a complaint
+
+9.
+Mr. Touzin told the officers he needed to go to the bathroom, closed thedoor and came back within a minute or sol0.
+
+When Mr. Touzin returned, he invited the officer's (sic) inside
+
+11. Once inside Cst. Ettles explained that he was investigating a charge ofimpaired or over 80. The officer cautioned Mr. Touzin about providing astatement and gave rights to counsel. The officer did not read this informationfrom the standard card. Mr. Touzin said he understood. Mr. Touzin did not saywhether or not he wanted to speak to counsel12. Cst. Ettles told Mr. Touzin the complaint he received from Pete SmallEngines, observations the officer of the vehicle in the driveway and the odour ofalcohol the Cst. Ettles detected coming from Mr. Touzin's breath13. Cst. Ettles wanted to rule out other possibilities regarding the identity ofthe driver, prior to forming his grounds and making an ASD demand14. Mr. Touzin admitted that he had one beer and that he was at Pete's SmallEngine15.
+
+Based on these admissions, Cst. Ettles made an ASD demand
+
+16.
+
+Mr. Touzin complied with the ASD demand and registered a fail
+
+17. Rights to counsel, caution and breath demand were read to Mr. Touzin atthat time18. Mr. Touzin was transported back the the detachment where he spoke withduty counsel and ultimately provided 2 samples of his breath
+
+4.
+While on route, Cst. Ettles received the the suspect's name, address anddescription of the motor vehicle over the radio
+
+20. However the Trial Judge recognized that there was other information available tothe officer to suspect Mr. Touzin had alcohol in his body, aside from the admission.
+Therefore, the main issue in the case was Mr. Touzin's statement that he "just camefrom Pete's Small Engine."
+21. Notwithstanding Mr. Touzin invited the officers inside his residence, the TrialJudge accepted Mr. Touzin's testimony that he thought he was psychologicallydetained at the time he made those admissions:
+It was based on this admission that the officer made the demand forthe screening device and, requested that the accused accompany himto the cruiser to complete the breath test. It is at this point that theofficer felt that the accused was detained. He may have been detainedfrom the onset, but when he was advised of the reason for thedetention or the reason why the police were there and that long twotimes explanation and the Cautions and the explanation of the Rightsto Counsel, to me, would have given the accused the impression thathe was, in fact, detained at that point in time.
+22. Later on in the decision the Trial Judge re-iterates her earlier findingHowever, there are other breaches that have been raised and withrespect to detention, as I indicated, I find that at the time the policeofficers told the accused about the circumstances, why they werethere, and got into the the whole Rights to Counsel and Cautions andall of that with him, that of course at that time he was detained23. Based on this finding of investigative detention, the Trial Judge held that policewere obliged not only to provide the informational component to Rights to Counsel,but also to implement those rights prior to obtaining evidence from Mr. Touzin:
+As I indicated, there was no evidence that the implementation part ofthe rights to Counsel was ever offered to the accused, and there wascertainly no indication that the accused ever waived his right to speakto counsel at that point24. This led the Trial Judge to conclude that there had been a section 10(b) breach:
+The allegation, however, that there was a breach of section 10(b),which is the Rights to counsel section, I find that it has beenbreached by the officer. The Right to Counsel is not only the right tobe informed that you have the Right to counsel, there is also animplementation aspect to it, and in this case there was no evidencewhatsoever that after going through that whole explanation with theaccused twice to make sure he understood, that the officer ever took
+
+19. The Section 10(b) analysis focused on Mr. Touzin's two admissions that (i) hedrank a beer and (ii) he had just drove from Pete's Small Engine.
+
+I think the law is clear that until there is waiver, police must stopasking questions and getting statements from the accused. This wasnot established here and therefore, I find that the statements that weremade after the Right to Counsel was not fully implemented or theimplementation part was not followed by the officer, that thosestatements are excluded. They include his acknowledgement that hehad one beer, and his acknowledgement that he had been to Pete’sand had driven.
+25. Without Mr. Touzin's admission that he had been driving, the Trial Judge foundthat the officer did not have grounds to make a valid ASD demand under section254(2). As a result, Cst Ettles was precluded from relying on the "fail" result informing his grounds to arrest the Respondent. The resulting breath samples obtainedwere then ruled inadmissible under section 24(2).
+26. No section 24(2) Grant analysis was performed by the Trial Judge.
+
+[5]
+
+The respondent accepted as substantially correct the facts set out in paragraphs 8 to 12
+
+and 16 to 26 of the appellant’s factum. However, the respondent disputed the facts set in out inparagraphs 13 to 15 of that factum, saying the interaction is not as simple as Mr. Touzinattending the door, having a brief conversation with police and inviting them in to his home.
+
+[6]
+
+Instead, the Respondent favoured the facts as the Trial Judge has accepted them in
+
+Paragraph 18 of the Applicant's factum. Mr. Touzin answered the door to police officers whoadvised that they were investigating a traffic complaint. Mr. Touzin attended the bathroom whileleaving the officers outside. When Mr. Touzin returned, he invited the officers inside to preventinsects from getting in the house.
+
+[7]
+
+Also, the Respondent indicated that paragraphs 14 and 15 of the Applicant's factum and
+
+its corresponding evidence in Paragraph 18: 11-13 of the Applicant's factum, exclude Mr.Touzin's initial failure to comprehend his rights as explained to him. When Cst. Ettles explainedto Mr. Touzin why they were there, and explained his rights to him (not off a standard card), hehad to re-explain all of this information as Mr. Touzin, who has a cognitive condition calledcentral apnea, failed to comprehend it in the first instance.
+
+the next step to ask the accused if he wished to contact counsel.
+There is no evidence that the accused waived his Right to Counsel.
+There is no evidence that the officer did anything to give him anopportunity to reach counsel before he continued questioning.
+
+[8]
+
+The Respondent also relied upon the following facts for the purposes of adding context to
+
+the issues raised. Facts as accepted by the Trial judge include that there was no evidence as towhether or not Mr. Touzin indicated in one way or another if he wanted to call a lawyer at that
+
+not asked if he wanted to call a lawyer. Therefore there was no evidence that he waived calling alawyer and also no evidence that he wished to implement this right. There is no evidence that hewas in fact given an opportunity to implement this right.
+
+[9]
+
+These additional facts were not controversial, and served to round out the factual
+
+situation.
+ISSUES TO BE DECIDED
+
+[10]
+
+The Crown’s factum distilled two main grounds of appeal:
+1. The Crown submits that the trial judge erred in law by finding that police had aduty to implement rights to counsel prior to Touzin invoking those rights, and2. In the alternative, should the appellant court find that there was a breach under s.
+10(b), the Crown would submit that the trial judge erred in failing to perform a s.
+24(2) Grant inquiry and / providing sufficient reasons for her decision to excludethe evidence under s. 24(2) of the Charter.
+
+RESPONDENT’S POSITION
+
+[11]
+
+The respondent submitted that:
+1. The trial judge did not err in law by finding that police had a duty to give theaccused the opportunity to implement his right to counsel prior to continuingquestioning.
+2. The trial judge did not err in finding that the s. 10(b) rights were infringed.
+3. Had the judge applied s. 24(2) Grant inquiry, the results would have beensubstantially the same.
+
+DID THE TRIAL JUDGE ERR IN LAW IN FINDING THAT THERE WAS A BREACH OF
+MR. TOUZIN’S. 10(b) IMPLEMENTATIONAL RIGHTS?
+
+[12]
+
+The Crown submits that the Trial Judge erred in law by holding that police have an
+
+obligation to implement rights to counsel before an accused invokes his/her rights to counsel.
+
+point when he was deemed to have understood the explanation by the officer. Mr. Touzin was
+
+[13]
+
+The Crown noted that rights to counsel consists of two parts: one informational, the other
+
+is implementational. The Trial Judge accepted that Cst. Ettles gave Mr. Touzin the informationalcomponent of the Rights to Counsel. However the Trial Judge went further and found that police
+
+He told him that he could be facing a charge of impaired or over 80. Heindicated that he cautioned him and advised him of his rights to counsel.
+He asked the accused if he understood, but the accused did not fullyunderstand so he repeated the entire information, the reason why he wasthere. He re-explained the caution and the Right to counsel and advisedhim he did not have to say anything but if he did it could be used asevidence. He did not read this information from the standard card. I
+believe he indicated at that at that point the accused appeared tounderstand. However there was no evidence as to whether or not theaccused indicated one way or the other if he wanted to call a lawyer atthat point. There is no evidence that he waived calling a lawyer and alsono evidence that he wished to do so.
+
+[14]
+
+Most important in the Crown’s estimation is that the Trial Judge found there is no
+
+evidence that Mr. Touzin wanted to speak to counsel upon being informed of his rights tocounsel.
+
+[15]
+
+The Crown submitted that Police are only obliged to provide informational rights to
+
+counsel upon detention - there is no obligation on police to implement rights to counsel until thedetainee expresses a desire to contact counsel.
+RESPONDENT’S POSITION
+
+[16]
+
+In support of its position, the respondent submitted that the Police gave and repeated to
+
+the respondent a rambling explanation of why they were there, the potential charges and theirconsequences, and the respondent’s Charter rights, which was not clear. The respondent said heunderstood, but respondent’s counsel questioned what it was out of the police’s explanation thatthe respondent understood. Then, there was allegedly no opportunity given for the respondent toexpress his desire to speak to counsel before the police continued their questioning of him. Therespondent was not asked if he wanted to, so it was unknown whether he waived his rights tocounsel.
+
+[17]
+
+The respondent’s counsel also pointed to the evidence that the respondent gave at trial
+
+about his condition, central sleep apnea. He had testified that, as a result of this condition, his
+
+failed to implement those rights. In particular the Trial Judge found:
+
+cognition skills had been diminished and he had been off work as a teacher since about fouryears prior, on disability. In addition, he had been arrested earlier that day on an unrelated theftmatter and had allegedly consumed alcohol before the police arrived. This, respondent’s counsel
+
+[18]
+
+With regard to the respondent’s counsel’s submissions about the respondent’s state of
+
+mind, and the implication, as I understand it, that the respondent therefore had a reduced capacityto understand his rights to counsel, I note the following. The evidence about the condition and itseffects was scanty. It was not used in argument at trial by the defence. There was nothing saidabout it in the examination or cross-examination of Cst. Plante who had dealt with the accusedearlier in the day on the theft matter. The Crown had asked at trial a series of questions of Cst.
+Ettles about the level of the accused’s understanding throughout the police’s interaction with himfrom points of view including language ability, the influence of alcohol, and mental health. Theofficer indicated that he had asked the accused repeatedly if he understood, that the accused hadindicated he did, and that the officer was satisfied that the accused had an operating mind. Theonly qualification was to note that it was a bit odd that the accused had returned to Pete’s thatday (from which business the accused had been charged for allegedly stealing a lawnmower thatday. The present case had arisen when the accused had returned to there and the smell of alcoholwas noted on him.) Cst. Ettles was not cross-examined on this point beyond being asked if theaccused had given any indication that he understood, to which Ettles respondent that the accusedsaid he understood, referring to “all of it”.
+
+[19]
+
+Cst. Pouliot, who had been with Cst. Ettles as the latter dealt with the respondent at the
+
+Touzin residence testified that he was in close proximity to the respondent there. He noted thatthere might have been slight signs of impairment, but did not observe anything other than glossyeyes. The respondent did not appear to him to be confused.
+
+[20]
+
+The breath technician that dealt with the respondent later that day, Cst. Adams, testified
+
+that the respondent’s eyes appeared watery and blood shot and his face was flushed and red. Therespondent was read and understood the caution, secondary caution and breath demand. Inanswer to the questions for the alcohol influence report the respondent indicated that he hadconsumed only 1 or 2 beers. (This contrasts with the respondent’s testimony that he alsoconsumed vodka shortly before Cst, Ettles and Pouliot arrived at his residence). In response to
+
+submitted, was indicative of the respondent’s state of mind when the police arrived.
+
+questions about his personal health, nothing was said about any cognition difficulties. Cst.
+Adams did form the opinion that the respondent was impaired by the consumption of alcohol.
+
+[21]
+
+Defence counsel’s examination-in-chief of Ms. Touzin at trial did not touch on any
+
+sleep apnea. She answer that “it causes him to be temporarily confused, maybe”, and that itmight affect him more in a stressful situation.
+
+[22]
+
+The only comment about central sleep apnea by the trial judge in her decision was in
+
+dealing with the impaired charge in which she only mentioned it. It does not appear to have beenmuch of a factor, if any, in her decision to find the respondent not guilty of impaired driving.
+Rather, she found and the Crown conceded that the evidence of impairment was too weak toconvict on.
+
+[23]
+
+In view of the evidence on point, I find no basis for the implication that the respondent
+
+had cognitive difficulties that somehow affected his ability to understand what the police weretelling him to any extent that should be taken into account here. There is no evidence of theextent or effect of any cognitive difficulties. Mr. Touzin appears to be able to function in normaldaily activities, apart from the bald indication that he is off work because of a disability. Hisevidence and that of his wife is not very illuminating. The various police officers that dealt withhim through the day did not notice and were not made aware of any such difficulties.
+
+[24]
+
+Furthermore in this regard, I note again that the respondent had been arrested and
+
+processed by Cst. Plante only a few hours earlier on a theft charge. Cst. Plante testified about thatin this case. Although the evidence on point is quite cryptic, it appears that the respondent wasgiven his rights to counsel then and refused them. It follows that he was somewhatknowledgeable about the rights to counsel when this matter arose. It is apparent from R v.
+Woods, (Ont. C.A.) [1989] O.J. No. 532, that such experience may be taken into account inassessing an accused’s understanding of his rights to counsel.
+DETENTION
+
+[25]
+
+Neither the appellant nor the respondent took issue with the trial judge’s finding that
+
+Touzin was psychologically detained. On this point, the trial judge stated:
+
+cognitive difficulties. The Crown in cross-examination asked her about the respondent’s central
+
+I find that at the time the police officers told the accused about thecircumstances, why they were there, and got into the whole rights tocounsel and cautions and all of that with him, that of course at that timehe was detained.
+The Crown acknowledged that s. 10(b) of the Charter applied upon the respondent’s
+
+detention, and that this was not a road side stop of the respondent’s motor vehicle in which thepolice would be permitted to detain a motorist and administer the ASD test without providingrights to counsel under s. 10(b).
+CHARTER s. 10(b)
+
+[27]
+
+The law with respect to s. 10(b) was reviewed by the Supreme Court of Canada in R. v.
+
+Taylor, [2014] S.C.J. No. 50, paragraphs 20 to 26 as follows:
+
+[20] Section 10 of the Charter states:
+10. Everyone has the right on arrest or detention
+(a) to be informed promptly of the reasons therefor;
+(b) to retain and instruct counsel without delay andto be informed of that right; and
+(c) to have the validity of the detention determinedby way of habeas corpus and to be released if thedetention is not lawful.
+This appeal engages s. 10(b). The issue is whether the police compliedwith the duty to facilitate Mr. Taylor’s request to speak to counsel
+“without delay”.
+
+[21] The purpose of the s. 10(b) right is “to allow the detainee not onlyto be informed of his rights and obligations under the law but, equally ifnot more important, to obtain advice as to how to exercise those rights”:
+Manninen, at pp. 1242-43. The right to retain and instruct counsel is also
+“meant to assist detainees regain their liberty, and guard against the riskof involuntary self-incrimination”: R. v. Suberu, [2009] 2 S.C.R. 460, atpara. 40. Access to legal advice ensures that an individual who is undercontrol of the state and in a situation of legal jeopardy “is able to make achoice to speak to the police investigators that is both free and informed”:
+R. v. Sinclair, [2010] 2 S.C.R. 310, at para. 25.
+
+[22] In R. v. Bartle, [1994] 3 S.C.R. 173, Lamer C.J. explained why theright to counsel must be facilitated “without delay”:
+This opportunity is made available because, when an individualis detained by state authorities, he or she is put in a position ofdisadvantage relative to the state. Not only has this personsuffered a deprivation of liberty, but also this person may be atrisk of incriminating him- or herself. Accordingly, a person whois “detained” within the meaning of s. 10 of the Charter is in
+
+[26]
+
+[23] He also confirmed the three corresponding duties set out inManninen which are imposed on police who arrest or detain anindividual:
+(1) to inform the detainee of his or her right to retain and instructcounsel without delay and of the existence and availability oflegal aid and duty counsel;
+(2) if a detainee has indicated a desire to exercise this right, toprovide the detainee with a reasonable opportunity to exercisethe right (except in urgent and dangerous circumstances); and
+(3) to refrain from eliciting evidence from the detainee until heor she has had that reasonable opportunity (again, except in casesof urgency or danger).
+(Bartle, at p. 192, citing Manninen, at pp. 1241-42; R. v. Evans,
+
+[1991] 1 S.C.R. 869, at p. 890; and R. v. Brydges, [1990] 1
+S.C.R. 190, at pp. 203-4.)
+
+[24] The duty to inform a detained person of his or her right to counselarises “immediately” upon arrest or detention (Suberu, at paras. 41-42),and the duty to facilitate access to a lawyer, in turn, arises immediatelyupon the detainee’s request to speak to counsel. The arresting officer istherefore under a constitutional obligation to facilitate the requestedaccess to a lawyer at the first reasonably available opportunity. Theburden is on the Crown to show that a given delay was reasonable in thecircumstances (R. v. Luong (2000), 271 A.R. 368, at para. 12 (C.A.)).
+Whether a delay in facilitating access to counsel is reasonable is a factualinquiry.
+
+[25] This means that to give effect to the right to counsel, the policemust inform detainees of their s.10(b) rights and facilitate access to thoserights where requested, both without delay. This includes “allowing [thedetainee] upon his request to use the telephone for that purpose if one isavailable” (Manninen, at p. 1242). And all this because the detainee is inthe control of the police and cannot exercise his right to counsel unlessthe police give him a reasonable opportunity to do so (see Brownridge v.
+The Queen, [1972] S.C.R. 926, at pp. 952-53).
+
+[26] Until the requested access to counsel is provided, it isuncontroversial that there is an obligation on the police to refrain fromtaking further investigative steps to elicit evidence (R. v. Ross, [1989] 1
+S.C.R. 3, at p. 12; R. v. Prosper, [1994] 3 S.C.R. 236, at p. 269).
+
+immediate need of legal advice in order to protect his or her rightagainst self-incrimination and to assist him or her in regaininghis or her liberty . . . . Under s. 10(b), a detainee is entitled as ofright to seek such legal advice “without delay” and upon request.
+. . . [T]he right to counsel protected by s. 10(b) is designed toensure that persons who are arrested or detained are treated fairlyin the criminal process. [Emphasis added; p. 191.]
+
+[28]
+
+With respect to paragraph 23 of Taylor, above, the first duty in an informational one,
+
+while the second and third duties are implementational. R. v. Willier, [2010] 2 S.C.R. 429, para.
+30.
+In R. v. Woods, (Ont. CA), [1989] O.J. No. 532, the Ontario Court of Appeal stated that:
+It is fundamental that once the detainee has been informed of his right tocounsel, some reasonable time should be allowed to permit him toconsider his rights before any further questioning begins, if for no otherreason than to be satisfied that the detainee fully understands his rights.
+
+[30]
+
+In R. v. Hollis (BCCA), [1992] B.C.J. No. 266, the British Columbia Court of Appeal
+
+dealt with the failure to assert the rights to counsel as follows:
+(iii) The failure to assert the rightMost of the jurisprudence on s. 10 (b) has been developed in the contextof the issues of informed decision making or the exercise of the rightitself once it has been asserted. But it will be apparent that lying betweenthese two operational phases of the right to counsel is a third, namely theprocess involving the making of the decision whether to exercise theright and the assertion of that decision. It is important, when discussingthe rights under s. 10(b), not to include this process as part of the
+"exercise" of the right to counsel, since as a result of the decisions insuch cases as Baig, Tremblay, and Smith (1989), that expression hascome to mean the efforts made by a detainee to contact and speak withcounsel once the right has been asserted and the opportunity to "exercise"
+the right has been provided.
+With respect to the making of the decision, I would adopt the conclusionof the Ontario Court of Appeal in R. v. Woods which recognized a dutyon the part of the police to provide the detainee with a reasonable timewithin which to decide whether to exercise the right. In the absence ofany circumstances suggesting a constitutionally deficient understandingof the right, one would necessarily expect that decision to be madereasonably quickly. What is a reasonable time within which to make sucha decision will depend upon the circumstances of the case in which theissue arises, but it will not in any event be a long time.
+Since it cannot be asserted until the decision to exercise it has been made,it follows that the principle in the Woods case applies equally to theassertion by a detainee of the right to counsel. But what are the legalconsequences of a failure to communicate the decision either to waive orto exercise the right? That, of course, was the precise situation whichprevailed in this case. And it was the very situation addressed inAnderson and Baig, and as well by this court in R. v. Elgie (1987), 48
+M.VR. 103 (B.C.C.A.), and R. v. Dewhirst, unreported, September 6,
+
+[29]
+
+A detainee, who has been adequately informed of his or her right tocounsel under s. 10(b) of the Charter, is not obliged to exercise the rightto retain and instruct counsel. Indeed, it is the very essence of a "right"
+that its exercise must be the result of free choice. It therefore follows thatthe police are not obliged to assume that the detainee will exercise theright to counsel, nor can they be expected to guess whether a decision hasbeen made to exercise or to waive it.
+In the absence of any evidence from which it could reasonably beinferred either that the detainee does not have a constitutionally sufficientunderstanding of the right, or that he is physically incapable of assertingit, it is completely consistent with a purposive interpretation of s. 10(b) toput the onus on the detainee to assert the right to counsel before any dutyto facilitate its exercise is imposed on the police. Thus, in the absence ofany communication on the subject from the detainee, the police areentitled to proceed with their investigation in the same manner as theywould be if the right had been waived.
+
+[31]
+
+The final two paragraphs quoted from Hollis were explicitly accepted and adopted by the
+
+Ontario S.C.J. in R. v. Cabrera, [2002] O.J. No. 5832.
+
+[32]
+
+In summary, then, I understand the law to be as follows with respect to s. 10(b). Upon
+
+arrest or detention, the police are to provide the detainee with the informational component. Thedetainee is then to be given reasonable time to decide whether to exercise his rights to counsel,during which time the police are not to question him. Absent evidence that the detainee lacks aconstitutionally sufficient understanding of his right, or that he is physically incapable ofasserting it, the onus is on the detainee to assert the right. If he does not, the police may proceedwith their questioning of him.
+ANALYSIS
+
+[33]
+
+The trial judge in various places in her reasons for finding that the respondent’s rights to
+
+counsel were not fully implemented by the
+
+police, leading to the exclusion of his statements,
+
+indicated:
+1. There was no evidence one way or another of whether the respondent wanted tocall a lawyer;2. There was no evidence that the respondent was asked if he wanted to call alawyer;
+
+1990, Vancouver Registry No. CA009219 [summarized 10 W.C.B. (2d)
+607].
+
+3. There was no evidence that the respondent waived calling a lawyer;4. There was no evidence that the respondent was given the opportunity to contactcounsel before the police continued questioning.
+Respondent’s counsel pressed the point that there was no evidence that the respondent
+
+had been asked if he wanted to consult a lawyer, as if this was part of the implementationportion. I have reviewed a chain of Supreme Court of Canada cases starting with R. v. Baig,
+
+[1987] 2 S.C.R. 537, to R. v. Taylor, [2014] S.C.J. 50 in which the rights to counsel, particularlywith respect to implementation, have been dealt with and have not found any statement that thatis a requirement. The closest to doing so was R. v. Manninen, [1987] 1 S.C.R. 1233 par. 22,which indicated that, once the detainee indicated a desire to contact counsel the police shouldhave offered him a phone to facilitate that contact. This issue is dealt with in R v. Knoblauch,
+
+[2017] S.J. No. 15, a decision of the Saskachewan Court of Queen’s Bench on an appeal. Afternoting that the issue had been considered in very few cases previously, it held that an arrestingofficer was obliged to ascertain a detainee’s wishes as to whether he wanted to call a lawyer, inorder to ascertain whether the implementational duty was being triggered. In doing so, it reversedthe trial court’s decision, which was based on an Ontario Superior Court of Justice decision in R.
+[35]
+
+Given that the law, as summarized above, allows the police to proceed with questioning
+
+if, once the informational component of the rights to counsel is given, the detainee has had timeto decide whether to contact counsel, and the detainee has not indicated a wish to do so, I findthat the trial judge was also in error in stating that the police must stop asking questions andgetting statements from the respondent until he had waived his right to counsel.
+
+[36]
+
+Perhaps the most important point arises from the requirement not question a detainee
+
+until the rights to counsel are fully implemented. That is, in this case, the statements in questionwere not made in response to questioning. They were blurted out by the respondent while Cst.
+Ettles was providing him with information about the investigation and the respondent’s rights.
+Even the respondent’s counsel conceded that there was no questioning involved, but hesubmitted that the statements resulted from a police technique involving providing the
+
+[34]
+
+respondent with information in order to elicit a response. Although that might not be outside therealm of possibility in some cases, I see no evidence of it here.
+
+[37]
+
+In this regard, I note that, in its decision in Knoblauch, the court framed the question
+
+a lawyer, preferring a requirement that the police ascertain, in any manner, a detainee’s wishes asto whether he wanted to call a lawyer. It explained that there might be cases where asking thequestion is unnecessary, giving as an example the situation where a detainee advises of hisdecision without being asked. The relevance here is that, even if the police were required toascertain Touzin’s wishes, his blurting out of the statements in question precluded that, in effectindicating his wishes.
+
+[38]
+
+It follows that I find that it was error to exclude the statements.
+
+[39]
+
+Once the statements were made, the police had what they believed they needed in order
+
+to make the ASD demand, and matters followed from there.
+
+[40]
+
+Respondent’s counsel conceded at the outset that, if the statements are allowed into
+
+evidence, there are grounds for the ASD demand, and then for the breath sample demand,leading to conviction on the over 80 charge.
+
+[41]
+
+Therefore, the acquittal on the over 80 charge is set aside and a conviction entered. The
+
+matter has been adjourned to the May 25, 2017 assignment court to set a date for sentencing.
+
+[42]
+
+In view of this, it is not necessary to deal with the second ground of appeal involving the
+
+failure to perform a s. 24(2) Grant inquiry.
+
+J. A. S. WilcoxReleased: May 16, 2017
+
+more broadly than simply whether the police were required to ask a detainee of he wanted to call
+
+CITATION: R. v. Touzin, 2017 ONSC 3027
+COURT FILE NO.: CR-15-00000033-AP
+DATE: 20170516
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+HER MAJESTY THE QUEEN
+– and –
+GAETAN TOUZIN
+Respondent
+
+DECISION ON APPEAL
+J. WilcoxReleased: May 16, 2017
+

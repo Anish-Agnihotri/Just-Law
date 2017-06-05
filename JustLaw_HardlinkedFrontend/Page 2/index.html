@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Bootstrap 3, from LayoutIt!</title>
+
+  <meta name="description" content="Source code generated using layoutit.com">
+  <meta name="author" content="LayoutIt!">
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="js/scripts.js"></script>
+</head>
+
+<body>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="row">
+          <div class="col-md-12">
+            <a href="../Page 1/demo/index.html">
+              <h1 class="text-center">
+                Just Law.
+              </h1>
+            </a>
+            <p class="text-center">
+              Here are the search results which have been extracted from our database of legal proceedings & articles.
+            </p><br><br><br>
+            <div class="row">
+              <div class="col-md-1">
+              </div>
+              <div class="col-md-10">
+                <div class="row">
+                  <div class="col-md-4">
+                    <h3>
+                      Filter Options
+                    </h3>
+                    <div class="btn-group">
+                      <br>
+                      <button class="btn btn-default">
+											Province
+										</button>
+                      <button data-toggle="dropdown" class="btn btn-default dropdown-toggle">
+											<span class="caret"></span>
+										</button>
+                      <ul class="dropdown-menu">
+                        <li>
+                          <a href="#">Ontario</a>
+                        </li>
+                        <li class="disabled">
+                          <a href="#">Quebec</a>
+                        </li>
+                        <li class="divider">
+                        </li>
+                        <li>
+                          <a href="#">Manitoba</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <br><br>
+                    <div class="btn-group">
+
+                      <button class="btn btn-default">
+											Court
+										</button>
+                      <button data-toggle="dropdown" class="btn btn-default dropdown-toggle">
+											<span class="caret"></span>
+										</button>
+                      <ul class="dropdown-menu">
+                        <li>
+                          <a href="#">Small Hearings Court</a>
+                        </li>
+                        <li class="disabled">
+                          <a href="#">Court of Labour</a>
+                        </li>
+                        <li class="divider">
+                        </li>
+                        <li>
+                          <a href="#">Supreme Court</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <br><br>
+                    <div class="btn-group">
+
+                      <button class="btn btn-default">
+											Judge
+										</button>
+                      <button data-toggle="dropdown" class="btn btn-default dropdown-toggle">
+											<span class="caret"></span>
+										</button>
+                      <ul class="dropdown-menu">
+                        <li>
+                          <a href="#">Judge Judy</a>
+                        </li>
+                        <li class="disabled">
+                          <a href="#">Judge Phil</a>
+                        </li>
+                        <li class="divider">
+                        </li>
+                        <li>
+                          <a href="#">Judge Gordan</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <br><br>
+                    <div class="btn-group">
+
+                      <button class="btn btn-default">
+											Database
+										</button>
+                      <button data-toggle="dropdown" class="btn btn-default dropdown-toggle">
+											<span class="caret"></span>
+										</button>
+                      <ul class="dropdown-menu">
+                        <li>
+                          <a href="#">CanLII</a>
+                        </li>
+                        <li class="disabled">
+                          <a href="#">PPT</a>
+                        </li>
+                        <li class="divider">
+                        </li>
+                        <li>
+                          <a href="#">FindLaw</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col-md-8">
+                    <table class="table">
+                      <thead>
+                        <tr>
+                          <th>
+                            Case ID
+                          </th>
+                          <th>
+                            Court
+                          </th>
+                          <th>
+                            Summary
+                          </th>
+                          <th>
+                            Proceeding Date
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody class="table_row">
+                        <!-- script.js table goes here -->
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-1">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br><br>
+
+  <table>
+    <tr>
+      <th>id</th>
+      <th>Name</th>
+    </tr>
+
+    <% for (var i = 0; i < data.length; i++) { %>
+      <tr>
+        <td>
+          <%= data[i].id %>
+        </td>
+        <td>
+          <%= data[i].name %>
+        </td>
+      </tr>
+      <% } %>
+  </table>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/scripts.js"></script>
+</body>
+
+</html>

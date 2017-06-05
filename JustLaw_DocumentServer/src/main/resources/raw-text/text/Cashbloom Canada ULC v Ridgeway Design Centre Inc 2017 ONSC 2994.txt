@@ -1,0 +1,141 @@
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+CASHBLOOM CANADA, ULC
+Plaintiff )
+- and )
+RIDGEWAY DESIGN CENTRE INC. )
+a.k.a. NEW CONCEPT COATING INC. )
+and JENNIFER MILLAR GIUDICE and )
+CARMELO GIUDICE
+Defendants
+
+Assunta Mazzotta for the Plaintiff
+
+Olanyi Parsons for the Defendants
+
+HEARD: May 11, 2017
+
+PERELL, J.
+REASONS FOR DECISION
+
+[1]
+Cashbloom Canada, ULC, formerly Advantage Capital Funds Canada, is a corporationthat provides capital funding to businesses by purchasing future receivables.
+
+[2]
+Pursuant to what, in practical effect, is a loan agreement dated August 11, 2015,Cashbloom lent Ridgeway Design Centre Inc. (a.k.a. New Concept Coating Inc.) $215,000 inexchange for account receivables of $287,885, which were to be paid by Ridgeway Designsubmitting, through an electronic payment processor, 17% of its daily sales. There is no timeperiod for repayment of the $287,885 and repayment is based on the electronically processedreceivables being remitted to Cashbloom on a daily, ongoing basis.
+
+[3]
+The loan agreement was the fourth in a series of such agreements, with each agreement,in effect, superseding and replacing the predecessor as the amount of the lending increased. Theprincipals of Ridgeway Design, Jennifer and Carmelo Giudice, signed a guarantee that was partof the agreements.
+
+[4]
+The agreement went into default, and Cashbloom moves for a summary judgment for
+$119,200.44 plus prejudgment interest from the date of the default as against Ridgeway Designand Mrs. Giudice. The action is, on consent, dismissed against Mr. Giudice, who is anundischarged bankrupt.
+
+CITATION: Cashbloom Canada, ULC v. Ridgeway Design Centre Inc., 2017 ONSC 2994
+COURT FILE NO.: CV-16-555317
+DATE: 20170516
+
+2
+theywasloanloan
+
+[6]
+The second and third defences were not pleaded by the Defendants, and it is afundamental principle that a party cannot have a judgment for a claim or defence that is notpleaded. It is inappropriate for a case to be decided on an issue not identified by the parties in thepleadings, and a judgment cannot be based on a claim or a defence not pleaded: Rodaro v. RoyalBank of Canada (2002), 59 O.R. (3d) 74 (C.A.); Garfin v. Mirkopoulos, [2009] O.J. No. 2038
+(C.A.); Mercer v. Gray, [1941] O.R. 127 (C.A.). The court, however, will not take an overlytechnical approach to determining whether a claim or defence has been adequately pleaded:
+Leslie v. Mississauga (City) (2006), 81 O.R. (3d) 415 (Div. Ct.).
+
+[7]
+There can be and there are no genuine issues requiring a trial for the unpleaded defencesand I, therefore, say nothing more about these defences, save to say that they do not impedeCashbloom’s request for a summary judgment.
+
+[8]
+Ridgeway Design’s and Mrs. Giudice’s first defence was also not pleaded, and insofar asthe Defendant Ridgeway Design is concerned, there was no evidence that the agreements wereobtained in a manner that was misleading and dishonest. Once again, there is no genuine issuerequiring a trial.
+
+[9]
+Rather, the evidence proves that Ridgeway Design has received funding from Cashbloomsince October 2014, and that there were four successive agreements that were signed in: October2014, January 2015, April 2015, and August 11, 2015. The funds were advanced under eachagreement and each successive loan agreement was used to repay the balance outstanding underthe prior loan and to advance additional funds. The evidence establishes that the August 2015
+agreement was breached. Ridgeway Design breached the agreement by: (a) failing to provide itsbanking records within five days of request as required by the agreement, (b) changing itselectronic payment processor without Cashbloom’s knowledge or consent; and (c) by failing toremit 17% of its daily sales to repay the loan. The evidence established that as of March 25,2016, $119,200.44 was outstanding and this sum remains owing. Therefore, both because thefirst defence was not pleaded and because there is no substance to it, there are no genuine issuesrequiring a trial about Cashbloom’s claim against Ridgeway Design. Cashbloom has proven itsclaim against Ridgeway Design and should have judgment as requested.
+
+[10] The situation of Mrs. Giudice is, however, different. Although not contained in herStatement of Defence, in her affidavit in response to the summary judgment motion, she testifiedthat:
+At the time of executing the Agreement, I was not informed by Advantage that I was executing theAgreement in my personal capacity as a guarantor for the advance amount. Had I known that I wasa signing as a guarantor, I would not have signed the Agreement.
+
+[11] Mrs. Giudice was extensively cross-examined on her affidavit, and it emerged from hercross-examination that she knew or ought to have known that she was signing a guarantee, and I
+find this to be a fact. Nevertheless, it also emerged from the cross-examination that there was abasis for her argument that she was misled into signing that guarantee and that had she been
+
+[5]
+Ridgeway Design and Mrs. Giudice resist the summary judgment motion, andsubmit that there are three genuine issues requiring a trial; namely: (1) the agreementobtained in a manner that was misleading and dishonest nullifying its validity; (2) thecontravened the Unconscionable Transactions Relief Act, R.S.O. 1990, c. U. 2 and (3) thewas illegal because the Defendants were charged a criminal rate of interest.
+
+3
+
+[12] In particular, it emerged that Mrs. Giudice may have been induced to sign the guaranteebecause of Cashbloom’s representations of the nature and effect of the guarantee. Beforeentering into the first of the loan agreements, on July 3, 2014, the Giudices received thefollowing email message (emphasis in the original):
+It was a pleasure speaking with you earlier today. I have sent you several attachments for yourreview. Please complete the application and fax it back. Together with the required paperworkoutlined on the checklist. I will provide you with pre-approval numbers immediately. Thank youfor allowing me this opportunity. Funding available within 7 business days. Our formula for thisprogram is as follows: We purchase your future credit card sales today at a discounted rate. Thebeautiful part of our program is the repayment: We take a small percentage of your daily batchuntil the advance is settled in full. Benefits to this program. NO FIXED MONTHLY PAYMENT,NO IMPACT ON YOUR PERSONAL CREDIT and best of all NO TIME FRAME ON
+REPAYMENT. [We design the best program to fit your needs.]
+
+[13] Because it is not clear how signing a guarantee could have no impact on a person’spersonal credit, in my opinion, there are genuine issues requiring a trial about: (a) whether Mrs.Giudice may rescind the guarantee on the grounds of an innocent or negligent misrepresentation;and (b) whether Cashbloom is exculpated from the misrepresentation, if any, by the entireagreement clause in the loan agreements. See: Singh v. Trump, 2016 ONCA 747.
+
+[14] Where there are genuine issues for trial and the lower court concludes that employing theenhanced forensic tools of the summary judgment procedure would not lead to a fair and justdetermination of the merits, the court should not decide the matter summarily: Mitusev v.
+General Motors Corp., 2014 ONSC 2342 at para. 79; Gon (Litigation Guardian of) v. Bianco,2014 ONSC 65 at paras. 41-47; Yusuf v. Cooley, 2014 ONSC 6501; Baywood HomesPartnership v. Haditaghi, 2014 ONCA 450 at para. 44.
+
+[15] To grant a summary judgment, the motions judge must do all of: (1) determine whetherthere are genuine issues requiring a trial; (2) determine whether he or she can decide the genuineissues using the fact-finding resources of the summary judgment rule; (3) employ the factfinding resources to decide the genuine issues; (4) identify and explain the specific findings thatsupport the conclusion that a trial is not required; and, finally, (5) provide meaningful reasonscapable of appellate review explaining the decision and providing some insight into how thelegal conclusion was reached and what facts were relied upon in reaching that conclusion. Whichis all to say that to grant a summary judgment, a judge must not only decide the mattersummarily but also justify and explain to the losing party in some detail why it was appropriateto decide the factual and credibility issues summarily: Eastwood Square Kitchener Inc. v. ValueVillage Stores, Inc., 2017 ONSC 832 at para. 7.
+
+[16] In my opinion, there is a genuine issue for trial about Mrs. Giudice’s defence and itwould not be just to decide the matter summarily. The action should proceed to a trial on thesingle issue of whether there is any merit to Mrs. Giudice’s defence based on an innocent ornegligent misrepresentation.
+
+[17]
+
+I shall remain seized of the matter for the purposes of the trial.
+
+[18] If a summary judgment motion is refused and the action is ordered to proceed to trial, thecourt has the authority: to schedule; to give directions; and to impose terms. Rule 20.05(2) states:
+
+properly informed, she would not have signed the guarantee.
+
+4
+20.05(2) If an action is ordered to proceed to trial under subrule (1), the court may give suchdirections or impose such terms as are just, including an order,
+(a) that each party deliver, within a specified time, an affidavit of documents inaccordance with the court’s directions;
+
+(c) that a statement setting out what material facts are not in dispute be filed within aspecified time;
+(d) that examinations for discovery be conducted in accordance with a discovery planestablished by the court, which may set a schedule for examinations and impose suchlimits on the right of discovery as are just, including a limit on the scope of discovery tomatters not covered by the affidavits or any other evidence filed on the motion and anycross-examinations on them;
+(e) that a discovery plan agreed to by the parties under Rule 29.1 (discovery plan) beamended;
+(f) that the affidavits or any other evidence filed on the motion and any cross examinations on them may be used at trial in the same manner as an examination fordiscovery;
+(g) that any examination of a person under Rule 36 (taking evidence before trial) besubject to a time limit;
+(h) that a party deliver, within a specified time, a written summary of the anticipatedevidence of a witness;
+(i) that any oral examination of a witness at trial be subject to a time limit;
+(j) that the evidence of a witness be given in whole or in part by affidavit;
+(k) that any experts engaged by or on behalf of the parties in relation to the action meeton a without prejudice basis in order to identify the issues on which the experts agree andthe issues on which they do not agree, to attempt to clarify and resolve any issues that arethe subject of disagreement and to prepare a joint statement setting out the areas ofagreement and any areas of disagreement and the reasons for it if, in the opinion of thecourt, the cost or time savings or other benefits that may be achieved from the meetingare proportionate to the amounts at stake or the importance of the issues involved in thecase and,
+(i) there is a reasonable prospect for agreement on some or all of the issues, or
+(ii) the rationale for opposing expert opinions is unknown and clarification onareas of disagreement would assist the parties or the court;
+(l) that each of the parties deliver a concise summary of his or her opening statement;
+(m) that the parties appear before the court by a specified date, at which appearance thecourt may make any order that may be made under this subrule;
+(n) that the action be set down for trial on a particular date or on a particular trial list,subject to the direction of the regional senior judge;
+(o) for payment into court of all or part of the claim; and
+(p) for security for costs.
+
+[19]
+I intend to exercise my discretion under rule 20.05. I direct that the parties shall have 20
+days to either settle this action or to arrange a case conference to settle the terms of an orderunder rule 20.05. Either party may contact my assistant to arrange a time for the case conference.
+
+(b) that any motions be brought within a specified time;
+
+5
+
+___________________
+Perell, J.
+Released: May 16, 2017
+
+[20] Accordingly, I grant Cashbloom a judgment against Ridgeway Design of $119,200.44,plus prejudgment interest from the last day that Ridgeway Design made a payment on account ofthe agreement plus costs on a partial indemnity basis of $10,000, all inclusive of fees,disbursements, and taxes. I order the costs of the action against Mrs. Giudice to be in the cause.
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+CASHBLOOM CANADA, ULC
+Plaintiff
+- and RIDGEWAY DESIGN CENTRE INC. a.k.a. NEW
+CONCEPT COATING INC. and JENNIFER MILLAR
+GIUDICE and CARMELO GIUDICE
+DefendantsREASONS FOR DECISION
+PERELL J.
+
+Released: May 16, 2017
+
+CITATION: Cashbloom Canada ULC v. Ridgeway Design Centre Inc., 2017 ONSC 2994
+COURT FILE NO.: CV-16-555317
+DATE: 20170516
+

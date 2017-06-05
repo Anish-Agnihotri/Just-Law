@@ -1,0 +1,99 @@
+CITATION: Johnston v. Walker, 2017 ONSC 3370
+COURT FILE NO.: CV-10-100148-00
+DATE: 20170531
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+Carmen Johnston
+Plaintiff )
+– and –
+Allen Walker and Sandra Walker
+Defendants )
+
+Andrew R. Kerr, for the Plaintiff
+
+David Merner, for the Defendants
+
+HEARD: May 23-30, 2017
+
+RULING ON JURY QUESTION
+CHARNEY J.:
+
+[1]
+
+This case arises out of the plaintiff’s claim for damages resulting from a motor vehicleaccident on July 20, 2008. Liability is admitted and the only issues are causation anddamages. At the conclusion of both the plaintiff’s and the defendants’ case the courtraised with counsel the issue of whether that part of the proposed jury question dealingwith the value of the plaintiff’s lost earning capacity could be put before the jury for theirdeliberation. The specific question in issue is: What amount, if any, do you assess thevalue of Carmen Johnston’s loss of earning capacity.
+
+[2]
+
+The evidence in this civil jury case was completed on May 30, 2017 after six and onehalf days. A pre-charge conference was scheduled for May 31, 2017. Since counselneeded to know what jury questions would be permitted before we proceeded with thepre-charge conference and to permit them to prepare their closing submissions I heardargument with respect to the jury questions at the conclusion of the trial and issued anoral decision with brief reasons before we adjourned for the day. I advised counsel that I
+would provide more detailed reasons at the pre-charge conference. These are thosereasons.
+
+ONTARIO
+
+In M.B. v. 2014052 Ontario Ltd. (Deluxe Windows of Canada), 2012 ONCA 135 at para.
+51, the Ontario Court of Appeal affirmed the general test to be applied to whether aquestion should be put to a jury:
+Whether a jury in a civil case should be asked to decide on a particular issueis a question of evidence. There must be “reasonable evidence” to allow aquestion to go to the jury. As Meredith J.A. stated in Milligan v. TorontoRailway (1908), 17 O.L.R. 530, [1908] O.J. No. 78 (C.A.) [at para. 50]:
+Although the jury are the sole judges of fact they are such judgesonly in cases in which there is a reasonable question of fact to bedetermined. It is the duty of the Court to determine whether there isany reasonable evidence to go to the jury, upon any question of fact;and no such question can be rightly submitted to them until thatquestion has been answered in the affirmative.
+
+[4]
+
+See also: Ayub v. Sun, 2016 ONSC 6598 at paras. 53 – 54.
+
+[5]
+
+The test has also been stated as follows (see Walker v. Delic [2001] O.J. No. 1346
+(S.C.J.):
+[A] question need not be put to the jury unless there is some evidence onwhich a jury, acting judicially in accordance with that judge’s instructionson the law could reasonably make a choice in arriving at a finding.
+
+[6]
+
+In the present case the plaintiff takes the position that there is evidence from which thejury could answer the question regarding the value of the plaintiff’s loss of earningcapacity.
+
+[7]
+
+That evidence is comprised of the following:
+(a) The plaintiff operates a house cleaning business. She usually cleans 1 or 2
+houses per day, sometimes 3 houses. She charges $125 or $150 per house.
+She is assisted by her boyfriend. She usually takes all the money, butsometimes gives some to her boyfriend.
+(b) Dr. Ogilvie-Harris, the orthopaedic surgeon called on behalf of the plaintiff,testified that persons with chronic pain syndrome generally lose 5 to 10 yearsof their working life expectancy. They either retire early or work part-time.
+He indicated that he was not able to say where the plaintiff fell within thisrange.
+
+[8]
+
+It is true that the failure to provide expert actuarial evidence in connection with a loss ofincome or loss of future earning capacity claim is not necessarily fatal (see: Fiddler v.
+Chiavetti, 2010 ONCA 210 at paras. 63 – 65) and the standard of proof for such claims isthe lower standard of “real and substantial possibility of loss in the future” rather than onthe balance of probabilities. This does not, however, detract from the fact that claims for
+
+[3]
+
+[9]
+
+In this case there was no evidence adduced with respect to the plaintiff’s earning capacityeither before the accident or after the accident. The jury has no evidence with respect tothe plaintiff’s current annual income or her annual income in any year. Without someevidence of the plaintiff’s earning capacity either before the accident or after the accidentI do not see how a jury could be given instructions on how to calculate the loss of earningcapacity. “Loss” assumes a starting point from which something is subtracted. As theDivisional Court stated in Ayub v. Sun, at para. 62: “it would be problematic to require ajury to try and calculate the income loss without evidence before them of income orexpectation of income.”
+
+[10]
+
+In this case, based on the evidence adduced at trial, putting the question of loss of earningcapacity to the jury would be to invite them to speculate and pull a dollar figure out ofthin air. In my view the following statement from the Ontario Court of Appeal in TMS
+Lighting Ltd. v. KJS Transport Inc., 2014 ONCA 1 (at para. 65) regarding the ability of atrial judge to quantify damages applies with equal force to a jury:
+[I]t is not open to a trial judge to postulate a method for the quantification ofdamages that is not supported by the evidence at trial. Nor is it open to atrial judge to employ an approach to the quantification of damages that theparties did not advance and had no opportunity to test or challenge at trial...
+To hold otherwise would sanction trial unfairness.
+
+[11]
+
+In my view there is not sufficient evidence on which a properly instructed jury, actingjudicially in accordance with the judge’s instructions on the law, could reasonablycalculate or quantify the plaintiff’s loss of earning capacity. Accordingly, the questionregarding loss of earning capacity will not be put to the jury.
+
+Justice R.E. CharneyReleased: May 31, 2017
+
+loss of income and loss of future earning capacity are claims for pecuniary damages
+(Hodgson v. Walsh, [1998] O.J. No. 3286 at paras. 66 and 79) and the onus is on theplaintiff to prove this claim on the basis of the applicable standard of proof.
+
+CITATION: Johnston v. Walker, 2017 ONSC 3370
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+Carmen JohnstonPlaintiff
+– and –
+Allen Walker and Sandra WalkerDefendantsRULING ON JURY QUESTION
+Justice R.E. CharneyReleased: May 31, 2017
+
+ONTARIO
+

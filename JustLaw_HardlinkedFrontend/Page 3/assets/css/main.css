@@ -1,0 +1,56 @@
+#highlight! {
+    background-color: #ffff00;
+}
+.container {
+    width: 720px; margin: 0 auto;
+    word-wrap: break-word;
+}
+.title {
+    font-family: "Roboto", "sans-serif";
+}
+#title1 {
+    font-size: 40px;
+}
+#subtitle {
+    font-size: 30px;
+    padding-bottom: 14px;
+}
+.caseText {
+    font-family: "serif";
+    font-size: 22px;
+    line-height: 1.4;
+}
+h1, h2 {
+    text-align: center;
+}
+
+/* Arrow Styling */
+.backArrow {
+    font-size: 25px;
+    line-height: 25px;
+
+    width: 1em;
+    height: 1em;
+    padding: 6px;
+
+    cursor: pointer;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    transform: rotate(180deg);
+
+    color: black;
+    border: 2px solid black;
+    border-radius: 50%;
+
+    -webkit-touch-callout: none;
+     -khtml-user-select: none; 
+}
+.backArrow:hover {
+    background: rgba(255,255,255,.5);
+}
+.backArrow:active {
+    position: relative;
+    right: 2px;
+}

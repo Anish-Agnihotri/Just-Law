@@ -1,0 +1,508 @@
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+
+BETWEEN:
+
+Montana Equipment Ltd.
+Plaintiff )
+– and –
+Robert B. Somerville Company Limited,
+Bell Canada, Brennan Paving &
+Construction Ltd., Miller Group Inc.,
+carrying on business as The Miller Group,
+City of Vaughan, York Regional Rapid
+Transit Corporation and the Regional
+Municipality of York
+Defendants )
+
+Peter T.J. Danson, for the Plaintiff
+
+David W. Powrie, for the Defendants, Cityof Vaughan, York Regional Rapid TransitCorporation and the Regional Municipalityof York (moving party defendants)
+
+Christina Kapelos, for the Defendants,Robert B. Somerville Company Limited andBell CanadaHeard: April 5, 2017
+
+DECISION FROM MOTION UNDER RULE 21
+SUTHERLAND J.:
+Overview
+
+[1]
+
+The plaintiff, Montana Equipment Ltd. (“Montana”), is the owner and operates a businesslocated on Highway 7, in the City of Vaughan. Outside of its business premises, therewas construction for the widening of Highway 7 to facilitate the installation of rapidtransit. The plaintiff claims that, as a result of the construction, damages were sustainedupon its building which houses the business through the pounding and the resultingvibration caused by the construction. The plaintiff further alleges that, post-construction,
+
+CITATION: Montana Equipment Ltd. v. Robert B. Somerville Company et al,2017 ONSC 3092
+NEWMARKET COURT FILE NO.: CV-16-125475-00
+DATE: 20170518
+
+[2]
+
+The moving party defendant, the Regional Municipality of York (“York Region”), bringsthis motion under r. 21 of the Rules of Civil Procedure1 seeking a stay of the plaintiff’saction for lack of jurisdiction and a declaration that this action is within the jurisdiction ofthe Ontario Municipal Board (“OMB”) and not this court. The moving party defendantargues that all of the plaintiff’s claim are, in substance, for “injurious affection” asdefined under s. 1(1)(b) of the Expropriations Act (“the Act”),2 and are thus within theOMB’s exclusive jurisdiction.
+
+[3]
+
+The plaintiff concedes that some of its claims for compensation for injuries incurredduring the construction – namely, a reduction in the market value of its land, businesslosses, and the quiet use and enjoyment of its land – are within the exclusive jurisdictionof the OMB as against the following defendants: Brennan Paving & Construction Ltd.
+(“Brennan”), Miller Group Inc., carrying on a business as The Miller Group (“Miller”);City of Vaughan; York Regional Rapid Transit Corporation (“York Rapid Transit”); andYork Region. The action in regards to these claims and against these defendants must bestayed.
+
+[4]
+
+The plaintiff agrees that the work performed by the defendant Robert B. SomervilleCompany Limited (“Somerville”) for the defendant Bell Canada was “incidental” to thework performed by the other defendants; however, the plaintiff contends that all claimsagainst these two defendants are outside the OMB’s jurisdiction because the workperformed by them was not done under statutory authority.
+
+[5]
+
+The plaintiff argues that its claims for damage to its buildings and walkways are outsidethe OMB’s jurisdiction, and should be adjudicated in this court.
+
+Factual Background
+
+[6]
+
+The plaintiff is a customized stainless steel and restaurant equipment supplier. Theplaintiff has owned the building located at 1965 Highway 7, in Vaughan, Ontario since2004. In 2011, the plaintiff constructed a substantial addition to the building.
+
+[7]
+
+In October 2013, the York Rapid Transit and York Region commenced reconstructionand widening of Highway 7, a portion of which was in front of the plaintiff’s premises.
+
+[8]
+
+Bell Canada retained the services of Somerville to relocate and bury the undergroundtelecommunication cables parallel to or under the widened highway. This work wasrequired before the reconstruction of the highway could commence.
+
+1
+2
+
+R.R.O. 1990, Reg. 194.
+R.S.O. 1990, c. E.26
+
+highway traffic creates ongoing vibrations which have resulted in further physicaldamage to its building, as well as a loss of Montana’s reasonable quiet use and enjoymentof its premises. The plaintiff alleges that the damage to the building is a direct result ofthe work performed and the negligence of the defendants.
+
+[9]
+
+Between January 27 and February 20, 2015, Somerville carried out its work on behalf ofBell Canada. This work was carried out on land owned by York Rapid Transit and YorkRegion.
+
+[10]
+
+Between June 2 and July 10, 2015, Brennan and Miller carried out work on behalf ofYork Rapid Transit and York Region on the same lands worked on by Somerville for thereconstruction and widening of the highway.
+
+[11]
+
+The plaintiff alleges that the use of heavy equipment gave rise to repeated vibrations thatcaused the plaintiff’s building to shake. The plaintiff alleges that this work resulted inphysical damage to the building, which includes damage to the foundation, floors,exterior walkways and stairways, joists, roof, and interior ceiling.
+
+[12]
+
+The plaintiff alleges that after Somerville completed its work, further work wasperformed on behalf of York Rapid Transit and York Region utilizing heavy equipmentwhich exasperated the damages caused by Somerville.
+
+[13]
+
+The plaintiff also alleges that after completion of the construction, heavy traffic onHighway 7 causes ongoing vibration that is causing continual damages to its building.
+
+[14]
+
+Consequently, the plaintiff has commenced this action requesting damages caused by theshaking and vibrations.
+
+Issues
+
+[15]
+
+The three legal issues before this court are as follows:
+1.
+
+Was the work done by the defendants Bell Canada and Somerville performedunder “statutory authority”?
+
+2.
+
+Does the substance of the remaining claims, the damage to the building andwalkways, the claims against Bell Canada and Somerville and claims ofongoing vibrations, fall within the meaning of “injurious affection” under s.
+1(1)(b) of the Act?
+
+3.
+
+Is the relief sought by the plaintiff within the OMB’s scope of authority?
+
+Legal PrinciplesRule 21 Motion
+
+[16]
+
+Rule 21.01 of the Rules of Civil Procedure permits a party, before trial, to move before ajudge for a determination of a question of law raised by the pleadings. Rule 21.01(2)
+indicates that no evidence is permitted on such a motion without leave of the court orconsent of all parties. On this motion, leave was not requested nor was consent given.
+Thus, no evidence was admissible.
+
+[17]
+
+Rule 21.01(3)(a) permits a defendant to move before a judge to have an action dismissedor stayed on the ground that the court has no jurisdiction over “the subject matter of theaction”.
+
+[18]
+
+In examining the issue of the Superior Court’s jurisdiction, Stark J. in Re Michie Estateand City of Toronto et al.3 reasoned:
+It appears clear that the Supreme Court of Ontario hasbroad universal jurisdiction over all matters of substantivelaw unless the Legislature divests from this universaljurisdiction by legislation in unequivocal terms…
+
+[19]
+
+Stark J. then reviews the principle of broad universal jurisdiction and refers to thedecision of the Privy Council in Broad v. Broad,4 and quotes from the reasons ofViscount Haldane that stated the law:
+…Their Lordships are of the opinion that, in the absence ofany explicit and valid legislative declaration that the Courtwas not to exercise jurisdiction in divorce, that Court wasbound to entertain and to give effect to proceedings formaking that right operative… If the right exists, thepresumption is that there is a Court which can enforce it,for if no other mode of enforcing it is prescribed, that aloneis sufficient to give jurisdiction to the King’s Courts ofjustice. In order to oust jurisdiction, it is necessary, in theabsence of a special law excluding it altogether, to pleadthat jurisdiction exists in some other Court…5
+
+[20]
+
+I will now turn to the legislative scheme in Ontario.
+
+Injurious Affection
+
+[21]
+
+At common law, injurious affection formed part of the law of private nuisance. The lawdealt with a situation where a person’s activities interfered with an owner or occupant’suse or enjoyment of their land. Damages would be granted for physical damage to theland and for interference with the enjoyment of the land, being health, comforts orconvenience of its occupants.6
+
+[22]
+
+However, at common law, it was recognized that public works were different. Publicworks had the effect of causing turmoil and nuisances. For policy reasons, every owner
+
+3
+
+1967 Can LII 202 (ON SC).
+(1919), 48 D.L.R. 13, (U.K. P.C.).
+5
+Ibid at pp. 17-18.
+64
+
+The Superior Court’s Jurisdiction
+
+[23]
+
+In Manchester v. Farnworth,8 Viscount Dunedin described the requisite inevitability asfollows:
+When Parliament has authorised a certain thing to be madeor done in a certain place, there can be no action fornuisance caused by the making or doing of that thing if thenuisance is the inevitable result of the making or doing soauthorized. The onus of proving that the result is inevitableis on those who wish to escape liability for nuisance, butthe criterion of inevitability is not what is theoreticallypossible but what is possible according to the state ofscientific knowledge at the time, having also in view acertain common sense appreciation which cannot be rigidlydefined, of practical feasibility in view of a situation and ofexpense.9
+
+[24]
+
+To militate against the effect of the common law defence of statutory authority, alegislative regime was created to provide a party affected by public authority works withcertain statutory relief and compensation. This legislative regime is encompassed in theAct and the Ontario Municipal Board Act (“the OMB Act”).10
+
+[25]
+
+Section 1(1) of the Act defines injurious affection as follows:
+“injurious affection” means,
+(a) where a statutory authority acquires part of the land ofan owner,
+(i) the reduction in market value thereby caused tothe remaining land of the owner by the acquisitionor by the construction of the works thereon or bythe use of the works thereon or any combination ofthem, and
+(ii) such personal and business damages, resultingfrom the construction or use, or both, of the works
+
+7
+
+Ibid; Manchester v. Farnsworth, [1930] A.C. 171, at p. 183, (H.L.); and Schenck v. R. (1981), 131 D.L.R. (3d) 310,at para. 30, (Ont. H.C.), supplementary reasons 23 C.C.L.T. 147, affirmed (1984), 15 D.L.R. (4th) 320 (Ont. C.A.),affirmed [1987] 2 S.C.R. 289.
+8
+Supra note 7, at p. 183.
+9
+Ibid.
+10
+R.S.O. 1990, c. O.28.
+
+or occupier of land was expected to put up with a certain degree of temporary disruptionand interference caused by essential public works. Accordingly, a public body couldavail itself of the defence of statutory authority to any damages of nuisance thatinevitably resulted from the public works. 7
+
+(b) where the statutory authority does not acquire part ofthe land of an owner,
+(i) such reduction in the market value of the land ofthe owner, and
+(ii) such personal and business damages,resulting from the construction and not the use of the worksby the statutory authority, as the statutory authority wouldbe liable for if the construction were not under the authorityof a statute,and for the purposes of this clause, part of the lands of anowner shall be deemed to have been acquired where theowner from whom lands are acquired retains landscontiguous to those acquired or retains lands of which theuse is enhanced by unified ownership with those acquired;
+(“effet préjudiciable”)…
+
+[26]
+
+Section 2 of the Act describes the application of the Act, references to other Acts, andstipulates that the Act prevails if any of its provisions conflict with any other Act.
+
+[27]
+
+Section 2 makes it clear that “where land is expropriated or injurious affection is cause bya statutory authority”, the Act applies.
+
+[28]
+
+Section 21 of the Act provides that a “statutory authority shall compensate the owner ofland for loss or damage caused by injurious affection.”
+
+[29]
+
+Section 26 of the Act provides that, where the statutory authority and the land owner havenot agreed upon the compensation payable, either party may serve a notice of negotiationupon the other and upon the Board of Negotiation indicating that the compensation is tobe negotiated under s. 27 of the Act or, if the parties agree, serve notice of arbitration andmove directly to arbitration.
+
+[30]
+
+Section 27 of the Act provides that if negotiation before the Board of Negotiation doesnot result in a settlement, either party may serve notice of arbitration.
+
+[31]
+
+Section 29 of the Act provides that the OMB shall determine any compensation in respectof which a notice of arbitration has been served.
+
+as the statutory authority would be liable for if theconstruction or use were not under the authority of astatute,
+
+[32]
+
+Section 36 of the OMB Act provides the OMB with exclusive jurisdiction in all cases andin respect in which jurisdiction is conferred on it by the OMB Act or any other general orspecial Act.
+
+[33]
+
+Notwithstanding the inherent jurisdiction of the Superior Courts, the Ontario Legislaturehas enacted legislation that has created an exclusive jurisdictional regime grantingauthority to the OMB to adjudicate compensation for claims of injurious affection, asdefined by the Act.11
+
+1. Was the work done by the defendants Bell Canada and Somerville performed under
+“statutory authority”?
+Positions of the Parties
+
+[34]
+
+The moving defendant submits that the work performed by Bell Canada and itscontractor, Somerville, were authorized by statutory authority under the Act. Themoving defendant submits that the allegations contained in the statement of claim clearlyindicate that the work performed by Somerville was “incidental” to the widening ofHighway 7. Consequently, the moving defendants argue, the substance of the action andthe relief claimed by the plaintiff are within the exclusive jurisdiction of the OMB andthe action must be stayed. The plaintiff directs the court to the decision of CuractiveOrganic Skin Care Ltd., which was affirmed at the Court of Appeal.12
+
+[35]
+
+The plaintiff responds that the factual matrix of this case, as pleaded, is different than thefacts in Curactive Organic Skin Care Ltd. The plaintiff submits that the decision inCuractive Organic Care Ltd. did not deal with a situation where, as here, a third partynon-public entity has been sued for damages resulting from their work. The plaintiffargues that the work of Somerville, on behalf of Bell Canada, was separate from the workperformed by the public entity, namely the widening of Highway 7. Further, the plaintiffsubmits that there is no judicial pronouncement of whether the ongoing damage causedby the work falls within injurious affection or that the damages claimed fall within thejurisdiction of the OMB. The plaintiff forcefully argues that neither the ongoing damagespleaded nor the damages claimed fall within the jurisdiction of the OMB.
+
+Analysis
+
+[36]
+
+The starting point is the legislation and the statement of claim. Given that the statutoryauthority did not acquire the plaintiff’s land, s. 1(1)(b) of the Act provides the pertinentdefinition of injurious affection. Paragraphs 9, 13, 14, 19, 27, and 32 of the statement ofclaim are the relevant allegations against Bell Canada and Somerville.
+
+[37]
+
+Paragraph 9 pleads that the work performed by Bell Canada was “[i]ncidental” to thereconstruction and widening of Highway 7.
+
+11
+12
+Supra note 14.
+
+[38]
+
+Paragraph 13 pleads that “at all material times, Bell, Somerville, Brennan and Millerowed Montana a duty of care to carry out the relocation and installation work…”
+
+[39]
+
+The thrust of the allegations against Somerville and Bell Canada is contained in para. 19,which reads as follows:
+19. By April 2015, it became apparent that as a result of theaforesaid work and the related vibrations, Montana’spremises sustained substantial physical damage to itsfoundation, floors, and exterior walkways and stairway.
+The physical damage included cracks in the concretebasement floor slab, and where the floor slab cracks werepre-existing, their length and width increased significantly.
+The exterior walkways sustained chips and cracks, while anexterior stairway separated from the foundation andexterior wall.
+
+[40]
+
+From my review of the statement of claim, the plaintiff seems to have bundled togetherthe damages caused by the work performed by all the defendants. There is no separationbetween the work done by Somerville as it relates to damages and that of Brennan andMiller. The plaintiff has conceded that the work done by Brennan and Miller wasperformed under statutory authority.
+
+[41]
+
+Moreover, according to the plaintiff’s own pleading and concession, the work was
+“incidental” to the widening of Highway 7. It seems to me that the work performed bySomerville, “the relocation and burying of telecommunication cables”, was a necessaryfirst step. It makes logical sense to me that Somerville’s work formed part of theconceded statutory authority work – the widening of Highway 7. If Highway 7 was notintended to be widened, the logical inference, from the wording of the pleading, is thatthe work by Somerville would not have been necessary.
+
+[42]
+
+Consequently, I do not accept the able argument of the plaintiff that the work performedby Somerville does not fall within the statutory authority.
+Notwithstanding thatCuractive Organic Skin Care Ltd. did not directly deal with third party non-publicentities, the thrust of the allegations in the statement of claim indicates that the workperformed by Somerville formed part of the statutory authorized work of the widening ofHighway 7.
+
+[43]
+
+I therefore come to the conclusion that the substance of Somerville’s work performed onbehalf of Bell Canada falls within the meaning of statutory authority under the Act.
+
+2. Does the substance of the remaining claims, the damage to the building and walkwaysthe claims against Bell Canada and Somerville and the claims of ongoing vibrations, fallwithin the meaning of “injurious affection” under s. 1(1)(b) of the Act?
+
+[44]
+
+For the plaintiff’s claim to fall within the OMB’s exclusive jurisdiction, the parties agreethat the claim must fall within the definition of injurious affection under s. 1(1)(b) of the
+
+[45]
+
+In interpreting the scope of s. 1(1)(b), I am mindful of the guidance provided by theSupreme Court of Canada in Toronto Area Transit Operating Authority v. Dell HoldingsLtd.13 and Laidlaw v. Municipality of Metropolitan Toronto.14 Writing for the Court inDell Holdings Ltd., Cory J. said that “since the Expropriations Act is a remedial statute, itmust be given a broad and liberal interpretation consistent with its purpose. Substance,not form, is the governing factor.” In Laidlaw, for the Court, Spence J. wrote that “aremedial statute should not be interpreted, in the event of an ambiguity, to deprive one ofcommon law rights unless that is the plain provision of the statute”.15
+
+[46]
+
+The statutory requirements for injurious affection under s. 1(1)(b) were defined byCromwell J. in Antrim Truck Centre Ltd. as follows:
+(i) the damage must result from action taken understatutory authority; (ii) the action would give rise toliability but for that statutory authority; and (iii) the damagemust result from the construction and not the use of theworks.16
+
+[47]
+
+In the present circumstances, determining whether the plaintiff’s claims meet thesestatutory criteria requires answering five questions:
+i. Was the work performed under statutory authority?
+ii. Is the alleged injury substantial enough to give rise to liability? 17
+iii. Was the injury claimed an inevitable consequence of the statutorily authorizedaction?
+iv. Is the injury claimed contemplated under the definition of injurious affectionunder s. 1(1)(b)?
+v. Does the injury claimed arise from the construction and not the use of theworks by the statutory authority?
+For a claim to fall within the definition of injurious affection under the Act, each of thesequestions must be answered in the affirmative.
+
+13
+1978 CanLII 32 (SCC).
+15
+Laidlaw, supra note 14.
+16
+Antrim Truck Centre Ltd., supra note 6, at para. 5.
+17
+See Antrim Truck Centre Ltd., supra note 6, at para. 23: “The point is not that there is a typology of actionableinterferences; the point is rather that there is a threshold of seriousness that must be met before an interference isactionable.”
+14
+
+Act. If the claim falls outside this definition, the default jurisdiction of the Superior Courtis not ousted, and the action may properly proceed before this court.
+
+[48]
+
+Given my findings above and the plaintiff’s concessions, the first question has beenanswered affirmatively.
+
+[49]
+
+On the second issue, it was not argued that the alleged damage to the plaintiff’s buildingwas not significant enough to meet the threshold for an actionable tort. Therefore, for thepurpose of this motion, the second issue is also answered in the affirmative.
+
+[50]
+
+The latter three issues require further analysis, which is discussed below.
+iii. Was the injury claimed an inevitable consequence of the statutorily authorizedaction?
+Positions of the Parties
+
+[51]
+
+The plaintiff argues that the damage to its property was not inevitable, but arose from thedefendants’ negligence. As the statutory authority defence only protects against claimsfor injuries that inevitably arise from state authorized action, the plaintiff contends that itsclaims fall outside the definition of injurious affection under the Act.
+Analysis
+
+[52]
+
+As put by Perell J. in Curactive Organic Skin Care Ltd., injurious affection under the Act
+“is a nuisance claim in tort that would otherwise be barred by the common law defence ofstatutory authority because the alleged injury is an inevitable consequence of constructionof a work authorized by statute and done without negligence. ”18
+
+[53]
+
+I am not convinced that the physical damage alleged in this case was the inevitableconsequence of a work authorized by statute, nor that it was done without negligence.
+Without evidence on this r. 21 motion, a finding of inevitability must be grounded solelyin common sense.19 Applying common sense, I would be prepared to find that somedegree of vibrations were the inevitable consequence of Highway 7’s reconstruction, 20
+but I cannot not find, based the allegations pleaded, that it was inevitable that the degreeof vibrations was to the extent to cause the significant physical damage alleged. It may belater proven that the damages were indeed inevitable, but I cannot find as such at thistime.
+
+[54]
+
+Since I cannot accept that the plaintiff’s claim arises from the inevitable consequence ofconstruction work performed under statutory authority, the claim does not fit thedefinition of injurious affection under the Act. Because the claim may fall outside theinjurious affection definition, so too does it fall outside the OMB’s exclusive jurisdiction.
+Therefore, the action may properly proceed in this court.
+
+18
+
+Curactive Organic Skin Care Ltd., supra note 11, at para. 29. See also, Antrim Truck Centre Ltd. v. Ontario
+(Transportation), supra note 6, at para. 5.
+19
+Manchester, supra note 7, at p. 183.
+20CA), affirmed [1987] S.C.C. No. 27, the Court mentioned that “the noise, vibration, smell, fumes and smoke whichare the inevitable concomitants of a modern highway.”
+
+[55]
+
+Given my answer to this question, it is unnecessary to consider the final two sub-issues.
+However, on the chance that I am in error, I will provide some comments on each.
+
+Positions of the Parties
+
+[56]
+
+The plaintiff’s primary claim is for the physical damage caused to its building andwalkways around the building. The plaintiff contends that “land” under the Act’sdefinition of “injurious affection” does not expressly include the building situated on theland or the walkways around the building.
+
+[57]
+
+The moving defendant submits that “land” includes the building situated on the land andthat the claimed damages to the building falls within the meaning of “such personal andbusiness damages” described in the definition of “injurious affection” under the Act. Themoving defendant additionally argues that the scope of authority given to the OMB underthe OMB Act is wide enough to encompass all claims for damages claimed by theplaintiff including damages to the building and surrounding walkways.
+
+[58]
+
+The moving defendant suggests that this situation is similar to that in Curactive OrganicSkin Care Ltd. The damages sought in that case included claims for structural damages.
+The Court found that the genuine legal and factual nature of the claims was for injuriousaffection and, thus, within the OMB’s exclusive jurisdiction.
+Analysis
+
+[59]
+
+The Act is not explicit that physical damage to buildings affixed to land is included underthe heads of damages enumerated under s. 1(1)(b). Counsel could not provide me a casewhere it was held that such damage is captured by the section. 21
+
+[60]
+
+I disagree with the moving defendant’s position that the present situation is analogous tothat in Curactive Organic Skin Care Ltd. Though some structural damage may have beenpleaded in that case, the substance of the claim derived from disruptions of access tobusinesses. At the Court of Appeal, the Court summarized the allegations as follows:
+“[A]ll of the claims made against the TTC come down to the allegation that theconstruction of the St. Clair Project took too long and unreasonably impacted on thebusinesses of the potential class members.”22 Loss of revenue from disrupted access to
+
+21
+
+In Wilson et al. v. City of London, (1997), 63 L.C.R. 294, at para. 18, (Ontario Municipal Board), varied on othergrounds, (1999), 73 L.C.R. 255, (Ont. S.C. [Div. Ct.]), the Divisional Court held that structural damage to a buildingcan qualify as “personal damages”. In that case, however, the claim arose following partial expropriation, and thus,the definition of injurious affection under s. 1(1)(a) applied, not s. 1(1)(b). The OMB found that the scope of theclaimants’ claim was given meaning through ss. 13 and 14 (at para. 8). These sections define the compensationavailable when land has been expropriated, considerations which are inapplicable to this case. Thus, given thefactual matrix of Wilson et al., I do not think that the decision is helpful here.
+22
+
+2012 ONCA 81.
+
+iv. Is the injury claimed contemplated under the definition of injurious affectionunder s. 1(1)(b)?
+
+[61]
+
+Nevertheless, in view of the Act’s remedial nature, I would be inclined to find thatproperty affixed to land, like walkways and buildings, would properly fall within thedefinition of “land” under s. 1(1)(b)(i) of the Act. However, considering my finding onthe inevitability issue, I need not make a conclusive finding one way or the other.
+v. Does the injury claimed arise from the construction and not the use of the worksby the statutory authority?
+Position of the Parties
+
+[62]
+
+The plaintiff acknowledges that some of its claims arise from damage done during theconstruction, but submit that its claims for ongoing vibrations stem from the use of theworks.
+
+[63]
+
+The defendant argues that the majority of the plaintiff’s claims are for damages duringthe construction, and that the claims should not be split to avoid a multiplicity ofproceedings.
+Analysis
+
+[64]
+
+The test for determining whether damage was caused by construction or use under s.
+1(1)(b) of the Act was laid out by George S. Challies in The Law of Expropriation, 2ndEd.24 and subsequently adopted by the Divisional Court in Re City of Windsor and Larsenet al.25 :
+The test of whether the property is actually damaged byoperation or use is to consider whether the works asconstructed, if left unused, would interfere with the actualenjoyment of the property; if not, no compensation ispayable.26
+
+[65]
+
+23
+
+Applying this test to the facts as pleaded in the statement of claim, it is clear that thealleged damage caused while the defendants worked on Highway 7 arose from theconstruction and not the use. Even if nobody was driving on the highway during the
+
+See, for example, R. Jordan Greenhouses Ltd. v. Grimsby (Town) (2015), 114 L.C.R. 249, (Ontario MunicipalBoard).
+24
+(Montreal: Wilson & Lafleur, Limited, 1963), at p. 138.
+2526Antrim Truck Centre Ltd., supra note 6, at para. 6.
+
+businesses is a typical example of “business damages”.23 By contrast, the plaintiff’sallegations here primarily stem from the physical damage and disturbance to its property,not its impact on revenues.
+
+[66]
+
+The claims stemming from the subsequent and ongoing vibrations, however, relate to the
+“use” of the work. If no automobiles were using the road, there would be no ongoingvibrations.
+
+[67]
+
+Therefore, if I am wrong on the inevitability issue, I find that some of the plaintiff’sclaims are outside the OMB’s exclusive jurisdiction because they stem from the use ofthe work.
+
+[68]
+
+The next issue, then, is with multiplicity of proceedings. On my reasoning, there areclaims of the plaintiff that fall within and outside the jurisdiction of the OMB. Can thiscourt impose upon the OMB to hear claims that are outside its jurisdiction for the benefitof avoiding multiplicity of proceeding? On the basis of the facts of this case as presentedon this motion, I find this court cannot. It may very well be that there is a “gap” in thelegislative scheme as submitted by plaintiff’s counsel. It may also may be available to thecourt to refer matters outside of the legislative scheme to the OMB for efficiency and toavoid multiplicity of proceedings.27 I make no finding either way.
+
+3. Is the relief sought by the plaintiff within the OMB’s scope of authority?
+
+[69]
+
+Again, as I have found that the plaintiff’s remaining claims do not fall within the s.
+1(1)(b) definition of injurious affection, this question need not be answered. But, again,for the sake of completeness, I will address the parties’ arguments.
+
+Positions of the Parties
+
+[70]
+
+The plaintiff argues that its request for a mandatory order falls outside the authority givento the OMB under the Act and the OMB Act.
+
+[71]
+
+Regarding the mandatory order sought, the moving defendant directs the court toPusateri’s Yorkville Limited v. City of Toronto 28 for the proposition that the relief claimedis in substance a claim for “injurious affection” and is therefore within the jurisdiction ofthe OMB.
+
+Analysis
+
+[72]
+
+27
+28
+
+The OMB has a narrow jurisdiction to grant a mandatory order when such relief isincidental to the administration of the acts over which it has jurisdiction. The OMB’spower to remedy injurious affection is defined by s. 21, which provides that the Boardmay require a statutory authority to “compensate” the private owner. There is no broaderremedy suggested. Therefore, I agree with Corbett J.’s conclusions in Pusateri’s YorkvilleLimited that (i) “compensation” is limited to a claim in damages, and (ii) the Act provides
+
+The reference rules under the Rules of Civil Procedure, rr. 54 and 55, may be appropriate.
+construction, the use of heavy construction would have caused damage to the plaintiff’spremises.
+
+a comprehensive scheme of relief available for injurious affection claims. 29 In otherwords, if the plaintiff’s claims could be properly characterized as being for injuriousaffection under the Act, the only relief available would be damages.
+
+[73]
+
+For the reasons given, I find that the substance of the plaintiff’s claims not conceded falloutside the definition of injurious affection under the Act, and thus, are outside thejurisdiction of the OMB.
+
+Disposition
+
+[74]
+
+I order that the plaintiff’s claim be stayed against all defendants insofar as the claims seekcompensation for a reduction in the market value of its land, business losses, and thequiet use and enjoyment of its land during the construction.
+
+[75]
+
+On the basis of the limited evidentiary record on this Rule 21 motion, I do not find theother claims of the plaintiff against Somerville, Bell Canada, or the moving defendantsare to be stayed.
+
+[76]
+
+If the parties cannot agree on costs of this motion, the moving defendants, Somerville andBell Canada to serve and file their respective submissions of costs within 21 days fromthe date of this decision, and the plaintiff will have 14 days thereafter to serve and file itssubmissions. The submission to be no more than three pages, double spaced, exclusiveof any bill of costs, case law and offers to settle. There is no right for reply. Submissionsare to be filed with the court. If no submissions are received within the time period setout herein, an order will be made that there will be no costs.
+
+Justice P.W. SutherlandReleased: May 18, 2017
+
+29
+
+Ibid, at para. 18.
+
+Conclusion
+

@@ -1,0 +1,97 @@
+CITATION: Rowland v. VDC Manufacturing Inc., 2017 ONSC 3351
+COURT FILE NO.: CV-16-546960
+DATE: 20170530
+
+RE:
+
+Edward Neil Rowland, Plaintiff
+– AND –
+AVL Manufacturing Inc., VDC Manufacturing Inc., Hamilton Metalworks Inc.,and ECO-H Technologies Inc., Defendants
+
+BEFORE:
+
+E.M. Morgan J.
+
+COUNSEL:
+
+Justin Tetreault, for the PlaintiffRichard Simmons, for the Defendants, VDC Manufacturing Inc., HamiltonMetalworks Inc., and ECO-H Technologies Inc.
+
+HEARD:
+
+May 30, 2017
+ENDORSEMENT
+
+[1]
+The Plaintiff was terminated without notice by his employer on July 31, 2013 after 9
+years of employment. He is 53 years old, and his last position with this employer was as VicePresident, Project Management, of the Defendant, AVL Manufacturing Inc. (“AVL”). He hasbrought an action for damages for wrongful dismissal and here seeks summary judgment underRule 20.01 of the Rules of Civil Procedure.
+
+[2]
+There is no dispute that the Plaintiff was terminated without notice and is entitled tocompensation, although the parties do not agree with each other on the amount of compensation.
+There is also no dispute about the Plaintiff’s efforts to mitigate his damages; both sides concedethat the Plaintiff found new employment, albeit at a lesser salary, two months after histermination.
+
+[3]
+The issue here is whether all of the Defendants were the Plaintiff’s common employer.
+The Plaintiff commenced employment with the Defendant, Hamilton Metalworks Inc. (“HMW”)
+on March 28, 2006. After 6 months, on October 1, 2006, he was transferred to AVL. Since thattime, his salary and benefits have always been paid by AVL and his employer for all accountingand tax purposes has been AVL. In 2006, the Plaintiff was issued separate T4’s for the periods inwhich he was employed by HMW and AVL, respectively. Thereafter, whenever the Plaintiffperformed any services for one of AVL’s sister companies – which the Defendants concedehappened sporadically – AVL would bill that company for the services.
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+- Page 2 -
+
+[5]
+The Plaintiff contends that they are all one business entity and, for legal purposes, areunified as his common employer. The Defendants contend that they only present themselves as agroup for marketing effect, and that for legal purposes they are separate corporate entities andAVL was the Plaintiff’s sole employer.
+
+[6]
+AVL is insolvent and the action against it has been stayed. The action continues againstthe other Defendants.
+
+[7]
+The Plaintiff has sworn an affidavit in which he says that he performed tasks for all of thegroup of companies, but he speaks in generalities rather than in specifics. In other words, he saysthat he did things like estimating, quoting, and covering other employees on vacation, butmentions only one project of HMW’s in which he was an actual Project Manager whileemployed by AVL.
+
+[8]
+The Defendants’ affiant, Vincent DeCristofaro, concedes that he is a director and officerof each of the Defendants and that they are related companies in the sense that they sharecommon shareholders and directors and are engaged in mutually supporting businesses. He alsomakes the point, however, that the Defendants are not engaged in the same business as eachother, but rather supply separate and distinct services – one is an engineering company thatdesigns manufactured goods, another is a fabrication and welding company that producesmanufactured goods, and the other two are marketing companies for different lines of product.
+
+[9]
+Mr. DeCristofaro also makes the point that although there are one or two employees whoare indeed employed by several of the Defendants, the Plaintiff is not one of those employees.
+He deposes that to the extent that the Plaintiff has ever worked for another of the companies
+(other than AVL), formal Purchase Orders were issued to the relevant company for hisperformance of those services.
+
+[10] I note that just as the Defendants market themselves on their website as a “Group ofCompanies”, the Plaintiff has marketed himself on his C.V. as working for a single company,AVL. In my view, neither of these marketing efforts is significant, as they are not aimed at theissue at hand. The Defendants’ website is targeted at customers, and is not designed to send amessage to the Plaintiff or other employees with respect to the corporate identity of theiremployer. Similarly, the Plaintiff’s C.V. is targeted at prospective employers, and is not designedto make a point about the corporate or group identity of his former employer. These reciprocalmarketing efforts are just that – marketing efforts – and should not be taken to reflect the viewsof either party with respect to the employment relationship.
+
+[11] It is significant that the Defendants have consistently kept a formal distance from eachother not just in their corporate legal structures, but in their dealings with the Plaintiff. Whereasthe Plaintiff worked for one of the Defendant companies, HMW, for the first 6 months after
+
+[4]
+There is no dispute that the Defendants are all owned by the same shareholders who aremembers of the same family. There are interlocking directors, and the companies operate out ofthe same corporate address. Further, they market themselves on their website as the “AVL
+Group of Companies”.
+
+being hired, that company formally transferred him to AVL, where he continued to work for therest of his 9 years on the job. Likewise, the Plaintiff himself has conceded that the companiesissued invoices and Purchase Orders to each other for services he rendered to companies otherthan his formal employer, AVL. This documented separation between the Defendantcorporations in terms of their responsibility for the Plaintiff militates against their havingcommon control over the Plaintiff as employee: Sinclair v. Dover Engineering Services Ltd.
+
+[1987] BCJ No 60, at 181 (BCSC).
+
+[12] In order to establish that two or more legal entities are his common employer, thePlaintiff must demonstrate that he had a reasonable expectation that the Defendants were each aparty to his employment contract. “[M]ere allegation of corporate affiliation simpliciter is notsufficient to bring the common employer doctrine into play… Any plaintiff invoking thecommon employer doctrine must be able to demonstrate on the particular facts of the case that heor she held a reasonable expectation in the circumstances that each of the alleged commonemployers were parties to the employment arrangement governing that particular employee at allrelevant times”: Mazza v. Orange Corporate Services Inc., 2015 ONSC 7785, at paras 85-86,aff’d 2016 ONCA 753.
+
+[13] Where the employee is aware that he was employed by a single employer, the fact ofinterlocking shareholders with his formal employer does not itself establish a common employer:
+Dumbrell v. The Regional Group of Companies Inc. (2007), 85 OR (3d) 616, at para 83. Theonus is on the Plaintiff to demonstrate that there was “effective control over the employee” by allof the alleged common employer companies: Downtown Eatery (1993) Ltd v. Ontario (2001), 54
+OR (3d) 161, at para 33 (CA). There must be evidence of an actual “intention to create anemployer/employee relationship between the individual and the respective corporations withinthe group”: Gray v. Standard Trustco Ltd. (1994), 8 CCEL (2d) 46 (Gen. Div.).
+
+[14] The Plaintiff has not succeeded in establishing that there was anything like “a highlyintegrated or seamless group of companies which together operated” what was effectively onebusiness and one employer: Downtown Eatery, at para 34. An example of such integration wouldbe where one company in the group is the ‘paymaster’ for the others such that it is impossible tosay which one is the real employer: Ibid., at para 33. On the evidentiary record before me, itcannot be said that the Defendants “apparently compete for the role of employer”: Sinclair, at181.
+
+[15] The Plaintiff was an employee of AVL, and on July 31, 2015 was terminated by AVL.
+His claim for wrongful dismissal or pay in lieu of notice lies against AVL. There is insufficientevidence here to establish that he has any claim at all against the other Defendants.
+
+[16] It is the Plaintiff’s position that this issue can be determined on a summary judgmentmotion, without a trial. I am inclined to agree. As the Court of Appeal has observed, a “claim forwrongful dismissal without cause…strikes me as the type of case usually amenable to a Rule 20
+summary judgment motion”: Arnone v. Best Theatronics Ltd., 205 ONCA 63, at para 12. Thisincludes cases where the issue on which the matter turns is that of common employer: Dear v.
+Glamour Designs Ltd., 2015 ONSC 5094.
+
+- Page 3 -
+
+- Page 4 The Plaintiff’s motion is dismissed.
+
+[18] Counsel for the Defendant has submitted a Costs Outline seeking $5,400 in costs on apartial indemnity basis. This is a reasonable amount. Given that it is roughly half of what thePlaintiff’s Costs Outline indicates he would seek, it is clearly within the range of costs that anunsuccessful party could reasonably expect to pay in relation to this type of motion: Rule57.01(1)(0.b).
+
+[19] The Plaintiff shall pay the Defendant $5,400 in costs, inclusive of fees, disbursements,and HST.
+
+Morgan J.
+Date: May 30, 2017
+
+[17]
+

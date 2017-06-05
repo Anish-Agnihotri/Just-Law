@@ -1,0 +1,630 @@
+CITATION: Montgomery v. Kenwell, 2017 ONSC 3107
+COURT FILE NO.: FC-12-1649-00
+DATE: 20170518
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+DIANNE LEE MONTGOMERY
+Applicant )
+– and –
+JESSE ARCHIBALD KENWELL
+Respondent )
+
+G. Karahotzitis, for the Applicant
+
+Respondent self-represented; not attending
+
+HEARD: May 17, 2017
+
+REASONS FOR JUDGMENT
+HEALEY J.
+
+[1]
+
+By order of Wildman J. dated April 15, 2017, this matter was scheduled for the hearingof an uncontested trial on the issues of:
+1. Determining income to be imputed to the respondent for the purpose of determiningchild support;2. Determining the quantum of child support to be paid by the respondent for the twochildren of the marriage, retroactive and ongoing;3. A permanent restraining order requiring the respondent to have no contact with theapplicant or the children and to remain 500 metres away from their residence, schoolsor places of employment;4. An award of damages sought by the applicant for assault and battery during themarriage;5. A divorce.
+
+ONTARIO
+
+[2]
+
+This court had the benefit of evidence on each of these issues contained in the applicant'sForm 23C, supplemented by oral evidence provided at the hearing, along with herlawyer’s able submissions and summary of the law.
+
+[3]
+
+By way of brief background, the parties were in a relationship for a total of 14 years.
+They began living together in 1997 and married on April 29, 2000. They separated inJanuary, 2010, and the respondent moved out of the home permanently on May 19, 2011.
+There are two children of the marriage: Josie, age 19; and Jacob, age 15.
+
+Income
+
+[4]
+
+This is a case in which the respondent has disregarded his obligation to make adequatefinancial disclosure both as required by law and by prior orders of this court. Thedisclosure made by him is scant and wholly inadequate, particularly given his claims thathe is employed by his father and is working off debts allegedly owed to his father. Histwo financial statements filed in the proceeding are incomplete, a fact admitted by hisformer counsel before seeking an order to be removed from the record. The last financialstatement filed by the respondent is dated August 14, 2013. His pleadings were struck byorder of August 16, 2016, for written reasons delivered on that date.
+
+[5]
+
+Where there is such an absence of financial disclosure, there is broad discretion for acourt to draw reasonable inferences for the purpose of imputing income: Bagheri-Sadr. v.
+Yaghoub-Azari, 2011 CarswellOnt 780 (S.C.J.), at para. 13; Psavka v. Kroll, 2016 ONSC
+1087, 2017 CarswellOnt 2663 (S.C.J.), at para. 22; Manchanda v. Thethi, 2016 ONSC
+3776, 2016 CarswellOnt 8951 (S.C.J.), at para. 8.
+
+[6]
+
+In her Form 23C affidavit the applicant has put forward evidence, in my view as best as ispossible given the limited information available to her from the respondent, whichdemonstrates to this court that the respondent’s income has historically been higher thanreported in his two financial statements or to Revenue Canada. On the evidence, there is abasis to find that the respondent continues to work, as he did throughout the marriage, inthe farming, logging and construction industries, through his own companies, his father'sentities, or a combination of both. In the years preceding the separation, the respondent’sincome was much higher than his more recently reported income. In her income taxreturns, the applicant reported that the respondent’s 2006 net income was $172,789, andhis 2007 net income was $111,747. Of interest is a CRA Notice of Assessment for 2015,which indicates that the respondent is required to pay $168,599.47. The size of this debtstrongly suggests that CRA has reassessed the respondent’s income to something fargreater than the $20,000 to $30,000 range that he has reported from 2011 to 2015. Therespondent did not provide any other Notice of Assessment than the one for 2015.
+Further, the respondent also delivered a Notice of Reassessment for GST/HST for theperiod January 1, 2007 to December 31, 2007. That document indicates that therespondent had a prior balance of $283,856.15 and that a further $45.13 was owed as aresult of CRA's reassessment, for a total balance owing of $283,901.28. It is not knownover how many years that debt accumulated. Nonetheless, this piece of evidence further
+
+[7]
+
+The respondent has also provided evidence that he resides in a property owned by hisfather, rent free, drives a vehicle leased by his father, and has the benefit of his fatherpaying for other personal expenses. This information, in addition to a weekly wage thatthe respondent claims he is being paid by his father, is summarized in a one-pagedocument that was produced by the respondent on July 22, 2016. There is also evidencethat the respondent receives royalties through a licence agreement that permits a gravelpit to be operated on property owned by him. A summary provided by the respondent ofthe royalties received between August 2011 and July 2013, with no back updocumentation, shows a total amount received during that time of $17,120, or $8,550 peryear. His evidence is that these royalties are paid to his father.
+
+[8]
+
+The applicant believes that the respondent has structured his financial affairs to attempt toavoid CRA debts and taxes. She also believes that the respondent's true income is in therange of $120,000 to $150,000, but for the purpose of finalizing this proceeding iscontent that the court impute income in the amount of $80,000. There is a principledbasis for reaching such a number. Using strictly the information provided by therespondent himself, as set in the preceding paragraph, it is possible to reach an amounteven higher than $80,000. The respondent states that his weekly wage after deductionsranges from $490 to $600 per week. Given the respondent's conduct in this proceeding, I
+infer that $600 is itself an understatement, and therefore select this higher number out ofthe range given. The income received by the respondent must be grossed up for supportpurposes. Using a factor of 1.375 or a 37.5 percent tax rate, as submitted by counsel,results in income of $825 per week. Further, the additional benefits paid by therespondent father, grossed up by the same factor, total $605 per week. These amountstogether total $74,302.80 per year. Added to this number is the amount provided by therespondent for income earned through the licencing agreement, which then brings therespondent’s total annual income to a point in excess of $80,000. The rationale forallowing a gross-up for tax where a payor arranges his or her affairs to pay substantiallyless tax on income, and to ensure consistency between payors, is explained in Orser v.
+Grant, 2000 CarswellOnt 1354 (S.C.J.), at paras. 10-13.
+
+[9]
+
+Pursuant to paragraph 19(1)(f) of the Child Support Guidelines, the court may imputeincome to a payor who has failed to make sufficient disclosure. In this case, thecircumstances would also allow the court to impute income under subparagraphs (d) and
+(h) as well, as the respondent appears to have diverted income to his father, which shouldotherwise be used to determine the level of child support under the Guidelines, andbecause he has been deriving a significant portion of his income from personal benefitsprovided by his father that are exempt from tax. As set out in Menegaldo v. Menegaldo,2012 ONSC 2915, 2012 CarswellOnt 6030 (S.C.J.), at para. 74, the only limitation on thediscretion of the court to impute income is that there must be some basis in the evidencefor the amount that the court has chosen to impute.
+
+reinforces this court's conclusion that the respondent is underreporting his income in thisproceeding.
+
+[10]
+
+Conservatively, for the foregoing reasons I impute income to the respondent in the sumof $80,000 per annum for each taxation year from the date of separation onward, for thepurpose of determining an appropriate amount of child support.
+
+[11]
+
+That determination having been made, the respondent should have paid the sum of
+$1,172 per month pursuant to the Guidelines for two children beginning on June 1, 2011.
+The respondent moved out of the house in May, 2011. No child support was paid on avoluntary basis thereafter. The order of Wildman, J. dated August 20, 2013 requiredtemporary child support to be paid by the respondent in the amount of $386 per monthcommencing August 1, 2013 on a without prejudice basis, and subject to adjustment onmotion following disclosure of the respondent's income.
+
+[12]
+
+Both children continue to be dependents. Josie is attending school full-time at a learningcenter, but still needs to earn a couple more credits to receive her secondary schooldiploma. Jacob is in grade 10 and attending school full-time. Although in-depth medicalevidence was not provided on this motion, the applicant's evidence is that Jacob’s braininjury will result in him being a dependent for the remainder of his life. As I understandthe evidence, he has received a settlement in regard to statutory accident benefits, whichis being paid out for his rehabilitative needs under a structured settlement, but that a tortaction is still ongoing.
+
+[13]
+
+I find that the order should be made retroactive to June 1, 2011. Filed in evidence are twoletters sent to the respondent by Mr. Karahotzitis in the summer of 2011, requestingdisclosure for the purpose of resolving the matter "as amicably and expeditiously aspossible". The respondent ignored these letters. Having regard to the factors to beconsidered by the court when faced with a request for retroactive support, as set out bythe Supreme Court of Canada in D.B.S. v. S.R.G., 2006 SCC 37, [2006] 2 S.C.R. 231
+(S.C.C.) at paras. 110-116, I find that this is a clear case for such an award.
+
+[14]
+
+Any delay in commencing this application before November 2012 is fully explained bythe applicant. She first made overtures through counsel's letters to deal with the matterwithout court involvement. Delay was thereafter a result of having her son in the hospitalbetween May and December, 2011, a fact known to the respondent, and being theprimary caregiver to this child following his discharge with serious orthopedic injuriesand a brain injury, all of which required her exhaustive attention, with no help from therespondent. In addition, the respondent was arrested for assaulting her in September2011, and that criminal proceeding was ongoing through 2012.
+
+[15]
+
+In terms of any blameworthy conduct on the part of the payor, he knowingly avoided hischild support obligation until the interim order was made in 2013, he breached both theorders made in this proceeding in part to attempt to frustrate a proper assessment of childsupport, and breached the terms of his recognizance in the criminal proceeding. Therecord shows that throughout this proceeding he continued to ask for indulgence to either
+
+Child Support
+
+[16]
+
+In terms of the circumstances of the children, the evidence is clear that this separation hasbeen extremely difficult on the children and will have ongoing repercussions for them.
+The reasons for this will be discussed later on. However, the respondent was the solewage earner for the family. The circumstances in which the applicant found herself at thetime that Jacob was injured meant that she was unable to look for employment. There isno question that the financial stresses on the applicant and children were extensive, andwould have been alleviated by a proper and regular support payment.
+
+[17]
+
+In terms of any hardship on the support payor, the last issue for consideration, there is noevidence before the court of hardship to the respondent that will ensue from a retroactiveaward of child support.
+
+[18]
+
+The applicant provided evidence that only a few days ago she received money from theFamily Responsibility Office on account of child support arrears that had accumulatedbetween November 2016 and April 2017 under the interim order. These arrears werereferenced in paragraph 10 (ii) of the 23C. The amount received by her on May 11, 2017
+was $2,316. Accordingly, the calculation of retroactive child support owed by therespondent from June 1, 2011, giving the respondent credit for amounts paid, is correctlycalculated at paragraph 10 (ll) of the 23C, less the amount of $2,316, such that theamount of support owed as of January 31, 2017 is $61,134.
+
+[19]
+
+Periodic support for the two children shall be paid by the respondent in the amount of
+$1,172 per month commencing February 1, 2017. In addition, the respondent should payhis proportionate share of all expenses for the children properly falling under section 7 ofthe Child Support Guidelines. The applicant filed evidence of her 2016 income at thishearing. I find that for 2016, the applicant's total income for the purpose of any section 7
+calculation was $68,800.
+
+Spousal Support
+
+[20]
+
+As submitted by the applicant's counsel, there are many difficulties in fixing an adequateamount of compensatory spousal support in this case, assuming that entitlement can beshown. In my view there is ample basis for entitlement by virtue of the caregiving roleassumed by the applicant for Jacob following his catastrophic accident. There may beother bases for such an award, but the applicant has decided not to pursue any spousalsupport award at this time. However, since one of the reasons for her reluctance is thelack of financial information from the respondent that would show his assets, present andfuture income stream and ability to pay, I find that justice would not be done withoutproviding a nominal spousal support award that could be subject to variation in the futurepursuant to s. 17 of the Divorce Act. Accordingly, I award spousal support to theapplicant in the amount of $1.00, to be paid on the 1 st day of each month commencingJune 1, 2017 and thereafter on the first day of each month.
+
+retain counsel or satisfy the disclosure requirements, all of which led to delay andadjournments which ultimately were granted for no useful purpose.
+
+[21]
+
+The applicant set out a history of verbal and physical abuse in the 23C, and supplementedthis evidence during her oral testimony. This was a chilling account of profoundlycontrolling techniques aimed at isolating the applicant and leaving her vulnerable to therespondent's rages, often brought on by excessive alcohol use. She described that heopted to push or slap in particular, pull hair, and if he felt he was being ignored, he wouldkick the family's dogs even with steel-toed boots in order to get attention. She alsotestified that she endured regular sexual violations against her will. She was told that hewould "hunt her down" if she ever left him, and called her derogatory and demeaningnames even in the presence of the children.
+
+[22]
+
+During the relationship the respondent was criminally convicted on four occasions, therespondent being the victim each time. In the first offence, he smashed her car windowsbecause he was unhappy that she attended a bar. In the second incident, he pushed her tothe ground while she was holding Josie, then an infant, and hit the applicant’s head sohard that he broke her eardrum, leading to permanent hearing loss. For the thirdconviction, he was angry at her for wanting to leave a dance to attend to their newborn;he attacked her in the parking lot as she left and witnesses called the police. The lastassault occurred after the separation, in September, 2011. Following his arrest, therespondent breached the terms of his recognizance and was convicted of that offence aswell. He pled guilty on March 6, 2013 to assault, uttering a death threat and breach ofrecognizance. He was sentenced to 90 days, to be served intermittently, and probation fortwo years. It was a term of his probation that he abstain from communicating with theapplicant and Josie, and from being within 500 metres of their places of residence,employment and education. That probation order terminated in March, 2015.
+
+[23]
+
+At the hospital on one of the immediate days following Jacob's accident, when he was ina coma and it was unknown whether he would survive, the respondent threatened theapplicant that he would burn her house down if she started any civil proceeding related tothe accident.
+
+[24]
+
+There has been little contact between the children and their father since May 19, 2011. Itwas on that date that Jacob sustained his permanent injuries when he was riding on anATV while under his father's care. As a result of the lack of contact, the respondent’sseeming indifference to repairing the relationship with his son, and the documentation inthe record from members of Jacob's rehabilitative team indicating that he has a fear of hisfather and of having contact with him, Wildman J. prohibited the respondent from havingaccess to Jacob by order of April 15, 2017. As Josie is 19, Wildman, J. declined to makeany order in relation to her.
+
+[25]
+
+The applicant testified that Jacob is constantly vigilant about the respondent. Jacobexpresses a belief that the respondent or members of his family will kidnap him. Hekeeps the blinds closed and constantly checks that the doors are locked in the home. Theapplicant had to buy a German Shepherd to provide him with reassurance. When heinitially began to attend at his current school, he needed reassurance from the educational
+
+Restraining Order
+
+assistants assigned to him that they would not let the respondent take him from theschool. After years of silence, without warning the respondent called the applicant's homeone evening last February and asked to speak to Jacob. He did not identify himself, butshe recognized that he had been drinking from the slur in his voice. She immediatelycalled the victim assistance office in Barrie to obtain advice to protect herself and thechildren.
+
+[26]
+
+The applicant also gave evidence that members of the respondent's family are given todriving by her residence, where she moved in 2013. She indicated that she knows of noreason why they would do so other than to monitor her and the children in order toprovide information to the respondent.
+
+[27]
+
+With respect to Josie, there has been one contact which was very destructive. Accordingto the applicant, the respondent convinced Josie in 2013, at the age of 16, to move out ofher mother's house and told her that he would rent an apartment for her. This causedfurther anxiety for Jacob because he was concerned that Josie’s renewed contact with herfather would mean that she would let him into the house. Ultimately the respondent didnot pay for the apartment, Josie lived at a women's shelter for a while before movingback home, and she never heard from her father again. She has tried to have part-timejobs in the community, but continued to encounter her father or his family, which was asource of anxiety and strain. She last encountered the respondent while working as ahostess in a restaurant, when he entered with his girlfriend and her children and did notacknowledge her.
+
+[28]
+
+The respondent's violence was not limited to the applicant. In April 2011, her evidence isthat he became violent toward Josie, which resulted in Josie calling the police. In thecourse of an argument with his daughter over cleaning her room, he is alleged to havethrown her on the floor by her neck after destroying her stereo.
+
+[29]
+
+While Jacob was hospitalized, and immediately following his accident, the respondentremoved cattle from the applicant's property without her permission. His actions affectedJacob deeply. A report written by the social worker who is part of his rehabilitative casemanagement team, Todd Gillies, reads:
+… He has begun to talk more and more about his missing cattleand his anger towards his father for taking them from him. Heperseverate on this issue, partially due to his cognitiveimpairments, and partly because this represents another loss in hislife among many.
+
+[30]
+
+Other correspondence from Mr. Gillies notes that Jacob related experiences to him wherehe felt bullied and intimidated by his father, has nightmares and negative intrusivethoughts about his father, and is worried that he will harm him. His fears are predicatedon his exposure to his father uttering threats of death or bodily harm to his mother andneighbors.
+
+[31]
+
+The test for whether a restraining order should be granted under s. 46 of the Family LawAct is whether the moving party has reasonable grounds to fear for his or her own safetyor for the safety of any child in his or her lawful custody. It is not necessary for arespondent to have actually carried through on an act or words of harassment to justify arestraining order. It is enough if the applicant has subjective fear of harm, which can bereasonably and objectively connected or associated with a respondent's actions or words:
+Khara v. McManus, 2007 CarswellOnt 3159, at paras. 31 and 33.
+
+[32]
+
+In this case, the four criminal convictions, the nature of the evidence leading to thosecharges and convictions, the lengthy history of violent inter-spousal abuse, therespondent’s behavior toward his children, his conduct toward the entire family followingthe separation, the apparent monitoring by his family members, and his recent attempt tocontact Jacob all lead to the conclusion that the applicant has reasonable grounds to fearfor her own safety and that of the children, and accordingly a permanent restraining ordershall issue in the terms sought by the applicant.
+
+Damages for Domestic Assaults
+
+[33]
+
+The application seeks general damages in the amount of $150,000. Following full reviewof the case law in this area, which Mr. Karahotzitis submitted is slowly departing from anera where nominal awards were frequently made in the context of inter-spousal assaultsand is now edging toward more appropriate damage awards in keeping with the generalprinciples of tort law, he submitted that an award in the range of $75,000 would beappropriate.
+
+[34]
+
+Mr. Karahotzitis provided the court with a chart summarizing the decisions in whichCanadian courts have ordered damages for the inter-spousal tort of assault. His chart isattached to these Reasons as Schedule A.
+
+[35]
+
+I agree with counsel that all aggravating factors of this case must be considered inmaking a determination of general damages. Aggravated damages are intended tocompensate the personal suffering of the victim: Costantini v. Costantini, 2013 ONSC
+1626, at para. 59. A particularly egregious factor that must be considered in casesinvolving spousal abuse is the flagrant breach of trust that is central to a maritalrelationship: Surgeoner v. Surgeoner, 1993 CarswellOnt 4419 (Gen. Div.) at paras. 4041; Costantini, supra at para. 68; Shaw v. Brunelle, 2012 ONSC 590, at para. 110. Thecriminal law has statutorily recognized this concept in s. 718.2 of the Criminal Code ofCanada, by requiring the sentencing judge to consider an increase in sentence where, asan aggravating circumstance, the offender abused his spouse or common-law partnerwhen committing the offence. The trust inherent in a domestic relationship, whenbreached by one partner deliberately harming the other, should be likewise recognized intort law through an elevated aggravated damage award. There is no reason why the civillaw should not keep step with the criminal law in imposing sanctions that contribute to a
+“just, peaceful, and safe society”, which is one of the fundamental principles of criminalsentencing.
+
+In Shaw v, Brunelle, supra, a case involving spousal assault, Blishen, J. applied theprinciples set out in Weingerl v. Seo (2005), 199 O.A.C. 172 regarding the determinationof aggravating factors, and stated at para. 109:
+… The following are aggravating factors which should be takeninto account to determine whether the non-pecuniary damagesshouldbeincreased: humiliation,degradation,violence,oppression, inability to complain, reckless conduct which displaysa disregard of the victim, and post-incident conduct whichaggravates the harm to the victim.
+
+[37]
+
+Each of these aggravating factors applies in this case to elevate the compensation thatshould be awarded to the applicant for the 14 years of abuse and its sequela. In additionto the permanent loss of hearing in her left ear, she now experiences low self-esteem,social withdrawal, sleep deprivation and symptoms of depression and anxiety. I havetaken into account that the applicant will have endured significant distress as a result ofJacob’s near-death accident and ongoing impairments, and that these experiences will becontributing to her ongoing symptoms. However, that aside, her pain and suffering, pastand ongoing, caused directly by the respondent’s treatment is in and of itself deserving ofa significant award of damages.
+
+[38]
+
+Having reviewed the cases provided by Mr. Karahotzitis, I agree that the facts of this caseproperly fall within a range of $50,000 to $100,000, and find that an award of $75,000 iswell warranted in order to provide a reasonable amount of damages to the applicant.
+
+Divorce
+
+[39]
+
+As this is a final disposition of all claims made in this proceeding, and the applicantdeposing that she does not wish to pursue her claim for equalization, a divorce order willbe granted. Evidence meeting of all of the statutory requirements has been provided inthe 23C.
+
+Costs
+
+[40]
+
+I have reviewed the updated Bill of Costs provided, which includes the costs ofpreparation and attendance at this final appearance. Rule 24 of the Family Law Rules,which imposes a presumption that a successful party is entitled to the costs of the case,applies to uncontested trials: Gaffney v. Hyatt, 2015ONSC 1856, 2015 CarswellOnt 4009
+(S.C.J.), at para. 12; Benson v. Crawford, 2012 CarswellOnt 13373 (S.C.J.) at para. 9.
+
+[41]
+
+There is nothing about the behavior of the applicant in this case to move it away from thegenerally accepted approach of having costs recovery come close to full recovery. Theapplicant has in fact made decisions in the course of the litigation, such as abandoningany claim to an equalization of net family properties, which have caused a very difficultcase to come to a close. Undoubtedly this is in the best interests of the children, inparticular. The claims made by the applicant were appropriate and necessary to secure the
+
+[36]
+
+HEALEY J.
+Released: May 18, 2017
+SCHEDULE ‘A’
+CaseSorrenti v Blair,2013 ONSC 2584
+
+AwardGeneral damages:
+$75,000
+No punitive damages
+
+Costantini vCostantini, 2013
+ONSC 1626
+
+General damages:
+$15,000
+(W did not pursueclaim for punitivedamages)
+
+Holden v Gagne,2013 ONSC 1423
+
+Damages: $1,000
+
+FactsInjuries: right arm fracturecausing permanent physicallimitations (required surgery)
+History: abuse occurred over10 years
+- H
+chargedandconvicted of assaultMarried for 3 yearsInjuries: bump on head,bruising, soft tissue injury,headaches, pain throughoutbody, depression, insomnia,History: H had anger issuesthroughout marriage. 2
+incidents of abuse described.
+- H charged withassault and makingdeath threats, lateralso charged, twice,with breaching termsof interim judicialreleaseMarried 17 years
+- Multiple incidents ofassault. (from wedding night,until after separation).
+- H charged multiple timesfor assault on W
+- one incident found to havecaused bodily injury:
+
+NotesNo punitive damagesawarded because H pleadguilty to assault charge andwas sentenced. Noinformation before thecourt regarding thesentence.
+Low award for damagesbecause injuries weresimilar to Rezek v Rezekand Valenti v Valenti.
+
+- low damage awardbecause of lack ofevidence, experts, longpassage of time from timeof abuse, and minimalinjury
+
+rights afforded to her and the children at law. Given the outcome, the degree of success ofthe applicant, and all of the circumstances of the case, this court orders that therespondent shall pay costs of the proceeding to the applicant on a full indemnity basis,being 85 percent of actual costs, fixed in the amount of $45,664. These costs shall beenforced by the Family Responsibility Office as though an order for child support.
+
+bruising that did not requiretreatmentAugur v Chartrand, Non-pecuniary andCohabitated for approx. 8
+2012 SKQB 363
+Aggravated Damages: years
+$50,000
+- Chartrand had alcoholand gambling problem
+- history of verbal abuse
+- physical abuse over 5
+day period in which herepeatedly hit Augur,threw her, deprived herof sleep, struck her witha glass vase causing herto bleed. Another 3 dayperiod of abuse occurredlater on.
+- Injuries: severe andextensive bruising allover her body, crackedrib, broken nose, cut oneye, soft tissue swellingon left side of face andskull, depression
+- Chartrand charged (+
+plead guilty) to twocounts of assault causingbodily injuryMcLean v Danicic, General damages:
+- cohabitated for 5
+
+[2009] O.J. No.
+$15,000
+years2356
+- DanicicharassedMcLeanfollowingcommencement ofproceedings.
+- chargedwithharassment,extortionandattemptingtoobstruct justice’
+- no claim of physicalassaultDhillon v Gaba,General andMarried for 4 months
+
+[2014] B.C.J. No.
+Aggravated damages: Injuries: bruising2031
+$2,000
+Dekany vGeneral Damages:
+Married for 22 years.
+Parenteau, 2014
+$20,000
+- Injuries:
+minorONSC 49
+between 1998-2001,
+(appeal by W toPunitive Damages:
+2008
+incident =
+increase damages
+$25,000
+laceration to scalpdismissed)
+
+Calculating the Damages:
+“…Ms. Auger wassubjected to repeatedassaults and abuse overboth periods ofconfinement, that Ms.Auger was forced to leavethe family home as a resultof the assaults, that she hasencountered very difficultfinancial circumstancesover the period of timefollowing the assaults, thatshe had to live in a shelteror transition home after theassaults, and the fact thatshe suffered fromdepression and some posttraumatic stress disorder,suggest to me that a claimfor general damages,including as it does a claimfor aggravated damages,must be significant.” para64.
+
+Shaw v Brunelle,2012 ONSC 590.
+The name changesthroughout thelitigation:
+Shaw v Shaw, 2012
+ONSC 5974
+Shaw v BrunelleShaw, [2008] O.J.
+No. 3863
+
+J.K.G. v. T.S.G.,
+
+[2005] B.C.J. No.
+209
+
+Non-pecuniarydamages: $10,000
+
+Married for 33 years.
+- physical and verbalabusethroughoutmarriage
+- Injuries: black eye,bruising, lacerationto elbow, lacerationto scalp,
+
+General and
+-1 year marriage and W
+Aggravated Damages: violently ejected from home
+$65,000
+-separated after H criminallycharged with assault
+($50,000 withoutresulting in wrist fractureaggravating factors)
+Injuries: serious fracture toNo punitive damages wrist (required surgery),sleep deprivation,depression, PTSD/ anxietydisorder, chronic pain
+
+No pecuniary damagesbecause:
+“Given the nature andturbulance of the marriageand the great difficultiescaused by Mrs. S.A.W.'sbehaviour, I am satisfiedthat this is not a case inwhich it would beappropriate to awardpunitive damages.” para 86
+“This violence wasperpetrated by anindividual she should havebeen able to trust and relyupon.”
+“Although reprehensible, I
+do not find Mr. Shaw’sconduct, though extreme, towarrant an award ofpunitive damage sin orderto punish him and deterhim and others fromcommitting a similar act.
+Therefore, I will not orderpunitive damages.”
+
+Aggravating factors toincrease non-pecuniarydamages (T.W. v. Seo,
+(2005) 256 D.L.T. (4th ):
+humiliation, degradation,violence, oppression,inability to complain,reckless conduct whichdisplays a disregard of thevictim, and post-incidentconduct which aggravatesthe harm to the victim.
+General damages
+- H found guilty of attempted - no punitive damages
+$225,000 inclusive of murder of W and received 9
+because punished through
+$50,000 in aggravated years incarcerationcriminal proceedingsdamagesInjuries: 20 significantgashes to W’s head and botharms severely damaged. 8
+days in the hospital, 13
+
+K.R.W. v S.A.W.,2003 BCSC 522
+
+Dhaliwal v.
+Dhaliwal, (1997)
+CarswellOnt57774.
+
+General damages:
+$5,000 and $5,000 foraggravated andpunitive damages
+
+Surgeoner v.
+Surgeoner, (1993)
+CarswellOnt 4419
+
+$4,000 generaldamages
+
+[1993] O.J. No.
+2940
+
+$4,000 punitivedamages
+
+- H criminally charged andconvicted of assaulting wife
+- W suffered fromdepression, sleepdisturbances, anxiety
+- alcoholic and abusiveduring 16 years ofcohabitation
+- no permanent injury
+- no medical tx sought
+- criminally convicted
+(suspended sentence withone year probation)
+
+Belanger v.
+Belanger, [1995]
+S.J. No. 737
+
+operations. Significantscarring to W’s face, hands,arms. W lost use of arms andhands for all but the mostrudimentary tasks.
+Permanently disabled.
+General damages
+- H stabbed W five times – 7
+$4,000 and exemplary years imprisoneddamages $1,000
+W spent 3 days in hospital
+
+“in addition to the physicalinjuries suffered by D.S.,she suffered humiliation ofthe attack. R.S. was once atrusted companion. For himto strike her in the groinarea was more than aphysical assault, it was abreach of trust” para 37
+“I find it difficult toconclude that, simplybecause R.S. has beenconvicted of this assault, I
+cannot award punitivedamages in this action,which is an action betweenhusband and wife, where aspecial relationship exists.
+What does D.S. gain bythat conviction? Theanswer is nothing. I am ofthe opinion that such casesas this, commonly referredto as domestic violencecases, arising because of aspecial relationship that iscreated by marriage andbased upon trust, should bean exception to the generalprinciple surrounding theaward of punitive damagesnotwithstanding that such
+
+Harris v. Cohen,
+(1994)
+CarswellOnt 2001.
+
+Aggravated damages:
+$10,000
+
+[1994] O.J. No.
+2142
+
+Farkas v. Kovacs,1989 CarswellOnt1275.
+
+[1989] O.J. No2387
+
+General damages:
+$10,000
+$2,500 punitivedamages
+
+Valenti v. Valenti,1996 CarswellOnt514.
+
+[1996] O.J. No.
+522
+
+General damages
+$10,000
+Aggravated damages
+$2,500
+Punitive damages:
+$2,500
+
+S. (L.N.) v. K.
+(W.M.), 1999
+CarswellAlta 582.
+
+General damages:
+$15,000
+Punitive damages:
+$4,000
+
+1999 ABQB 478
+Flachs v. Flachs,2002 CarswellOnt1285.
+
+General damages:
+$125,000
+Aggravated damages:
+$25,000
+Punitive damages:
+$25,000
+C. (N.) v. B. (W.R.), General damages1999 CarswellOnt
+$65,000 and $25,000
+3036.
+in aggravateddamages
+
+Court did not find thephysical injury seriousenough for courtintervention.
+However, incidents ofbarging into the sons’ roomuninvited and into thebathroom when W wasnaked, making the son watchwhile the H made derogatorycomments were of highconcern
+- H assaulted W on threeoccasions
+- no physical harm butemotional and mental harm
+
+- 16 years of marriage
+- H suffered from alcohol +
+drug problem
+- W suffered from PTSD
+- prior criminal convictionsfor assault
+- charged with assaultcausing bodily harm (pleadguilty) and forcibleconfinement (chargedropped). Spent 5 months injail.
+- abuse over almost 20 years
+- Common law marriage
+- W kept diary throughout
+(outlining abuse)
+- H convicted of assault
+- 38 years of abuse
+- W suffered from PSTD,anxiety and depression
+
+- physical abuse and sexualassault five times a weekduring 6.5 year relationship
+- W suffered from PTSD
+
+may result in ‘doublejeopardy’” para 40
+- had the W claimedpunitive damages, Courtwould have awarded para149 (because of arrogance,high-handedness andcruelty of H’s actions.)
+
+The Court stated that it isimportant that the husbandmust be disabused of anyperception that domesticrelationships provide alicense for assaultivebehaviour.
+In awarding punitivedamages, court stated that,
+“the deterrence of this kindof conduct can only occurwhen such abuse is treatedwith the outrage itdeserves”
+
+- punitive damagesawarded above the criminalsanctions for assault
+
+C. (M.) v. M. (F.),1990 CarswellOnt427.
+
+General damages
+$40,000
+
+Wandich v. Viele,
+
+[2002] O.J. No. 5.
+
+General damages:
+$5,000
+
+- cohabited for 2 years
+- sexual and physical assaultspost-separation
+- acquitted on criminalsexual assault charges
+- not married
+- 7-9 incidents of assault –
+threated with knife, chokedher, caused her nose to bleed,punched her and poked herin the eye
+- criminal conviction
+
+White v. White,2003 CarswellBC
+750.
+Megeval v.
+Megeval, 1997
+CarswellBC 2344.
+
+General damages:
+$10,000
+
+- most serious assault leavingexposed scalp in two places
+
+General andaggravated damagesof $45,000
+
+- 24 years of cohabitation
+- serious permanent injury toW’s right wrist and unable towork
+
+[1997] B.C.J. No.
+2454
+
+Punitive damages:
+$5,000
+
+- no award of punitivedamages
+- stigma of finding of guiltin criminal court and factwife was compensated byaward served as adequatepenalty and deterrent para90
+
+“The fact that the assault
+(or more accurately, thebattery) in this case tookplace in the context of amarriage, and from ahusband of substantiallygreater stature and strengththan his wife, supports aclaim for aggravateddamages” para 63
+Punitive damages: “…it issignificant that Mr.Megeval, in his evidence attrial has demonstrated noremorse or contrition, and,throughout the trial,continued to deny anyabusive behaviour on hispart.” para 78
+
+Rezel v. Rezel,2007 CarswellOnt2313.
+
+General damages:
+$7,500
+
+- assaults did not lead tolasting injury and no lengthyhistory of physical violence
+- black eye and off work afew days
+
+Van Dusen v. VanDusen, 2010
+CarswellOnt 398.
+
+General andaggravated damages:
+$15,000
+
+2010 ONSC 220
+
+No punitive damages
+
+- charged and convicted ofassault
+- W assaulted by H
+throughout marriage
+- H struck W in face causingbruising, swelling, H jumpedon top of W, causing
+
+C.S.F. v. J.F.,
+
+[2002] O.J. No.
+1350.
+
+H. v. H., [1998]
+B.C.J. No. 1.
+
+N.C. v. W.R.B.,
+
+[1999] O.J. No.
+3633.
+
+Johal v. Johal,
+
+[1996] O.J. No.
+419.
+
+bruising, swelling over entirebodyGeneral damages
+- 38 year marriage
+$125,000 and
+- physical and sexual abuse
+$25,000 in aggravated injuries included bruised anddamagesbroken ribs, punctured lung,sprains, bruises and burnsPunitive damages:
+- suffered PTSD
+$25,000
+- husband criminallyconvictedGeneral and
+- severe injuries: lacerations,aggravated damages: permanent injuries to face
+$30,000
+and scars, PTSD, improperfunctioning of lower lipPunitive damages:
+- W required 25 stitches
+$5,000
+- one assault (New Yearsparty)
+- criminally charged butconditionally dischargedGeneral damages
+- common law relationship
+$65,000 andfor 6.5 yearsaggravated damages
+- sexual, physical and verbal
+$25,000
+abuse regularly
+- criminal conviction
+- W received $6000 fromCriminal InjuriesCompensation Board
+(required to reimburse fromthe damages received in thisproceeding)
+General damages:
+$4,000
+Punitive damages:
+$10,000
+
+- over 20 year marriage
+- absence of criminalprosecution
+- physical and verbal abuse
+- bruising to hip, shoulder,back, wrist and thigh
+
+- the fact that the defendanthas been convictedcriminally for the offence isnot a bar to awardingpunitive damages. Whetheror not punitive damagesshould be awarded is aquestion of fact, not law.
+para 47
+
+“The evidence shows hisoppressive and controllingconduct and the absence ofany criminal repercussion.
+As well, the loss of dignityvisited upon his wife in theharassment and assaults,continues justifying incertain circumstances,aggravated damages toexpress this court’sabhorrence of the conductof the plaintiff over theperiod of time of themarriage. I assess thepunitive or exemplarydamages at the sum of
+$10,000.” para 17
+
+Marchese v.
+Marchese, [1999]
+O.J. No. 5342.
+
+General damages:
+$7,500
+
+Tzeng v. Tzeng,
+
+[2007] O.J. No.
+1918
+
+$40,000 in general,aggravated andpunitive damages forassault by formerspouse
+
+- married more than 50 years
+- repeated assaults duringmarriage between 1975 to1993
+- minor assaults and nomedical treatment
+- assaults before 1975 barredbecause of s.7 of the MarriedWoman’s Property Actwhich prohibited spousesfrom suing each other in tort.
+- married for 1 year when H
+arrested for assault
+

@@ -1,0 +1,120 @@
+SUPERIOR COURT OF JUSTICE - ONTARIO
+RE:
+
+LEONID KAPLAN and CHERYL JANE MIZZI, PlaintiffsAND
+CASINO RAMA SERVICES INC., CHC CASINOS CANADA
+LIMITED, PENN NATIONAL GAMING, INC., and ONTARIO
+LOTTERY AND GAMING CORPORATION, Defendants
+
+AND RE:
+
+RANDY HARMAN, PlaintiffAND
+ONTARIO LOTTERY AND GAMING CORPORATION and CHC
+CASINOS CANADA LTD., DefendantsProceedings under the Class Proceedings Act, 1992
+
+BEFORE:
+
+Justice Edward P. Belobaba
+
+COUNSEL: Ted Charney and David Robins for the Plaintiffs in the Kaplan ActionTodd McCarthy, Sean Brown and Erin Vanderveer for the Plaintiff in theHarman ActionCatherine Beagan Flood and Ryder Gilliland for the Defendants (otherthan Penn National Gaming)
+HEARD:
+
+April 20, 2017
+CARRIAGE MOTION
+
+[1]
+Last November, the Casino Rama computer system was hacked and a significantamount of confidential personal and financial information – relating to vendors,
+
+CITATION: Kaplan v. Casino Rama Services Inc. et al, 2017 ONSC 2671
+COURT FILES NO.: Toronto CV-16-564080-CP
+Oshawa 97892/16
+DATE: 20170510
+
+- Page 2 -
+
+[2]
+Shortly after Casino Rama confirmed the privacy breach, two class actions werefiled the same day, one by the Flaherty, McCarthy firm (“FM”) and the other by theCharney and Strosberg, Sasso firms working in a consortium (“CS”). FM filed theHarman Action in Oshawa; CS filed the Kaplan Action in Toronto.
+
+[3]
+It was my hope that a carriage motion could be avoided - that FM would join CS
+in their consortium and the three firms would proceed co-operatively and work together. I
+encouraged counsel to discuss this possibility. As it turned out, FM was prepared to joinforces with CS but CS preferred to go it alone. A carriage motion was required. FM
+agreed that the carriage motion could proceed in Toronto.
+Deciding a carriage motion
+
+[4]
+The applicable law is not in dispute. In deciding carriage of competing classproceedings, the court’s objective under the Class Proceedings Act 1 is to make theselection that is in the best interests of the class, while being fair to the defendants andconsistent with the objectives of a class proceeding.2 The objectives of a class proceedingare access to justice, behaviour modification, and judicial economy for the parties and forthe administration of justice.3
+
+[5]
+Courts have generally considered seven non-exhaustive factors in determiningwhich action should proceed: (1) the nature and scope of the causes of action advanced;
+(2) the theories advanced by counsel as being supportive of the claims advanced; (3) thestate of each class action, including preparation; (4) the number, size and extent ofinvolvement of the proposed representative plaintiffs; (5) the relative priority of thecommencement of the class actions; (6) the resources and experience of counsel; and (7)
+the presence of any conflicts of interest.4
+
+1
+
+Class Proceedings Act, 1992, S.O. 1992, c. 6.
+
+2
+
+Smith v. Sino-Forest, [2012] O.J. No. 88, at para. 16, citing Vitapharm Canada Ltd. v. F. Hoffman-La Roche Ltd.,
+
+[2000] O.J. No. 4594 (S.C.J.), at para. 48; Setterington v. Merck Frosst Canada Ltd., [2006] O.J. No. 373 (S.C.J.), atpara. 13; Sharma v. Timminco Ltd. (2009), 99 O.R. (3d) 260 (S.C.J.), at para. 14.
+3
+
+Smith, supra, note 2, at para. 16.
+
+4
+
+Ibid., at para. 17.
+
+employees and customers – was stolen. Several days later, the hacker uploaded some ofthe information to the internet and then days later uploaded some more and threatenedthat further “data dumps” would be forthcoming.
+
+- Page 3 -
+
+[6]
+On paper, CS has the clear advantage. Not only do they have more class actionexperience, particularly in the area of privacy breaches, they have a more workableunderstanding of the theory of the case and the overall approach. The CS class definitionin the Kaplan Action is more focused, the selection of representative plaintiffs anddefendants is sounder and the causes of action being alleged are more sensible.
+Moreover, CS is better prepared – they have already filed their motion record forcertification.
+
+[7]
+
+There is no need for me to explain this in any more detail because FM agrees.
+
+[8]
+FM candidly acknowledges each of these points but notes that it would forthwithamend the pleadings in the Harman Action to tighten the class definition, broaden theselection of representative plaintiffs and defendants and replace the “kitchen sink”
+approach to the causes of action with a more focused and refined listing. It would alsofile its motion record for certification in a matter of days. The carriage motion should notturn, says FM, on deficiencies that can be easily corrected by an amendment of thepleadings.
+
+[9]
+Rather, FM argues that the carriage motion should turn on which firm is in a betterposition to provide speedier access to justice for the class members. This somewhat novelsubmission, in essence, goes something like this:
+Your Honour, FM has filed in Oshawa. The Oshawa court can hearthe certification motion in a matter of months - as early as July ofthis year. FM will pay more attention to this class action becausewe only have two other class actions on the go – CS together hassome 67 class actions on the go. FM can move faster in a lesscrowded court house in Oshawa and can achieve faster and moreeffective access to justice for class members in a case where time isof the essence.
+
+[10] The comparative speed with which class counsel can move the class proceedingforward to resolution may well be a relevant factor in a carriage motion, given the rightfacts. But I am not persuaded on these facts that FM’s submission should succeed. Tobegin with, FM has not shown that time is indeed of the essence. FM submits that “witheach passing month, it becomes easier for the defendants to say that no harm has beendone and ... the sky has not fallen.” This may be so, but I am not persuaded that carriageshould turn on whether the certification motion is in July (I frankly doubt that thedefendants would ever agree to such a lightning-speed timetable) or December (the more
+
+Analysis
+
+- Page 4 -
+
+[11] Nor am I persuaded on the evidence before me that FM, a small but highlyrespected (and no doubt busy) insurance litigation boutique, would pay any moreattention to the Harman Action than would CS, two larger and highly respected classaction firms, to the Kaplan Action.
+
+[12] In short, however much I admire FM’s candid and original submission, based as itis on the important notion of speedy access to justice, I cannot conclude that speed alone,on the facts herein, should be the determinative criterion or that the Harman Action in thehands of FM would proceed any faster than the Kaplan Action in the hands of CS.
+
+[13] FM has excellent litigation lawyers and would have done a fine job as classcounsel. But applying the more applicable factors on the facts herein – the overallapproach and theory of the case, the comparative state of preparation and the experienceand resources of counsel – the carriage nod must go to CS and the Kaplan Action.5
+Disposition
+
+[14] Carriage of the proposed class action is granted to the plaintiffs in the KaplanAction and CS is appointed class counsel. The Harman Action is stayed.
+
+[15]
+
+I make no order as to costs, which is the usual course in carriage motions.
+
+Justice Edward P. Belobaba
+
+Date: May 10, 2017
+
+5
+
+As the hearing was concluding, FM suggested that I should direct that both actions proceed and be tried togetherin Oshawa. CS and counsel for the defendants quickly reminded the court that two class actions proceeding inparallel is not what is contemplated by the Class Proceedings Act, supra, note 1; would make little senseprocedurally or substantively; and would not be fair to the defendants.
+
+likely scenario). Either way, little will happen until the common issues, assuming theaction is certified, are heard on the merits. And the required trial or summary judgmentmotion is many months away.
+
+- Page 5 -
+

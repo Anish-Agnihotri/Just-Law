@@ -1,0 +1,136 @@
+SUPERIOR COURT OF JUSTICE – ONTARIO
+
+RE:
+
+Sang Min Lee, Responding Party PlaintiffAND:
+Soon Nam Lee et al, Moving Party Defendants
+
+BEFORE:
+
+Master Jolley
+
+COUNSEL: Ken MacDonald, Counsel for the Moving Party DefendantsNabila Qureshi, Counsel for the Responding Party PlaintiffHEARD:
+
+12 May 2017
+REASONS FOR DECISION
+
+Overview
+
+[1]
+
+The plaintiff brings this action seeking a declaration of a constructive trust over threenamed properties, a declaration that transfers of certain assets amounted to eitheroppressive conduct or fraudulent conveyances and damages in the amount of $2.7
+million.
+
+[2]
+
+The defendants seek particulars of certain of the allegations in the statement of claim,taking the position that they cannot plead without the requested information.
+
+[3]
+
+The plaintiff takes the position that the particulars sought are not needed for thedefendants to file a statement of defence. The information sought is in the nature ofevidence and this request is an attempt to obtain information that is more appropriate atthe discovery stage. Further, the plaintiff argues that defendants have not deposed thatthey do not have the information they seek and that is a precondition for the relief sought.
+(Physicians’ Services Inc. v. Cass [1971] 2 O.R. 626 (C.A.))
+
+[4]
+
+Answers have been provided, albeit belatedly, to a number of the demands for particulars.
+Before me are items 10, 11, 12, 13, 15 and 16.
+
+CITATION: Lee v. Lee et al, 2017 ONSC 2960
+COURT FILE NO.: CV-16-552002
+MOTION HEARD: 20170512
+
+[5]
+
+The plaintiff seeks in paragraph 33.10 of the statement of claim, “a declaration ofconstructive trust over Ms. Lee’s interest in the following properties currently owneddirectly or indirectly by Ms. Lee, Eun Jin Kim and Dahyun Kim: 63 Madawaska Avenue,North York, Ontario (“Madawaska”); 867 Bloor Street West, Toronto, Ontario (“Bloor”)
+and 145 McNamee Road, Kirkfield, Ontario (“McNamee”).”
+
+[6]
+
+The defendants seek to know which of those three properties the plaintiff says areindirectly owned by the defendant Soon Nam Lee (“Lee”) and how; which of those threeproperties the plaintiff says are indirectly owned by the defendant Eun Kim (“EK”) andhow; and which of those three properties the plaintiff says are indirectly owned by thedefendant Dahyun Kim (“DK”) and how.
+
+[7]
+
+The statement of claim alleges that Bloor is registered to DK and that Lee has someinterest in it. Lee is entitled to know whether the indirect interest that she is alleged tohave is to the extent that she advanced funds for the purchase of Bloor (paragraph 33.5)
+or whether the plaintiff is alleging an indirect interest of some other amount and on someother basis. I am of the view that this is not in the nature of evidence. It is not “how theplaintiff intends to prove his case, i.e. a matter of evidence, but “what [he] is going to tryto prove” against the defendant and, therefore, properly the subject of particulars
+(Commissioner of Competition v. Rogers Communications Inc. 2013 ONSC 3224 atparagraph 18) and is required for pleading. The defendants need not depose they do nothave this information as they could not know what properties the plaintiff intended tomean and against which defendant in this statement of claim; it is a bald allegation that,on its face, requires particulars.
+
+[8]
+
+Similarly, the statement of claim alleges that McNamee was sold by Lee to EK. BothLee and DK are entitled to know whether it is alleged they have an indirect interest inMcNamee and, if so, on what basis. EK is entitled to know whether the claim against heris on the basis of her direct ownership or otherwise.
+
+[9]
+
+There is no allegation in the statement of claim concerning Madawaska other than anallegation that Lee owned or held an interest in it, either directly or indirectly. She isentitled to know whether the plaintiff’s position is that Lee still has a direct or indirectinterest in Madawaska and, if so, on what basis. EK and DK are each entitled to knowwhether the plaintiff alleges that they have a direct or an indirect interest in Madawaskaand, if so, on what basis.
+
+[10]
+
+These particulars sought are to be answered.
+
+Request item 13
+
+Request items 10, 11 and 12
+
+In paragraph 33.11 of the statement of claim, the plaintiff “seeks damages on the basis ofunjust enrichment and quantum meruit for the disproportionate share of the wealth andassets acquired during the course of the relationship unjustly retained by Ms. Lee, Eun JinKim and Dahyun Kim.”
+
+[12]
+
+The defendants request that the plaintiff separate out the amounts he claims from each ofLee, EK and DK.
+
+[13]
+
+In my view, this is not necessary for pleading. Nor is it practical to request thoseparticulars from the plaintiff at this stage, given his claim is based on quantum meruit andunjust enrichment which have yet to be quantified.
+
+[14]
+
+This portion of the motion is dismissed.
+
+Request item 15
+
+[15]
+
+The plaintiff alleges in paragraph 33.15 of the statement of claim that Lee “retained theearnings and profits of EBI Sushi Izakaya, (his former employer and an entity owneddirectly or indirectly by Lee) and orchestrated the transfer of the income of EBI SushiIzakaya through its rental payments to 867 Bloor Street West.”
+
+[16]
+
+The defendants argue they need to know to whom and where the income of EBI Sushitransferred (and when), given Bloor is not a legal entity.
+
+[17]
+
+Given this portion of the pleading is in the nature of a fraudulent conveyance allegation,the defendants are entitled to know to whom the plaintiff says the income was transferredand when he alleges that transfer or those transfers took place, to the best of hisknowledge (EnerWorks Inc. v. Glenbarra Energy Solutions Inc. 2012 ONSC 414 atparagraph 52). As to the recipient, the plaintiff simply needs to clarify the entity to whichhe is referring when he pleads the payments went to 867 Bloor Street West. As to thetime of the transfers, the plaintiff may not have that information, in which case, he canadvise that the dates of such transfers are unknown to him.
+
+[18]
+
+This particular sought is to be answered.
+
+Request item 16
+
+[19]
+
+With respect to paragraph 33.15, referenced above, the defendants plead that they need toknow what amounts were transferred by way of rental payments.
+
+[20]
+
+I find that this is in the nature of evidence and not necessary for the defendants to respondto this allegation. Whether the transfer was $100 or $100,000 will not affect thedefendants’ response. As noted in Telus Communications v. Kennedy, 2010 ONSC 2135
+at paragraph 37, the defendants do not need to know the exact total of the expense claim
+(in that case) involved in order to plead to the statement of claim. To the extent thetiming of the transfers is important, that has been covered, above.
+
+[11]
+
+[21]
+
+This portion of the motion is dismissed.
+
+[22]
+
+The plaintiff shall deliver answers to the particulars ordered within 20 days of the date ofthis endorsement. I have not ordered a deadline for the defendants to deliver theirdefence, in light of the submission of counsel for the defendants as to his two significantupcoming trials but I trust the parties can reasonably work out a schedule for thatdelivery.
+
+Costs
+
+[23]
+
+There has been mixed success on the motion and I order no costs.
+
+Master JolleyDate: 15 May 2017
+
+Conclusion
+

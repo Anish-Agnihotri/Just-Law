@@ -1,0 +1,103 @@
+CITATION: Smith v. Her Majesty The Queen In Right of Ontario, 2017 ONSC 2854
+COURT FILE NO.: 609/16
+DATE: 20170510
+
+RE:
+
+ALAN DALE SMITH
+PlaintiffAND:
+HER MAJESTY THE QUEEN IN RIGHT OF ONTARIO, THE ATTORNEY
+GENERAL OF ONTARIO, THE DURHAM REGIONAL POLICE SERVICES
+BOARD, THE YORK REGIONAL POLICE SERVICES BOARD, THE
+ONTARIO PROVINCIAL POLICE, LEON LYNCH, YRP #1, OPP #1, OPP #2,JOHN JOHNSON ALLAN, CINDI BRADLEY, DANIEL ANTHONY
+DENYER, JIM BURROWS, JEFF KENNEDY, DAVID KIMMERLY, DIANNE
+JENNINGS, MICHAEL HILL and JOHN SCOTT
+Defendants
+
+BEFORE:
+
+MARROCCO A.C.J.S.C.
+
+COUNSEL: KEVIN McGIVNEY, for the York Regional Police Services Board and YRP#1
+SUNIL MATHAI, HEATHER BURNETT, for the Defendants/Moving Parties,Attorney General of Ontario, Michael Hill and John ScottC. KIRK BOGGS, STUART ZACHARIAS, for the Defendants/Responding Parties,The Durham Regional Police Services Board, Leon Lynch, John Johnson Allan,Cindi Bradley, Daniel Anthony Denyer, Jim Burrows, Jeff Kennedy, DavidKimmerly and Dianne Jennings
+
+HEARD:
+
+IN WRITING
+ENDORSEMENT
+
+[1]
+
+Leave to appeal is granted.
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+[3]
+
+The plaintiff was unsuccessfully prosecuted for murder.
+
+[4]
+He then sued the police who investigated him and the two Crown attorneys involved inthat investigation for negligent investigation, unlawful arrest and imprisonment and intentionalinfliction of mental suffering. He also sued the Attorney General of Ontario claiming theAttorney General was liable for the acts and omissions of the two Crown attorneys.
+
+[5]
+The plaintiff did not sue the Crown attorneys who prosecuted him. So, there is no claimfor malicious prosecution.
+
+[6]
+The statement of claim also alleges breaches of the Charter of Rights and Freedoms.
+Those allegations were not before the Motion Judge.
+
+[7]
+The Attorney General of Ontario and the two Crown attorneys moved to strike out theplaintiff’s claim. They also moved to strike out a cross claim brought against them by theDurham Regional Police Services Board, Leon Lynch, John Johnson Allan, Cindi Bradley,Daniel Anthony Denyer, Jim Burrows, Jeff Kennedy, David Kimmerly and Diane Jennings
+(DRPS), seeking contribution and indemnity if its defence was unsuccessful.
+
+[8]
+I agree with the Motion Judge that for the purposes of the motion to strike out the crossclaim, the facts alleged in the cross claim, including those incorporated by reference from thestatement of defence, are assumed true.
+
+[9]
+The Motion Judge determined that the plaintiff’s claim against the Crown attorneys andagainst the Attorney General should be dismissed because the law of prosecutorial immunityforeclosed it. The Motion Judge also determined that the DRPS claim for contribution was struckbecause it required a viable claim against the moving parties and there was no longer such aclaim.
+The cross claim for indemnity
+
+[10] The Motion Judge allowed the cross claim for indemnity to continue. Her Honourobserved at paragraphs 136 and 138: “the extensive body of law about common law immunitysimply does not focus on lawsuits by the police against Crown attorneys … there is not arecognized dispositive defence that justifies striking out the crossclaim at the pleadings stage.”
+
+[11] Rule 62.02(4)(b) of the Rules of Civil Procedure, R.R.O. 1990, Reg. 194 states that leaveto appeal from an interlocutory order of a judge shall not be granted unless,
+
+[2]
+This is a motion for leave to appeal an order made by Matheson J. dated November 29,2016 in which she dismissed, in part, a motion by defendants/moving parties to strike the crossclaim brought against them by the defendants/responding parties.
+
+[12] The extent and application of prosecutorial immunity is a legal issue of generalimportance beyond the interests of these litigants.
+
+[13] There is good reason to doubt the correctness of the Motion Judge’s order continuing thecross claim for indemnity. In making that statement I am attempting to apply the test for leave toappeal set out in the Rules of Civil Procedure. The Motion Judge’s decision is meticulous.
+Nothing I am going to say was lost on the Motion Judge, but that does not change the legalprinciples at play here.
+
+[14] As the Motion Judge acknowledged at para. 112, the functional approach to prosecutorialimmunity was rejected in Nelles v. Ontario, [1989] 2 S.C.R. 170 at 189. Specifically, Lamer J (ashe then was) stated:
+…to decide the scope of immunity on the basis of categorization of functions isan unprincipled approach that obscures the central issue namely whether theprosecutor has acted maliciously. If immunity is to be qualified it should be donein a manner other than by drawing of lines between quasi-judicial and otherprosecutorial functions.
+
+[15] Deciding that the scope of immunity might be different depending on who the plaintiff isarguably applies a functional approach to deciding the scope of prosecutorial immunity.
+
+[16] If prosecutorial immunity applies to the cross claim for indemnity, the cross claim ishopeless.
+The duty of care issue
+
+[17] The Motion Judge concluded at paragraph 173 that “it is not plain and obvious on thisRule 21(1)(b) motion that there is no duty of care owed by Crown attorneys to the police inregard to negligent legal advice in this case.” As a result, the Motion Judge did not strike theportion of the cross claim seeking indemnification based on negligent legal advice.
+
+[18] The nature of the relationship between the police and the Crown prosecutor is a legalissue of general importance beyond the interests of these litigants. The importance of this issuewas recognized by the Motion Judge at paragraph 172: “the submissions … have raisedimportant issues regarding the relationship between the police and Crown attorneys, includingpolicy issues.” In addition, it is obvious that Crown prosecutors and police work together onevery serious criminal case and therefore the legal relationship between them is important.
+
+there appears to the judge hearing the motion good reason to doubt the correctnessof the order in question and the proposed appeal involves matters of suchimportance that, in his or her opinion, leave to appeal should be granted.
+
+[20] The parties accepted that the claim made by the police against the Crown attorneys basedon negligent legal advice was novel. The Motion Judge agreed.
+
+[21] When a claim is novel, the Cooper-Anns test has two parts. The first part asks whether aprima facie duty of care arises. The second part asks whether there are policy reasons why theprima facie duty of care should not be recognized: see R. v. Imperial Tobacco Canada Ltd., 2011
+SCC 42 at para. 39.
+
+[22] The Motion Judge indicates at paragraph 169 that the parties did not squarely address inthe argument before her the important issue of “how would the availability of tort claim fornegligent legal advice interfere with the relationship between [the Crown prosecutor and thepolice, as] two important parts of the criminal justice system … perhaps because the movingparties were mainly relying on an immunity defence.” Arguably, this had to be fully exploredbefore the Motion Judge, because if there were policy reasons for not recognizing a duty of care,then the Cooper-Anns test required Her Honour to conclude there was no duty of care.
+
+[23]
+
+If no duty of care exists, the negligence portion of the cross claim is hopeless.
+
+[24] Accordingly, there is reason to doubt the correctness of the order. Leave to appeal isgranted with respect to paragraphs 4 and 6 of the order of the Motion Judge.
+MARROCCO A.C.J.S.C
+
+Date: 20170510
+
+[19] In deciding whether a duty of care could be found, the Motion Judge applied the CooperAnns test which Her Honour described at paragraph 141 as the test to determine whether “aprivate law duty of care is owed in a particular category of relationship.”
+

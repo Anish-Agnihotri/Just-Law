@@ -1,0 +1,455 @@
+SUPERIOR COURT OF JUSTICE – ONTARIO
+COMMERCIAL LIST
+IN THE MATTER OF THE COMPANIES' CREDITORS ARRANGEMENT ACT, R.S.C. 1985, c.
+C-36, AS AMENDED
+AND IN THE MATTER OF A PLAN OF COMPROMISE OR ARRANGEMENT OF
+URBANCORP (WOODBINE) INC. AND URBANCORP (BRIDLEPATH) INC., THE
+TOWNHOUSES OF HOGG'S HOLLOW INC., KING TOWNS INC., NEWTOWNS AT
+KINGTOWNS INC. AND DEAJA PARTNER (BAY) INC. (COLLECTIVELY, THE
+"APPLICANTS")
+AND IN THE MATTER OF TCC/URBANCORP (BAY) LIMITED PARTNERSHIP
+
+BEFORE:
+
+Newbould J.
+
+COUNSEL: Neil S. Rabinovitch and Kenneth Kraft, for Guy Gissin, the Israeli Functionary ofUrbancorp Inc.
+Robin B. Schwill, for the MonitorDavid Preger, for Downing Street FinancialAdam M. Slavens, for Tarion Warranty CorporationLori Goldberg, for Fuller Landau, the Receiver of Alan Saskin
+
+HEARD:
+
+May 2, 2017
+
+ENDORSEMENT
+
+[1]
+
+Guy Gissin, the Israeli Functionary of Urbancorp Inc. (“UCI”) and recognized in this
+
+proceeding as the Foreign Representative, moves to set aside the disallowance of a claim madeby UCI in the claims process on a promissory note of $6 million issue by Bay LP, an Urbancorp
+
+CITATION: Re Urbancorp, 2017 ONSC 2900
+COURT FILE NO.: CV-16-11549-00CL
+DATE: 20170511
+
+- Page 2 entity, to Urbancorp Toronto Management Inc. (“UTMI”) and assigned by UTMI to UCI. Mr.Gissin also moves for a declaration confirming the validity of a companion $2 million note
+
+of UCI.
+
+[2]
+
+These notes were issued in connection with management fees to be paid by Bay LP to
+
+UTMI and they replaced an earlier $8 million note of Bay LP to UTMI. The relevant events arecontained in the Monitor's sixth report, as follows.
+
+[3]
+
+The management fee relates to a fee charged by UTMI to Bay LP in respect of the sale
+
+of Bay LP’s 49% interest (the “Sale”) in Downsview Homes Inc. (“Downsview Homes”) toMattamy Homes.
+
+A history of Downsview Homes, the Sale, the management fee and the
+
+promissory notes, is as follows:
+•
+June 28, 2011 – Downsview Homes, a nominee for Downsview Park,which was the nominee for Bay LP, entered into agreements (the “PurchaseAgreements”) for the purchase of lands (the “Lands”) from Parc Downsview ParkInc. (“PDP”). The Purchase Agreements were to close upon the rezoning of theLands. The date for the closing was unknown at the time of entering into thePurchase Agreements.
+•
+June 10, 2013 – A consulting agreement (the “Original Fee Agreement”)
+was entered into among Bay LP, Downsview Park and UTMI. The Original FeeAgreement provided, inter alia, that Bay LP would pay UTMI a $9.8 million fee ifBay LP successfully completed the Sale for an amount in excess of $18 million.
+The fee would become payable upon an invoice being rendered by UTMI to BayLP, which UTMI agreed would not be rendered prior to the closing of thePurchase Agreements with PDP. At the date of the Original Fee Agreement, thedate of the final closings for the Purchase Agreements was unknown. The finalclosings, as it turned out, occurred on June 4, 2015.
+•
+July 30, 2013 – Bay LP completed the Sale of its 49% interest to MattamyHomes for an amount in excess of $21 million. From the proceeds of the saleprice, UTMI received approximately $14.5 million in two separate payments
+($6.8 million and $7.7 million).
+
+issued by Bay LP to UTMI and assigned to Urbancorp Realtyco Inc. (“Realtyco”), a subsidiary
+
+•
+December 15, 2014 – An $8 million promissory note (the “OriginalPromissory Note”), dated December 15, 2014 was issued by Bay LP in favour ofUTMI. The debt supporting the Original Promissory Note was the unbilledbalance of the fee relating to the Original Fee Agreement (i.e. $9.8 million less
+$1.8 million fee accrued in 2013). The payment terms of the Original PromissoryNote differ from the payment terms of the Original Fee Agreement; the OriginalPromissory Note was “Due on Demand”, whereas the Original Fee Agreementspecifies the fee would be due upon the rendering of an invoice by UTMI to BayLP, which would not be rendered prior to the final closing of the PurchaseAgreements.
+•
+June 1, 2015 – An amending agreement (the “Amended Fee Agreement”)
+was entered into among Bay LP, Downsview Park and UTMI. The Amended FeeAgreement reduced the fee earned on the Sale by $3.0 million to $6.8 million.
+The Amended Fee Agreement also changed the date on which the fee is to be dueand payable to the date of the first advance from bcIMC Mortgage Fund
+(“bcIMC”) of the construction financing for the Downsview Park project. Thefirst funding from bcIMC, although not known at the time of the Amended FeeAgreement, occurred in 2016. The financing facility provided by bcIMC closedon July 21, 2016.
+•
+December 11, 2015 – The $8 million Original Promissory Note wasreplaced by a $6 million promissory note (the “$6 Million Promissory Note”) anda $2 million promissory note (the “$2 Million Promissory Note”) (collectively the
+“Substituted Promissory Notes”). The Substituted Promissory Notes makereference to the Original Promissory Note (although the Substituted PromissoryNotes state the Original Promissory Note had been issued on December 11, 2015
+rather than December 15, 2014). The terms of the Substituted Promissory Notesappear to be the same as the Original Promissory Note except that the SubstitutedPromissory Notes bear interest (at 1%), whereas the Original Promissory Notestated there is no interest. The $6 Million Promissory Note and the $2 MillionPromissory Note were assigned by UTMI on December 11, 2015 to UCI andUrbancorp Management Inc. (“UMI”), respectively; on the same day, UMI
+assigned the $2 Million Promissory Note to Realtyco.
+
+[4]
+
+UCI was incorporated to raise money in the Israeli bond market which it did in December
+
+2015 by raising $64 million through a public bond issuance on the Tel Aviv Stock Exchange.
+UCI was required as a condition of the bonds to transfer assets from Urbancorp to UCI tosupport UCI’s ability to pay the bonds. A number of Urbancorp entities were transferred intoUCI. As well, Mr. Saskin, the owner of the various Urbancorp entities, agreed to assign to UCI
+
+- Page 3 -
+
+- Page 4 $8 million of obligations described as loan obligations. The prospectus reflected this condition as
+
+“The Rights Holders [Mr. Saskin and his family] have committed that, prior to thelisting for trading [of the bonds]…they would transfer to [UCI] their rights … inthe transferred entities which indirectly hold rights to rental investmentproperty….and would assign [UCI] their right to the repayment of loans held be
+[sic] them, which amounts to CAD 8,000 thousand (hereinafter together “theTransferred Rights”)…
+
+[5]
+
+As part of the Bond Issuance, interim pro forma consolidated financial statements of UCI
+
+as of June 30, 2015 were prepared by Brightman Almagor Zohar & Co. (“Deloitte Israel”). Theseunaudited interim pro forma consolidated financial statements as at June 30, 2015 and as atSeptember 30, 2015 indicated that UCI had a current asset of $8 million in respect of “relatedparties”. The notes to the financial statement referred to an assignment to UCI of the right toreceive loans from entities owned by Mr. Saskin and his family.
+
+[6]
+
+Mr. Saskin was examined by counsel for the Foreign Representative. In answers to very
+
+leading questions he said that the reference in the prospectus to the right to repayment of $8
+million in loans and the reference in the pro forma unaudited statements to the current asset inrespect of related parties were to the $8 million promissory note. I find it difficult to understandwhy a promissory note issued in respect of obligations under the Original Fee Agreement formanagement fees, as acknowledged by the Foreign Representative in its factum, would bereferred to as a right to repayment of loans. There is no evidence the promissory note hadanything to do with loans. I do not put any reliance on the assertions of Mr. Saskin who has noreal recollection of the $8 million note or its purpose.
+
+[7]
+
+The Foreign Representative takes the position that UCI, as an assignee from UTMI, is a
+
+good faith holder in due course of the $6 million note free of any defect of title and personaldefences between the prior parties to the note. It also says that UCI gave value for the assignmentof the note to it by issuing special shares of UCI to Urbancorp Holdco, wholly owned by Mr.Saskin.
+
+follows:
+
+- Page 5 [8]
+
+The position of the Monitor and its reason for disallowing the claim of UCI on the $6
+
+million promissory note is that the original $8 million note was issued by Bay LP in favour of
+
+was not an obligation of Bay LP independent of the obligation under the Original FeeAgreement. By the time the substituted $6 million note was issued, Bay LP did not owe UTMI
+anything and UTMI owed Bay LP $527,655. This argument is based on the accounting recordsof Bay LP and UTMI. The Monitor also says that that UTMI provided no new consideration toBay LP in exchange for the issuance of the $6 million note.
+Analysis
+
+[9]
+
+A promissory note is not always a promise separate from an underlying transaction. In
+
+Benjamin Geva, Vol II, Negotiable Instruments and Banking Toronto: Emond MontgomeryPublications Ltd, 1995 it is stated at page 90:
+Sometimes, an instrument is taken by a creditor from his debtor merely toevidence the debtor's undertaking under the basic transaction (e.g., sale of goods,loan of money). In such a case, as between the debtor and creditor, the instrumentitself does not give rise to any liability on the debtor's part. The basic transactionremains the only effective source of the debtor's liability. The debt is neitherdischarged nor suspended by the giving of the instrument. The instrument is onlyintended to serve as evidence of the indebtedness.
+Normally, however, an instrument is given by a debtor to his creditor either ascollateral security to, or by way of payment of, the indebtedness arising from thebasic transaction. There is moreover a presumption in favour of payment.
+
+[10]
+
+What was the purpose of the original $8 million promissory note? It was signed by Mr.
+
+Saskin. On his cross-examination, he said he did not know what the purpose of the note was. Hesaid it was likely made on accounting and legal advice, but even on that he was guessing. Thereis no evidence from any accountant or legal advisor about the purpose of the note.
+
+[11]
+
+Mr. Cole of MNP, the accountant for Urbancorp, was asked what the reason was for the
+
+original $8 million note being split into two notes, one for $6 million and one for $2 million. He
+
+UTMI as evidence of the principal payment obligation under the Original Fee Agreement and
+
+- Page 6 said that the original note was split into two for tax purposes to avoid a capital gain on thetransfer of certain assets to UCI subsidiaries. What those certain assets were was not said. He
+
+interest, and his response was that he did not know. This information was not sworn butcontained in answer to questions posed by counsel for the Foreign Representative.
+
+[12]
+
+I cannot find that the $6 million note or the $2 million note were independent obligations
+
+regardless of whether the management fees were paid. The best that can be made on the recordbefore me is that they were issued for tax purposes.
+
+[13]
+
+So far as the original $8 million note dated December 15, 2014 is concerned, it
+
+represented the balance at that time of the management fees of $9.8 million to be paid under theOriginal Fee Agreement which had been reduced by the payment of $1.8 million which was paidnot by cash but by off-setting entries in the Bay LP and UTMI intercompany accounts. It hadnothing to do with any outstanding loans owed by Bay LP to UTMI.
+
+[14]
+
+The form of the $8 million promissory note bears all of the hallmarks of a note given by a
+
+debtor to an independent holder. For example, it provides that if the note is put in the hands of asolicitor for collection the borrower shall pay all costs as between a solicitor and his own client.
+The note was signed by Mr. Saskin. It was in favour of UTMI. Mr. Saskin controlled bothcompanies and the notion that he would retain a lawyer for his company UTMI to go after hiscompany Bay LP is fanciful. There is no evidence of any intent at the time for UTMI to assignthe note to any independent party who might wish to rely on such clauses.
+
+[15]
+
+Moreover, Bay LP was not a borrower at all but had a potential liability for management
+
+fees in the future if Bay LP was successful in selling its 49% interest in two agreements toacquire property. The amount of management fees depended on the amount received by Bay LP
+and could be only $3 million if the sale was for an amount up to $10 million, or $7 million if thesale was between $10 million and $18 million, or $9.8 million if the sale was for more than $18
+million. The note was said to be a demand note, which if truly was the case meant that UTMI
+
+was asked why the replacement notes provided for 1% interest when the original provided for no
+
+- Page 7 could demand payment of $8 million at any time even though management fees were not yetpayable or in that amount1 . Under the Original Fee Agreement no management fees could be
+
+it turned out did not occur until June 4, 2015.
+
+[16]
+
+I cannot find that the original $8 million note was an obligation of Bay LP independent of
+
+the obligation of Bay LP to pay management fees to UTMI. There is simply no evidence that itwas intended to be an obligation separate from the obligation to pay management fees. Like thelater $6 million and $2 million replacement notes, it is likely that the $8 million note was madefor some tax purpose of Urbancorp. The explicit terms of the $8 million note, like the terms ofthe replacement $6 million and $2 million notes, were not intended to be binding on Bay LP orUTMI.
+
+[17]
+
+An issue therefore is whether the balance owing by Bay LP to UTMI in management fees
+
+was paid, or paid by the time of the issuance of the replacement notes on December 11, 2015.
+The balance owing under the Original Fee Agreement as it turned out was $8 million. The totalmanagement fees were amended in the Amended Fee Agreement dated June 1, 2015 whichreduced the management fees to be paid by Bay LP to UTMI to $6.8 million in total, whichwould leave only $5 million outstanding.
+
+[18]
+
+It seems clear that as between Bay LP and UTMI, the accounting treatment was the
+
+method by which accounts were settled. The first payment of $1.8 million owing by Bay LP toUTMI was taken care of by the intercompany offsets.
+
+[19]
+
+The 2013 Bay LP financial statements reflect a “Management fees” expense of $1.8
+
+million in the statement of earnings.
+1
+
+These management fees were included in the 2013 Bay
+
+When the first payment of management fees was made in 2013, they were not yet owing as the purchase of thelands in question did not close until June 4, 2015 and no invoice for management fees was or could be rendered atthe time that payment was made. It is apparent that all of the documentation was not intended to be closely followed.
+
+invoiced or paid until after the purchase of the underlying properties were completed, which as
+
+- Page 8 LP’s balance sheet item “Accounts payable and accruals” of $1,817,030.
+
+On December 31,
+
+2014, the $1.8 million accrued management fee (plus HST for a total of $2,034,000) was entered
+
+acknowledged by the Foreign Representative that this was treated as a payment of the $1.8
+million payable for management fees.
+
+[20]
+
+The December 31, 2014 Bay LP financial statements reflected a “Management fees”
+
+expense of $8 million in the statement of earnings.
+
+The management fees were included in the
+
+2014 Bay LP’s balance sheet item “Accounts payable and accruals” item of $8,150,738. As atDecember 31, 2014, the intercompany accounts between Bay LP and UTMI reflected $3,537,135
+owing by UTMI to Bay LP, exclusive of the $8 million management fee accrual. If the $8
+million note was issued as an independent liability, it would be expected that the amountremaining owing for management fees would be recorded in the intercompany accounts as beingpaid by the note. That is not what happened.
+
+[21]
+
+On June 30, 2015 the intercompany account of Bay LP with UTMI recorded an accrued
+
+liability for management fees of $8 million. On December 31, 2015 that intercompany accountrecorded a reduction of $3 million that was stated to be a NMP year-end adjustment to themanagement fee accrued liabilities to UTMI. That is, NMP, the accountant for the Urbancorpentities, including Bay LP and UTMI, directed that year-end adjustment. At the year-end, theintercompany balance showed $527, 654.20 owing from UTMI to Bay LP. This was net of i.e.
+took into account, the remaining management fee liability.
+
+[22]
+
+The accountants for Bay LP provided the Monitor with the 2015 and 2016 Bay LP trial
+
+balances and year end adjusting entries. The December 31, 2016 Bay LP trial balance reflects abalance of $727,655 owing by UTMI to Bay LP. The December 31, 2015 Bay LP trial balancereflects a balance of $527,655 owing by UTMI to Bay LP.
+
+Neither the 2016 Bay LP trial
+
+balance nor the 2015 Bay LP trial balance reflects amounts owing to either UCI or Realtyco inconnection with the substituted $6 million and $2 million promissory notes.
+
+in the intercompany account between Bay LP and UTMI as being “capitalized”. It is
+
+- Page 9 [23]
+
+As well, the 2015 Bay LP trial balance was the basis for Bay LP’s 2015 T5013 tax
+
+information that Bay LP filed with the Canada Revenue Agency. The date of the certification ofwhich summarizes Bay LP’s assets, liabilities and partners’ capital.
+
+The Monitor points out that
+
+in the Schedule 100, there is no liability listed that would support an indebtedness in respect ofthe $6 million and $2 million promissory notes. That is, the tax return of Bay LP was a statementthat liability on the two notes did not exist.
+
+[24]
+
+The Foreign Representative says the intercompany balances should not govern as year-
+
+end adjusting entries were not made and had that occurred, they would have reflected a balanceowing on the $6 million and $2 million promissory notes. Reliance is placed on some answersprovided by Mr. Cole of MNP to questions posed by the Foreign Representative’s counsel. Inthose answers, which have not been sworn by Mr. Cole, he stated that it was his opinion that theintercompany balances were not completely accurate. In answer to a question “As the accountantto UTMI and [Bay LP], would MNP have posted year-end adjusting entries for these companiesif the intent had been to keep the $8 million debt outstanding?” Mr. Cole answered “Yes”. Inanswer to a further question “If yes, can you please advise what entries you would have posted inregards to this $8 million liability owed by [Bay LP]?” Mr. Cole stated “Unsure as did notprepare the financials”.
+
+[25]
+
+I do not take much from these unsworn answers as assisting the Foreign Representative.
+
+First, I have noted that in the 2015 intercompany Bay LP accounts, a year-end adjustment to the
+$8 million management fee accrual was made by MNP to reduce it by $3 million. Presumably itdid so after discussion with management. Second, the question put to Mr. Cole was whether hewould have made a year-end adjusting entry “if the intent had been to keep the $8 million debtoutstanding”. The question did not provide any particular year-end. Mr. Cole did not say, norpresumably could he say, that there was an intent to keep the $8 million debt outstanding.
+
+[26]
+
+In yet a further question as to whether Mr. Cole would have made any adjustment to
+
+recognize the $8 million liability in relation to the notes, he responded that he would have
+
+the 2015 Bay LP T5013 is “2016-03-30”. Included in the 2015 Bay LP T5013 is Schedule 100,
+
+- Page 10 inquired of management whether the note remained outstanding and if management said yes, theliability would have been booked. Apart from the fact that the information was unsworn and
+
+require a statement from management that the note was outstanding and presumably somequestions from Mr. Cole to test the reasonableness of the statement.
+
+[27]
+
+Mr. Cole did say that MNP was engaged to prepare the tax returns and the related
+
+adjusting year-end tax entries. The tax return of Bay LP for 2016 is direct evidence that the $8
+million debt was not outstanding.
+
+[28]
+
+Moreover, there was no question of $8 million being outstanding at the time of the
+
+replacement notes dated December 11, 2015. On June 1, 2015 the original management fee of
+$9.8 million was reduced by agreement by $3 million to $6.8 million, and $1.8 million of thathad already been paid. There was only $5 million left for a management fee under the AmendedFee Agreement.
+
+[29]
+
+The Foreign Representative relies on a provision in both the original $8 million
+
+promissory note and the replacement $6 million and $2 million notes that state that all paymentsto be made by Bay LP pursuant to the promissory note are to be made in freely transferrable andimmediately available funds and without set-off. Therefore it says there is no basis to contendthat the notes were paid by the management fees being set-off in the Bay LP and UTMI
+intercompany accounts by amounts owing by UTMI to Bay LP. The problem with this argumentis that this provision is part of promissory notes that as previously stated were never intended tobe binding on Bay LP or UTMI. It makes no sense for two companies controlled by Mr. Saskinto act on the basis of such a set-off provision and there is no evidence at all that Mr. Saskin at thetime of the notes wanted to prevent set-off of payments owing between Bay LP and UCI. Thewhole history of the affairs of the Urbancorp companies is that accounts were set-off each year.
+
+untested, it is not any evidence that the adjustment would in fact have been made. It would
+
+- Page 11 [30]
+
+Moreover, the notes were not independent obligations but reflective and given in
+
+connection with the management fee agreement, and the payments made were not made pursuant
+
+[31]
+
+I find that the management fees owing by Bay LP to UTMI have been paid and were paid
+
+by the time the replacement notes of the $6 million and $2 million were issued.
+
+[32]
+
+The $6 million note was assigned by UTMI to UCI. The Foreign Representative says
+
+UCI is a holder of that note “in due course” and that under section 73 of the Bills of ExchangeAct (“BEA”) a holder of a note in due course is entitled to enforce it in accordance with its termsfree from any defect of title and personal defences that UTMI might have had on the note.
+Section 57(2) of the BEA provides that every holder of a bill, in the absence of evidence to thecontrary, is deemed to be a holder in due course. The same argument is made with respect to the
+$2 million note that was assigned by UTMI to Urbancorp Management Inc. and then toUrbancorp Realtyco Inc.
+
+[33]
+
+A holder in due course is defined in section 55 of the BEA as follows55(1) Holder in due courseA holder in due course is a holder who has taken a bill, complete and regular onthe face of it, under the following conditions, namely,
+(a) that he became the holder of it before it was overdue and without notice that ithad been previously dishonoured, if such was the fact; and
+(b) that he took the bill in good faith and for value, and that at the time the billwas negotiated to him he had no notice of any defect in the title of the person whonegotiated it.
+
+[34]
+
+I do not see this defence assisting the Foreign Representative. The assignments of the
+
+notes were all signed by Mr. Saskin on behalf of companies he controlled and to companies hecontrolled. The notes were not intended to be acted on by the parties to them and the assignee
+
+to the notes but by way of entries in the intercompany accounts.
+
+- Page 12 companies are not able to suggest they were independent of the assignor and not aware of that. Inany event, by the time of the assignments of the notes, the underlying obligation to pay
+
+not take the assignments before the notes were overdue, which is a requirement of being a holderin due course.
+
+[35]
+
+Real (or absolute) defences do not constitute a defect of title and are available against a
+
+holder in due course.
+
+One such absolute defence is the discharge of the instrument by payment
+
+in due course. See Benjamin Geva, supra, at p. 133 and Crawford, B., Law of Banking andPayment in Canada (loose-leaf) , Toronto: Carswell, which states at §26:30.30(1):
+It is fundamental to any law of negotiable instruments that there be a distinctionbetween the substance of real, or absolute, defences on the one hand, and defectsof title and personal defences on the other. The former are the defences that applyagainst all persons, no matter whether the holder has or has not had notice ofthem, whether or not he took for value, whether before or after maturity, andwhether or not the instrument is complete and regular in form.
+
+[36]
+
+The Foreign Representative acknowledges that Mr. Saskin is the principal and controlling
+
+mind of Bay LP, UTMI and UCI. He argues, however, that Mr. Saskin’s involvement with thethree entities does not disqualify UCI from having obtained the $6 million promissory note ingood faith because at all material times, he believed, and continues to believe, that the $6 millionand $2 million notes are valid and enforceable. Reliance for this argument is placed on evidenceMr. Saskin gave on his examination by counsel for the Foreign Representative. I have a greatdeal of difficulty with this argument. Mr. Saskin made representations in the prospectus for theIsraeli bond offering and it is in his interest to say the notes are good and outstanding. As well,virtually all of his evidence was given to leading questions by counsel for a party in interest withMr. Saskin.
+
+[37]
+
+Mr. Saskin asserted that the replacement $6 million and $2 million notes dated December
+
+11, 2015 were good and that the $8 million was owed then and continues to be owed. Thathowever could not be the case. Apart from the fact that Mr. Saskin did not know what the
+
+management fees had been fulfilled and nothing was owing under the notes. The assignees did
+
+- Page 13 purpose of the original $8 million note was, and could not know what the purpose of the tworeplacement notes were, it is clear and admitted that the $8 million note was given in respect of
+
+issued for tax purposes, the management fee had been reduced on June 1, 2015 to reduce thetotal management fee to $6.8 million, $1.8 million of which had already been paid. Mr. Saskinsigned the Amended Fee Agreement on behalf of all of the parties, being UTMI, UrbanDownsview Park Development Inc. and Bay LP and had to know that $8 million could not havebeen owing. I do not put any store in Mr. Saskin’s assertions of a present day belief that the notesare valid and enforceable or were at the time he signed them.
+
+[38]
+
+The Foreign Representative argues that even if it is determined that Mr. Saskin was
+
+aware of a risk to the enforceability and validity of the 2015 $6 million and $2 millionpromissory notes, this knowledge should not be imputed to UCI because while Mr. Saskin wasthe controlling mind of UCI, the circumstances do not warrant discounting the lack of knowledgeof other UCI stakeholders, namely, the bondholders. I do not accept this. The bondholders havean interest in seeing the claim on the notes succeed, but it is UCI and not its creditors that isrelevant to whether UCI can be considered to have taken the notes with or without knowledge oftheir validity. The bondholders did not take any assignment of the notes.
+
+[39]
+
+I agree with the Monitor that given that UCI and Realtyco were controlled completely by
+
+Mr. Saskin, as were UTMI and Bay LP, and all relevant documents were signed by him, itcannot be reasonably held that UCI or Realtyco were unaware of this state of affairs betweenUTMI and Bay LP. I agree with the Monitor that neither UCI nor Realtyco can be said to beholders in due course. They cannot be said to have not had actual notice of the state of their ownintercompany affairs and the fact that the management fee pursuant to the Original FeeAgreement, as amended, had been fully booked as an expense against reported taxable incomeand “settled” or “paid” via postings to the intercompany account, especially given that UTMI
+administered the internal affairs of all of them.
+
+the $8 million balance owing for management fees and that before the replacement notes were
+
+- Page 14 [40]
+
+The Foreign Representative argues that if UCI was not a holder in due course when the
+
+$6 million note was assigned to it by UTMI, UCI was a holder for value of the note and that
+
+personal defences. In effect, it argues that the rights of a holder for value are greater than therights of a holder in due course, as a holder in due course is subject to real, or absolute, defences.
+Assuming without deciding that UCI gave value for the assignment of the note to it, I cannotagree with the Foreign Representative. Section 73 of the BEA does not provide that a holder invalue can sue subject only to any defects in title or mere personal defences. It simply says that aholder of a bill may sue on the bill in his own name and says nothing of what defences areavailable to a holder that is not a holder in due course. It provides:
+73. Rights and powers of holderThe rights and powers of the holder of a bill are as follows:
+(a) he may sue on the bill in his own name;
+(b) where he is a holder in due course, he holds the bill free from any defect oftitle of prior parties, as well as from mere personal defences available to priorparties among themselves, and may enforce payment against all parties liable onthe bill;
+(c) where his title is defective, if he negotiates the bill to a holder in due course,that holder obtains a good and complete title to the bill; and
+(d) where his title is defective, if he obtains payment of the bill, the person whopays him in due course gets a valid discharge for the bill.
+
+[41]
+
+A holder for value that is not a holder in due course is subject to real, or absolute,
+
+defences.
+Conclusion
+
+under section 73 of the BEA, UCI can enforce the note subject to any defects in title and mere
+
+- Page 15 [42]
+
+The motion of the Foreign Representative to dismiss the Monitor’s disallowance of UCI’s
+
+claim against Bay LP on the basis of the $6 million promissory note is dismissed. The motion of
+
+promissory note is also dismissed.
+
+[43]
+
+The Monitor has not claimed costs in its material. There will be no order as to costs.
+
+[44]
+
+The assets of Bay LP have been sold. The Monitor reports that after admitted claims and
+
+a reserve for expenses, $7,844,500 remains. There are disputed claims that if successful wouldeat up those remains. It is possible that the disputed claims would ultimately be dismissed,leaving equity available for the partners of Bay LP. One partner with a 20% interest is VestacoInvestment Inc. as a nominee of Doreen Saskin, the wife of Alan Saskin2 . Mr. Saskin himself is a79.99% partner in Bay LP. An agreement among all partners on May 15, 2008 provided Vestacowith a priority return of $7 million plus interest at 7% compounded annually.
+
+[45]
+
+The Foreign representative has contended in its factum that if the disallowance of the
+
+claim on the $6 million note is upheld, any equity in Bay LP after payment of all debts shouldnot go to Doreen Saskin. That argument was by agreement adjourned as other parties areinterested in the issue and it will come on for hearing when fully briefed. I would note that untilall claims against Bay LP are determined, the issue may be academic.
+
+2
+
+On December 9, 2016 Doreen Saskin transferred her beneficial partnership interest to DS (BAY) Holdings Inc.
+whose sole officer and director is Doreen Saskin.
+
+the Foreign Representative to confirm the validity and enforceability of the $2 million
+
+- Page 16 -
+
+Date: May 11, 2017
+
+Newbould J.
+

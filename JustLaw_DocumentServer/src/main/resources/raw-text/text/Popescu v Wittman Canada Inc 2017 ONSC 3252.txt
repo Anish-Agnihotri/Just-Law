@@ -1,0 +1,205 @@
+CITATION: Popescu v. Wittman Canada Inc., 2017 ONSC 3252
+COURT FILE NO.: CV-14-120773
+DATE: 20170526
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+PETRE POPESCU
+
+– and –
+WITTMAN CANADA INC.
+
+Plaintiff )
+Defendant )
+
+Vlad Popescu for the Plaintiff
+
+David Hager for the Defendant
+
+HEARD: May 15, 2017
+
+REASONS FOR JUDGMENT
+BOSWELL J.
+INTRODUCTION
+
+[1]
+Petre Popescu is a mechanical engineer. He used to work for Wittman Canada Inc.
+designing continuous desiccant dryers and some of the other products they manufactured. Hespent about twelve years working for them.
+
+[2]
+Apparently sales slowed considerably for Wittman in 2014. The slowdown must havecome on pretty suddenly because one Friday they handed Mr. Popescu a letter telling him not tobother coming in for work the following Monday. He was laid off with immediate effect. Hewas told the lay-off was expected to last approximately 35 weeks.
+
+[3]
+At the time he was laid off, Mr. Popescu was earning a salary of about $58,000 per year.
+He immediately applied for Employment Insurance benefits. He also started looking for a newjob, which he found about three months after he was laid off.
+
+[4]
+Mr. Popescu asserts that he was constructively dismissed and he sues for payment of 8
+weeks’ salary in lieu of notice in accordance the provisions of a written employment contract hehad with Wittman. Wittman argues that Mr. Popescu was not terminated and is not entitled tothe payment he seeks.
+
+ONTARIO
+
+[6]
+
+The reasons that follow explain why I grant judgment in favour of Mr. Popescu.
+
+THE CENTRAL ISSUE
+
+[7]
+Mr. Popescu had a written employment contract with Wittman. It contains a terminationclause but is otherwise silent about the right of the employer to impose a lay-off and/or about anyobligations it may have in the circumstances of a lay-off. The written agreement provides thatMr. Popescu is entitled, on termination, to the notice – or payment in lieu of notice – providedfor terminated employees under the Employment Standards Act, 2000, S.O. 2000, c. 41 (the
+“ESA”).
+
+[8]
+The ESA provides that eight weeks’ notice of termination are to be provided toemployees, like Mr. Popescu, with more than eight years’ service. But it also provides that anemployee on a temporary lay-off is not a terminated employee (s. 56(1)(c)). A temporary lay-offis defined as one of no more than 35 weeks in a 52 week period, provided that one of a numberof listed conditions is present. One of those conditions is where the employer continues to makecontributions towards a group insurance plan. Wittman did so in this case. It further providesthat an employee who is constructively dismissed is not terminated unless he or she resigns his orher employment within a reasonable period of time after the constructive dismissal. Mr. Popescudid not do so.
+
+[9]
+The facts are not generally in dispute. The question is whether Mr. Popescu wasterminated and thereby entitled to payment equal to the notice period provided for in the ESA. Ifso, the parties are agreed that the amount owing is $9,002.09.
+THE EMPLOYMENT CONTRACT
+
+[10] The employment contract is dated June 4, 2001. I infer that it was prepared by theemployer.
+
+[11] The contract contains a boilerplate “entire agreement” clause at para. 8.3, which providesas follows:
+The provisions herein constitute the entire agreement between theCorporation and the Employee with respect to the subject matters hereofandsupersedesallpreviousexpectations,understandings,communications, representations and agreements, whether verbal orwritten, between the Corporation and the Employee with respect to thesubject matters hereof and may not be modified except by subsequentagreement in writing executed by the Corporation and the Employee.
+
+[5]
+The action came on for trial before the court on May 15, 2017. It proceeded as asimplified trial. Each side filed an affidavit, with exhibits, a factum and a casebook. No crossexaminations were conducted and no further evidence called. Counsel made their submissionsover the course of about ninety minutes.
+
+[12] Article 6 of the contract deals with the issue of termination. Section 6.1 deems Mr.Popescu’s employment to terminate should he die. Section 6.2 provides that Mr. Popescu can beterminated for cause at any time without notice. Section 6.3 provides that Mr. Popescu canterminate his employment by providing written notice of his intention to quit, provided he givesthe same notice that he would be entitled to under the ESA if the employer had terminated theemployment without just cause.
+
+[13] Section 6.4 is at the centre of the litigation. It provides for termination upon notice by theemployer and states:
+The Corporation my (sic) terminate the employment of the Employeewithout just cause, by giving the Employee the period of written workingnotice and payment of severance pay, if any, required by the EmploymentStandards Act (Ontario) or, in the alternative to such notice andseverance pay, by making such benefits contributions and by giving theEmployee the termination and severance pay, if any, required by theEmployment Standards Act (Ontario).
+
+[14]
+
+The contract does not mention anything about lay-offs.
+
+THE EMPLOYMENT STANDARDS ACT
+
+[15] The ESA provides for minimum standards to be adhered to in all but certain identifiedclasses of employment contracts in Ontario. Section 5(1) prohibits employers and employeesfrom opting out of any of the standards set by the Act. Section 5(2), however, permits anemployer and employee to include provisions in an employment contract that provide greaterbenefits to the employee than the ESA otherwise provides. In such a case, the provisions of thecontract supersede the standards of the Act.
+
+[16] Standards relating to the termination of employment are found in Part XV of the ESA
+(sections 54-62).
+
+[17]
+
+Termination is defined in s. 56(1) as follows:
+56. (1) An employer terminates the employment of an employee forpurposes of section 54 if,
+(a) the employer dismisses the employee or otherwise refuses or isunable to continue employing him or her;
+(b) the employer constructively dismisses the employee and theemployee resigns from his or her employment in response to thatwithin a reasonable period; or
+(c) the employer lays the employee off for a period longer than theperiod of a temporary lay-off.
+
+The term “temporary lay-off” is defined in s. 56(2) and includes:
+(b)
+
+a lay-off of more than 13 weeks in any period of 20 consecutiveweeks, if the lay-off is less than 35 weeks in any period of 52
+consecutive weeks and,
+…
+(ii) the employer continues to make payments for the benefit of theemployee under a legitimate retirement or pension plan or alegitimate group or employee insurance plan…
+
+THE PARTIES’ POSITIONS
+
+[19]
+Mr. Popescu submits that the employment contract is a complete agreement between theparties as to the terms of his employment. It did not give Wittman the right to lay him off. Sucha unilateral lay-off, he argues, amounts to a constructive dismissal at common law and is abreach of the employment contract.
+
+[20] Mr. Popescu says that he was terminated and interprets s. 6.4 of the contract as requiringWittman to pay him eight weeks’ salary in lieu of notice, in accordance with the provisions ofthe ESA applicable to terminated employees.
+
+[21] Wittman concedes that Mr. Popescu was constructively dismissed according to thecommon law. They argue, however, that s. 6.4 of the employment agreement imports, by directreference, the statutory benefits, if any, provided for in the ESA. The question, in the result, iswhether the constructive dismissal of Mr. Popescu triggers termination pay, according to theprovisions of the ESA. In Wittman’s submission, it does not.
+
+[22] Wittman interprets s. 6.4 as saying, in effect, that in the event of termination, Mr.Popescu is entitled to what the ESA gives him, if anything. Under the ESA, not every terminatedemployee is entitled to termination pay. For instance, an employee constructively dismissed isnot entitled to termination pay unless the employee resigns from his or her employment within areasonable period of time in response to the constructive dismissal. In this case, Mr. Popescuwas advised of his lay-off on March 7, 2014. He did not notify Wittman that he was resigning.
+He simply failed to show up when recalled to work on September 29, 2014. Moreover, the ESA
+specifically provides that no termination pay is payable in the event of a temporary lay-off.
+
+[23] Wittman also argues that Mr. Popescu failed to plead ESA damages in his statement ofclaim. The court is urged to dismiss the claim on that basis.
+DISCUSSION
+The Sufficiency of the Pleadings
+
+[18]
+
+[25] In the amended statement of claim dated November 18, 2014, Mr. Popescu soughtdamages of $20,870.40 for constructive dismissal, together with $15,000 in damages for analleged breach by Wittman of its duty to act in good faith in the course of dismissing him.
+
+[26] At paragraph 13 of the amended claim, Mr. Popescu described his claim as an entitlementto reasonable notice in accordance with common law principles. He sought pay in lieu of notice,equal to 18 months’ salary and benefits.
+
+[27] Wittman is correct that Mr. Popescu did not expressly claim damages in accordance withthe provisions of the ESA. At paragraph 18 of the amended claim, however, he stated thefollowing:
+The Plaintiff states that the Defendant has failed to provide him witheven the minimum amounts as required by the ESA.
+
+[28] At trial Mr. Popescu limited his damages claim to the notice provisions set out in s. 57 ofthe ESA, specifically 8 weeks’ notice.
+
+[29] In its statement of defence, Wittman took the position that Mr. Popescu was validly laidoff in accordance with the provisions of the ESA and was, accordingly, not terminated. In thealternative, if he was terminated effective March 10, 2014, his right to payment on terminationwas limited to 8 weeks’ salary.
+
+[30] As Doherty J.A. observed in Rodaro v. Royal Bank of Canada (2002), 59 O.R. (3d) 74, atpara. 60, “It is fundamental to the litigation process that lawsuits be decided within theboundaries of the pleadings.” A finding of liability and consequent damages against a defendantbased on a cause not pleaded by the plaintiff prejudices the defendant who may well beunprepared to address the issue in evidence at trial.
+
+[31] It is not the case, however, that pleadings are to be interpreted narrowly. A generous andliberal interpretation of pleadings is generally appropriate: see Link v. Venture Steel Inc. (2010),69 B.L.R. (4th ) 161. A liberal interpretation of pleadings is in step with Rule 1.04 of the Rules ofCivil Procedure which requires the court to interpret the rules of the court with a view toachieving the most expeditious and cost-effective determination of a proceeding on its merits.
+
+[32] This is, ultimately, a simplified trial of a $9,000 claim. The issue of payment inaccordance with the notice provisions of the ESA may not have been expressly pleaded by Mr.Popescu. But the issue was engaged in the statement of defence. There is no question thatWittman was alive to the issue and has addressed it from the outset of the proceedings. It wouldnot, in the circumstances, be fair, reasonable, or in the interests of justice to dismiss the claim onthe basis that the issue was not pleaded clearly enough.
+The Entitlement to Damages
+
+[24] I will begin my discussion of the live issues with the matter of the sufficiency of Mr.Popescu’s pleading.
+
+[33] The issue of what, if anything, Mr Popescu is entitled to by way of damages turns on thecourt’s interpretation of s. 6.4 of the employment contract.
+
+(a)
+
+as a whole, in a manner that gives meaning to all of its terms and avoids aninterpretation that would render one or more of its terms ineffective;
+
+(b)
+
+by determining the intention of the parties in accordance with the language theyhave used in the written document and based upon the "cardinal presumption" thatthey have intended what they have said;
+
+(c)
+
+with regard to objective evidence of the factual matrix underlying the negotiation ofthe contract, but without reference to the subjective intention of the parties; and (tothe extent there is any ambiguity in the contract),
+
+(d)
+
+in a fashion that accords with sound commercial principles and good businesssense, and that avoid a commercial absurdity.
+Ventas, Inc. et. al. v. Sunrise Senior Living Real Estate Investment Trust et. al.
+(2007), 85 O.R. (3d) 254 (C.A.), at para. 24.
+
+[35] Employers and employees are entitled to enter into contracts that define their rights andobligations in relation to the employee’s employment. They may not, however, enter intoprovisions that attempt to contract out of the minimum standards of employment provided for inthe ESA: see s. 5(1) of the Act and Machtinger v. HOJ Industries Ltd., [1992] 1 S.C.R. 986, atpara. 26.
+
+[36] It is well-settled that at common law, employment may be terminated without cause onlyon the provision of reasonable notice. A provision in an employment contract that provides for aspecific notice period (or payment in lieu of notice) will displace the common law presumptionof reasonable notice, provided the provision meets the minimum standards of the ESA:
+Machtinger, paras. 34-35.
+
+[37] In this case the parties agreed on a specific notice period by reference to the minimumnotice periods set out in the ESA. There is no assertion that their agreement offends theminimum standards of the Act. They have, in effect, displaced the common law presumption ofreasonable notice on termination and instead have turned the statutory minimum into acontractual maximum.
+
+[38] The real question is, however, in my view, just exactly how much of the terminationprovisions of the ESA have the parties incorporated into the employment contract by reference?
+The answer is found in the wording of the contract.
+
+[39] First, the parties have agreed that the content of the employment agreement is the wholeof the agreement between them. There is no provision in the contract that permits Wittman to
+
+[34] The court is guided by certain principles in the interpretation of commercial contracts. Inparticular, a commercial contract is to be interpreted,
+
+lay-off Mr. Popescu. In the result – and this is not contested – the purported lay-off was aconstructive dismissal of Mr. Popescu.
+
+[41] Wittman interprets this provision to mean that if there isn’t any termination or severancepay required by the ESA in the circumstances, then Mr. Popescu gets nothing.
+
+[42] Wittman argues that there is no termination pay required by the ESA in the circumstancesbecause (1) this was a constructive dismissal and Mr. Popescu failed to resign within areasonable period of time; and/or (2) this was a temporary lay-off within the meaning of s.
+56(2)(b)(ii). In other words, in accordance with the provisions of the ESA, Mr. Popescu was notterminated.
+
+[43]
+
+I am unable to accept Wittman’s argument.
+
+[44] I agree that, in accordance with ss. 56(1) and (2) of the ESA, an employee is notterminated if he is only temporarily laid off, or if he fails to resign within a reasonable time afterbeing constructively dismissed. But in my view these provisions are not operative in this case;they have been displaced by the employment contract.
+
+[45] Recall that the employment contract represents the entire agreement between the partieswith respect to matters relating to Mr. Popescu’s employment.
+
+[46] It is agreed that Mr. Popescu was constructively dismissed, according to the commonlaw. While the ESA provides that a constructively dismissed employee is only a terminatedemployee if s/he resigns within a reasonable period after the constructive dismissal, theemployment contract does not. In this sense the requirements under the employment contract aremore beneficial to Mr. Popescu than those in the ESA. The contract displaces the ESA
+provisions.
+
+[47] Furthermore, the ESA countenances temporary lay-offs of up to 35 weeks, withouttermination pay. But that’s a minimum standard. Here, the employment agreement does notcountenance temporary lay-offs without termination pay. Again, the contractual terms displacethe minimum standards of the Act.
+
+[48] Section 6.4 expressly imports the notice provisions of the ESA. It does not expressly, norimpliedly, import the termination provisions of the ESA. It has its own express provisions fortermination and those express provisions form the entire agreement between them.
+
+[49] I find that Mr. Popescu was terminated. I further find that the employment contract,being the entire agreement between them, displaces the termination provisions of the ESA, savefor the notice provisions which are expressly incorporated by reference.
+
+[40] According to paragraph 6.4 of the contract, upon dismissal (termination) Mr. Popescu isentitled to “the termination and severance pay, if any, required by the ESA.”
+
+[51] The parties have alerted me to their expectation that the issue of costs may be complex. I
+invite them to make written submissions on the following turnaround: Mr. Popescu shall haveuntil June 9, 2017 to serve and file his submissions on costs. Wittman shall have until June 23,2017 to serve and file their submission. Mr. Popescu shall have until June 30, 2017 to file anyreply. Submissions are not to exceed 3 pages in length and are to be submitted to me through myassistant’s email: Diane.Massey@Ontario.ca.
+
+Boswell J.
+Released: May 26, 2017
+
+[50] Mr. Popescu is entitled to the notice provided for terminated employees under s. 57 of theESA. In his case that amounts to 8 weeks’ notice, or pay in lieu of 8 weeks’ notice. The partiesare agreed that the amount is $9,002.09. Mr. Popescu shall have judgment in that amount.
+

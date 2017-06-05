@@ -1,0 +1,131 @@
+CITATION: Carter et al. v. Minto Management Limited et al., 2017 ONSC 3131
+COURT FILE NO.: CV-16-564220
+MOTION HEARD: 20170515
+
+RE:
+
+Sean Carter and Meghan Somerville, Plaintiffs/Responding PartiesAND:
+Minto Management Limited and Minto Group Inc., Defendants/Moving Parties
+
+BEFORE:
+
+Master P.T. Sugunasiri
+
+COUNSEL: Counsel, for the Defendants/Moving Parties: E. HeersinkCounsel, for the Plaintiffs/Responding Parties: S. CarterHEARD:
+
+May 15, 2017
+REASONS FOR DECISION
+
+[1]
+
+This is a motion brought by the Defendants (“Minto”) to strike one paragraph in thePlaintiffs’ Fresh as Amended Statement of Claim (“Claim”) pursuant to Rules 25.06 and25.11 of the Rules of Civil Procedure. For the reasons set out below, I dismiss Minto’smotion with costs payable to the Plaintiffs.
+Nature of the Proceeding
+
+[2]
+
+The action arises out of Mr. Carter and Ms. Somerville’s tenancy at “High Park Village”
+during the period May 2007-2012 (“material period”). High Park Village was owned andoperated by the Minto Defendants. Mr. Carter and Ms. Somerville (collectively the
+“Plaintiffs”) allege that throughout the material time, the Defendants deprived them ofpeaceful and quiet enjoyment of their leased apartment as a result of ongoingconstruction projects throughout the material period.
+
+[3]
+
+They issued a claim in November of 2015 which was later amended to its current form onNovember 24, 2015. The Claim alleges negligence, breach of contract, and bad faith inaddressing the disruption caused by the construction. The Plaintiffs seek rent abatement,or in the alternative, damages for negligence and breach of contract and aggravateddamages. The entire amount claimed is $45,000, hence proceeding under the simplifiedprocedure rules.
+
+[4]
+
+The Defendants have not defended the Claim. Instead, they bring the within motion tostrike paragraph 7 of the Claim on the basis that it contains admissions, and pleadevidence. The impugned paragraph reads as follows:
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+7.
+
+Throughout the plaintiffs’ tenancy at High Park Village, the plaintiffs continually were deprived of peac eful andquiet enjoyment of their leased apartment due to the acts or omissions of the defendants, its employees,directors/officers, contractors and other third party agents. These included but are not limited to the following:
+a)
+
+Constant construction and repair to the various High Park Village buildings which wereconducted throughout normal weekday business hours and often after and before businesshours (including as early as 5:30 am and not ending until often 8:00 pm), including “hydrodemolition” which the defendants admit had a significant impact on daily activities, including
+“sleeping”, “eating” and “talking on the phone”.
+
+The defendants admitted that this
+
+construction, which occurred at many buildings in the area, would include times after 6:00pmand before 8:00am Monday to Friday and on the weekends. In a Notice dated April 5, 2012,the following was stated:
+…
+Please be advised that the hydro-demolition phase is anticipated to start onApril 10, 2012 through to April 30, 2012, according to esti mate schedule times.
+This phase requires the removal of the concrete where the most noise will occur.
+While every attempt has been made to confine the timeframe of the work tomitigate disruption, you will experience high levels of noise as a result of t heconcrete removal. This could impact your daily activities including, but notlimited to eating, talking on the telephone, watching television or sleeping. Weare pleased to advise that the remaining parts of each phase are not anticipatedto involve the same amount of noise. …
+The underground garage work will take place during the weekdays between thehours of 8:00 a.m. and 6:00 p.m. If at anytime weekend work is scheduled, itwill be to maintain the project schedule due to lost time. When work isscheduled on weekends, we will make every attempt to provide 24 – 48 hoursnotice of such work. Work that takes place on Saturday will not commencebefore 9:00 a.m. or after 5:00 p.m. ….
+
+b) This was an ongoing litany of construction projects during the tena ncy, including poolupgrades, elevator upgrades, exterior stair well repairs, inter alia.
+
+These were continuing
+
+acts and omissions by the defendants, during which time the defendants showed callousdisregard for the plaintiffs, and acted throughout in bad faith claiming that the issues that had
+
+Breaches of Legislative, Contractual and Other Duties
+
+arisen would be addressed and compensation and/or abatement of the rent would beeventually given (which they did not) (collectively, the “Breaches”).
+
+[5]
+
+The Defendants rely on Rules 25.06(1), 25.06(7) of the Rules of Civil Procedure to arguethat setting out the exact wording of the notice alleged to have been posted by theDefendants is contrary to the legal principle that litigants must not plead evidence. A subset of evidence is an admission. The Defendants therefore submit that the use of the word
+“admit” in two places in paragraph 7 is highly prejudicial and impermissible. They allegethat such pleadings constitute “trial by pleadings”. In sum, Minto asks that all ofparagraph 7 of the Claim be struck pursuant to Rule 25.11 as being an abuse of process.
+The Plaintiffs’ Position
+
+[6]
+
+In contrast, the Plaintiffs rely on the same provisions of the Rules to contend that thequoting of the notice alleged to have been posted by Minto is for the purpose of meetingthe heightened requirement of a party to plead with greater particularity when malice orintent is pleaded. They further suggest that including the wording of the notice fallssquarely within the parameters of Rule 25.06(7) which states:
+The effect of a document or the purport of a conversation, if material,shall be pleaded as briefly as possible, but the precise words of thedocument or conversation need not be pleaded unless those words arethemselves material.
+
+[7]
+
+In this case, the Plaintiffs are alleging an intentional and knowing deprivation of peacefulenjoyment of their premises and bad faith in the representations made by the Defendantsin compensating them. As such, the Plaintiffs argue that it is incumbent upon them toplead the full particulars of these allegations. In any event, the Plaintiffs state that there isno prejudice to the Defendants and that if anything, the pleading gives furtherparticularity to allow Minto to properly respond.
+Analysis
+
+[8]
+
+It is trite law to say that a pleading containing evidence may be struck out, as may be apleading of an admission (see for example Perell, J’s summary of this law in Jacobson v.
+Skurka, 2015 ONSC 1699 at paras. 44 and 45.) The fact that a pleading may be struck outdoes not mean in every instance, that it should. It is also important to keep in mind Rule1.04 of the Rules of Civil Procedure which requires the Court to construe the Rulesliberally in order to secure the most just, expeditious and proportional determination onthe merits of every proceeding. As Justice Shaw noted in Jourdain v. Ontario, 2008
+The Defendants’ Position
+
+In this case, while the inclusion of the notice is possible evidence of the generalallegation in paragraph 7 that the construction had a significant impact on the Plaintiffs’
+eating, sleeping etc., there is not always a bright line that distinguishes materials factsfrom evidence and/or particulars. Sometimes an allegation can be all three. Here, even ifthe notice may be construed as evidence, it is also material to the overall allegations ofnegligence, breach of contract, and bad faith, and conceivably falls within the purview ofRule 25.06(7). In other words, the effect of the notice may be material to whether or notMinto met their contractual or legal obligations to the Plaintiffs. While the Rule statesthat any such document need not be set out in its entirety, it does not mean that it cannotbe. In this case, the notice is fairly brief and the Plaintiffs have opted to put its wordingin the body of their Claim.
+
+[10]
+
+I also agree with the Plaintiffs that because they have alleged bad faith, the Defendants’
+knowledge of the disruption, and the extent of it, is material. The inclusion of the noticecan be readily seen as a required particularization of the Plaintiffs’ basis for theirallegation of bad faith or the knowing deprivation of the peaceful enjoyment of theirapartment.
+
+[11]
+
+Along the same lines, the fact that the Plaintiffs used the word “admit” in paragraph 7
+does not itself warrant excising the entire paragraph from the Claim. There is nothingwrong with a Plaintiff alleging knowledge on the part of a Defendant. The fact that thePlaintiffs may have chosen their words poorly in a very small and discreet part of theClaim does not warrant the Court’s intervention.
+
+[12]
+
+Even if I am incorrect in my analysis, there is certainly no prejudice to the Defendants inleaving in paragraph 7 of the Claim. Minto can easily defend the paragraph and can test itfurther in discovery. This is not a case in which there is a pleading rampant withsweeping paragraphs of evidence such that there is a “trial by pleading” as theDefendants allege.
+
+[13]
+
+Given the foregoing, I need not discuss in detail whether or not paragraph 7 is an abuse ofprocess. A pleading that is relevant and material to the Claim cannot be abusive. Even ifparagraph 7 can be seen as containing some evidence, the mere fact that a singleparagraph in a five-page pleading contains evidence is not de facto abusive. Such aninterpretation would be overly restrictive and runs afoul of the above mentioned principlethat in general parties, must be left to craft their own pleadings without forensic reviewby the Courts. I dismiss Minto’s motion to strike paragraph 7 of the Claim with costs tothe Plaintiffs.
+Costs
+
+[14]
+
+This matter is unfortunately a shining example of the robust motions culture that stillseems to plague our justice system. Proportionality should govern all steps a litigantchooses to take in a proceeding. In the present case, the action falls within the simplifiedprocedure rules. Unnecessary time was spent preparing a motion and arguing about asingle paragraph in a statement of claim that could have been addressed easily and
+
+[9]
+
+[15]
+hours’ worth of work done by Mr. Carter at his partial indemnity rate, plus disbursementsin the amount of $470.97.
+Disposition
+
+[16]
+
+I order the following:
+a. Motion is dismissed; andb. Costs are payable by the Defendants/Moving Parties in the amount of $2330.97
+inclusive of disbursements and HST within 30 days from the date of thesereasons.
+
+Master P.T. SugunasiriDate: May 23, 2017
+
+efficiently in a statement of defence. I am guided by a recent decision of Mr. JusticeDunphy when he suggested that an appropriate litmus test for every decision taken in thelitigation process is whether or not the step has a material impact on the actualadvancement of the dispute towards its final resolution on the merits (see TD Bank NA v.
+Lloyd’s Underwriters, 2017 ONSC 2464, [2017] OJ No 1939 at paras. 13 and 14). Thismotion, even if it had been successful, would not have had a material impact on the actualadvancement of the dispute to its final resolution on the merits.
+

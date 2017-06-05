@@ -1,0 +1,725 @@
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+STARCALL WIRELESS
+COMMUNICATIONS INC. AND
+STARCALL II INC.
+Plaintiffs
+– and –
+BELL MOBILITY INC.
+Defendant
+
+) Thomas G. Conway for the Plaintiffs
+) Noel Peacock for the Defendants
+) HEARD: March 30, 2017
+
+RULING ON MOTION FOR SUMMARY JUDGMENT
+TOSCANO ROCCAMO J.
+Overview
+
+[1]
+
+This is a motion for summary judgment under Rule 20 of the Rules of Civil Procedure,
+
+R.R.O 1990, Reg. 194, brought by Starcall Wireless Communications Inc. and Starcall II Inc.
+(hereinafter “Starcall Companies”).
+
+[2]
+
+The Starcall Companies commenced an action against Bell Mobility (hereinafter “Bell”)
+
+to recover monies that it paid to Bell under protest, to facilitate a sale of its assets to a thirdparty. This payment was made to satisfy a debt that Bell alleged was owed by the StarcallCompanies. The Starcall Companies deny any indebtedness to Bell on the basis that Bell hasfailed to prove any debt was owed. In the alternative, the Starcall Companies argue that if a debt
+
+CITATION: Starcall Wireless Communications Inc. v. Bell Mobility Inc.,2017 ONSC 2813
+COURT FILE NO.: CV-16-67897
+DATE: 20170515
+
+2
+owed, it has become statute-barred.
+
+[3]
+
+Bell seeks a dismissal of the Starcall Companies motion for summary judgment and
+
+The Issues
+
+[4]
+
+The issues before the Court are as follows:
+a) Is there a genuine issue requiring a trial?
+b) Was there a debt outstanding from the Starcall Companies to Bell as of 2014?
+c) If there was a debt owing, was it a demand obligation?
+d) Would collection of a debt nevertheless be statute-barred by the Limitations Act,2002, S.O. 2002, c 24, Sch. B.?
+
+Factual Background
+
+[5]
+
+Canadians can access a variety of Bell wireless devices and plans from various sources,
+
+including independent dealers. Through Dealership Agreements, Bell contracts with dealers tooperate stores under its brand. Dealers earn commissions on sales they make.
+The Dealership Agreements
+
+[6]
+
+The Starcall Companies entered into Dealership Agreements with Bell or its predecessor,
+
+Bell Distribution Inc. (BDI), and operated stores in Smiths Falls, Barrhaven and Stittsville,Ontario. The Agreements were periodically renewed.
+
+[7]
+
+The Starcall Companies executed three agreements (2004 Agreements) with Bell for each
+
+of its locations—two in June 2004 and one in December 2004.
+
+[8]
+
+Though set to expire in 2009, the 2004 Agreements were extended until a new agreement
+
+was reached in 2011 (2011 Agreement). These Agreements covered several topics, including thereconciliation process, whereby dealers and Bell would compare financial records of theirdealings with each other and resolve their differences in relation to sales commissions owing byBell to the dealers.
+
+[9]
+
+Several clauses in the Agreements are at issue in this matter:
+
+requests an order granting summary judgment in its favour, dismissing the action.
+
+[10]
+
+Dealers waived the right to dispute discrepancies in reconciliation if they failed tonotify Bell within 120 days of the occurrence. Once notified of a reconciliationdispute, Bell had to respond within 60 days of receiving notice (2004 Agreementsand 2011 Agreement). The August 2004 Dealer Compensation Statement alsoindicates that dealer disputes with paid commissions were to occur within a quick,albeit different timeline of 90 days.
+
+Dealers were obligated to maintain records of subscriber contact information andcontracts for 10 years. There was no obligation to maintain records not directlyrelated to customers (2004 Agreements).
+
+The dealers had to obtain Bell’s consent before assigning its interest in a DealerAgreement to a third party. Consent was not to be unreasonably withheld ordelayed (2004 Agreements).
+
+Certain rights and obligations were to survive the expiration or termination ofeach Dealer Agreement, including the above provisions (2004 Agreements and2011 Agreement).
+
+Each party had a duty to exercise due diligence in verifying reports and writtencommunications sent by Bell to identify discrepancies related to commissionpayments, credits and other calculations about the sale of Bell products andservices (2011 Agreement).
+
+The 2011 Agreement was to supersede all Agreements, except any provisions relating to
+
+Bell’s cash advances to dealers for In-Store Price Reductions (ISPRs). Section 23.10 of the 2011
+Agreement reads as follows:
+For greater clarity and certainty, neither this clause nor the Agreement shallsupersede any separate agreements made between BDI or Bell Mobility andDealer for the distribution of Apple products through the Stores, anyagreements by BDI or Bell Mobility to advance the Dealer funds for InStore Price Reduction amounts or the Confidential Minutes of Settlementdated May 10, 2011 among certain dealers and Bell Mobility.
+In-Store Price Reductions (ISPRs)
+
+[11]
+
+In 2003, Bell began a special promotion for customers who bought and activated devices
+
+in dealer stores. Dealers would discount Bell phones at the point of sale, then Bell would refundthe discount to them. To alleviate the financial pressure on dealers who waited up to a month forreimbursement, Bell began advancing payments as credit against ISPRs. Advances were clawedback in the reconciliation of commission statements issued by Bell to its dealers.
+
+3
+
+4
+
+[12]
+
+Bell claims that it maintained an internal accounting system which it recorded cheque
+
+numbers, dates, amounts, and line item descriptions pertaining to ISPR advances. The only
+
+document with some line entries.
+
+[13]
+
+According to Bell, the document generated by its internal accounting archives shows that
+
+it issued two ISPR advances in cheques to the Starcall Companies, along with their commissions:
+
+[14]
+
+Cheque 115657— Full amount of $57,622.28, including ISPR advance of
+$32,744.
+
+Cheque 115658— Full amount of $72,595.45, including ISPR advance of
+$44,784.
+
+The cumulative total of ISPR advances issued to the Starcall Companies was $77,528.
+
+Bell’s archival records show that the Starcall Companies cashed these cheques on November 16
+and November 18, 2004 respectively. Bell has no copies of the cashed cheques or independentlyverifiable evidence corroborating the advances.
+
+[15]
+
+Terms of the ISPR advances in 2004 were set out in an August 2004 “Dealer
+
+Compensation Statement” and a November 2004 statement called the “ISPR Advance UpdateInformation.” The August 2004 Statement provided as follows:
+Subsidized Marketing PlansIn subsidized in-store price reduction marketing programs, BDI agreesto a revolving line of credit advance equal to the Bell World or BellMobility location’s monthly reimbursement amounts, to soften the cashflow impact to them, and ease the reconciliation to the end of thepromotion. [Emphasis Added].
+
+[16]
+
+The November 2004 statement stipulated that “This advancement will be maintained
+
+throughout the duration of this promotion.” [Emphasis Added].
+
+[17]
+
+The November 2004 statement also advised that Bell would increase ISPR advances as of
+
+that month, but claw back advances from May 2004 prior to the increase in November 2004.
+
+[18]
+
+Dealers were sent monthly commission summaries from Bell in which several notices of
+
+general application were included. Commission summaries from January 2009, November 2011
+
+evidence of this is offered in Exhibit M of its motion record, which appears to be an undated
+
+5
+and November 2012 included a notice on claw backs. The January 2009 statement was explicitly
+
+ISPR Advance—Between March 2003 and November 2005 advances weremade to compensate dealers for ISPR being reduced in store. This is areminder that the outstanding amounts are advances and are subject tochargeback.
+The Asset Sale and Account Reconciliation
+
+[19]
+
+The Starcall Companies negotiated an asset sale for $375,000 on February 4, 2014, with a
+
+closing date of March 3, 2014. Pursuant to the Dealership Agreement, the Starcall Companiesinformed Bell of the impending sale and sought consent. On Bell’s request, the closing date wasmoved to March 17, 2014.
+
+[20]
+
+On or about March 7, 2014, Mr. Michel Dubuc, Senior Manager, Planning and
+
+Development for Bell, provided a first draft of a Consent and Termination Agreement, whichrequired the Starcall Companies to remit $77,528 for allegedly outstanding advances theyreceived in November 2004. The Starcall Companies asked for particulars of this amount andwere notified on March 11, 2014 that it was the total carried over from the cheques issued onNovember 15, 2004.
+
+[21]
+
+On March 14, 2014, Mr. Dubuc sent the Starcall Companies examples of generic notices
+
+included with commission summaries to dealers whereby dealers were advised that ISPR
+advances are subject to chargeback.
+
+[22]
+
+The Starcall Companies questioned a debt owed to Bell and asserted that any such debt
+
+would in any event have been proscribed by the passage of time. Bell made its consent to theasset sale conditional on the repayment of the alleged debt. The Starcall Companies paid theamount under protest to save the pending asset sale from collapse.
+Issues & Analysisa) Is there a genuine issue requiring a trial?
+
+[23]
+
+The Parties agree there is no genuine issue requiring a trial. Both claim a right to
+
+summary judgment against the other.
+
+addressed to “All Bell Dealers,” and all statements included the following provision:
+
+6
+
+[24]
+
+Rule 20.04(2)(a) of the Rules of Civil Procedure provides that the court shall grant
+
+summary judgment if “the court is satisfied that there is no genuine issue requiring a trial with
+
+[25]
+
+With amendments to Rule 20 introduced in 2010, the powers of the court to grant
+
+summary judgment have been enhanced. Rule 20.04(2.1) states:
+In determining under clause (2) (a) whether there is a genuine issuerequiring a trial, the court shall consider the evidence submitted by theparties and, if the determination is being made by a judge, the judge mayexercise any of the following powers for the purpose, unless it is in theinterest of justice for such powers to be exercised only at a trial:
+1. Weighing the evidence.
+2. Evaluating the credibility of a deponent.
+3. Drawing any reasonable inference from the evidence.
+
+[26]
+
+In Hryniak v. Mauldin, 2014 SCC 7, the Supreme Court of Canada held that on a motion
+
+for summary judgment under Rule 20, the court should first determine if there is a genuine issuerequiring trial based only on the evidence in the motion record, without using the fact-findingpowers enacted when Rule 20 was amended in 2010. The analysis of whether there is a genuineissue requiring a trial should be done by reviewing the factual record and summary judgmentshould be granted if there is sufficient evidence to fairly and justly adjudicate the dispute and asummary judgment would be a timely, affordable and proportionate procedure.
+
+[27]
+
+If, however, there appears to be a genuine issue requiring a trial, then the court should
+
+determine if the need for a trial can be avoided by using the powers under rules 20.04(2.1) and
+(2.2). As a matter of discretion, the motions judge may use those powers, provided that their useis not against the interests of justice. Their use will not be against the interests of justice if theiruse will lead to a fair and just result and will serve the goals of timeliness, affordability andproportionality in light of the litigation as a whole.
+
+[28]
+
+Corbett J. provided a useful summary of the Hryniak v. Mauldin approach in Sweda
+
+Farms Ltd., v. Egg Farmers of Ontario, 2014 ONSC 1200, where he stated at paras. 33 and 34:
+33. As I read Hryniak, the court on a motion for summary judgment
+
+respect to a claim or defence.”
+
+7
+should undertake the following analysis:
+
+2)
+On the basis of this record, the court decides whether it can make thenecessary findings of fact, apply the law to the facts, and thereby achieve a fairand just adjudication of the case on the merits;3)
+
+If the court cannot grant judgment on the motion, the court should:
+a.
+Decide those issues that can be decided in accordance with theprinciples described in 2), above;b.
+Identify the additional steps that will be required to complete therecord to enable the court to decide any remaining issues;c.
+In the absence of compelling reasons to the contrary, the court shouldseize itself of the further steps required to bring the matter to a conclusion.
+
+34. The Supreme Court is clear in rejecting the traditional trial as the measure ofwhen a judge may obtain a “full appreciation” of a case necessary to grantjudgment. Obviously greater procedural rigour should bring with it a greaterimmersion in a case, and consequently a more profound understanding of it. But thetest is now whether the court’s appreciation of the case is sufficient to rule on themerits fairly and justly without a trial, rather than the formal trial being the yardstickby which the requirements of fairness and justice are measured.
+
+[29]
+
+Hryniak v. Mauldin does not alter the principle that the court will assume that the parties
+
+have placed before it, in some form, all of the evidence that will be available for trial. The courtis entitled to assume that the parties have respectively advanced their best case and that therecord contains all the evidence that the parties will respectively present at trial: Dawson v.
+Rexcraft Storage & Warehouse Inc. (1998), 111 O.A.C 201 (C.A.); Bluestone v. EnrouteRestaurants Inc. (1994), 18 O.R. (3d) 481 (C.A.); Canada (Attorney General) v. Lameman, 2008
+SCC 14, [2008] 1 S.C.R. 372, at para. 11. The onus is on the moving party to show that there isno genuine issue requiring a trial, but the responding party must present its best case or risklosing: Pizza Pizza Ltd., v. Gillespie (1990), 75 O.R. (2d) 255 (Gen. Div.); Transamerica LifeInsurance Co. of Canada v. Canada Life Assurance Co. (1996), 28 O.R. (3d) 423 (Gen. Div.),aff’d [1997] O.J. No. 3754 (C.A.).
+
+[30]
+
+In Hryniak v. Mauldin, although the Supreme Court of Canada commanded a very robust
+
+summary judgment procedure, it did not foreclose lower courts from simply dismissing the
+
+1)
+The court will assume that the parties have placed before it, in some form,all of the evidence that will be available for trial;
+
+8
+summary judgment motion and ordering that the action be tried in the normal course. Indeed,where there are genuine issues for trial and the lower court concludes that employing the
+
+determination of the merits, the court should not decide the matter summarily; Mitusev v.
+General Motors Corp., 2014 ONSC 2342, at para. 79; Gon (Litigations Guardian of) v. Bianco,2014 ONSC 7086 at paras. 41-47.
+
+[31]
+
+On a motion for summary judgment, parties must put their best foot forward or risk a
+
+loss: Sweda Farms at para. 26.
+
+[32]
+
+While parties have raised both factual and legal issues in the record before me, by the
+
+exercise of the powers enumerate in Rule 20.04 (2.1), they have persuaded me that the summaryjudgment procedure is the most timely, affordable, and proportionate procedure by which todispose of this motion, and obviates the need for a trial.
+b) Was there a debt outstanding from the Starcall Companies to Bell as of 2014?
+Position of the Parties
+
+[33]
+
+The existence of a debt is a factual question. The parties rest their positions on past
+
+practice and the evidence of the debt owing, or lack thereof.
+
+[34]
+
+The Starcall Companies take issue with Bell’s evidence of a debt for several reasons.
+
+Bell’s very limited evidence of the alleged debt has been solely generated from its internalaccounting system. Bell offers no independent third party verification of a debt. An examinationof internal database screenshots that Bell relies on shows columns for timeframes spanningbetween November 2004 and March 2009. While the November 2004 column shows a balance,all other columns are blank. The Starcall Companies argue that Bell is unable to rule out aninterpretation of the records to the effect that the debt was not carried forward, because it wasclawed back by Bell, in accordance with its process of periodic reconciliation of commissionspaid reconciliation of commission paid against the ISPR advance owing.
+
+[35]
+
+After over ten years, neither party has retained source records for the period in question.
+
+As such, Bell cannot demonstrate that it did not claw back the amounts owing as of November2004.
+
+enhanced forensic tools of the summary judgment procedure would not lead to a fair and just
+
+9
+
+[36]
+
+Both the 2004 Agreements and the 2011 Agreement required the Starcall Companies to
+
+dispute any discrepancies in Bell’s accounting within 120 days of the occurrence. The Starcall
+
+no amount was owing to Bell after November 2004. Any notification of a dispute by the StarcallCompanies within 120 days was arguably unnecessary because Bell had followed its practice toclaw back advances as it went along.
+
+[37]
+
+Bell argues that its internal database has consistently shown an outstanding ISPR debt.
+
+Bell maintained an accounting system that included cheque numbers, amounts, dates, and lineitem descriptions pertaining to the ISPR advances. In addition, Bell argues that dealers receivedmonthly summaries from Bell advising them that their ISPR advances were subject tochargebacks. Although Bell has been unable to produce all monthly summaries sent to theStarcall Companies after 2004, Bell maintains that generic statements sent to all dealers inJanuary 2009, November 2011 and November 2012 explicitly referred to advances madebetween 2003 and 2005.
+
+[38]
+
+Bell relies on its records to argue that the ISPR cheques from November 2004 were
+
+received by the Starcall Companies and deposited in the bank. Bell further argues that the depositis proof that the Starcall Companies intended to adhere to the terms of the ISPR advances. Bellmaintains that it is implausible that the Starcall Companies would not have noticed an additional
+$77,528 on their commission cheques. In any event, Bell argues that the Starcall Companieswere obliged by the 2011 Agreement to review and verify reports from Bell.
+Analysis
+
+[39]
+
+While Bell has presented some evidence of an amount initially advanced to the Starcall
+
+Companies, evidence as to an outstanding debt carried forward after November 2004 is lacking.
+Bell’s own record keeping is deficient and offers no evidence that the Starcall Companiesacknowledged any debt carried forward. The Starcall Companies’ reliance on Bell’s practice toclaw back any ISPR advances within months of their making is consistent with the Agreement inplace at the relevant time, and makes commercial sense.
+
+[40]
+
+The 2004 and 2011 Agreements reflect that dealers were to raise reconciliation issues
+
+within 120 days. I infer that the reconciliations, if necessary, would have occurred within a
+
+Companies suggest an inference may be drawn that no reconciliation process occurred because
+
+10
+narrow timeframe.
+
+[41]
+
+I pause to note that, in the course of argument, I questioned whether cross-examination of
+
+Dubuc’s allegation that Bell had a practice of carrying forward interest-free the dealers’
+indebtedness for ISPR advances for indeterminate periods of time until dealers sought Bell’sconsent to terminate or assign their rights under the Dealers Agreements. Both counsel submittedthat, given the passage of time, the best evidence of the relevant circumstances was contained inthe record and that costs associated with cross-examination of the affiants or a trial for the issuewould not afford a timely, affordable or proportionate procedure to dispose of the action.
+
+[42]
+
+As such, in the exercise of my powers under Rule 20.04(2.1), I draw a negative inference
+
+in the absence of any evidence to corroborate Bell’s alleged practice, and note that it fails toreconcile with the relevant provisions in the Agreements in support of timely reconciliation ofchargebacks against commissions to dealers.
+
+[43]
+
+Bell’s internal database screenshots show a balance for November 2004, and then show
+
+no amount outstanding until March 2009. Bell’s evidence of a debt carried forward isinconclusive. I echo the reasoning in Sweda Farms at para. 26: parties in summary judgmentmotions must present the best possible evidence of the claim that they advance. In support ofBell’s assertion of a debt, there is insufficient evidence supporting the carry forward of anyadvances not already clawed back against commissions as would be expected, such as notices tothe Starcall Companies of the overdue amount, or correspondence confirming the debt. That Bellwould simply waive its right to set off the outstanding advances against commissions regularlypaid to the Starcall Companies over the timeframe in question and carry forward any debtinterest-free makes little commercial sense.
+
+[44]
+
+The only notices of ISPR advances that Bell relies on to support a claim for chargebacks
+
+are general statements relating to ISPR advances automatically sent to all dealers, none of whichspecified an amount of indebtedness owed by any one dealer.
+
+[45]
+
+With the passage of time and the disposal of records, it is hardly surprising that the
+
+Starcall Companies have no record of any debt nor institutional memory of the events in
+
+Bell’s affiant Michel Dubuc, or a short trial was required to elicit evidence in relation to Mr.
+
+11
+question.
+
+[46]
+
+I would, therefore, find that a debt has not been proven. In the event that I am found to be
+
+purposes of the application of the statutory limitation period.
+c) If there was a debt owing, was it a demand obligation?
+Position of the Parties
+
+[47]
+
+Both parties argue that proper classification of the obligation, if any, found owing to Bell
+
+must be construed by reference to the wording of the August and November 2004 statements onadvances.
+
+[48]
+
+The Starcall Companies posit that the allegedly unpaid ISPR advances, if proven, would
+
+not be a demand obligation because repayment usually occurred within the time periodassociated with any one promotion. By contrast, Bell rests its case on the fact that no repaymentdate was specified, making the loan a demand obligation.
+Analysis
+
+[49]
+
+Assuming that Bell has proven an outstanding indebtedness owed to it by the Starcall
+
+Companies, it is necessary to determine the character of any indebtedness, whether a demandobligation or not, in order to determine whether the collection of the debt was barred by thepassage of a limitations period.
+
+[50]
+
+The Bills of Exchange Act, R.S.C. 1985, c.B-4, s. 22 defines a debt as payable on demand
+
+when
+(a) …expressed to be payable on demand or on presentation; or
+(b) [when] no time for payment is expressed.
+
+[51]
+
+Conversely, section 23 of the Bills of Exchange Act states that a bill is “payable at a
+
+determinable future time, within the meaning of this Act, that is expressed to be payable (a) atsight or at a fixed period after date or sight; or (b) on or at a fixed period after the occurrence of aspecified event that is certain to happen, though the time of happening is uncertain.”
+
+in error, I have considered whether the alleged advances were a demand obligation for the
+
+12
+
+[52]
+
+In summary, an obligation expressly payable on demand or without any timeline for
+
+payment is a demand obligation, in the usual case, whereas an obligation that arises at a fixed
+
+2012 ONSC 6998, at para. 31.
+
+[53]
+
+In this matter, the nature of the obligation at issue can arguably be discerned from the
+
+2004 statements on ISPR advances, as well as the commission statements from 2009, 2011, and2012. The August 2004 statement from Bell to all dealers states that credit advances equal to adealer’s monthly reimbursements would be provided to soften the cash flow implications of apromotion. Although the wording in the statement did not provide a precise timeline forrepayment, it appears to suggest the obligation turns on the occurrence of an event, its purposebeing to “ease the reconciliation to the end of the promotion.” The November 2004 statementfrom Bell stipulates that Bell would increase ISPR advances as of that month, but claw backadvances from May 2004.
+
+It concludes by noting that the advances would be maintained
+
+throughout the promotion. There is no dispute that dealer promotions were not indefinite. Theirtimeframe was limited to a period of months.
+
+[54]
+
+There appears to be an unresolved contradiction from evidence of three commission
+
+summaries to dealers that Bell relies on to maintain that outstanding advances issued betweenMarch 2003 and November 2005 were subject to claw backs. It is unclear, however, why Bellwould remind dealers that outstanding advances were subject to claw backs between 5 and 8
+years after the fact, and then take no steps to claw the payments back, in accordance with statedintentions.
+
+[55]
+
+No evidence was presented of any “reminders” of Bell’s ISPR policy between 2005 and
+
+the January 2009 Commission Statement.
+
+[56]
+
+Other transactions between Bell and dealers referenced by the commission statements
+
+adhered to significantly tighter timelines. The 2012 Commission summary stated that Bell itselfwould make ISPR payments in December 2012 to dealers on account of new activations andhardware upgrades for the month of November. Most transactions on the commission statementsoccurred over a period of between one and six months.
+
+date or after the occurrence of a certain event is not: Skuy v. Greennough Harbour Corporation,
+
+13
+
+[57]
+
+The nature of an obligation can be determined by its characteristics and documentation:
+
+Bank of Nova Scotia v. Williamson, 2009 ONCA 754. Furthermore, contracts are to be read as a
+
+agreement: Sattva Capital Corp. v. Creston Moly Corp., 2014 SCC 53.
+
+[58]
+
+I conclude from all of the circumstances brought to light in the record before me that, if a
+
+debt was owing by the Starcall Companies to Bell, it would not have been a demand obligation.
+Several factors support this inference:
+
+[59]
+
+By Bell’s own evidence, repayment of the advances was clawed back from thecommissions paid to its dealers. As such, repayment itself was not dependent on ademand. Rather, it was the expectation of the parties and entirely within Bell’scontrol to deduct advances from commission payments to dealers, as they fell due.
+
+The reconciliation process would have been of no effect and purpose if Bell werewithin its rights to indefinitely carry forward a debt until such time as no recordsor evidence were available to afford the dealer a reasonable opportunity to disputethe quantum of any debt.
+
+While the August and November 2004 communiqués from Bell outlining theterms of the ISPR advances do not mention that payments are to be made “ondemand,” an inference in keeping with commercial expectations between theparties is that the custom was to retrieve advances within months, rather than aftera prolonged or indefinite period of time. The August 2004 statement provided thatthe ISPR advances were made to “ease the reconciliation to the end of thepromotion,” while the November 2004 statement advised that “This advancementwill be maintained throughout the duration of this promotion.” Although therewas no fixed date for repayment, the expectation of the parties consistent withcommercial realities was that Bell would claw back the ISPR advance at the endof the promotion and from commissions payable. This inference is consistent withBell’s evidence that the ISPR promotion would have ended in 2004. While theStarcall Companies have no record as to the particulars of this promotion, basedon the evidence of both parties, promotions lasted a matter of weeks or a fewmonths and reconciliation would have occurred shortly thereafter.
+
+I, therefore, find that a debt, if any, owed by the Starcall Companies to Bell, was not a
+
+demand obligation. If I am in error, I would go on to consider whether a demand obligationwould in any event have been barred by the Limitations Act, 2002.
+
+whole, giving effect to the intention of the parties evidenced by the circumstances of the
+
+14
+d) Is collection of the debt statute-barred by the Limitations Act, 2002?
+Position of the PartiesThe Starcall Companies argue that whether or not any debt owing to Bell was a demand
+
+obligation, Bell’s claim was advanced after any applicable limitation period would have expired.
+
+[61]
+
+They argue that if this was not a demand obligation, the cause of action would have
+
+expired as of November 2006. The Starcall Companies posit that a similar outcome should applyif there was evidence of a demand obligation outstanding.
+
+[62]
+
+Citing the Court of Appeal in Hare v. Hare (2006), 83 O.R. (3d) 766 (Ont. C.A.), the
+
+Starcall Companies argue that a demand loan becomes fully mature and payable when it is made.
+Therefore, the limitations period would have commenced in November 2004, as per the previouss. 15(6)(c) of the Limitations Act, 2002, which was in force at the time of the alleged advances.
+
+[63]
+
+Although the legislature retroactively revised the Act on November 27, 2008 to apply
+
+from January 1, 2004 so as to provide that a default on a demand obligation would occur fromthe date a demand was made, the Starcall Companies argue that this did not revive Bell’s causeof action on the debt, if any is found owing.
+
+[64]
+
+The Starcall Companies rely on Bank of Nova Scotia v. Williamson, 2009 ONCA 754 at
+
+paras. 12 to 14 to maintain that, where a demand is a condition precedent for liability, thedemand is not necessary to crystallize the debt. This decision was rendered after the November2008 amendment.
+
+[65]
+
+The Starcall Companies argue that the expiration of a limitation period is a vested right
+
+that cannot be withdrawn by retroactive legislation. They rely on the Supreme Court of Canadadecision in Martin v. Perrie, [1986] 1 S.C.R. 41, in support of this proposition.
+
+[66]
+
+In further support of their cause, the Starcall Companies point to the reasoning of
+The “demand obligation” amendments in s. 5(3) and (4) of the LimitationsAct, 2002 only came into force in November, 2008 and cannot beinterpreted as reviving a cause of action against IPC or Igra after Berry’saction had already become statute-barred. This would amount to the
+
+[60]
+
+15
+
+[67]
+
+Bell’s position is that a demand obligation is at issue and as such is governed by the
+
+revised amendment to the Limitations Act, 2002, which reads:
+5 (3) For the purposes of subclause (1) (a) (i), the day on which injury,loss or damage occurs in relation to a demand obligation is the first dayon which there is a failure to perform the obligation, once a demand forthe performance is made.
+5 (4) Subsection (3) applies in respect of every demand obligation created on orafter January 1, 2004. (Emphasis added)
+
+[68]
+
+Because the alleged advances were made in November 2004, Bell argues that the
+
+retroactive amendments to the Limitations Act, 2002 would apply to this case, with the result thatthe limitation period did not begin to run until March 2014, when the first demand for paymentwas made.
+
+[69]
+
+Bell argues that the decision in Berry is distinguishable for several reasons. First, the
+
+promissory note in question was not a demand obligation and the demand was not established onor after January 1, 2004.
+
+[70]
+
+Bell also points to the decision in J.I.V Enterprises Inc. v. Vaseleniuck, 2015 ONSC 4570
+
+where the Court applied the retroactive provisions on demand obligations in a matter whereguarantees were made in December 2004.
+Analysis
+
+[71]
+
+The relevant provisions of the Limitations Act, 2002, are produced below:
+4. Unless this Act provides otherwise, a proceeding shall not becommenced in respect of a claim after the second anniversary of the dayon which the claim was discovered.
+Discovery5. (1) A claim is discovered on the earlier of,
+(a) the day on which the person with the claim first knew,
+
+retrospective application of legislation to destroy parties’ accrued rights –
+namely, to mount a limitation period defence. This is not permitted absentclear language that such was the legislative intent – and no such languageexists in ss. 5(3) and (4).
+
+16
+(i) that the injury, loss or damage had occurred,
+
+(iii) that the act or omission was that of the person against whom theclaim is made, and
+(iv) that, having regard to the nature of the injury, loss or damage, aproceeding would be an appropriate means to seek to remedy it; and
+(b) the day on which a reasonable person with the abilities and in thecircumstances of the person with the claim first ought to have known ofthe matters referred to in clause (a). s. 5 (1).
+Presumption
+(2) A person with a claim shall be presumed to have known of thematters referred to in clause (1) (a) on the day the act or omission onwhich the claim is based took place, unless the contrary is proved.
+Demand obligations
+(3) For the purposes of subclause (1) (a) (i), the day on which injury,loss or damage occurs in relation to a demand obligation is the first dayon which there is a failure to perform the obligation, once a demand forthe performance is made. 2008, c. 19, Sched. L, s. 1.
+(4) Subsection (3) applies in respect of every demand obligation createdon or after January 1, 2004. 2008, c. 19, Sched. L, s. 1
+
+[72]
+
+Prior to November 2008, the Limitations Act, 2002 provided that the limitation period for
+
+a demand obligation began to run when the default occurred:
+15(6) For the purposes of this section, the day an act or omission onwhich a claim is based takes place is,
+…
+(b) in the case of a series of acts or omissions in respect of the sameobligation, the day on which the last act or omission in the series occurs;
+(c) in the case of a default in performing a demand obligation, the day onwhich the default occurs.
+
+[73]
+
+Perell J. provides a comprehensive summary of the current state of the law on limitation
+
+periods and demand obligations in Skuy v. Greenough Harbour Corp, 2012 ONSC 6998 at paras.
+
+(ii) that the injury, loss or damage was caused by or contributed to byan act or omission,
+
+17
+
+The amendment to the Act overruled the common law rule for demandpromissory notes and for demand mortgages, which rule was that the limitationperiod began to run immediately upon the delivery of the demand promissorynote: Hare v. Hare (2006), 83 O.R. (3d) 766 (C.A.), at para. 11; Bank of NovaScotia v. Williamson, supra at para. 12…
+…
+The effect of the amendment to the Limitations Act is that all demandobligations are treated the same way, and the limitation period for a demandobligation begins to run only from when a demand is made: Peca v. Peca, 2011
+ONSC 770 (S.C.J.); Toronto-Dominion Bank v. Formstructures Inc., 2012
+ONSC 2256 (S.C.J.); Quick Credit v. 1575463 Ontario Inc. (c.o.b. YorktownAuto Collision), 2010 ONSC 7227 (S.C.J.), affd. 2012 ONCA 221 (Ont. C.A.).
+
+[74]
+
+The Starcall Companies question the effect to be given to s. 5(4) of the Limitations Act,
+
+2002, which provides that demand loans created on or after January 1, 2004 become payable ondemand, not from advancement.
+
+[75]
+
+I do not accede to the Starcall Companies’ retrospectivity argument.
+
+[76]
+
+Statutes are presumed not to have a retroactive effect unless the language of the act
+
+expressly or by necessary implication deems it such: Gustavson Drilling (1964) Ltd., v M.N.R.,
+
+[1977] 1 SCR 271 at 279. More specifically, as explained in Graeme Mew, Debra Rolph &
+Daniel Zacks, The Law of Limitations, 3d ed (Toronto: LexisNexis, 2016), s. 4, §1.66, where anaccrued limitation benefit would be lost to a retroactive application, such an application shouldfail unless the legislature has specifically indicated an intention to impair an existing right to thedefence.
+
+[77]
+
+The wording of s. 5(4) is clear that it is to apply to “every demand obligation created on
+
+or after January 1, 2004”. I find that the legislature intended to extinguish limitations defencesthat had accrued to parties under the original provisions of the Limitations Act, 2002 that hadbeen in force between January 1, 2004 and November 26, 2008.
+
+[78]
+
+Retroactivity is also as a result of necessary implication: the purpose of the Limitations
+
+Act, 2002 is to define the timeline within which an action must be brought. Expanding the newtimeline for demand obligations to cover a period where a cause of action had expired by law
+
+29-45. Paragraphs 33 and 35 are particularly relevant:
+
+18
+implies a clear intent to hinder accrued rights.
+
+[79]
+
+Other courts have adopted the approach of expanding a retroactive application of the
+
+Anderson, 2010 ONSC 1164 at para. 18 where a loan advanced in 2002 was successfullydemanded in 2009. See also T-D Bank v. Formstructures, et al, 2012 ONSC 2256 and J.I.V.
+Enterprises Inc. v Vaseleniuck, 2015 ONSC 4570.
+
+[80]
+
+Consequently, had I found a debt owing from the Starcall Companies and determined it
+
+to be a demand obligation, I would find that the loan would have become payable on demand andthat the limitations period would have commenced from this point. The demand in this case wasmade by way of the letter sent on or about March 7, 2014 by Bell asking Starcall Companies toremit $77,528.
+Disposition
+
+[81]
+
+For the reasons set out above, I find that there is no genuine issue requiring a trial, and
+
+grant the Starcall Companies’ motion for summary judgment in the amount of $77,528, togetherwith prejudgment interest in accordance with the Courts of Justice Act, R. S.O. 1990, c C.43, asagainst Bell.
+Costs
+
+[82]
+
+If the parties are unable to agree on costs, I will dispose of the matter upon receipt of
+
+written submissions from each side of no more than three pages in length, along with any Offersto settle and Costs Outlines within 30 days.
+
+____________________________
+Toscano Roccamo J.
+Date: May 15, 2017
+
+Limitations Act, 2002 to claims that would have expired prior to the amendment: Shaw v.
+
+19
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+STARCALL WIRELESS COMMUNICATIONS INC.
+AND STARCALL II INC.
+Plaintiffs
+– and –
+BELL MOBILITY INC.
+Defendant
+
+RULING ON MOTION FOR SUMMARY
+JUDGMENT
+
+Toscano Roccamo J.
+Released: May 15, 2017
+
+CITATION: Starcall Wireless Communications Inc. v. Bell Mobility Inc.,2017 ONSC 2813
+COURT FILE NO.: CV-16-67897
+DATE: 20170515
+

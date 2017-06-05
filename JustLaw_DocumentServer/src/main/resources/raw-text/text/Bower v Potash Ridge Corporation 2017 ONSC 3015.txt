@@ -1,0 +1,155 @@
+CITATION: Bower v Potash Ridge Corporation. 2017 ONSC 3015
+COURT FILE NO.: CV-17-567760
+DATE: 20170516
+
+SUPERIOR COURT OF JUSTICE
+MATTHEW BOWER
+) Margaret Bramhill, for the Applicant
+Applicant )
+– and –
+POTASH RIDGE CORPORATION
+) Steven G. Frankel, for the Respondent
+Respondent )
+BETWEEN:
+
+HEARD: May 15, 2017
+
+ENDORSEMENT
+DIAMOND J.:
+
+[1]
+Between June 12, 2012 and February 10, 2015, the applicant was employed by therespondent as its Director of Business Development. The parties signed an EmploymentAgreement dated November 26, 2013 (“the Agreement”) which outlined the terms of theapplicant’s employment. For the purpose of this application, the salient terms of the Agreementare as follows:
+“5. Bonus:
+You may be entitled to a discretionary bonus at the sole option of theCorporation’s Chief Financial Officer and/or President/Chief Executive Officer,or such other individuals as the Board of Directors may designate from time totime, depending upon your performance, the Corporation’s achievement of itsmilestones and such other objectives as the Corporation may determine.
+
+ONTARIO
+
+11. Termination of Agreement:
+(a)
+
+Without Cause by the Corporation
+
+Your employment may be terminated at any time without just cause in whichcase you shall be entitled to receive a severance payment equal to the greaterof:
+(i)
+
+any entitlements mandated by the minimum requirements of theEmployment Standards Act, 2000 (Ontario) and the related regulations
+(“ESA”);
+
+(ii)
+
+one month salary for every year of service up to a maximum of 12
+months’ salary; or
+
+(iii)
+
+six months’ salary.
+
+For the purpose of (ii), for each partially year worked prior to termination youwill be entitled to receive a pro-rated amount of one month salary proportionedto the number of months worked in the applicable year.”
+
+[2]
+On or about January 29, 2015, Guy Bentinck (“Bentinck”, the respondent’s Presidentand Chief Executive Officer) advised the applicant that his employment with the respondentwould be terminated effective February 15, 2015.
+
+[3]
+On February 10, 2015, Bentinck delivered a termination letter to the applicant stating,inter alia:
+“In accordance with the terms of your Employment Agreement executed onNovember 26, 2013 (the “Agreement”) and the Employment Standards Act,2000, the following payments and benefits are due to you upon termination:
+(1)
+
+A severance payment equal to six months’ salary of $75,000.00.
+
+(2)
+
+Payment of unused accrued vacation. Based on the Corporation’srecords you have 2.5 days accrued for an amount of $1,562.50.
+
+(3)
+
+Your annual bonus for the 2013 fiscal year of $20,000.00.”
+
+[4]
+The termination letter went on to advise the applicant that given the respondent’s currentlack of cash availability, on the February 15, 2015 payroll date (which was also the applicant’s
+
+[5]
+In the termination letter, Bentinck further advised that “if and when there is sufficientcash availability”, the respondent would undertake to make further payments to the applicant forthe unsatisfied debts owing.
+
+[6]
+On July 15, 2016, the respondent paid the applicant a further $18,750.00, representing25% of the severance pay due and owing to him. No further payments were made by therespondent, despite several requests by the applicant.
+
+[7]
+In March 2017, after the respondent hired a new Chief Financial Officer, the respondent’sBoard of Directors re-evaluated the accruals on its financial statements of several 2013 employeebonuses including the applicant’s bonus. The Board of Directors then decided that the accrualswere no longer appropriate and formally passed a resolution reversing and cancelling the 2013
+employee bonuses including the applicant’s bonus.
+
+[8]
+The applicant brings this application seeking a determination of the parties’ rights underthe Agreement and termination letter, and in particular:
+(a)
+
+a declaration that the applicant is entitled to receive the balance of the severancepayment together with his 2013 $20,000.00 bonus; and
+
+(b)
+
+an order directing the respondent to pay the above amounts in a lump sumpayment.
+
+[9]
+In response, the respondent first takes the position that the severance payment is indeeddue and owing, but that the Court ought to exercise its discretion under Rules 1.05 and 38.10 ofthe Rules of Civil Procedure to “make an order on terms that are just” by imposing a reasonableand appropriate payment plan for the outstanding $56,250.00.
+
+[10] The respondent cited no specific case law in support of its request. In my view, theabsence of such case law is clearly due to the fact that there are no grounds upon which to makesuch an order, especially in the context of severance payments due and owing to terminatedemployees. The purpose of providing a terminated employee with reasonable notice (or aseverance payment in lieu thereof) is to ensure that the employee is able, as best as he/she can, tosecure alternative employment without losing any income.
+termination date), the respondent would pay him $11,562.50, representing his unused accruedvacation pay ($1,562.50) and 50% of his 2013 annual bonus ($10,000.00). Regrettably, therespondent never made that payment to the applicant on February 15, 2015.
+
+[11] With respect to the applicant’s 2013 bonus, the respondent submits that notwithstandingthe terms of the Agreement and the termination letter, the applicant’s 2013 bonus remainedsubject to approval by the respondent’s Board of Directors, and the applicant was made aware ofthat fact.
+
+[12] The respondent relies upon the evidence of its Chief Operating Officer Ross Phillips, whogave evidence on cross-examination that he advised the applicant that the 2013 bonus wasalways subject to approval from the respondent’s Board of Directors. As the Board of Directorsnever gave its approval, this allegedly disposes of the applicant’s claim to the 2013 bonus.
+
+[13]
+
+I reject the respondent’s position for the following reasons:
+(a)
+
+the terms of the Agreement, drafted by the respondent, are clear andunambiguous on their face. Clause 5 states that the applicant may be entitled toa discretionary bonus as the sole option of either (i) the respondent’s ChiefFinancial Officer and/or President/Chief Executive Officer, or (ii) such otherindividuals as the respondent’s Board of Director may designate from time totime.
+The termination letter was drafted and signed by Bentinck, therespondent’s Chief Executive Officer (i.e. one of the individuals at whose soleoption could exercise the necessary discretion to award the 2013 bonus). It isclear that Bentinck exercised that discretion and confirmed it in his terminationletter.
+
+(b)
+
+Bentinck’s termination letter makes no reference whatsoever to the applicant’s2013 bonus being tied to or dependent upon approval from the respondent’sBoard of Directors. On the contrary, the termination letter confirms that the2013 annual bonus is “due to the applicant upon termination”. The terminationletter goes even further to confirm that on February 15, 2015 50% of his 2013
+annual bonus would be paid (even though it was not). How could that paymenthave been conditional upon approval from the respondent’s Board of Directorsif Bentinck confirmed it would be made five days after the termination letter?
+The respondent attempted to argue that the reason it was not paid on February15, 2015 was that its Board of Directors did not provide the necessaryapproval. There is no evidence whatsoever in the record before me to supportsuch a position.
+
+(c)
+
+on cross-examination, Phillips confirmed that after delivery of Bentinck’stermination letter Phillips never reached out to confirm the discretionary natureof the 2013 bonus with the applicant. As such, it was and remains open to theapplicant to rely upon the “indoor management rule” which provides that anyperson dealing with a corporation has no obligation to ensure that the
+
+claims of a former employee.
+Accordingly, I grant the relief sought by the applicant withrespect to his outstanding severance payment due and owing from the respondent.
+
+corporation has gone through any procedures required by its articles, by-laws,resolutions, contracts or policies to authorize the transaction or to giveauthority to the person purporting to act on behalf of the corporation. All theapplicant needed to prove was that Bentinck had actual or apparent authority toauthorize the 2013 bonus. Who other than the respondent’s President andChief Executive Officer could be in a position to authorize the applicant’s 2013
+bonus, especially when the Agreement itself provides that Bentinck couldperform that exact task?
+
+[14] Accordingly, I grant the relief sought by the applicant with respect to the 2013
+$20,000.00 bonus.
+Costs
+
+[15] With respect to costs of this application, I would urge the parties to try and resolve theissue, failing which they may serve and file written submissions.
+
+[16] The applicant may serve and file his costs submissions within 10 business days of therelease of this Endorsement. Those submissions shall be no more than five pages including aBill of Costs.
+
+[17] The respondent shall thereafter have an additional 10 business days from the receipt ofthe applicant’s costs submissions to deliver its responding costs submissions which shall also beno more than five pages including a Bill of Costs.
+
+Diamond J.
+Released: May 16, 2017
+
+CITATION: Bower v Potash Ridge Corporation. 2017 ONSC 3015
+COURT FILE NO.: CV-17-567760
+DATE: 20170516
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+MATTHEW BOWER
+Applicant
+– and –
+POTASH RIDGE CORPORATION
+Respondent
+
+ENDORSEMENT
+Diamond J.
+
+Released: May 16, 2017
+
+ONTARIO
+

@@ -1,0 +1,475 @@
+SUPERIOR COURT OF JUSTICE - ONTARIO
+RE:
+
+JOSEPH CAMPISI, ApplicantAND:
+HER MAJESTY IN RIGHT OF ONTARIO AS REPRESENTED BY
+THE ATTORNEY GENERAL OF ONTARIO and the INSURANCE
+BUREAU OF CANADA, Respondents
+
+BEFORE:
+
+Justice Edward P. Belobaba
+
+COUNSEL: Peter Murray and Rocco Galati for the ApplicantDaniel Guttman and Padraic Ryan for the Attorney General of OntarioJeff Galway and John Mather for the Insurance Bureau of CanadaHEARD:
+
+May 2 and 3, 2017
+
+Constitutional Challenge to ss. 267.5(1) and 280 of the Insurance Act
+
+[1]
+The applicant, Joseph Campisi, challenges the constitutionality of two automobileaccident provisions in the Insurance Act 1: s. 267.5(1) which limits the pre-trial recoveryof lost income to 70 per cent of gross income 2 and s. 280 which grants sole jurisdiction tothe Licence Appeal Tribunal (“LAT”) to resolve Statutory Accident Benefits Schedule
+
+1
+
+2
+
+Insurance Act, R.S.O. 1990, c. I.8.
+
+Section 267.5(1) of the Insurance Act limits the recovery of lost income prior to trial to 70 per cent of grossincome if the motor vehicle accident occurred on or after September 1, 2010 and 80 per cent of net income if theaccident occurred before September 1, 2010. Discussed further below.
+
+CITATION: Campisi v. Ontario, 2017 ONSC 2884
+COURT FILE NO.: CV-15-520150
+DATE: 20170531
+
+- Page 2 -
+
+[2]
+Mr. Campisi says that the impugned provisions violate ss. 15 and 7 of the Charterof Rights 4 and further, that giving comprehensive jurisdiction to LAT to decide SABS
+disputes and eliminating the parallel court option violates s. 96 of the Constitution Act,1867.5
+The impugned provisions
+(1) Section 267.5(1)
+
+[3]
+Section 267.5(1), capping the pre-trial recovery of lost income to 70 per cent ofgross income, first appeared in 1996 in legislation that restored a limited right to sue intort for economic losses. The first version of this provision capped the recovery of lostincome before trial to 80 per cent of net income. The second version, in 2010, changedthe cap on recovery for accidents after September 1, 2010 to 7 0 per cent of grossincome.6
+(2) Section 280 and LAT
+
+[4]
+Every auto insurance policy issued in Ontario is statutorily deemed to provide nofault accident benefits according to a prescribed schedule.7 The SABS sets eligibilitycriteria, severity thresholds, and benefit payment amounts. Between 1990 and April 2016,any SABS dispute that was not resolved by mediation could be decided by arbitrationbefore the Ontario Insurance Commission, later replaced by the Financial ServicesCommission of Ontario (“FSCO”), or by a proceeding in the courts.
+
+3
+
+Statutory Accident Benefits Schedule, O. Reg. 34/10; License Appeal Tribunal Act, S.O. 1999, c. 12, s 11(6).
+
+4
+
+Charter of Rights and Freedoms, Part I of the Constitution Act 1982, being Schedule B to the Canada Act 1982
+(U.K.), 1982, c. 11.
+5
+
+The Constitution Act 1867, (U.K.) 30 & 31 Vict., c.3, reproduced in R.S.C. 1985, App.11, No. 5.
+
+6
+
+The respondents say that the change from 80 per cent of net income to 70 per cent of gross income was made tosimplify the calculation of income loss and make injured parties less reliant on third party financial experts. Therespondents further submit that the 70 per cent gross income cap on pre-trial income loss approximates thedifference in value between untaxable and taxable income as well as the costs sav ed when a person is not working.
+Thus, even with the cap, say the respondents, the accident victim is made whole under this head of loss. Theapplicant does not agree. Fortunately, I do not have to decide the issue. I can decide this application by simplyfocusing on the applicable law.
+7
+
+Supra, note 3.
+
+(“SABS”) disputes, subject only to appeals on questions of law or applications forjudicial review.3
+
+- Page 3 -
+
+Decision
+
+[6]
+For the reasons that follow, the application is dismissed. The application failsbecause Mr. Campisi has no standing to bring this proceeding. The application also failson the merits. Neither ss. 267.5(1) nor 280 of the Insurance Act breaches ss. 15(1) or 7 ofthe Charter; nor is LAT’s dispute resolution jurisdiction in violation of s. 96 of theConstitution Act, 1867. I will explain each of these points in turn.
+Analysis
+(1) No standing
+
+[7]
+Mr. Campisi is a personal injury lawyer. He has not established a private intereststanding to bring this application. He has not been injured in an automobile accident. Heis not claiming for lost income. Nor is he disputing a SABS benefit before LAT. Indeed,as a personal injury lawyer, he has little to do with SABS disputes. As his paralegal CesarCarranza explained during cross-examination on his affidavit (because no affidavit wasfiled by Mr. Campisi) their law firm is only retained “on the cases where there is a viablelawsuit or the injury is likely to be catastrophic” and “rarely, very rarely” does it dealwith people who have SABS complaints.10
+
+[8]
+Mr. Carranza points to the fact that Mr. Campisi drives an automobile and “has aconcern for the welfare of all accident victims.” But this is not enough under theapplicable case law. Mr. Campisi is not directly affected by ss. 267.5(1) or 280 of theInsurance Act and as such lacks private interest standing to bring this constitutionalchallenge.11
+8
+
+Ontario, Ontario Automobile Insurance Dispute Resolution System Review : Final Report, (Toronto: Ministry ofFinance, 2014) (Hon. Douglas Cunningham).
+9
+
+Supra, note 3.
+
+10
+
+This is not surprising. Most SABS disputes involve relatively small amounts. The median point of mediatedSABS claims in 2013 was only $11,000. Catastrophic claims (the only SABS claims that the Campisi firm willpursue) account for less than 5 per cent of all claims. See Financial Services Commission of Ontario, Report of theThree Year Review of Automobile Insurance (December, 2014) at 72. Also see Ontario, Ontario AutomobileInsurance Dispute Resolution System Review: Interim Report, (Toronto: Ministry of Finance, 2014) (Hon. DouglasCunningham) at 14.
+11
+
+Kitimat (District) v. Alcan Inc, 2006 BCCA 75 at para 92; Landau v. Ontario (Attorney General), 2013 ONSC
+6152 at paras 16 and 18-19. Also see Swearengen v Ontario (Ministry of Natural Resources), [2005] O.J. No. 3403
+
+[5]
+In 2014, the provincial legislature adopted one of the key recommendations of theCunningham Report8 and amended s. 280 of the Insurance Act so that effective April 1,2016 all SABS disputes would be resolved solely by LAT, subject only to appeals onquestions of law or applications for judicial review. 9 The court option was eliminated.
+
+- Page 4 -
+
+(i)
+(ii)
+(iii)
+
+There is a serious justiciable issue raised;The applicant has a real stake or a genuine interest in the issue;andIn all the circumstances, the proposed application is a reasonableand effective way to bring the issue before the courts. 13
+
+[10] Mr. Campisi does not satisfy the second prerequisite. He has not demonstrated thathe has a real stake or genuine interest in the constitutional validity of the two provisionsin question.14 As already noted, Mr. Campisi did not file his own affidavit. And no courthas ever granted public interest standing to an applicant in the absence of any directevidence that he or she has a “genuine interest” in the case.
+
+[11] Mr. Campisi also fails to satisfy the third prerequisite. I am not persuaded that inall the circumstances, the proposed application is a reasonable and effective way to bringthese constitutional issues before the courts. In my view, there are other reasonable andeffective ways to bring these issues before the courts.
+
+[12] For example, with respect to the s. 267.5(1) challenge, the application recordcontains the affidavits of two individuals who claim to have been directly affected by s.
+267.5(1) – one filed by Ms. Vanderkop who was injured in an automobile accident in1997 and whose case has now been litigated to completion15 and the other filed by Mr.Gerritsen who was injured in a motorcycle accident in 2014. Both of these deponents, aswell as any one of the thousands of other persons who are injured in motor vehicleaccidents in this province are more directly affected by the legislation than the applicantand could bring a challenge to the constitutionality of the impugned legislation, either in
+
+(Div.Ct.) and R v. Mernagh, 2011 ONSC 2121 (S.C.J.), rev’d on other grounds 2013 ONCA 67, leave to appeal toSCC refused [2013] SCCA No 136,12
+
+Canada (Attorney General) v. Downtown Eastside Sex Workers United Against Violence Society, 2012 SCC 45.
+
+13
+
+Ibid., at para 37.
+
+14
+
+Bernard v. Close, 2017 FCA 52 at paras 8-9; R v Jayaraj, 2014 ONSC 6367 at para 6 (Div. Ct.); United Steel v.
+Canada (Minister of Citizenship and Immigration) , 2013 FC 496 at paras 18-19; Inshore Fishermen's BonafideDefence Fund Assn. v. Canada (1994), 130 N.S.R. (2d) 121 at para 31.
+15
+
+Vanderkop v. Personal Insurance Co. of Canada, [2009] O.J. No. 2616 (C.A.).
+
+[9]
+Mr. Campisi also lacks public interest standing. As the Supreme Court made clearin Downtown Eastside 12 public interest standing may be granted in the court’s discretionif the following three prerequisites, in combination, are satisfied:
+
+- Page 5 -
+
+[13] The same can be said about s. 280 and the SABS disputes before LAT. Here aswell, there are literally thousands of claimants who are actually and directly affected bythis legislation. These claimants do not even have to bring an application in SuperiorCourt. They can challenge the constitutionality of s. 280 in their submissions to LAT.
+Indeed, the case law makes clear that raising the constitutional issue before the verytribunal that is resolving the dispute is the preferred route because then the reviewingcourt has the full benefit of the tribunal’s reasons for decision as well as a “rich, fullydeveloped record in hand.”17
+
+[14] In short, denying the applicant standing to pursue this challenge will not riskimmunizing ss. 267.5(1) and 280 of the Insurance Act from judicial scrutiny.
+
+[15] There is a further reason why in my view this application is not “in all thecircumstances … a reasonable and effective way to bring the issue before the courts.”
+The factual underpinning for the constitutional claims that are being advanced is grosslyinadequate. There is little to no evidence about the impact or effect on accident victims ofthe pre-trial income recovery limitation in s. 267.5(1) and absolutely no evidence about s.
+280 and the actual workings of the LAT dispute resolution system and its effects onactual claimants. The Supreme Court has made clear that “Charter decisions should notand must not be made in a vacuum” and that “the absence of a factual base … is fatal.”18
+
+[16] The applicant relies on the decision of the Federal Court in Galati v. Canada19
+where Mr. Galati was granted public interest standing to challenge the GovernorGeneral’s decision to give royal assent to federal legislation amending the CitizenshipAct.20 However, as the court explained, that was not a challenge involving the Charter:
+16
+
+Mr. Carranza states in his affidavit that “it would be an unreasonable burden to require a vulnerable, disabledaccident victim to act as the applicant … Such individuals … do not have the physical energy nor the financialresources required to bring forward an application of this nature.” But he cites no evidence to support this statement.
+It is beyond dispute that many injured accident victims commence tort actions claiming economic loss. Some ofthem may even raise a s. 267.5(1) issue. And, in the SABS area, persons dissatisfied with their LAT decision canappeal on a question of law or seek judicial review. The first judicial review applications relating to LAT’sexpanded post-April 2016 jurisdiction are starting to be heard by Divisional Court: see, for example, Aviva CanadaInc. v. Taylor, 2017 ONSC 2661 (Div. Ct.).
+17
+
+Forest Ethics Advocacy Association v. Canada (National Energy Board) [2015] 4 F.C.R. 75 at paras. 42-45.
+
+18
+
+MacKay v. Manitoba, [1989] 2 S.C.R. 357 at 361-62 and 366. Also see Danson v. Ontario (Attorney General)
+
+[1990] 2 S.C.R. 1086 at paras. 26-33.
+19
+
+Galati v. Canada (Governor General) 2015 FC 91.
+
+20
+
+Citizenship Act, R.S.C. 1985, c. C-29.
+
+a proceeding against their insurer or, as here, by way of a stand-alone application for adeclaration.16
+
+[T]his proceeding does not engage any issues pursuant to the Charter.
+There is no Charter challenge, no question of section 1 evidence. Allcounsel stress that the issue before this Court is both narrow and discrete.
+In addition, the well-understood caution against the adjudication ofconstitutional issues in a vacuum is not triggered … The Court has all thenecessary legislative facts before it. There is no missing factual matrix. 21
+
+[17]
+
+Here the required factual matrix is missing.
+
+[18] When I add ‘the absence of a factual matrix’ to the reasons already stated, I haveno difficulty exercising my discretion against Mr. Campisi and concluding that this is nota case for public interest standing.
+
+[19] If I am wrong in this regard, I would still dismiss the application on the merits. I
+can find no breach of ss. 15(1) or 7 of the Charter or s. 96 of the Constitution Act, 1867. I
+will explain each of these conclusions in turn.
+(2) No breach of section 15(1) of the Charter
+
+[20]
+
+Section 15(1) of the Charter provides as follows:
+Every individual is equal before and under the law and has the right tothe equal protection and equal benefit of the law without discriminationand, in particular, without discrimination based on race, national orethnic origin, colour, religion, sex, age or mental or physical disability.
+
+[21] In order to determine whether a law discriminates contrary to s. 15(1) of theCharter the court must first ask if the impugned law creates a distinction on the basis of aprohibited or analogous ground. If it does, the court must then decide if the distinctionhas the effect of creating or perpetuating an arbitrary disadvantage based on anindividual’s membership in a group identified by a prohibited or analogous ground.22
+
+[22] This application fails at the first step. Neither ss. 267.5(1) nor 280 draws adistinction based on a prohibited ground enumerated in s. 15(1) of the Charter or on anyanalogous ground. More specifically, and contrary to the applicant’s submissions, neitherof the impugned provisions discriminates between persons based on their physicaldisability. Auto accident victims may well be seriously injured and physically disabled.
+But there is nothing in either of the statutory provisions in question that draws lines onthis basis or singles out persons with disabilities for different or discriminatory treatment.
+21
+
+22
+
+Galati, supra, note 19, at para. 28.
+
+Quebec v. A, 2013 SCC 5, at paras. 323 and 331-332; Kahkewistahaw First Nation v. Taypotat, 2015 SCC 30 atparas. 16-22.
+
+- Page 6 -
+
+- Page 7 -
+
+[23] Section 267.5(1) caps the recovery of pre-trial income loss to 70 per cent of grossincome if the motor vehicle accident occurred on or after September 1, 2010 and 80 percent of net income if the accident occurred before September 1, 2010. There is no limiton recovery of damages for economic loss for the post-trial period.
+
+[24] The pre-trial limitation on recovery applies whether the accident victim isphysically disabled or not and regardless of the severity of any injury. And the fact thatauto accident victims are subject to this limitation while, for example, home accidentvictims are not, is not a distinction based on disability. It is a distinction based on thecause or place of the injury which is not a prohibited ground under the Charter.23 As thiscourt concluded in Hernandez,24 “the type or category of accident victim is not anenumerated or analogous ground protected by s. 15(1) of the Charter.” 25
+
+[25]
+
+The s. 15(1) challenge to s. 267.5(1) does not succeed.
+
+Section 280
+
+[26] The above analysis also applies to s. 280. There is nothing in s. 280 thatdiscriminates on the basis of disability or any analogous ground. The fact that insuredpersons with SABS disputes may be physically disabled and are required to proceedbefore LAT and cannot go to court (except as already noted) is not a distinction on thebasis of disability. The Supreme Court held in Martin 26 that the distinction between thosewho are able to enforce legal rights in the court system and those who are part of anadministrative scheme is not a distinction based on disability. 27
+
+[27] The Court of Appeal dealt directly with s. 15(1) of the Charter and SABS inDaley 28 where it noted the following:
+Virtually all statutory provisions make distinctions. The no fault benefitprovisions in the Schedule could not work if distinctions were not made23
+
+Reference re Workers Compensation Act, 1993 (Newfoundland) ss. 32 and 33, [1989] 1 S.C.R. 922 at para. 2;Nova Scotia (Workers’ Compensation Board) v. Martin, 2002 SCC 54 at para. 72.
+24
+
+Hernandez v. Palmer, [1992] O.J. No. 2648 (Gen. Div.).
+
+25
+
+Ibid., at para. 188.
+
+26
+
+Martin, supra, note 23.
+
+27
+
+Martin, supra note 23, at para 72.
+
+28
+
+Daley v. Economical Mutual Insurance Co, [2005] O.J. No. 5516 (C.A.).
+
+Section 267.5(1)
+
+- Page 8 -
+
+[28]
+
+The applicant’s s. 15(1) challenge to s. 280 does not succeed.
+(3) No breach of section 7 of the Charter
+
+[29] Section 7 of the Charter provides that “Everyone has the right to life, liberty andsecurity of the person and the right not to be deprived thereof except in accordance withthe principles of fundamental justice.”
+
+[30] A court considering a challenge under s. 7 must apply a two-step test. First, doesthe law deprive the person of life, liberty or security of the person? Second, if it does, isthis deprivation in accordance with the principles of fundamental justice? The onus is onthe party challenging the legislation at both steps. 30
+
+[31] Here, the applicant has filed little to no evidence about any deprivation of life,liberty, or security of the person in the application or operation of ss. 267.5(1) or 280. Inany event, the s. 7 challenge to the impugned provisions fails on the law. The case law isclear that neither a statutory limitation on tort damages nor the elimination of a courtoption deprives an accident victim of his or her right to life, liberty or security of theperson.
+
+[32]
+
+I will explain.
+
+Section 267.5(1)
+
+[33] In Whitbread v. Walley,31 the B.C. Court of Appeal considered a challenge tosections of the federal Shipping Act that limited recovery for personal injury damages.
+The plaintiff argued that if he was deprived of full compensation for his injuries by theoperation of the statute he would be unable to purchase care and assistance and wouldthus suffer a deprivation of liberty and security of the person.
+
+29
+
+Ibid., at para. 41.
+
+30
+
+Carter v. Canada (Attorney General), 2015 SCC 5 at para 55.
+
+31
+
+Whitbread v. Walley, [1988] B.C.J. No. 733 (B.C.C.A.).
+
+among the various persons whose disabilities entitled them to some formof no fault benefit. The principle of equality underlying s. 15 is notoffended whenever a distinction is drawn by legislation. Equality is put atrisk only where the distinction discriminates against an identifiable groupon the basis of the grounds identified in s. 15 …29
+
+- Page 9 -
+
+The matter may be viewed in another way. The deprivation of life, libertyand security of person which the plaintiff has suffered is not caused byss. 647 and 649 of the Canada Shipping Act. Rather, it was caused by theaccident. The plaintiff’s physical and psychological loss aroseindependently of the impugned provisions and will, in large part,continue, regardless of whether those provisions apply or not. What thelimitations on liability in ss. 647 and 649 cause is not the plaintiff'sphysical loss of liberty and security, but his inability to recover more thana stipulated amount of money from the persons legally responsible for theaccident. While money, as already noted, may almost always be arguedto affect a person's liberty and security, that is an indirect and incidentaleffect not contemplated by s. 7 of the Charter.32
+
+[35] This decision was affirmed on appeal.33 I therefore conclude here as well that thelimitation on pre-trial recovery of income loss in s. 267.5(1) does not deprive theapplicant of his right to life, liberty or security of the person and therefore does notbreach s. 7 of the Charter.
+Section 280
+
+[36] Nor does the elimination of the court option in s. 280 offend s. 7 of the Charter.
+Section 7 does not extend to property interests and an injured person’s right to security ofthe person is not violated by a law that restricts his or her ability to access the courts torecover damages for personal injury claims.
+In Filip v. Waterloo 34 the Ontario Court of Appeal specifically held that s. 7 ofthe Charter does not embrace the right to bring an action for the recovery of damages forpersonal injury. The Court said this:
+
+[37]
+
+In combination, s. 284(5) of the Municipal Act, which requires notice inwriting to an urban municipality to be given or sent within seven days,and s. 284(6), which excuses failure to give timely notice in the absenceof prejudice to the municipality in all cases of death and of injury causedother than by snow or ice upon a sidewalk, operate, if constitutionally32
+
+Ibid., at para. 56. Also see Morrow v. Zhang, 2009 ABCA 215 at paras. 25 and 147 (leave to appeal refused
+
+[2009] S.C.CA. No. 341).
+33
+
+Whitbread v. Walley, [1990] S.C.J. No. 138 at para. 2.
+
+34
+
+Filip v. Waterloo, (1992) 98 D.L.R. (4th) 534 (C.A.).
+
+[34] McLachlin J.A. (as she then was), concluded, in essence, that tort claims areproprietary in nature and that the right to sue for damages for personal injury is notprotected under s. 7 of the Charter. She then added the following:
+
+valid, to take away Daria's right of action against the city. The appellantssubmitted that the deprivation of Daria's right to restitution in integrum,in the form of financial compensation for a tort committed against her,constituted a deprivation of her right to security of the person. In myview, however, this submission cannot prevail against the formidablearray of authority, in this province and elsewhere, for the proposition thatthe right to security of the person under s. 7 does not embrace the civilright to bring an action for the recovery of damages for personal injury:
+[case citations omitted].35
+
+[38]
+
+The same point was made by the Court of Appeal in Rogers v. Faught:36
+[Section] 7 of the Charter does not embrace the right to bring an actionfor the recovery of damages for personal injury. A civil action iseconomic and proprietary in nature and as such outside the range ofinterests protected by s. 7…37
+
+[39] In sum, the legislative requirement that all SABS disputes be resolved at firstinstance by LAT without giving claimants the option of going to court does not breach s.
+7 of the Charter.
+(4) No violation of section 96 of the Constitution Act, 1867
+
+[40] Section 96 of the Constitution Act, 1867 which provides that “[t]he GovernorGeneral shall appoint the Judges of the Superior, District, and County Courts in eachProvince” is a constitutional safeguard that works to limit the kinds of cases that can bedecided by provincial agencies and tribunals.
+
+[41] In Residential Tenancies 38 the Supreme Court set out a three-part test fordetermining when s. 96 of the Constitution Act, 1867 allows jurisdiction to be conferredon an administrative tribunal:
+
+35
+
+Ibid., at para. 8.
+
+36
+
+Rogers v. Faught, (2002) 212 D.L.R. (4th ) 366 (C.A.). Also see the decision of this court in Re Eurig Estate
+
+[1994] O.J. No. 2570 (Gen. Div.) at para. 48: “I find that even though a law may prevent access to civil courts and tosome extent may prevent a litigant's advancement of a legal right [this] does not itself breach s. 7 of the Charter ofRights … The terms "life, liberty and security of the person" as described under s. 7 of the Charter d o not includeeconomic benefits [case citations omitted].”
+37
+
+Rogers v. Faught, supra, note 36, at para. 34.
+
+38
+
+Re Residential Tenancies Act, [1981] 1 S.C.R. 714.
+
+- Page 10 -
+
+(i)
+
+Does the power or jurisdiction “broadly conform” to a power or jurisdictionexclusively exercised by a superior, district or county court at the time ofConfederation?
+
+(ii)
+
+If so, is it a judicial power? and
+
+(iii)
+
+If so, is the power either subsidiary or ancillary to a predominantly administrativefunction or necessarily incidental to such a function?39
+
+[42] The second step is not in issue. LAT obviously exercises a judicial power when itdecides a SABS dispute. The focus here is on the first and third steps.
+
+[43] If the historical inquiry in the first step leads to the conclusion that the powerconferred on a tribunal does not conform to a power exercised exclusively by a superiorcourt at the time of Confederation, “that is the end of the matter” and the jurisdict ion ofthe tribunal will be sustained.40
+
+[44] The first step requires the court to look beyond the remedies in question and focuson the “type of dispute” that is involved – that is, the focus must be on “the subject matterrather than the apparatus of adjudication.”41
+
+[45] Here the dispute that is being resolved by LAT is not simply “a contractualdispute” of the type that ordinarily fell within the jurisdiction of superior courts at thetime of Confederation. To characterize SABS disputes as ordinary contractual disputesthat existed in 1867 - as the applicant tries to do - is not only overly broad but, frankly,disingenuous. To begin with, modern-day insurance policies are not ordinary, freelynegotiated contracts. They are “statutory contracts” that do not reflect the words of theparties but “the words of the statute or of the regulation.”42 However, I need not dwell onthis point.
+
+[46]
+
+There is a more obvious point that in my view is determinative.
+
+[47] The disputes that LAT is resolving are disputes about the availability of statutorilyprescribed no-fault accident benefits. This is a novel power or jurisdiction that did not39
+
+Ibid., at 734-36.
+
+40
+
+Ibid., at 734; Reference re Young Offenders Act (P.E.I.), [1991] 1 S.C.R. 252; MacMillan Bloedel v. Simpson,
+
+[1995] 4 S.C.R. 725.
+41
+
+Re Amendments to the Residential Tenancies Act (Nova Scotia), [1996] 1 S.C.R. 186 at para. 76; Sobeys StoresLtd. v. Yeomans, [1989] 1 S.C.R. 238 at 255; Reference re Young Offenders, supra, note 40, at 267; MacMillanBloedel, supra, note 40, at para. 14.
+42
+
+Simison (Litigation Guardian of) v. Catlyn, [2004] O.J. No. 3608 (C.A.) at para. 14.
+
+- Page 11 -
+
+- Page 12 -
+
+[48] Just as the establishment of youth courts in Reference re Young Offenders Act,43
+was found to be a “novel jurisdiction” that was not within the power of the superiorcourts at the time of Confederation, the resolution by LAT of SABS disputes is also “partand parcel of a [comprehensive provincial auto insurance] scheme designed to respond
+… to … a novel concern of society.”44
+
+[49] I therefore conclude that the applicant’s s. 96 challenge to s. 280 of the InsuranceAct and LAT fails at the first step of the Residential Tenancies test. The type of disputethat LAT is deciding did not exist in 1867. And because “new powers or jurisdiction arenot part of the core of jurisdiction protected via s. 96 of the Constitution Act, 1867” thisfinding alone is “dispositive of the matter.”45
+
+[50] The s. 96 challenge also fails at the third step of the Residential Tenancies test –
+whether the resolution of SABS disputes by LAT is “necessarily incidental” to theachievement of a broader policy goal. As the Supreme Court noted in ResidentialTenancies:
+It is possible for administrative tribunals to exercise powers andjurisdiction which once were exercised by the s. 96 courts. It will alldepend on the context of the exercise of the power ... the powers may benecessarily incidental to the achievement of a broader policy goal of theLegislature. In such a situation, the grant of judicial power to provincialappointees is valid.46
+
+In my view, it cannot be seriously contested that the resolution of SABS disputesby LAT is necessarily incidental to the broad policy goals that led the provinciallegislature to establish threshold no-fault automobile insurance in the first place.
+
+[51]
+
+In Sobeys Stores,47 the Supreme Court upheld the jurisdiction of a provinciallabour standards tribunal to decide unjust dismissal appeals involving non-unionizedemployees because this jurisdiction was necessarily incidental to the legislature's broader
+
+[52]
+
+43
+
+Supra, note 40.
+
+44
+
+Supra, note 40, at paras. 42 and 75.
+
+45
+
+Ibid. Also see Parsons v. Canadian Red Cross Society 2015 ONCA 158 at para. 69.
+
+46
+
+47
+
+Residential Tenancies, supra, note 38, at 735-736.
+Supra, note 40,
+
+exist in 1867 because neither automobiles nor automobile insurance existed in 1867. Andcertainly not statutorily prescribed no-fault automobile accident benefits.
+
+- Page 13 -
+
+policy goal of providing minimum standards of protection for non-unionized employeesand a speedy system for dispute resolution.48
+Here as well, the SABS dispute resolution jurisdiction that has been granted toLAT is necessarily incidental to the stated goal of providing automobile accident victimswith speedy no-fault benefits coupled with a quick and efficient system of disputeadjudication. Also, in a larger context, LAT’s jurisdiction over the resolution of SABS
+disputes is necessarily incidental to the overall system of automobile accident insuranceregulation.
+There is therefore no basis for the applicant’s s. 96 challenge to s. 280 of theInsurance Act.
+
+[54]
+
+(5) Unwritten constitutional principles do not assist
+
+[55] Unwritten constitutional principles, including the rule of law, may help ininterpreting the text of the written constitution, but they do not provide an independentbasis for striking down statutes. In Imperial Tobacco,49 the Supreme Court rejected asimilar challenge that was premised on the argument that modifications to the commonlaw of tort violated unwritten constitutional principles. The Court dismissed the claimand expressly held that there was no constitutional right to the common law status quo.50
+Conclusion
+
+[56] I therefore conclude as follows. The applicant, Mr. Campisi, lacks both private andpublic interest standing to bring this application.
+
+[57] Even if this court in its discretion had granted public interest standing, theapplication would have failed on the merits. Neither ss. 267.5(1) nor 280 of the InsuranceAct are in breach ss. 15 or 7 of the Charter or s. 96 of the Constitution Act, 1867.
+Disposition
+
+[58]
+
+The application is dismissed.
+
+[59] Costs are sought by the Attorney General but not by the Insurance Bureau ofCanada. If the question of costs cannot be resolved, I would be pleased to receive brief48
+
+Ibid., at 278-81.
+
+49
+
+British Columbia v. Imperial Tobacco, 2005 SCC 49 at paras 59-60 and 66-67; also see Norton McMullenConsulting Inc. v. Boreham, 2015 ONSC 5862 at para 90-91.
+50
+
+Imperial Tobacco, supra note 49, at para 76.
+
+[53]
+
+- Page 14 -
+
+written submissions – from the AG within 10 days and from the applicant within 10 daysthereafter.
+My thanks to counsel on both sides for their assistance.
+
+Justice Edward P. Belobaba
+
+Date: May 31, 2017
+
+[60]
+

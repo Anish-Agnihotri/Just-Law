@@ -1,0 +1,141 @@
+CITATION: R. v. Reyes, 2017 ONSC 3079
+COURT FILE NO.: 85/16
+DATE: 20170518
+
+SUMMARY CONVICTION APPEAL
+TORONTO
+BETWEEN:
+HER MAJESTY THE QUEEN
+Respondent )
+– and –
+ALTHEA REYES
+Appellant )
+
+REGION
+
+Martin Sabat, for the Respondent
+
+Althea Reyes, in person
+
+HEARD: March 15, 2017
+
+K.P. WRIGHT J.
+Introduction
+
+[1]
+On May 30, 2016 the Appellant, Althea Reyes pleaded not guilty to the offences ofcriminal harassment and fail to comply with a recognizance in the Ontario Court of Justice. Atthe end of 2½ days of trial, Crown counsel invited the trial judge to dismiss the charges againstthe Appellant and have her enter into a common law peace bond.
+
+[2]
+On September 9, 2016 two things happened. First, the trial judge, after a hearing, orderedthe Appellant to enter into a common law peace bond with conditions. Second, the trial judgedismissed the Appellant’s application for costs against the Crown.
+
+[3]
+In her materials, the Appellant argued that the trial judge erred in denying her applicationfor costs and in ordering her to enter into a common law peace bond. In oral submissions, theAppellant withdrew her appeal in relation to costs, but maintained her position as it relates to thepeace bond.
+Peace Bond
+
+[4]
+The Appellant submits that the common law peace bond should be set aside on thefollowing grounds:
+
+SUPERIOR COURT OF JUSTICE
+
+[5]
+
+(1)
+
+A common law peace bond can only be made on consent and there was noconsent;
+
+(2)
+
+The Crown must prove that the complainant “fears for their life” and failed to doso;
+
+(3)
+
+The peace bond hearing breached the rules of natural justice; and
+
+(4)
+
+The trial judge erred in not requiring the complainant to be cross-examined at thepeace bond hearing.
+
+The following will address each point in turn.
+
+1. Jurisdiction and Requirements of a Common Law Peace Bond
+
+[6]
+The Appellant is incorrect in her suggestion that a peace bond can only be issued onconsent. It is open to a defendant to contest the grounds of a peace bond or not. When adefendant does not consent, the Crown must prove, on the balance of probabilities, that there aregrounds for issuing the peace bond. This is precisely what occurred in the case at bar and thusthere is no merit to this ground of appeal.
+
+[7]
+I would note as well that at the peace bond hearing the Appellant suggested that thematter was improperly before the court as no information was filed. However, an information isonly required for a peace bond under s. 810 of the Criminal Code, R.S.C., 1985, c. C-46. Thehearing in this case was for a common law peace bond. Consequently, the court had jurisdictionto hear the matter despite no information being formerly sworn and presented.
+R. v. Musoni (2009), 243 C.C.C. (3d) 17 (Ont. S.C.J.); affirmed (2009), 248 C.C.C. (3d) 487
+(Ont. C.A.)
+2. Threshold for Granting a Peace Bond
+
+[8]
+The Appellant submits that the Crown failed to prove that the complainant “fears for theirlife”. The Crown was not required to prove that the complainant “fears for their life”. Thissubmission once again conflates the common law peace bond with the statutory peace bond. Asexplained in R. v. Musoni in para. 21:
+The differences in the applications are that a s.810 peace bond isbased on a sworn information while a common law peace bondgenerally is not; a s.810 bond can be for a period not to exceed 12
+months while there is no maximum period for a common lawbond; a s.810 bond is based on a more limited basis, that thecomplainant's fears [sic] on reasonable grounds that anotherperson will cause personal injury to him or her or to his or herspouse or common law partner or child or will damage his or her
+
+property. A common law peace bond has a wider scope, areasonably apprehended breach of the peace; and a s.810 peacebond has specific provision for breach allegations pursuant to s.811
+which creates a hybrid offence of breaching a peace bond orderunder various Criminal Code sections. Where the election is byindictment the maximum penalty is two years in jail and whenprosecuted summarily the maximum penalty is six months. Wherea common law peace bond is alleged to have been breached theprosecution is pursuant to s.127 of the Criminal Code, fordisobeying a court order which has the same penalty provisions ass.811.
+[emphasis added.]
+
+[9]
+Consequently, the Crown was only required to prove, on a balance of probabilities, thatthere was a “reasonably apprehended breach of the peace”. This would include a reasonableapprehension of personal injury, but it is not limited to that ground.
+
+[10]
+
+For the reasons below, the trial judge was correct in issuing a peace bond.
+
+[11] The evidence before the court consisted of the evidence presented at the Appellant’s trialon criminal harassment charges as well as the Appellant’s testimony at the peace bond hearing.
+While I will not reproduce the full factual record, the following facts are relevant.
+
+[12] In or around April 2013, the complainant and Appellant entered into a casual, intimaterelationship. Over the course of the relationship, it became clear to the complainant that theAppellant had deceived him on several issues, including her real name. In or around 2015, thecomplainant told the Appellant on several occasions that he did not want to have any morecontact with her. Despite his insistence, the Appellant continued to contact him and in December2015, he came home to the Appellant in his apartment. The Appellant, without any apparentlegal right, had entered his apartment and changed the locks. The complainant called the policeand the Appellant left before they arrived. One of the responding officers testified that thecomplaint was visibly upset when he arrived on the scene.
+
+[13]
+
+The complainant testified that on that night he:
+Actually barricaded the door from the inside…you know, did theclassic thing of moving furniture in front of the apartment andputting objects on top of the furniture so if there was the slightestmovement of the door, the objects would fall and I would beawoken. I was scared
+
+[14] Following this incident, the Appellant continued to contact the complainant despite hispleas for her to stop. The complainant became so distressed that he left his apartment one nightand slept at his father’s. He testified that he was “still, for lack of a better word, scared.”
+
+[16] On these facts, it is plain that the trial judge made no error in ordering a peace bond.
+There was an ample evidentiary record upon which to conclude that the complainant reasonablyfeared for his safety and thus there was a reasonable apprehension of a breach of the peace.
+3. Procedure and Natural Justice on the Peace Bond Hearing
+
+[17] The Appellant’s third and fourth submissions can be collapsed into one. The issue iswhether the peace bond proceeding breached the principles of natural justice.
+
+[18] In R. v. Petre, 2013 ONSC 3048, 2013 CarswellOnt. 6954, Trotter J. discussed theprocedural requirements of a peace bond hearing. Trotter J. held at para. 11 that “at a minimum,an accused person has the right to make submissions and call evidence before a common lawpeace bond is imposed.” Trotter J. further indicated at para. 14 that an order may be made “basedon the evidence adduced at trial.”
+
+[19] However, the evidentiary and procedural requirements must be assessed in light of thefact that peace bonds are “used routinely…to resolve criminal charges without a trial…Peacebonds save court time (R. v. Musoni, at para. 25). “Consequently, while a defendant has the rightto make submissions and call evidence, it “is not necessary to call oral testimony in every peacebond application…evidence may be given by counsel to provide the background to support afinding that a bond should be ordered”. (R. v. Musoni, at para. 46)
+
+[20]
+The rules of natural justice were followed in this case. The Appellant received notice twomonths in advance of the peace bond hearing. The Appellant was permitted to make submissionsat the peace bond hearing and permitted to give evidence through taking the stand herself. Whilethe Appellant was unable to lead evidence through three police officers she sought to subpoenathe day of the hearing, as noted by the trial judge, she had ample opportunity to file thesesubpoenas prior to the day of the hearing and had no compelling excuse for failing to do so.
+
+[21] Nor did the trial judge err in failing to facilitate the cross-examination of the complainant.
+It was open to the Appellant to call the complainant as her witness had she so desired. Moreover,the complainant was examined and cross-examined (though the cross-examination was notcompleted) in the previous criminal harassment trial. The same judge presided at this hearing andhad before him the trial transcript at the peace bond hearing. While it is a concern that theAppellant was unable to complete her cross-examination of the complainant, given the expedientnature of peace bond applications as well as the otherwise fulsome evidentiary record, I find thatthis does not constitute a breach of natural justice.
+
+[22] The trial judge did not err in ordering the Appellant to enter into a common law peacebond.
+
+[15] At the peace bond hearing, the Appellant argued that since she had not tried to contact thecomplainant for a number of months, a peace bond was unnecessary.
+
+For the reasons stated, the appeal is dismissed.
+
+K.P. Wright J.
+
+Released: May 18, 2017
+
+[23]
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+HER MAJESTY THE QUEEN
+Respondent
+– and –
+ALTHEA REYES
+AppellantREASONS FOR DECISION
+K.P. WRIGHT, J.
+
+Released: May 18, 2017
+
+CITATION: R. v. Reyes, 2017 ONSC 3079
+COURT FILE NO.: 85/16
+DATE: 20170518
+
