@@ -1,0 +1,135 @@
+CITATION: Villa v. Association of Professional Engineers on Ontario, 2017 ONSC 3277
+COURT FILE NO.: CV-15-536526
+MOTION HEARD: 20170511
+
+RE:
+
+Renzo Villa, Moving Party PlaintiffAND:
+Association of Professional Engineers of Ontario, Responding Party Defendant
+
+BEFORE:
+
+Master Jolley
+
+COUNSEL: P. Dollak, Counsel for the PlaintiffD. Wong and J. Marton, Counsel for the DefendantHEARD:
+
+11 May 2017
+REASONS FOR DECISION
+
+[1]
+
+The plaintiff has brought an action against his former employer, the Association ofProfessional Engineers of Ontario, for wrongful dismissal. He brings this motion toamend his statement of claim to claim moral and/or aggravated damages, punitivedamages and special damages.
+
+[2]
+
+The defendant pleads that the plaintiff was terminated for cause. It alleges that theplaintiff provided engineering services to the public without a Certificate ofAuthorization and that he acted in a conflict of interest.
+
+[3]
+
+In addition to being an employee of the defendant, the plaintiff, as a professionalengineer, is also subject to its professional regulatory process. The defendant takes theposition that the same grounds that support the termination for cause also support thecomplaint it made to the discipline committee concerning the plaintiff and the resultingprofessional misconduct hearing.
+
+[4]
+
+The plaintiff wishes to amend his statement of claim to allege that the defendant breachedhis contract of employment by commencing a campaign of bad faith against him bothduring and after his employment. As noted in the grounds for the plaintiff’s applicationfor judicial review which the defendant filed in these proceedings, and which has sincebeen abandoned, the plaintiff alleges that the defendant took these steps against him as areprisal for certain actions he took while employed at the Association.
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+The plaintiff alleges that, as part of that campaign, the defendant brought an unwarranteddisciplinary proceeding against him and harassed him by taking various steps in thecourse of that disciplinary investigation and proceeding. In the context of his wrongfuldismissal action, he wishes to amend his statement of claim to allege that the defendant’sbad faith campaign against him has resulted in stress, anxiety, frustration, mental distress,embarrassment, loss of reputation and loss of enjoyment of life in support of hisaggravated damages claim.
+
+[6]
+
+While the defendant does not object to the amendments sought to the prayer for relief,including the claim for moral, aggravated and punitive damages, it does object to certainof the proposed additions on the basis that they amount to an abuse of process.
+
+[7]
+
+The defendant has consented to the addition of certain new paragraphs alleging bad faithin relation to a meeting with the plaintiff while he was employed (paragraph 6.1) and alsoin relation to the demand for reinstatement and the position the defendant allegedly tookwith Service Canada (subparagraphs 6.2(a), (b)). It objects to the additional paragraphs6.2(c), (d), (e) and (f) that raise issues concerning the discipline process itself, such as theselection of the investigator, the scope of the Registrar’s order, which the plaintiffcharacterizes as a warrant, that the defendant sought and obtained, and ultimately thereferral of the complaint to a hearing.
+
+[8]
+
+The plaintiff does not seek a stay or any other form of relief in respect of the disciplinehearing but claims aggravated and punitive damages in respect of his employer’s conductin filing and pursuing the complaint. The defendant argues these amendments amount toa collateral attack on the disciplinary proceedings. It further argues that a finding in courton these allegations would circumvent and interfere with the discipline proceedings.
+
+The Law
+
+[9]
+
+On motion at any stage of an action the court shall grant leave to amend a pleading onsuch terms as are just, unless prejudice would result that could not be compensated for bycosts or an adjournment. (Rule 26.01).
+
+[10]
+
+Although that is the general rule, there is no absolute right to amend pleadings. Anamendment to pleadings should not be permitted where the amendment, if originallypleaded, would have been struck. (Marks v. Ottawa 2011 ONCA 248 at paragraph 19).
+
+[11]
+
+It is clear that an employer’s post termination conduct may give rise to a claim for moraldamages. (Doyle v. Zochem Inc. 2017 ONCA 130 at paragraph 13).
+
+Analysis
+
+[12]
+
+The defendant argues that the proposed amendments amount to an abuse of process andtakes the position that the plaintiff must deal with these issues exclusively in the courseof the discipline hearing.
+
+[5]
+
+It argues that it is abusive for a party to challenge administrative decisions other thanthrough an appeal or judicial review and that allowing these allegations to proceed wouldcircumvent the appropriate review mechanism. It also alleges the proposed amendmentsare a collateral attack. It concedes that the plaintiff would be permitted to later amend hisclaim to include these allegations if and when there is a finding on them by the disciplinetribunal.
+
+[14]
+
+There are three immediate difficulties with this argument. First, there is no guarantee thatthe discipline proceedings will proceed to a full hearing. If the hearing does not proceedand if the plaintiff is correct in his contention that his employer used that disciplinaryprocess to retaliate against him in bad faith for actions he took as an employee, he willnot have the opportunity to make that argument before the discipline panel. Nor will hebe able to make the argument in this proceeding unless the amendments are permitted.
+
+[15]
+
+Second, a decision of the discipline committee may well not make any determination onthe good faith or bad faith or the employer in taking the actions it did as the motive of theemployer is arguably not before it and therefore irrelevant. However, that bad faithcomponent is critical to the plaintiff’s claim for punitive damages in his civil action.
+
+[16]
+
+Third, and more fundamentally, the plaintiff cannot obtain the same relief in thedisciplinary hearing even if he does make these bad faith arguments in that forum. If theplaintiff successfully raises these arguments at the discipline hearing, he might succeed inobtaining a stay or a dismissal of the complaint. However, he could not obtainemployment-related damages such as he seeks here. If he is not permitted to raise theseallegations here, he is precluded from an aggravated damages claim and potential award.
+Unlike Volochay v. College of Massage Therapists of Ontario 2012 ONCA 541, thediscipline proceedings would not provide him with an adequate alternative remedy.
+
+[17]
+
+Admittedly, there will be some overlap of the issues in the civil litigation and thediscipline hearing, but that is already the case. Both hinge, in good part, on whether theplaintiff did work without a Certificate of Authorization, whether he acted in a conflict ofinterest and whether he breached his professional obligations.
+
+[18]
+
+In a number of the cases relied on by the defendant, members of regulatory bodiesbrought civil actions claiming malicious prosecution and related torts and alleged theysuffered embarrassment, interference with their economic relations and loss of reputationas a result of their regulator’s commencement of disciplinary action. While the plaintiffalleges that he has suffered similar damages in this case, he is not complaining of theactions of the Association in its regulatory capacity. He argues that the Association ashis employer took these actions against him in breach of his employment contract and itsimplied terms of good faith and fair dealing and its duty of honest performance and usedthat disciplinary process to harass him and to cause him mental distress. While the issuesdo have some overlap, the focus is different. This amendment is not attacking thedisciplinary proceedings per se but attacking his employer’s alleged bad faith use ofthose proceedings to harass or punish the plaintiff.
+
+[13]
+
+The plaintiff does not make these allegations in support of a separate cause of action, aswas the case in M.K. Engineering Inc. v. Plecash 2014 ABQB 483, affirmed 2015 ABCA
+311 but as material facts in support of aggravated damages in his wrongful dismissalaction. They are part of the factual matrix he alleges was part of the wrongfultermination of his employment.
+
+[20]
+
+The defendant relies on the case of Frank v Legate 2015 ONCA 631 for the propositionthat a claim that would improperly interfere with an ongoing disciplinary hearing is anabuse of process and should not be permitted. In that case the related civil claim was formalicious prosecution which, by its nature, required there to be have been an acquittal toproceed and the court found the claim to be premature. I also note that in that case, acivil claim for malicious prosecution was effectively precluded by the Regulated HealthProfessions Act, 1991, S.O. 1991, c. 18, section 36(3). The defendant did not point to asimilar provision of its Act that would preclude such an action. Further, its position theplaintiff could proceed with these allegations after the conclusion discipline hearing, if hewere successful there, suggests there is no such prohibition. The other reasoning for thefinding that the Frank action was an abuse of process are not present here (action used forintimidation and to frustrate the discipline process, action compelling disclosure ofprivileged information, etc.).
+
+[21]
+
+Lastly, I note the case of Turner v. Newfoundland and Labrador (Legal Aid Commission)
+
+[2014] N.J. 385. Turner was employed as a staff lawyer with the defendant Legal AidCommission.
+He was terminated and his employer alleged just cause based onincompetence. On that same basis of incompetence, it filed a complaint with the LawSociety. Turner alleged that that his employer filed the complaint in response to hisrecent role in organizing job action. The Law Society found that certain of the plaintiff’swork on certain of the files fell below the standard set by the Code and warrantedsanction. He was reprimanded and ordered to pay costs.
+
+[22]
+
+Such a finding did not preclude Turner’s civil action. The court held that the regulatorydecision was relevant to but not determinative of Turner’s wrongful dismissal action.
+Despite the outcome at the Law Society, the court found that Turner had been wrongfullydismissed. Even though certain of the complaints had been made out at the Law Society,the court also found the employer Legal Aid Commission guilty of bad faith in respect ofthe allegations of incompetence and negligence that it made to the Law Society againstTurner, which the court found to be a complete exaggeration. The court awarded Turner
+$30,000 in moral damages as a result.
+
+[23]
+
+While there was overlap on the issues and even arguably contradictory findings betweenthe Law Society regulatory hearing and the civil action, Turner was permitted to proceedand succeed with his civil action for wrongful dismissal and aggravated damages even inthe face of the Law Society’s finding that he breached the Code. While I make nocomment on his chance of success, Mr. Villa should at least be given the sameopportunity to pursue those allegations of bad faith here.
+
+[19]
+
+[24]
+
+I hereby grant the plaintiff leave to amend his statement of claim in accordance withSchedule “A” of the notice of motion.
+
+[25]
+
+If the parties are unable to agree on the issue of the costs of this motion, they shallprovide the court with submissions no more than 3 pages in length by 23 June 2017.
+
+Master JolleyDate: 26 May 2017
+
+Disposition
+

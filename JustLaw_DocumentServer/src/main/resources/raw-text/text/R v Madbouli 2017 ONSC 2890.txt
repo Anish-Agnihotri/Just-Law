@@ -1,0 +1,168 @@
+CITATION: R. v. Madbouli, 2017 ONSC 2890
+COURT FILE NO.: CR-17-0000186-0000
+DATE: 20170530
+
+SUPERIOR COURT OF JUSTICE
+HER MAJESTY THE QUEEN
+) Stephen Byrne, for the Crown
+– and –
+MUHAMMAD MADBOULI
+) Peter Thorning and Deepa Negandhi, for the
+) DefendantDefendant )
+) HEARD: March 6-9, 14, 16, April 6, and
+) May 12, 2017
+BETWEEN:
+
+RULING ON AN APPLICATION TO EXCLUDE EVIDENCE
+B. P. O’MARRA J.
+OVERVIEW
+
+[1]
+On May 16 and 17, 2014, Jermaine Rowe was the target of a major drug investigation bymembers of the Toronto Police Service (TPS). He was a named party on an Authorization issuedpursuant to Part VI of the Criminal Code of Canada, R.S.C. 1985, c. C-46. The plan for thosedays was for surveillance to be conducted on Rowe and to arrest him and any others involved indrug transactions. Rowe, the applicant and others were observed in various vehicles and atvarious locations in Toronto and Mississauga on May 17, 2014. Their activity appeared toinvolve drug trafficking. Cell phone conversations between Rowe and the applicant wereintercepted throughout that day. The surveillance officers were updated on those interceptedcommunications throughout the day.
+
+[2]
+At approximately 8:15 p.m. on May 17, 2014, the applicant was alone in his vehicle onRathburn Road in Mississauga when he was boxed in by several unmarked police vehicles. Hewas pulled out of his vehicle and detained by several plainclothes officers for approximatelyfifty-five minutes before he was transported to a police station in Toronto. There is no disputethat the police had reasonable grounds to stop and arrest the applicant when they did so. Thereare contentious issues related to whether the applicant was told of any specific charges and whatwas said to him related to access to a lawyer.
+
+[3]
+The police seized items from the applicant at the time of arrest including a set of keys.
+One of those keys was later used by police to enter an apartment unit. They eventually recovered
+
+ONTARIO
+
+[4]
+The applicant submits there were violations of sections 8 and 10(b) of the Charter ofRights and Freedoms that should lead to the exclusion of the items found in the apartment.
+STANDING TO CHALLENGE THE SEARCH WARRANT
+
+[5]
+The applicant was found in possession of a key to the apartment. Inside the apartment thepolice recovered sensitive personal identification and personal items such as a social insurancecard, mail, business cards and an airline ticket. The mail indicated a different address. Thecumulative effect of that evidence is that he had access and a degree of control over the premisesand an objectively reasonable expectation of privacy. On this blended proceeding the Crownrelies on these same factors to establish possession of the drugs, firearms and proceeds of crime.
+The applicant is not required to show that he had exclusive access and control of the premises: R.
+v. Pugliese, [1992] O.J. No. 450 (C.A.) at para. 14; R. v. Edwards, [1996] 1 S.C.R. 128 at para.
+45; and R. v. Jordan, [2002] B.C.J. No. 2077 (BCCA) at para. 22. I am satisfied that he hadstanding to challenge the legality of the search and seizure.
+RIGHT TO COUNSEL
+
+[6]
+The applicant testified that he was not informed of the reason for his arrest or of his rightto counsel at the takedown at 8:15 p.m. Officers Ross and Holland testified that he was soinformed and that he declined to contact counsel at that time. I do not accept the evidence of theapplicant on those issues. However, that finding is not significant in light of other uncontrovertedevidence related to right to counsel. There was no dispute as to the following:
+(1)
+
+When the uniform transport officers of the TPS took custody of the applicant at9:20 p.m., they advised him of his right to contact counsel and he told them hewanted to do so.
+
+(2)
+
+When the applicant was booked at the police station in Toronto at 10:00 p.m., heagain indicated he wanted to contact counsel; and
+
+(3)
+
+There was no effort by the police to facilitate the applicant’s access to counseluntil 3:27 a.m. This was approximately seven hours after his arrest and six hoursafter he requested access to counsel. At the same station where the applicant wasdetained, the TPS facilitated Rowe and two other persons arrested in this sweep tocontact counsel.
+
+[7]
+The Crown concedes that the breach of s. 10(b) of the Charter was serious. However, hesubmits that it should not lead to exclusion of the real evidence seized by police while theapplicant waited for a chance to contact counsel. The Crown fairly conceded that the breach of s.
+10(b) of the Charter was sufficiently connected to the transaction that led to discovery of the realevidence to require analysis under s. 24(2) of the Charter.
+
+drugs, cash and firearms that are the subject of these charges. They also recovered mailaddressed to the applicant and personal papers including his social insurance card.
+
+[8]
+The Crown concedes that the seizure of the keys at the time of arrest based on the reasongiven for the seizure did not meet the requirements of a lawful search incident to arrest. Thepolice also seized a vehicle rental agreement from the interior of the car. That seizure was alsonot incident to arrest.
+WARRANTLESS ENTRY OF THE APARTMENT
+
+[9]
+One of the keys unlawfully seized from the applicant at the time of arrest was used toenter the apartment without a warrant. The lead officer of the search team was instructed to enter,clear and freeze the apartment until a search warrant was issued. The entry team was to confirmwhether anyone was in the apartment and prevent destruction or loss of potential evidence. Theywere specifically not to search for particular items or move any property inside the apartment.
+
+[10] The search team attended at unit #1209, 1 Hickory Tree Road with the key obtained atthe arrest. The key did not work. The search team then went to an adjacent building, 3 HickoryTree Road, and found that the key worked at unit #1209 at that address. The inclusion of thespecific address in the search warrant was based on the use of the key obtained unlawfully at thetime of arrest.
+
+[11] The lead officer on the warrantless entry was told by his supervisor that there wereexigent circumstances based on a number of persons associated to the address, that the applicanthad been arrested in public and the possibility that evidence could be destroyed. The supervisordid not testify on the applications. The lead officer at the scene added that he heard “rustling”
+noises from inside the apartment before the police entry. He could not exclude the possibility thatthere were people inside. When they entered after announcing that they were police and using thekey, they did not find anyone inside but there was a large dog.
+
+[12] Photos of the interior of the apartment before the search warrant was issued includedthree phones on a couch. Those items were later seized from the kitchen counter. Thus, thephones had been moved from one location to another after the initial entry by the police andbefore the search warrant was issued.
+
+[13] The onus is on the Crown to justify a warrantless search. The Controlled Drugs andSubstances Act, (CDSA) S.C. 1996, c.19, s.11 sets out the process and authority for search andseizure of drugs and offence-related property. Section 11(7) of the CDSA provides that a peaceofficer may conduct a warrantless search of a premises if the circumstances to obtain a warrantexist, and there are exigent circumstances that make it impractical to obtain a warrant. In R. v.
+Paterson, 2017 SCC 15, the Supreme Court of Canada recently considered the ambit of exigentcircumstances related to s. 11(7) of the CDSA at paras. 32-37 inclusive:
+
+[32] All that said, circumstances in which “exigent circumstances” have beenrecognized have borne close resemblance to the definitional categories in s.
+529.3(2). This Court’s jurisprudence considering s. 10 of the Narcotic Control
+
+SEARCH INCIDENT TO ARREST
+
+Act, R.S.C. 1985, c. N-1 (which was repealed and replaced by the CDSA), whichpermitted a peace officer to search a place that was not a dwelling-house withouta warrant so long as he or she believed on reasonable grounds that a narcoticoffence had been committed, is instructive. That provision was held in R. v.(Grant 1993, at p. 243; R. v. Feeney, 1997 CanLII 342 (SCC), [1997] 2 S.C.R.
+13, at para. 153, per L’Heureux-Dubé J., dissenting; and R. v. Silveira, 1995Similarly, circumstances in which “immediate action is required for the safety ofthe police” were also found to qualify as “exigent” (Feeney, at para. 52; see also,in respect of searches to preserve officer safety, this Court’s statement in R. v.
+[33] The common theme emerging from these descriptions of “exigentcircumstances” in s. 11(7) denotes not merely convenience, propitiousness oreconomy, but rather urgency, arising from circumstances calling for immediatepolice action to preserve evidence, officer safety or public safety. This thresholdis affirmed by the French version of s. 11(7), which reads “l’urgence de lasituation”.
+
+[34] Even where exigent circumstances are present, however, they are not, ontheir own, sufficient to justify a warrantless search of a residence under s. 11(7).
+Those circumstances must render it “impracticable” to obtain a warrant. In thisregard, I respectfully disagree with the Court of Appeal’s understanding of s.
+11(7) as contemplating that the impracticability of obtaining a warrant woulditself comprise exigent circumstances. The text of s. 11(7)(“by reason of exigentcircumstances it would be impracticable to obtain [a warrant]”) makes clear thatthe impracticability of obtaining a warrant does not support a finding of exigentcircumstances. It is the other way around: exigent circumstances must be shownto make it impracticable to obtain a warrant. In other words, “impracticability”,howsoever understood, cannot justify a warrantless search under s. 11(7) on thebasis that it constitutes an exigent circumstance. Rather, exigent circumstancesmust be shown to cause impracticability.
+
+[35] The appellant says that the requirement of “exigent circumstances”
+rendering it “impracticable” to obtain a warrant requires, in effect, that suchcircumstances “leav[e] the police no choice but to proceed with entering adwelling-house”. In other words, he maintains that the “impracticability” ofobtaining a warrant should be understood to mean impossibility. Conversely, theCrown submits that a much lower threshold is indicated, such that obtaining awarrant is not “realistic” (whatever that may mean) or “practical”.
+
+[36] While I am not persuaded that the strict condition of impossibility urgedby the appellant is denoted by Parliament’s chosen statutory language ofimpracticab[ility], neither am I satisfied by the Crown’s argument equatingimpracticability with mere impracticality. Viewed in the context of s. 11(7),however — including its requirement of exigent circumstances —
+“impracticability” suggests on balance a more stringent standard, requiring that itbe impossible in practice or unmanageable to obtain a warrant. The Frenchversion of “impracticable” in s. 11(7) — “difficilement réalisable” — is alsoconsistent with a condition whose rigour falls short of impossibility but exceedsmere impracticality of obtaining a warrant.[3] So understood, then, “impracticable”
+within the meaning of s. 11(7) contemplates that the exigent nature of thecircumstances are such that taking time to obtain a warrant would seriouslyundermine the objective of police action — whether it be preserving evidence,officer safety or public safety.
+
+[37] In sum, I conclude that, in order for a warrantless entry to satisfy s. 11(7),the Crown must show that the entry was compelled by urgency, calling forimmediate police action to preserve evidence, officer safety or publicsafety. Further, this urgency must be shown to have been such that taking thetime to obtain a warrant would pose serious risk to those imperatives.
+
+[14] This initial warrantless entry was based on the reasonable belief that it was necessary toprevent the destruction or loss of evidence. However, it was done with the unlawfully obtainedkey. On that basis the circumstances to obtain a warrant did not exist. Therefore this was not alawful warrantless entry.
+REASONABLE AND PROBABLE GROUNDS TO ISSUE THE SEARCH WARRANT
+
+[15] The Crown concedes that the seizure of the keys at the time of arrest breached s. 8 of theCharter. Reference to the keys in the Information to Obtain (ITO) must be excised. The Crownfurther concedes that when reference to the keys is removed, the ITO no longer containssufficient grounds related to the specific apartment to be searched. The Crown relies onamplification evidence on this hearing to support the validity of the ITO.
+
+[16] Amplification in support of an ITO cannot include or be based on information flowingfrom a Charter breach. Without reference to the key seized on arrest, there does not appear to be
+
+SHOULD THE UNLAWFULLY OBTAINED EVIDENCE BE EXCLUDED?
+
+[17] Based on R. v. Grant, 2009 SCC 32 at paras 71 and 85, the Court must consider threefactors:
+(1)
+
+The seriousness of the breaches;
+
+(2)
+
+The impact on the applicant’s Charter-protected rights; and
+
+(3)
+
+Society’s interest in an adjudication on the merits.
+
+The Court must then balance the three factors to determine whether admitting the evidencewould bring the administration of justice into disrepute. This phrase must be understood in thelong-term sense of maintaining the integrity of, and the public’s confidence in, the justicesystem: Grant, at para. 84.
+The Seriousness of the Charter Breaches
+
+[18] There were a series of errors and misinformation that led to the warrantless search of theapartment. The seizure of the keys at arrest and the warrantless search of the apartment do notappear to be deliberate violations of the applicant’s rights. The fact that an unlawful search wasconducted at a dwelling, even if the applicant was not the sole or most significant attendee, isserious in its own right. The denial of access to counsel for at least six hours demonstrated asignificant degree of indifference, if not disregard, for the rights of the applicant.
+
+[19] The role of the unlawfully-obtained key was critical in the search team going from thewrong unit to the eventual target. This was not a mere typographical error on the address. Thelocation and entry of the target unit cannot be lawfully justified when it rests on the unlawfulseizure of the key. This factor favours exclusion of the evidence.
+Impact on the Charter-Protected Interests of the Applicant
+
+[20] The breach of s. 8 of the Charter significantly infringed the privacy rights of theapplicant. His rights under s. 10(b) of the Charter were breached for a protracted period of time.
+During that time the applicant was denied access to counsel while the police used an itemobtained by a different Charter breach to obtain a warrant to search the apartment. Thecumulative impact of the breaches on his Charter-protected interests was significant. This factorfavours exclusion of the evidence.
+Society’s Interests in an Adjudication on the Merits
+
+sufficient information in the ITO as amplified to indicate which apartment building was the oneconnected to the drug activity (unit #1209 at 1 Hickory Tree Road or unit #1209 at 3 HickoryTree Road). The ITO excised of that information is insufficient to support a lawful search.
+
+Balancing the Interests
+
+[22] The temporal connection between the warrantless search of the apartment and theprotracted, unjustified delay in facilitating access to counsel is a significant factor in thebalancing of interests aspect of the Grant analysis. The real evidence seized did not flow directlyfrom the breach of s. 10(b) of the Charter. However, during the hours that the applicant wasdenied access to counsel, the police devoted that time and significant resources to the search thatis the object of these applications. The failure to afford access to counsel in the circumstances ofthis case was grossly negligent, if not in bad faith.
+
+[23] I do not find that the officers involved in the search were acting in bad faith. However,negligence in meeting Charter standards cannot be equated to good faith: Grant, at para. 75.
+
+[24] Courts cannot lightly exclude real evidence of serious crimes based on breaches of theCharter. On the other hand, recovery of such items cannot invariably trump the other interests inthe balance. The cumulative Charter breaches here, ranging from indifference to the applicant’srights to deliberate denial of them, militate strongly in favour of the exclusion. In weighing thebalance of these interests, in my view, the evidence derived from these events must be excluded.
+
+[25] RESULT: The applications are granted and the evidence seized from the apartment isexcluded.
+
+B. P. O’Marra J.
+
+Released: May 30, 2017
+
+[21] The items seized by the police would be reliable physical evidence that is essential to theCrown’s case. There is a significant societal interest in a trial on the merits where dangerousitems such as illicit drugs and firearms are recovered. This factor favours inclusion of theevidence.
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+HER MAJESTY THE QUEEN
+– and –
+MUHAMMAD MADBOULI
+DefendantRULING ON AN APPLICATION TO EXCLUDE
+EVIDENCE
+B. P. O’Marra J.
+
+Released: May 30, 2017
+
+CITATION: R. v. Madbouli, 2017 ONSC 2890
+COURT FILE NO.: CR-17-0000186-0000
+DATE: 20170530
+

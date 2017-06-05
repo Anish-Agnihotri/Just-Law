@@ -1,0 +1,202 @@
+CITATION: Crawford v. Mori, 2017 ONSC 1630
+COURT FILE NO.: CV-16-127586
+DATE: 20170515
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+Mark Crawford, Nancy Crawford, Scott
+Crawford, Erin Osinchuk, Chad Osinchuk,
+Heather Jayanetti, and Haren Jayanetti
+Plaintiffs )
+– and –
+Richard Mori, also known as Richard
+Wayne Mori, Bonnie Mori, also known as
+Bonnie Mary Mori, RBM Golden
+Consulting Ltd., 1093942 Ontario Limited,
+New Cordova Mines Ltd., Gold Insight
+Resources 2003 Limited, Gold Insight
+Resources 2004 Ltd., Gold Insight
+Resources (2005) Inc., and Golden
+Millenium Health Technology Inc.
+Defendants )
+
+Brett D. Moldaver, for the Plaintiffs
+
+John Broderick, for the Defendants
+
+HEARD: March 9, 2017
+
+REASONS FOR DECISION
+MCKELVEY J.:
+Introduction
+
+[1]
+
+This is a motion brought by the plaintiffs seeking an order to enforce a settlementagreement.
+
+[2]
+
+The plaintiffs commenced an action against the defendants. The plaintiffs allege that as aresult of misrepresentations by the defendants, Richard and Bonnie Mori, they wereinduced over a period of six years to invest $283,500 to purchase 1,244,200 shares in a
+
+ONTARIO
+
+[3]
+
+The plaintiffs deny that they were provided with any share certificates for Gold Insightand it was further alleged that Gold Insight had issued about twice the number of sharesthat Mr. Mori had initially promised to the plaintiffs would ever be issued. The effect ofthis according to the plaintiffs was to dilute their holdings in Gold Insight. The plaintiffsfurther allege in the statement of claim that Richard and Bonnie Mori improperlytransferred monies from Gold Insight for the personal use of Richard and Bonnie Mori.
+The plaintiffs allege that as a result of the defendants’ actions, the plaintiffs sustained lossof income together with a loss of income earning ability, diminution in the value of theGold Insight shares and personal injuries including emotional upset and loss ofenjoyment of life. Punitive damages are also claimed in the action.
+
+[4]
+
+Following the commencement of the action, there were settlement negotiations betweenthe parties.
+
+[5]
+
+On September 9, 2016, the defendants through their counsel submitted a withoutprejudice offer for $428,537.
+
+[6]
+
+On October 5, 2016, plaintiffs’ counsel in a letter dated October 5, 2016 advised that hisclients had given instructions to settle the proceeding for the sum of $900,000.
+
+[7]
+
+On December 22, 2016, the plaintiffs’ solicitor delivered correspondence to defencecounsel stating as follows:
+Our clients hereby accept the offer to settle set out in your letter ofSeptember 9, 2016.
+Upon payment to our firm of the settlement amount of $428,537 in trust
+(representing the aggregate amount payable to all the plaintiffs), ourclients will attend to a dismissal order on consent of the proceeding. Wewill provide a written direction regarding payment of funds in trust ifrequired.
+
+[8]
+
+In the interval between the defendants’ original offer on September 9, 2016 and theplaintiffs acceptance of the offer on December 22, 2016, defence counsel wrote to theplaintiffs on November 23, 2016 and advised as follows:
+We have now determined that the shareholders registered for GoldInsight Resources Ltd. records the following common shares registeredin the names of your clients as follows:
+Crawford,Crawford,Crawford,Osinchuk,
+
+Nancy & MarkScottMarkErin & Chad
+
+392,000
+374,200
+128,000
+200,000
+
+company called Gold Insight Resources Ltd. (“Gold Insight”). Gold Insight is not namedas a defendant in this action.
+
+150,000
+1,244,200
+
+They form part of the total outstanding shares of 20,997,789. It wouldappear that your clients got exactly what they bargained for, the numberof shares referred to in the Statement of Claim prepared by Mr. Chow.
+
+[9]
+
+There is no evidence that the defendants withdrew their offer of September 9 prior to itsacceptance. The plaintiffs’ position is that the plaintiffs were entitled to accept thedefence offer and that there is a binding settlement agreement. The defence take theposition that there is no binding settlement agreement.
+
+Analysis
+
+[10]
+
+Rule 49.09 is the applicable rule dealing with the failure to comply with an acceptedoffer. It provides as follows:
+Where a party to an accepted offer to settle fails to comply with the termsof the offer, the other party may,
+(a) make a motion to a judge for judgment in the terms of theaccepted offer, and the judge may grant judgment accordingly; or
+(b) continue the proceeding as if there had been no accepted offer tosettle.
+
+[11]
+
+In the present case, the plaintiffs have elected to bring a motion for judgment inaccordance with the terms of the alleged agreement.
+
+[12]
+
+In their factum, the defence argues that the plaintiffs’ offer of October 5, 2016 effectivelywithdrew or terminated the defence offer of September 9, 2016. This common-lawdoctrine, however, has been altered by rule 49.07(2), which provides as follows:
+(2) Where a party to whom an offer to settle is made rejects the offer orresponds with a counter-offer that is not accepted, the party maythereafter accept the original offer to settle, unless it has beenwithdrawn or the court has disposed of the claim in respect of whichit was made.
+
+[13]
+
+The defendant initially argued that its offer of September 9, 2016 was not a rule 49 offerand therefore was not covered by the provisions of rule 49.07. However, the case law hasestablished that the intention of rule 49 is that it will govern all offers made in writing,whether in letter form or the form set out in the rules. In Lindsay Paper Box Co. v.
+Schubert International Manufacturing Inc., (1992) 8 O.R. (3d) 437, Justice Lanecomments on the argument made in that case that rule 49.07(2) did not apply because the
+
+Jayanetti, Heather & HarenTotal:
+
+As to written offers, it is my view that the intention of rule 49 is that itwill govern all offers made in writing, whether in letter form or the formset out in the rules...I make no comment on whether an offer in writingexpressly stating that it is not under rule 49 would succeed in escapingthe rule; that issue is not before me. But since the passing of rule 49 withits sometimes drastic cost consequences, the general expectation of asolicitor receiving a written offer is that the offerer intends to rely uponthe making of the offer for its cost consequences.
+
+[14]
+
+The same conclusion was reached in Barry v. Barry, [1997] O.J. No. 2894. In that casethe court held that in the absence of evidence supporting an inference to the contrary, asettlement offer contained in the form of a letter which complies with the essentialrequirements of rule 49.02 should be treated as an offer to settle under the rules, not as acommon law offer.
+
+[15]
+
+In the present case, the defence offer was made in the course of litigation and after thestatement of claim had been served. While the offer was in letter form I conclude that theprovisions of rule 49 and in particular rule 49.07(2) apply. During the course ofargument, the defence agreed that its offer of September 9, 2016 was in fact governed byrule 49. Their position evolved into an argument that the court should exercise itsdiscretion not to enforce the settlement because it would be unjust and not in the interestof justice to do so.
+
+[16]
+
+In Capital Gains Income Streams Corp. et al v. Merrill Lynch Canada Inc., (2007) 87
+O.R. (3d) 464, the Divisional Court dealt with the process to be followed in consideringan application to enforce settlement. The court states that the first step is to considerwhether an agreement to settle was reached. The second step, once an agreement hasbeen found to exist, is to consider whether, on all the evidence, the agreement should beenforced.
+
+[17]
+
+In the present case I conclude that there was a settlement agreement reached. Thedefendants’ offer as set out in its letter of September 9, 2016 clearly set out its offer. Theoffer was not brought to an end by the plaintiffs’ counter-offer and remained open foracceptance. There was an unconditional acceptance of the defence offer by the plaintiffsin their correspondence of December 22, 2016. The terms of the settlement are clear andunequivocal. There is no evidence to suggest that the defence offer was sent withoutauthority or by mistake nor is there any ambiguity about its terms.
+
+[18]
+
+There remains however the issue of whether the court should exercise its discretion not togrant judgment in terms of the accepted offer. With respect to a court's consideration forthe exercise of its discretion, the Divisional Court in the Capital Gains Income StreamsCorp. decision supra sets out the considerations which a court should consider asfollows:
+
+offer was made in letter form and not specifically under rule 49 which contemplates aformal offer. In his decision Justice Lane states,
+
+Those judgments emphasize the judicial obligation to consider all of thecircumstances of the case at hand, and to then decide whether it is fair toenforce the settlement. Although I risk unduly limiting my discretion bysaying so, I think the right approach is to consider that a settlementeffected pursuant to Rule 49 ought to be enforced, and so judgment oughtto be granted, unless the offeror satisfies the judge that, in all thecircumstances, enforcement would create a real risk of a clear injustice. Itseems to me that the approach is required because it is good public policyto encourage settlement, and it would be quite inconsistent with thatpolicy to decline enforcement unless a good reason for doing so isshown.
+
+[19]
+
+This view was echoed in the Ontario Court of Appeal decision in Srebot v. Srebot FarmsLtd., 2013 ONCA 84. In that case the court commented that,The discretionary decision not to enforce a concluded settlement,especially where the settlement has been partially or fully performed,should be reserved for those rare cases where compelling circumstancesestablish that the enforcement of the settlement is not in the interests ofjustice.
+
+[20]
+
+In the present case the defence argues that it would be unjust to allow the plaintiff tobenefit not only from the granting of the shares in Gold Insight but also from a paymentof over $400,000 in addition.
+
+[21]
+
+In response to the motion, the defence filed an affidavit from Richard Mori datedFebruary 14, 2017. In that affidavit Mr. Mori states that on November 23, 2016 heinstructed his solicitor to write to the plaintiffs’ counsel to indicate the number of sharesin Gold Insight which were registered in the names of the plaintiffs. He also makesreference to the fact that the plaintiffs attended by proxy at a special shareholders meetingof Gold Insight which was held on December 12, 2016 to approve an option to purchaseagreement between a subsidiary of Gold Insight and Rio Tinto Exploration Canada Inc.
+He further testifies that an initial $500,000 payment has already been made by Rio Tintoto the subsidiary of Gold Insight.
+
+[22]
+
+The defence argues that it would be unjust and unconscionable to allow the plaintiffs tobenefit not only from the ownership of the shares of Gold Insight as well as the financialcompensation contained in the defendants’ offer of September 9. The defence refers toMr. Broderick's letter dated November 23, 2016 where he states that the shareholdersregister for Gold Insight reflects the shareholdings for the plaintiffs. Defence counselthen states, “it would appear that your clients got exactly what they bargained for, thenumber of shares referred to in the statement of claim prepared by Mr. Chow". Thedefence therefore argues that it would be unjust for the plaintiffs to receive both thebenefit of the shares and the benefit of compensation contained in their offer.
+
+[23]
+
+There are a number of difficulties with this assertion. First, there is no information beforeme to indicate when the share transfer to the plaintiffs of the Gold Insight sharesoccurred. If the share transfer occurred prior to the defence offer of September 9, it isreasonable to conclude that the shares issued to the plaintiffs would have been taken intoaccount at the time of the defence offer. On the other hand, in the event that this transferoccurred after September 9, and if it were intended that the plaintiffs would not get thebenefit of the share transfer as well as the plaintiffs’ monetary offer, there is noexplanation as to why the offer of September 9 was not withdrawn by the defendants.
+
+[24]
+
+It is also significant to note that the plaintiffs in their statement of claim not only soughtspecific performance to receive the shares of Gold Insight which they alleged they wereentitled to receive. They also claimed damages in the sum of $4,000,000 together withpunitive and aggravated damages. The alleged damages included claims for the lostopportunity and lost income caused by the defendants conduct. The issuance of the sharesand the offer of financial compensation is therefore, not inconsistent with the claimsasserted by the plaintiffs in the action. As a result, the evidence before me does notsatisfy me that the plaintiffs have obtained a double recovery by way of this settlement assuggested by the defence.
+
+[25]
+
+It is not possible for the court based on the evidence before it, to comment on whether thesettlement agreement reached was overly generous to the plaintiffs nor would it beappropriate in my view to enter into this type of analysis. Parties to a settlementagreement are free to negotiate a settlement on terms that are mutually agreeable to themand the reasons for entering into these agreements and the respective benefits they obtainfrom agreements are not always clear. There are many considerations, some of which areprivileged which prevent a court from effectively commenting on whether a settlement isreasonable or not reasonable. What is clear, however is that the plaintiffs’ claims in thisaction go far beyond a claim to receive the shares of Gold Insight and include substantialclaims for damages and punitive damages. The evidence before me does not satisfy methat the settlement is so one-sided as to constitute an injustice which is the thrust of thedefence argument.
+
+[26]
+
+There is also no evidence to suggest that the defendants’ offer was made by mistake orwithout authority nor is there any evidence to suggest that the defendants gaveinstructions to withdraw the offer. I conclude that the defendants have failed to satisfy methat enforcement of the settlement will create a real risk of injustice. The plaintiffs’
+motion to enforce the settlement is therefore granted.
+
+[27]
+
+With respect to costs, the parties have agreed that the partial indemnity costs of thismotion are properly assessed at the sum of $6000 including all disbursements and HST.
+In light of my decision, I find that the plaintiffs should be entitled to their costs. If theplaintiffs are asserting a claim beyond partial indemnity costs, counsel should schedulean appointment within 30 days to address the matter before me. Otherwise, the plaintiffsshall be entitled to their partial indemnity costs agreed at $6000 from the defendants.
+
+Justice M. McKelvey
+
+Released: May 15, 2017
+
+CITATION: Crawford v. Mori, 2017 ONSC 1630
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+Mark Crawford, Nancy Crawford, Scott Crawford, ErinOsinchuk, Chad Osinchuk, Heather Jayanetti, and HarenJayanettiPlaintiffs
+– and –
+Richard Mori, also known as Richard Wayne Mori,Bonnie Mori, also known as Bonnie Mary Mori, RBM
+Golden Consulting Ltd., 1093942 Ontario Limited, NewCordova Mines Ltd., Gold Insight Resources 2003
+Limited, Gold Insight Resources 2004 Ltd., Gold InsightResources (2005) Inc., and Golden Millenium HealthTechnology Inc.
+DefendantsREASONS FOR DECISION
+Justice M. McKelvey
+
+Released: May 15, 2017
+
+ONTARIO
+

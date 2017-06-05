@@ -1,0 +1,503 @@
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+THE CORPORATION OF THE CITY OF
+MARKHAM
+Applicant )
+– and –
+INTACT INSURANCE COMPANY
+Respondent )
+
+Luciana I. Amaral, for the Applicant
+
+Avi Sharabi, for the Respondent
+
+HEARD: May 12, 2017
+
+REASONS FOR DECISION
+DiTOMASO J.
+THE APPLICATION
+
+[1]
+
+The Applicant, The Corporation City of Markham (“the City”) brings this Applicationpursuant to Rule 14.05(d) of the Rules of Civil Procedure against the Respondent, IntactInsurance Company (“Intact”) for the following relief:
+(a)
+
+A declaration that Intact is required to defend the City in respect of all claimsmade against the City in Ontario Superior Court of Justice, Court Action CV-15122526-00 commenced at Newmarket (“the Main Action”);
+
+(b)
+
+An order that the City is entitled to appoint and instruct counsel of its choice, whoneed not report to or take instructions from Intact, at the expense of Intact, inrespect of the Main Action;
+
+CITATION: The Corporation of the City of Markham. v. Intact Insurance Company, 2017
+ONSC 3150
+NEWMARKET COURT FILE NO.: CV-16-128933-00
+DATE: 20170523
+
+(c)
+
+An order that Intact reimburse the City for all past legal and administrativeexpenses incurred in defending the Main Action; and
+
+(d)
+
+Costs of this Application on a full indemnity basis.
+
+OVERVIEW
+
+[2]
+
+The Main Action arises out of an incident involving the plaintiff, Hasan Jalal, where heallegedly slipped and fell on an “icy and snowy” sidewalk on Old Kennedy Roadbetween Denison Street and Aldergrove Drive in the City Markham (“the Sidewalk”) onFebruary 24, 2014.
+
+[3]
+
+In the Statement of Claim, Mr. Jalal claims that his injuries were caused by thenegligence of both the City and VTA Construction Limited (“VTA”) in failing to keepthe Sidewalk free of snow and ice. The particulars of negligence against VTA and theCity are identical.
+
+[4]
+
+On or about July 14, 2008, the City contracted out winter maintenance of its sidewalksincluding the location of the accident toVTA (“the Maintenance Agreement”).
+
+[5]
+
+Pursuant to the Scope of Work clause in the Maintenance Agreement, VTA was requiredto plough, sand and/or salt the Sidewalk, upon being requested to do so by the City,within specified time frames and to provide and maintain the equipment used forploughing, sanding and salting.
+
+[6]
+
+The City called out VTA to maintain the Sidewalk every day from February 18 to 22,2014. Although VTA was not called out on February 23 or 24, 2014, there were nosubsequent weather conditions giving rise to a need for further ploughing, sanding orsalting of the Sidewalk between the time VTA purportedly maintained the Sidewalk tothe time of Mr. Jalal's accident on the morning of February 24, 2014.
+
+[7]
+
+At all material times, the City held a policy of insurance as a named insured with Intactbearing policy number 500081155 (“the Policy”). Pursuant to the provisions of thePolicy, the City was covered for Commercial General Liability for $2,000,000 withrespect to liability arising out of the operations of VTA.
+
+[8]
+
+The City asserts that the claims in the Main Action arise out of the operations of VTA
+and, in particular, failure to plough and sand/salt the Sidewalk adequately or at all. TheCity maintains that it is entitled to a defence from Intact.
+
+[9]
+
+Intact takes the position that the City is not entitled to a defence and, with regards to thePolicy, for this claim, the City is not an Additional Insured.
+
+[10]
+
+The City commenced this Application against Intact for failure to respond to its duty todefend the City. The City also asserts that Intact has an interest in establishing that Mr.Jalal's injuries were caused by independent omissions on the part of the City as opposedto negligent winter maintenance on the part of VTA. The City contends that Intact would
+
+[11]
+
+Intact denies that there is any sort of conflict and it should be allowed to appoint counselof its choice to defend the City in the Main Action. Intact also asserts that the City is notentitled to any costs.
+
+ISSUES
+
+[12]
+
+The following issues are to be determined on this Application:
+(a)
+
+Is Intact required to defend the City in respect of all claims made against the Cityin the Main Action?
+
+(b)
+
+Is the City entitled to appoint and instruct counsel of its choice to defend the MainAction without reporting to Intact or taking instructions from Intact at Intact’sexpense? and
+
+(c)
+
+Is Intact required to pay for the City's defence of the Main Action and reimbursethe City in respect of past costs of defending that action?
+
+POSITION OF THE PARTIES
+Position of the City
+
+[13]
+
+The City submits that it is an Additional Insured pursuant to the Policy of Insurancebetween VTA and Intact. As an Additional Insured, the City submits that it is entitled tocoverage and a defence by Intact for claims arising in the Main Action out of the liabilityfor activities of VTA regarding sidewalk snow and ice removal where this accidenthappened.
+
+[14]
+
+The City asserts the Policy and coverage is engaged and that Intact owes the City adefence.
+
+[15]
+
+Although VTA was not called out on February 24, 2014, the City maintains that VTA
+was at all material times responsible for clearing the snow and ice from the Sidewalkincluding from February 18 to 22, 2014. The City submits that the damages and injuriesallegedly sustained by Mr. Jalal as pleaded in the Statement of Claim arise as a directresult of the operations performed by VTA pursuant to the Maintenance Agreement.
+
+[16]
+
+Further, the City submits that as there is a duty to defend in this case, it is entitled toappoint and instruct counsel of its choice without having to report to Intact. The Citypoints to VTA’s Statement of Defence and Cross-claim as evidence of an inherentconflict of interest where VTA seeks to shift liability to the City for failing to call outVTA and failing to monitor VTA.
+
+be in a conflict if allowed to appoint counsel to defend the City in the Main Action. TheCity seeks to appoint its own counsel to defend the Main Action without reporting toIntact or taking instructions from Intact at Intact’s expense. The City also seeks costs ofthe action and costs of the application.
+
+Lastly, the City submits that it is entitled to costs of defending the action already paid ona full indemnity basis as well as costs of the Application on the same basis. The Cityasserts that payment of such costs are provided in the Policy of Insurance between VTA
+and Intact where the City is named as an Additional Insured.
+
+Position of Intact
+
+[18]
+
+Intact submits that while the City is named as an Additional Insured in the Policy ofInsurance, the City is not an Additional Insured for the purposes of this underlying claim.
+It is submitted that the City failed to call out VTA on the date of the accident February24, 2014. Because no services were provided by VTA on that day, VTA asserts that noclaims could have arisen out of the VTA’s operations which on that date did not exist.
+
+[19]
+
+VTA denies that Intact has a duty to defend the City in respect of the Mr. Jalal's claims.
+
+[20]
+
+In addition, Intact asserts that it has the right to appoint and instruct counsel in this caseand that and the City has no entitlement whatsoever to appoint its own counsel withoutreporting to Intact. Intact asserts that there is no reasonable apprehension of conflict ofinterest. Neither is there any conduct issue that exists here on the part of Intact thatwould give rise to any conflict issue.
+
+[21]
+
+As for costs, Intact submits that the duty to defend does not arise until it has been madeaware by the City of a coverage claim. Notice of coverage was delivered by letter datedMarch 10, 2016 from by the City to Intact. The City is not entitled to its costs prior tothat date in respect of defending the Main Action.
+
+ANALYSIS
+A.
+
+Is Intact required to defend the City in respect of all claims made against the City inthe Main Action?
+
+[22]
+
+Intact has raised the issue that while the City is named as an Additional Insured in thePolicy of Insurance, the City is not an Additional Insured for the purposes of the claimsmade by Mr. Jalal in the Main Action. Intact asserts that there were no operationsundertaken by VTA on February 24, 2014 (the date of the accident) and because therewere no such operations, there could be no liability arising where no operations wereundertaken by Intact on that date.
+
+[23]
+
+I reject this argument. While it is clear that the Mr. Jalal allegedly slipped and fell onFebruary 24, 2014, Mr. Jalal alleges negligence against both the City and VTA
+contending that at all material times they were responsible for the proper care and safemaintenance of the Sidewalk which they failed to do. These allegations are not restrictedto the condition of the Sidewalk on the date of the accident but rather necessarily includethe care and maintenance of the Sidewalk on days prior to the accident.
+
+[17]
+
+[24]
+
+I find that the Policy of Insurance and Maintenance Agreement speak to the claimsarising out of the operations undertaken by VTA which relate to the claims of Mr. Jalal inthe Main Action. I conclude that the City is an Additional Insured covered by the Policyof Insurance regarding Mr. Jalal’s claims in the Main Action arising out of the operationsof VTA.
+
+[25]
+
+Regarding the duty to defend, for the following reasons, I find that Intact is required todefend the City in respect of all claims made against the City by Mr. Jalal in the MainAction. The Main Action arises from a slip and fall incident. Essentially, Mr. Jalalclaims an alleged failure on the part of the City and VTA to remove snow and/or ice fromthe Sidewalk. This is at the heart of what VTA was contracted to do under theMaintenance Agreement with the City which also formed the basis of the Policy ofInsurance with Intact in which the City is named as an Additional Insured.
+
+[26]
+
+It is well settled law that if the pleadings allege facts which, if proved, would require theinsurer to indemnify an insured on a particular claim, the insurer is obliged to defend thatparticular claim. See Carneiro v. Durham (Regional Municipality), 2015 ONCA 909 atpara. 15.
+
+[27]
+
+General principles relating to the construction of insurance contracts support theconclusion that the duty to defend arises where the pleadings raise claims which would bepayable under an agreement to indemnify. See Non-Marine Underwriters, Lloyd's ofLondon v. Scalera, 2000 SCC 24 at para. 74.
+
+[28]
+
+The existence of a duty to defend depends on the nature of the claim made, not thejudgment that results from the claim. The duty to defend is normally much broader thanthe duty to indemnify against the judgment. The mere possibility that a claim falls withinthe policy triggers the duty to defend. See Carneiro, supra, at para. 15.
+
+[29]
+
+In determining the scope of the duty to defend, courts must take factual allegations asplead and then ask which of the plaintiff's legal claims could potentially be supported bythose factual allegations.
+
+[30]
+
+In the case at bar, it is obvious that a number of Mr. Jalal’s allegations fall squarelywithin the coverage afforded by Intact’s Policy of Insurance. Also, Intact agreed todefend VTA in the Main Action.
+
+[31]
+
+It is well established in the jurisprudence that an insurer’s duty to defend is determinedby looking at the pleadings, the insurance policy and the contract referred to in thestatement of claim. See Halifax Insurance Company of Canada v. Innopex Ltd., [2004]
+OJ No. 4178 (Ont. C.A.).
+
+[32]
+
+In Carneiro, the Ontario Court of Appeal at para. 15, confirmed the applicable testregarding whether a duty to defend exists as follows:
+
+First, when pleadings allege facts that, if true, require the insurer toindemnify the insured, the insurer is obliged to defend the claim:
+Monenco v. Commonwealth, 2001 SCC 49, [2001] 2 .S.C.R. 699,at para. 28. The mere possibility that a claim may fall within thepolicy is sufficient to trigger the duty to defend: Monenco, at para.
+29. In assessing whether the facts pleaded fall within the policy,the court must consider the substance and true nature of the claim:
+Monenco, at paras. 34-36. Extrinsic evidence expressly referred toin the pleadings may be considered: Monenco, at para. 36.
+The Statement of Claim
+
+[33]
+
+The particulars of negligence outlined in the Statement of Claim in the Main Action areas follows:
+(a)
+
+They failed to take reasonable care and reasonable precautions to ensure thatpedestrians were reasonably safe while walking on the sidewalk;
+
+(b)
+
+They failed to properlymaintain the sidewalkshoveling, sanding, and salting of the sidewalk;
+
+(c)
+
+They failed to, or were negligent in, preventing and removing theaccumulation and existence of icy portions of the sidewalk which they knewor should have known posed a risk and harm to persons;
+
+(d)
+
+They failed to inspect the sidewalk and surrounding areas for the existence of adangerous condition, properly or at all;
+
+(e)
+
+They failed to have in operation at the time of the accident, and immediatelybefore, a proper and efficient system to detect and abate dangerous conditionsupon its area, such as the presence of various walking hazards;
+
+(f)
+
+They failed to devise practices and policies providing regular inspection andrepair of the sidewalk. In alternative, they failed to comply with their ownpractices and policies;
+
+(g)
+
+They failed to take all reasonable and effective measures and precautions toprevent injury to the Plaintiff and to ensure that the accident would not occur;
+
+(h)
+
+They had full knowledge, or should have had full knowledge, of the substandard precautions taken to prevent injury to pedestrians on the sidewalkand had reasonable time to remedy same but failed to take proper and adequatesteps to do so;
+
+(i)
+
+They, with full knowledge of the danger posed by the condition of thesidewalk, permitted and allowed the pedestrians to continue to traverse thedangerous areas;
+
+which would
+
+include
+
+(j)
+
+They failed to instruct or warn the public of the dangers and condition of thesidewalk;
+
+(k)
+
+They failed to erect and maintain a suitable notice, warning pedestrians of thedanger posed by the condition of the sidewalk;
+
+(l)
+
+They failed to inspect or adequately inspect the sidewalk and they failed toensure proper repair of the sidewalk;
+
+(m)
+
+They failed to supervise or adequately supervise the system of inspection ofthe sidewalk;
+
+(n)
+
+They permitted the sidewalk to be in an unsafe condition, such as wouldcause serious injuries to persons using the sidewalk, thereby creating a situationof danger;
+
+(o)
+
+They failed to provide a reasonable alternative location for the passage ofpedestrians through and/or around that area;
+
+(p)
+
+Any such other negligence as may be in the sole knowledge and control of theDefendant;
+
+(q)
+
+They failed to, or were negligent in, hiring,competent maintenance service providers;
+
+(r)
+
+In an effort to reduce expenses, they eliminated service contracts, or reducedstaff and equipment and took other cost cutting measures. Consequently, thesidewalk would not and could not be kept free of unsafe conditions;
+
+(s)
+
+They failed to take remedial action to ensure the walking hazards no longerremained on the sidewalk in a dangerous condition;
+
+(t)
+
+They knew or ought to have known that the material area on the occasion inquestion was unsafe for the pedestrians and constituted an unusual danger to themembers of the public and, in particular, to the Plaintiff; and/or
+
+(u)
+
+Such other and further grounds as counsel may advise and this HonourableCourt may deem just and proper.
+
+employing,
+
+and instructing
+
+See Statement of Claim, Application Record, Tab 2, paras. 6-8.
+
+[34]
+
+The allegations of negligence in the Statement of Claim in essence concern the failure toremove snow and/or ice on the Sidewalk. The allegations are identical as against bothVTA and the City.
+
+[35]
+
+On or about July 14, 2008, the City entered into the Agreement with VTA to performvarious winter maintenance activities on designated City sidewalks, including theSidewalk located on Old Kennedy Road between Denison Street and Aldergrove Drive.
+This Agreement was in effect at the time of the Plaintiffs accident.
+
+[36]
+
+Pursuant to the Scope of Work clause of the Agreement, VTA was required to supplylabour and equipment and plough, sand and/or salt certain sidewalks, including thelocation of the accident.
+
+[37]
+
+Pursuant to the Contract Coordinator Provision of the Agreement, VTA was to be awareof sidewalk conditions at all times and be prepared to take appropriate action to correctpotential hazardous conditions.
+
+[38]
+
+Pursuant to section 9 of the Supplementary Conditions of the Agreement, VTA isrequired to indemnify and hold harmless the City against all claims for damage or injuryto persons resulting from or arising out of any act or omission on the part of VTA.
+
+[39]
+
+Pursuant to section 9 of the Supplementary Conditions of the Agreement, VTA wasrequired to obtain a comprehensive policy of insurance for public liability and propertydamage and to name the City as an additional insured. The policy was required to protectthe City against all. claims for all damage or injury including death to any person orpersons resulting from or arising out of any act or omission on the part of VTA or any ofits servants or agents during the execution of the Agreement.
+
+[40]
+
+Pursuant to section 9, VTA delivered a Certificate of Insurance, evidencing that itobtained a Commercial General Liability Policy of Insurance, issued by Intact, as Policy500081155, naming the City as an additional named insured in respect of any liabilityarising out of the operations of the named insured, VTA ("the Policy").
+
+[41]
+
+The Intact Policy provides for indemnity for legal fees incurred in the defence of theinsured without limitation or reduction in respect of allegations made against the insuredthat fall outside the coverage provided under the Policy. In other words, there is norestriction on the payment of 100% of the defence costs simply because some (or maybeeven most) of the allegations fall outside the coverage provided for under the Policy.
+
+[42]
+
+I find that the damages and injuries allegedly sustained by Mr. Jalal as pleaded in theStatement of Claim arises as a direct result of the operations performed by VTA pursuantto the Maintenance Agreement.
+
+[43]
+
+Further, Mr. Jalal’s allegations fall squarely within the coverage afforded by Intact’sPolicy of Insurance. Intact has agreed to defend VTA in the Main Action. I find thatIntact is obliged to also defend the City in the Main Action.
+
+[44]
+
+I find Intact’s Policy imposed on it a duty to defend its insured, including an AdditionalInsured against “any action” seeking damages to which the insurance applied. Similarly
+
+The Agreement between the City and VTA
+
+[45]
+
+In our case, there is nothing in the Intact policy to qualify the duty to defend or to suggestthat the duty to defend does not apply to defence costs that advance both covered andnon-covered claims. See Carneiro, supra, at para. 21.
+
+[46]
+
+I further find that in his action Mr. Jalal seeks damages against the City and VTA towhich the Intact Policy of Insurance applies. Intact has a duty to defend the City in theMain Action, for the same reasons it has already agreed to defend VTA.
+
+[47]
+
+The facts underlying the Main Action are virtually identical to the facts in the recentdecisions of Carneiro, Zhou v. Markham (Town), 2014 ONSC 435 and Sinclair v.
+Markham (Town), 2015 ONSC 1550. All of these decisions involved a duty to defendmotion against an insurer in respect of claims made against the municipality in the mainaction for failing to remove ice or snow from a sidewalk or road. In all of thesedecisions, the municipality had contracted the ice/snow removal to a third party whichhad obtained insurance naming the municipality as an Additional Insured. See Carneiro,supra, paras. 4, 8 and 9, Zhou, supra, paras. 1 and 5, and Sinclair, supra, para. 2.
+
+[48]
+
+The decision of Justice Carole J. Brown in Zhou, supra, at para. 1, is particularlynoteworthy because it was a motion against Intact seeking a defence under the very samepolicy of insurance at issue in this Application (policy number 500081155).
+
+[49]
+
+In each of the decisions reported above, the insurer was ordered to defend themunicipality and to pay its legal fees in full. See Carneiro, supra, at para. 27, Zhou,supra, at para. 26, and Sinclair, supra, at para. 21.
+
+[50]
+
+For these reasons, I find the City is entitled to a complete defence from Intact.
+
+B.
+
+Is the City entitled to appoint and instruct counsel of its choice to defend the MainAction without reporting to Intact or taking instructions from Intact at Intact’sexpense?
+
+[51]
+
+The answer to this question is yes. I do not agree with the submissions on behalf ofIntact that there is no conflict of interest in this case.
+
+[52]
+
+To the contrary, I find that there is a conflict of interest which exists between Intact’sdefence of the allegations against VTA and the duty to defend owed to the City. It isclear on examination of VTA’s Statement of Defence and Cross-claim that Intact’sobjective and that of legal counsel appointed by Intact to defend VTA is to attempt toshift liability to the City for not calling VTA out and/or failing to adequately monitor theweather and thereby minimize its own responsibility for inadequate ploughing, saltingand sanding. In fact, VTA in its Cross-claim repeats and relies upon the allegations setout in the Statement of Claim as against the City only.
+
+worded policies have been found to require the insurer to defend both covered and noncovered claims, save only where a particular aspect of the defence would solely advancethe defence of a non-covered claim. See Carneiro, supra, at para. 13.
+
+[53]
+
+I reject the argument that there was no reasonable apprehension of conflict of interest inthis case. The fact that there was no misconduct by Intact is irrelevant. I reject theargument that any conflict could be best dealt with by the creation of “ethical walls”
+separating Intact insurance adjusters regarding claims arising out of the Main Action. Tothe contrary, I find that the conflict in this case is real and is best dealt with by the Citycontinuing to retain independent counsel in respect of all allegations in the Main Actionwithout having to report to Intact or take instruction from Intact.
+
+[54]
+
+I find separate counsel for the City is necessary as on the face of the pleadings thereexists a conflict which I have previously indentified by referring to VTA’s Statement ofDefence and Cross-claim against the City.
+
+[55]
+
+Accordingly, I find that the City is entitled to appoint and instruct counsel of its choice atthe expense of Intact, without having to report to Intact or take instruction from Intact andto defend the City in the Main Action at Intact’s expense. See Seidel v. Markham (Town),2016 ONCA 306 at para. 11; Pabla v. Singh, 2015 ONSC 5156 at para. 19.
+
+C.
+
+Is Intact required to pay for the City's defence of the Main Action and reimburse theCity in respect of past costs of defending the Main Action?
+
+[56]
+
+The answer to this question is yes.
+
+[57]
+
+Where there is an unqualified obligation to pay for the defence of claims covered by thepolicy (as in this case), the insurer is required to pay all reasonable costs associated withthe defence of those claims, even if those costs further the defence of uncovered claims.
+See Carneiro, supra, at para. 19.
+
+[58]
+
+Courts have generally refused to allocate defence costs before trial or settlement.
+Insurers should cover all defence costs in situations where it is impractical to apportioncosts during the litigation.
+
+[59]
+
+Where there is no practical means of readily distinguishing the costs of defence betweenthe covered and not covered claims, or where it is impossible to do so, it is notappropriate to attempt to allocate defence costs and, therefore, the insurer should absorbthem all. See Carneiro, supra, at para. 19.
+
+[60]
+
+Given that the allegations against the City that do not relate to VTA’s operations, that issupervising, inspecting, posting hazard warning signs or cordoning off the hazard areancillary to the Sidewalk winter maintenance at best and would only be relevant if VTA
+failed to properly plough, sand and/or salt the Side from February 18 to 22, 2014, there isno practical means of distinguishing the covered and uncovered claims and Intact oughtto assume the costs of the City’s defence in their entirety.
+
+[61]
+
+Counsel for Intact submits that the City is not entitled to “pre-tender costs” which wereincurred by the City prior to March 10, 2016. In this regard, counsel relies upon theLloyd’s Underwriters v. Blue Mountain Log Sales Ltd. (2016), 58 CCLI (5th ) 1 B.C.C.A..
+The Blue Mountain case is distinguishable from the case at bar. The policy of insurance
+
+and facts in that case are much different than Intact’s Policy of Insurance, theMaintenance Agreement and the facts of our case.
+The Policy of Insurance can be found in the Respondent’s Application record at Tab B.
+Under the heading SUPPLEMENTARY PAYMENTS, the policy provides as follows:
+1. The Insurer will pay, with respect to any claim the Insurerinvestigates or settles, or any “action” against an Insured thatthe Insurer defends:
+a. All expenses the Insurer incurs.
+b. The cost of bonds to release attachments, but only for bondamounts within the applicable limit of insurance. TheInsurer does not have to furnish these bonds.
+c. All reasonable expenses incurred by the Named Insured atthe Insurer’s request to assist in the Insurer in theinvestigation or defence of the claim or “action”, includingactual loss of earnings because of time off from work.
+d. All costs taxed against the Named Insured in the “action”.
+…
+
+[63]
+
+Counsel for the City has relied on cases previously cited herein where defence costs wereawarded to the municipality (see a Carneiro, Zhou and Sinclair, supra).
+
+[64]
+
+In support of its claim for costs already paid in defending the Main Action and costs forthis Application, the City relies upon College of Massage Therapists of Ontario v. FrankCowan Co., [OJ] No. 3264 (SCJ).
+
+[65]
+
+In that case M.A. Penny J., held that a duty to defend arose. Given the unqualifiedobligation to pay for the defence of claims covered by the policy, the insurers wererequired to pay all reasonable costs associated with the defence of those claims even ifthose costs furthered the defence of un-covered claims. Justice Penny held that theamount to defend the claim was not unreasonable and granted judgment representing thecosts of defending the claim. The insurance contract provided for defence on a fullindemnity basis. Justice Penny also awarded costs of the Application on a full indemnitybasis.
+
+[66]
+
+I adopt the reasoning of Justice Penny.
+
+[67]
+
+At para. 25 in the College of Massage Therapists case, Justice Penny found that Collegewas entitled to recover the cost of its defence to be put in the same position as if thecontract had been performed. He found that the burden of proving which costs were notcovered is on the insurer. In our case, there was no issue as to whether costs were either
+
+[62]
+
+[68]
+
+I find the that the City is entirely successful on this Application and is entitled toreimbursement on a full indemnity basis in respect of the costs incurred in defending theMain Action. Counsel for the City provided a Bill of Costs in the amount of $14,517.67
+which I have considered. I find that the City’s costs claimed in the defence of the MainAction are fair, reasonable and proportional. Accordingly, it is ordered that Intactreimburse the City for all past legal and administrative expenses in defending the MainAction in the amount of $14,517.67.
+
+[69]
+
+With respect to costs of this Application, I agree with counsel for the City that fullindemnity is the appropriate scale of costs given the City's success on this Application.
+The Policy of Insurance provided for the cost of a defence on a full indemnity basis. I
+agree that to put the City in the same position it would have been in had the Policy beenperformed, the City must be able to recover its reasonable full indemnity costs, even ifthe behaviour of Intact has not been high-handed or inappropriate. See College ofMassage Therapists of Ontario, supra, at para. 26.
+
+[70]
+
+Counsel for the City has submitted a costs outline in the amount of $13,134.62
+representing a claim for full indemnity costs of this Application. I find those costs to befair, reasonable and proportional. Costs of the Application are therefore allowed on a fullindemnity basis payable by Intact to the City of Markham regarding this Application inthe amount of $13,134.62.
+
+CONCLUSION
+
+[71]
+
+For these reasons, I grant the declaration where Intact is obliged to provide the City witha defence for the negligence claim asserted by Mr. Jalal in the Main Action. Further, it ishereby ordered that the City is entitled to appoint and instruct counsel of its choicewithout reporting to or taking instructions from Intact, at the expense of Intact regardingthe defence of the Main Action.
+
+[72]
+
+Lastly, it is ordered that Intact reimburse the City for all past legal and administrativeexpenses incurred in defending the Main Action in the amount of $14,517.67 on a fullindemnity basis and costs of this Application in the amount of $13,134.62 on a fullindemnity basis.
+
+[73]
+
+Intact shall pay those costs totaling the sum of $27,652.29 to the City within the next 30
+days.
+
+Justice G.P. DiTomasoReleased: May 23, 2017
+
+unreasonable or unrelated to uncovered claims. There was no evidence from Intact toprove that the costs were either unreasonable or unrelated to covered claims.
+

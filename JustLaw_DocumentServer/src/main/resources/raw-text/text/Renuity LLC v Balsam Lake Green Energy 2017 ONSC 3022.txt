@@ -1,0 +1,173 @@
+CITATION: Renuity, LLC v. Balsam Lake Green Energy, 2017 ONSC 3022
+COURT FILE NO.: CV-15-524683
+MOTION HEARD: 20170428
+
+RE:
+
+Renuity, LLC, Plaintiff, Responding PartyAND:
+Balsam Lake Green Energy, Defendant, Moving Party
+
+BEFORE:
+
+Master Jolley
+
+COUNSEL: A. Wong, Counsel for the Moving Party DefendantM. Mounir, Counsel for the Responding Party PlaintiffHEARD:
+
+28 April 2017
+REASONS FOR DECISION
+
+Overview
+
+[1]
+
+The plaintiff is a limited liability company under the laws of the State of Delaware. It hastwo principals and shareholders, James Akerson and Scott McMahon. The plaintiff hassued the defendant in Ontario seeking damages in the amount of $422,500 for breach ofcontract, unjust enrichment and bad faith and punitive damages in the amount of $50,000.
+
+[2]
+
+The defendant brings this motion for security forbasis that the plaintiff is ordinarily resident outsidebasis that the plaintiff is a corporation and thereinsufficient assets in Ontario to pay the defendant’s
+
+[3]
+
+The plaintiff takes the position that it is impecunious and that it should not be required, inthe interests of justice, to post security for costs.
+
+costs under Rule 56.01(1)(a) on theOntario and under 56.01(1)(d) on theis good reason to believe that it hascosts.
+
+The Test
+
+[4]
+
+The initial onus is on the defendant to satisfy the court that it appears there is good reasonto believe the matter falls into one of the categories under Rule 56.01(1). The onus is nota heavy one.
+
+[5]
+
+If that first part of the test is met, the inquiry is then triggered as to whether security forcosts is appropriate (Zeitoun v. Economical Insurance Group [2008] O.J. No. 1771 (Div.
+Ct.), affirmed [2009] OJ No. 2003 (C.A.). Whether to order security for costs is anexercise of discretion.
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+[6]
+
+To avoid an order for security for costs, the plaintiff can demonstrate at this second stagethat:
+
+(b) it is impecunious and its claim is not “plainly devoid of merit”; or
+(c) if the plaintiff cannot establish that it is impecunious and seeks to avoid a security forcosts order, “a closer scrutiny of the merits of the case is warranted; in those casesthere is no compelling argument that there is a danger that poverty of the plaintiffwill cause an injustice by impeding pursuit of a claim that otherwise would havebeen permitted to be tried. Where impecuniosity has not been shown, a legitimatefactor in deciding whether or not it would be just to require security for costs iswhether the claim has a good chance of success.” (Zeitoun, above at paragraph 50).
+AnalysisIssue 1: Has the defendant demonstrated that the case falls within Rule 56.01(1)?
+
+[7]
+
+The defendant has shown, and the plaintiff has admitted, that the plaintiff is residentoutside Ontario, in the state of Delaware.
+
+[8]
+
+The defendant has also shown, and the plaintiff has admitted, that there is good reason tobelieve that the plaintiff has insufficient assets in Ontario to pay the costs of thedefendant.
+
+[9]
+
+The defendant has met the onus to demonstrate the matter falls within Rule 56.01(1).
+Accordingly the inquiry is triggered as to whether security for costs ought to be granted.
+
+Issue 2: Should security for costs be awarded?
+(a)
+
+Has the plaintiff established that it is impecunious?
+
+[10]
+
+The cases consistently hold that the evidentiary threshold to establish impecuniosity ishigh. Bald statements unsupported by detail are not sufficient. The threshold can only bereached by “tendering complete and accurate disclosure of the plaintiff’s income, assets,expenses, liabilities and borrowing ability, with full supporting documentation for eachcategory where available or an explanation where not available.” (Coastline Corp. v.
+Canaccord Capital Corp. 2009 O.J. No. 1790 at paragraph 7(viii), quoting both Uribe v.
+Sanchez (2006) 33 C.P.C. (6th) 94 at paragraph 12 and Shuter v. Toronto Dominion Bank
+
+[2007] O.J. No. 3435 at paragraph 76).
+
+[11]
+
+Quoting Coastline Corp., a corporate plaintiff that claims impecuniosity mustdemonstrate that it cannot raise security for costs from its shareholders and associates,i.e., it must demonstrate that its principals do not have sufficient assets. Evidence as tothe personal means of the principals of the corporation is required to meet this onus. A
+
+(a) it has sufficient assets in Ontario or in a reciprocating jurisdiction to satisfy any costsorder;
+
+[12]
+
+In this case, the plaintiff was a shell before this action started and is a shell now. Thiscontract in issue was to be its first consulting project. It has filed a bank statementshowing that it has $748.36 in its account, assets of less than $2,097 USD and no funds topost as security.
+
+[13]
+
+Mr. Akerson has listed his expenses and his income in his affidavit. Mr. McMahon doesnot provide any information about his income, taking the position that “the nature of [his]
+employment is irrelevant to the within motion.”
+
+[14]
+
+Neither individual has listed any of their assets other than a bald statement that he has nopersonal funds or assets that he could post. There are no particulars.
+
+[15]
+
+Mr. McMahon deposes that, as part of his expenses, he has monthly mortgage paymentsfor his home so he evidently owns a home. Mr. Akerson may also own real property,given his list of expenses includes a monthly mortgage payment (although his affidavitdescribes his home as leased). Neither has given any indication of his ability to raisefinancing or the equity available in his home. There is no independent or documentaryevidence in support of the expenses list provided by Mr. Akerson such as his tax returns,banking records, a description of assets and their values and an indication of his ability toborrow funds. There is no such expenses listing provided by Mr. McMahon. As noted inShuter v. Toronto Dominion Bank, above, at paragraph 76, to meet the onus to establishimpecuniosity, “at the very least, this would require an individual plaintiff to submit hismost recent tax return, complete banking records and records attesting to income andexpenses.”
+
+[16]
+
+I find the plaintiff has not led sufficient evidence of impecuniosity to meet the evidentiarythreshold set out in Coastline Corp.
+(b) If the plaintiff is not impecunious, does its case have a good chance of success?
+
+[17]
+
+While the plaintiff in its materials relied on impecuniosity to avoid an order for securityfor costs, its counsel argued on the motion that, in the event impecuniosity was notestablished, security for costs should still not be ordered.
+
+[18]
+
+Where impecuniosity has not been shown, as here, the onus on the plaintiff is moreonerous than establishing that its case is not devoid of merit. The merits of the case are
+
+corporate plaintiff must provide “substantial evidence about the ability of its shareholdersor others with an interest in the litigation to post security”. “A bare assertion that nofunds are available” will not suffice. Consequently, full financial disclosure requires theplaintiff to establish for itself and its shareholders the amount and source of all income, adescription of all assets including values, a list of all liabilities and other significantexpenses, an indication of the extent of the ability of the plaintiff to borrow funds, anddetails of any assets disposed of or encumbered since the cause of action arose. Becausethe plaintiff has the onus to establish impecuniosity, a defendant “can choose not tocross-examine if the plaintiff fails to lead sufficient evidence”. The decision not to crossexamine does not convert insufficient evidence into sufficient evidence.
+
+[19]
+
+In considering the merits at this stage of the proceeding, there is before the court astatement of claim, a statement of defence and an affidavit by the plaintiff. The affidavitfiled by the defendant on this motion did not address the merits of the plaintiff’s claim.
+
+[20]
+
+The plaintiff sues for services rendered to the defendant under a consulting agreement.
+The plaintiff alleges that it prepared and maintained a data room where potentialfinanciers of the defendant could conduct due diligence. Further, it alleges that thedefendant ultimately entered into a sale of its project to a third party introduced to it bythe plaintiff.
+The plaintiff pleads that the defendant has breached the consultingagreement by failing to pay the plaintiff for the work done. The defendant takes theposition that the consulting agreement covered debt financing but not a sale of theproject. Further, it pleads that the consulting agreement had expired and that thedefendant did not enter into any financial agreement in the 12 month runoff period.
+
+[21]
+
+Similar to the conclusion of Justice Kiteley in Padnos v. Luminart, above, my review ofthe merits is neutral to the outcome of the motion.
+
+Conclusion
+
+[22]
+
+If this claim were brought by an Ontario plaintiff and the defendant were successful attrial, the defendant would have the available remedies in Ontario to recover costs. Thereis no reason why the defendant should not have recourse to the equivalent remedieswhich a security for costs order provides, if it successfully defends this action (Padnos,above).
+
+[23]
+
+I find it just and exercise the broad discretion given to the court under Rule 56 to orderthe plaintiff to provide security for costs incurred to date and for prospective costs.
+
+Issue 3: Quantum of Security for Costs
+
+[24]
+
+Security for costs will be paid on a partial indemnity basis. The defendant’s materialsindicate it has incurred fees of $15,000 to date. However, that includes the time for thismotion, which will be dealt with separately. I order the plaintiff to post security for costsin the following tranches:
+(a)
+
+$4,873.13, plus HST for costs spent to date, exclusive of this motion (comprisedof $4,125, being 16.5 hours (20.8 hours less 4.3 hours spent on this motion) forMr. Hine at a partial rate of $250 per hour, reasonable for a 1997 call plus $187.50
+being 1.5 hours (25.6 hours less 24.1 hours spent on this motion) for Ms. Wong ata partial rate of $125 per hour, reasonable for a 2014 call, by 16 June 2017;
+
+(b)
+
+$10,000, plus HST through to the conclusion of examinations for discoverypayable by 15 December 2017; and
+
+reviewed to determine whether the plaintiff can demonstrate that its claim has a goodchance of success (see Padnos v. Luminart Inc. [1996] O.J. No. 4549).
+
+$39,300, plus HST through mediation to the conclusion of trial payable by 14
+September 2018.
+
+Costs
+
+[25]
+
+The defendants was successful on its motion. I order the plaintiff to pay the sum of
+$5,000 inclusive of HST and disbursements on or before 16 June 2017.
+
+Master JolleyDate: 16 May 2017
+
+(c)
+

@@ -1,0 +1,172 @@
+CITATION: AAD Investments Inc. v. Casboro Industries Limited, 2017 ONSC 3041
+COURT FILE NO.: 06-CV-303534PD3
+MOTION HEARD: 20170511
+
+RE:
+
+AAD Investments Inc., PlaintiffAND:
+Casboro Industries Limited et al., Defendants
+
+BEFORE:
+
+Master Mills
+
+COUNSEL: M. Law, Counsel for the Moving Party DefendantD. Ketelaars, Counsel for the Responding Party PlaintiffHEARD:
+
+May 11, 2017
+REASONS FOR DECISION
+
+[1]
+
+The defendant Casboro Industries Limited (“Casboro”) seeks a security for costs orderpursuant to Rule 56.01(01)(d). For the reasons that follow, the order is hereby granted.
+
+[2]
+
+Where the plaintiff is a corporation and there is good reason to believe the plaintiff hasinsufficient assets in Ontario to pay an adverse cost order in favour of the defendant, thecourt may make such order for security for costs as is just in the circumstances.1
+
+[3]
+
+The parties agree the case law is well settled with respect to the test to be satisfied beforea security for costs order may issue.2 The test to be applied and the considerations to bemade by the court have been fully outlined in the recent decision of Master Muir in2179548 Ontario Inc. v. 2467925 Ontario Inc.3
+
+[4]
+
+There is a two-step process whereby the defendant bears the initial onus of satisfying thecourt that it “appears” there is good reason to believe the matter comes within one of thecircumstances enumerated in Rule 56.01. The onus is not a heavy one. In this case, thedefendant need only establish the plaintiff is a corporation and that there is good reasonto believe the plaintiff has insufficient assets in Ontario to satisfy any costs order.
+
+1
+2467925 Ontario Inc., 2017 ONSC 469
+3
+Ibid., at para. 8
+2
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+If that onus is met, the burden then shifts to the plaintiff to establish that it is impecuniousor that an order for security would be unjust in the circumstances. The court has broaddiscretion in determining what is just and may consider a multitude of factors in reachingthat determination.
+
+[6]
+
+To rebut the onus placed upon the plaintiff, it must be shown that:
+a. The plaintiff has appropriate or sufficient assets in Ontario or in a reciprocatingjurisdiction to satisfy any order of costs;b. The plaintiff is impecunious and that justice demands the plaintiff be permitted tocontinue with the action in which case the plaintiff must establish the case is not
+“plainly devoid of merit”; orc. If the plaintiff cannot establish it is impecunious, but the plaintiff does not havesufficient assets to meet a costs order, the plaintiff must meet a high threshold tosatisfy the court of its chances of success.
+
+[7]
+
+While merits are to be considered in a Rule 56.01 motion, the court is not to embark uponan analysis as would be appropriate in a summary judgment motion. If the case iscomplex or turns on credibility, it is generally not appropriate to make a decisiveassessment of the merits on an interlocutory motion except where a proper assessment ofthe merits reveals that success or failure of the action appears obvious.
+
+[8]
+
+These are the factors and principles I have considered in exercising my discretion tomake the order for security for costs, which I believe to be the most just order in thecircumstances.
+
+[9]
+
+The defendants have met their onus of establishing the plaintiff is a corporation and thatthere is good reason to believe it has insufficient assets to pay a costs order.
+
+[10]
+
+Roberto Sansone provided an affidavit on behalf of the plaintiff4 wherein he stated theplaintiff is a family run investment company in the business of snow removal andconstruction which has operated as a going concern since 2008 under the business name
+“Clear the Way Plowing”. Mr. Sansone stated the plaintiff has 12-15 clients withrevenue of approximately $80,000 for the year 2016. A trial balance for the plaintiffcorporation was attached as an exhibit to the affidavit showing total assets in excess of
+$450,000, including three motor vehicles worth $190,000 and accounts receivable of
+$120,000.
+
+[11]
+
+Under cross-examination, it became apparent that the affidavit was materially misleadingin many respects and outright false in other respects. Under cross-examination, Mr.
+
+4
+
+It should be noted the affidavit filed in the plaintiff’s Responding Motion Record was not commissioned. Counselfor the defendant confirmed however that he had been provided a properly sworn affidavit. On this basis, I acceptedthe affidavit as sworn evidence from Mr. Sansone.
+
+[5]
+
+[12]
+
+Of the $450,000 in assets shown on the trial balance sheet, $180,000 is in respect of anasset which was sold three months prior to swearing the affidavit and the $120,000
+accounts receivable is in respect of a consulting contract that has not been paid in overthree years and for which there does not appear to be any active steps of enforcementbeing taken. The motor vehicles are valued at $150,000 by Mr. Sansone but he has failedto satisfy his undertaking to provide evidence of ownership of the vehicles and the basisupon which the valuation was determined. Having regard to the issues of credibility inMr. Sansone’s evidence, I am not inclined to accept his personal assessment of the valueof these motor vehicles. Moreover, the assets are inherently of a depreciating nature andthus will be worth significantly less by the time a trial is concluded in this matter.
+
+[13]
+
+Mr. Sansone failed to answer every single undertaking given at his cross-examination onthe affidavit he swore in response to this motion. There were 21 undertakings, 21
+questions taken under advisement and three refusals. Not one question was answered orre-considered following the cross-examination. The questions were all in respect of theassets and financial affairs of the plaintiff. I take an adverse inference from this failure toanswer the questions and to produce the documents required to substantiate thestatements made in Mr. Sansone’s affidavit and the evidence given at his crossexamination. There is no credible evidence before me to support the contention theplaintiff is an operating enterprise or that it has any assets in this jurisdiction (or any otherreciprocating jurisdiction) to satisfy an adverse cost order.
+
+[14]
+
+The defendant has met its burden on this motion.
+
+[15]
+
+The plaintiff must then establish that an order for security would be unjust in thecircumstances. The plaintiff has failed to do so.
+
+[16]
+
+The plaintiff filed no evidence and made no submissions on the issue of impecuniosity.
+Therefore, I have not considered impecuniosity as being a relevant factor for this motion.
+On that basis, the plaintiff must demonstrate it has a high chance of success in the action.
+
+[17]
+
+The action was commenced in 2003 as a construction lien matter. In January 2006, thelien was declared expired and this claim was issued immediately thereafter. Anintervening receivership filing stayed the action until the chose in action was assigned tothe plaintiff in March 2012, at which time an Order to Continue was granted.
+Aftersome period of inactivity, both parties retained new counsel and the action has progressedthrough an unsuccessful motion to dismiss the action for delay and the partial settlement
+
+Sansone admitted the plaintiff has no clients, no contracts and ceased snow removaloperations in the spring of 2016. There are no employees or contractors associated withthe business. The Clear the Way Plowing website references a telephone number thatdoes not belong to the company and the email address is disabled. The plaintiff is, for allintents and purposes, a shell corporation with only the immediate family members of Mr.Sansone as interested parties.
+According to Mr. Sansone’s evidence on crossexamination, any cash deposits of the plaintiff are available to fund the personal financialneeds of the family, as and when requested.
+
+The uncontentious aspects of this
+
+[18]
+
+The remaining claims in the action are in respect of certain invoices and waybills whichare alleged to have been fraudulently created and/or forged. A trial will certainly berequired to determine the legitimacy of the claims being asserted. Credibility will be acentral issue to be considered and assessed.
+
+[19]
+
+Where an action turns on credibility, it is not appropriate to make an assessment of themerits at an interlocutory proceeding unless success or failure of the action appearsobvious.5 It does not appear at all obvious to me that the plaintiff will be successful inthis action.
+
+[20]
+
+Counsel submitted that if only one of the hundreds of invoices in question is proven to bevalid, the plaintiff will have been wholly successful in the action, suggesting the actualthreshold to be met is exceedingly low. I do not agree.
+
+[21]
+
+The allegations of fraud and forgery will be determined based on the evidence andcredibility of Mr. Sansone, who describes himself as the controlling mind of the plaintiffand its predecessor 310 Waste Ltd., the company that issued the subject invoices. I havebeen provided no evidence in this motion to suggest the plaintiff’s case has a significantprospect for success. The voluminous materials filed in the summary judgment motionraise as many questions as answers.
+
+[22]
+
+The only issue of prejudice raised by the plaintiff is with respect to the delay by thedefendant in bringing this motion. Although the action was commenced in 2006, anyanalysis of delay can only considered from 2012, when the plaintiff acquired the actionthrough assignment.
+
+[23]
+
+I am satisfied by the defendant’s evidence that the motion was brought as soon as thedefendant became aware, as a result of a private investigator’s report, that the plaintiffhad no real or exigible assets. The motion was brought promptly upon the circumstancesbeing known to the defendant to justify a request for security for costs.
+
+[24]
+
+Based on the plaintiff’s own evidence, it was a viable operating snow removal businessuntil the spring of 2016, generating significant income from a broad client base. A
+security for costs motion would not have been appropriate in those circumstances.
+
+[25]
+
+The real issue of delay for the plaintiff appears to be that the motion was brought shortlyafter settlement of the summary judgment motion. It was the submission of counsel thatthe plaintiff would not have settled the summary judgment motion on the terms agreedupon if it had known there would be a security for costs motion on the horizon. Therewas no evidence from the plaintiff to support this submission. Moreover, this does notconstitute prejudice. There is no ethical obligation of counsel to inform an opposing
+
+5
+
+Wall v. Horn Abbott Ltd., [1999] N.S.J. No. 124 (C.A.) at para. 83
+
+of a summary judgment motion in August of 2016.
+action have been settled.
+
+[26]
+
+Having considered the evidence and the relevant case law, I exercise my discretion toaward the defendant security for its costs in this action, on a partial indemnity basis.
+The defendant seeks security for its costs in the amount of $150,000 inclusive ofdisbursements. Having reviewed the Bill of Costs, I accept the amount as beingreasonable in the circumstances.
+
+[27]
+
+As there remains significant steps to be taken in this action, it would be appropriatematter to order the payment of costs on an instalment basis. I note the action is subject toa timetable which requires the matter to be set down for trial by August 11, 2017. I
+therefore order the plaintiff to post security for the costs of the defendants through thediscovery phase of the proceeding in the amount of $30,000 within 30 days of this order.
+The amount of $60,000 shall be posted within 30 days of the action being set down fortrial. A final amount of $60,000 shall be posted within 30 days following the pre-trialconference of this action. The security shall be posted in the form of cash or anirrevocable letter of credit from a Canadian chartered bank.
+
+[28]
+
+Upon conclusion of argument, counsel agreed upon the quantum of costs in the event ofsuccess on the motion. As the defendant was successful, costs are ordered in the amountof $23,000 inclusive of disbursements and HST, payable by the plaintiff forthwith.
+
+Master MillsDate: May 16, 2017
+
+party of the procedural steps being contemplated in any litigation. Being taken bysurprise does not amount to prejudice which would warrant relief from a security forcosts order.
+

@@ -1,0 +1,275 @@
+CITATION: R. v. Bartholomew, 2017 ONSC 3084
+COURT FILE NO.: CR-MO-16/5-371
+DATE: 20170519
+
+SUPERIOR COURT OF JUSTICE
+
+B E T W E E N:
+
+HER MAJESTY THE QUEEN
+
+- and -
+
+MARTIN BARTHOLOMEW
+
+- and -
+
+K.B.
+
+- and THE CRIMINAL LAWYERS’
+ASSOCIATION OF ONTARIO
+
+Michael Wilson,for the Crown, respondent
+
+Megan Savard and Samara Secter,for the accused, applicant,Martin Bartholomew
+
+Jeffrey Berman,For the complainant, respondent, K.B.
+
+Jennifer A.Y Trehearne andDaniel Goldbloom, for the intervener,The Criminal Lawyers’ Association
+
+HEARD: April 10, 2017
+
+K.L. Campbell J.:
+REASONS FOR JUDGMENT
+I
+OVERVIEW
+
+[1]
+The legal issue on this certiorari application relates to the procedure that must befollowed when an accused, charged with sexual offences, wants to gain access to psychiatricreports about the mental health of the complainant, when those reports have been made exhibits
+~1~
+
+ONTARIO
+
+[2]
+The accused, Martin Bartholomew, is currently charged with having committed certainsexual offences against the complainant, K.B.
+
+[3]
+The complainant was himself an accused in earlier, unrelated criminal proceedings inthe Ontario Court of Justice. During the sentencing proceedings in those earlier criminalproceedings, the judge made an order, pursuant to s. 21(1) of the Mental Health Act, R.S.O.
+1990, chap. M-7, requiring that the complainant attend a psychiatric facility for examination. Inthe result, in August of 2016, two psychiatric assessments were prepared and, ultimately, filedwith the court as exhibits. The sentencing proceedings in that case were open to the public. Thecontents of the psychiatric assessments were discussed by the parties in open court. Defencecounsel for the accused (Mr. Bartholomew) was present in court for those sentencingproceedings and heard this discussion, thereby learning about some of the contents of thesereports. The exhibited reports themselves were not sealed, nor did any party ask that they besealed.
+
+[4]
+Subsequently, defence counsel for the accused in the present case sought access to thesepsychiatric reports through the court office, believing that they may provide information as to themental health of the complainant that may prove relevant in relation to his credibility as awitness. The Court office advised defence counsel to bring a formal court application to seekaccess to these reports.1
+
+[5]
+Defence counsel brought such an application and it was heard by Madam Justice D.
+Oleskiw of the Ontario Court of Justice. On this application, defence counsel argued that theusual test governing access to court exhibits, established by Dagenais v. Canadian BroadcastingCorp., [1994] 3 S.C.R. 835, at p. 878, and R. v. Mentuck, 2001 SCC 76, [2001] 3 S.C.R. 442, atparas. 23-39, supported the request for immediate access to the court exhibits. However, thecourt ultimately agreed with the position advanced by the Crown, that the statutory regime in ss.
+278.1 to 278.9 of the Criminal Code governed access to these psychiatric assessments, as thecomplainant maintained a residual privacy interest in the reports. Accordingly, Oleskiw J.
+
+1
+
+The Court Services Division of the Ontario Ministry of the Attorney General has created a documentoutlining the “Policies and Procedures on Public Access to Court Files, Documents and Exhibits.” Thisdocument is expressly designed “to enhance public access to court proceedings, information anddocuments,” and “ensure that there is consistent application of these procedures across the province.”
+Section 6.1 of this policy concerns access to “Exhibits in Criminal Cases” (including expert psychiatricreports), and it indicates that “[j]udicial consent is required to obtain access to court exhibits,” andsuggests that, in some cases, “a formal application, on notice to the parties, may be required.” Similarly,according to section 2.2.11 of this policy, regarding access to “Mental Health Assessments,” access to,inter alia, “assessment reports prepared for the court” pursuant to s. 672.11 of the Criminal Code
+“requires judicial direction.” This Ministry policy is conveniently available online at:
+https://www.attorneygeneral.jus.gov.on.ca/english/courts/policies_and_procedures/public_access/public_
+access_to_court_documents -EN.html
+
+~2~
+
+in earlier, unrelated criminal proceedings against the complainant. Can the accused simply gainaccess to copies of the unsealed exhibits that were filed in open court, just like any other memberof the public or representative of the media, or must the accused bring an application forproduction of the records under s. 278.3(1) of the Criminal Code, R.S.C. 1985, chap. C-46?
+
+[7]
+For the following reasons, I have concluded that Oleskiw J. erred in failing to exerciseher jurisdiction to consider whether these two psychiatric reports should be provided to theaccused under the application of the legally applicable Dagenais/Mentuck standard. Further, I
+have concluded that, applying the governing Dagenais/Mentuck standard, the accused is entitledto copies of the two exhibited psychiatric reports concerning the complainant.
+II
+ANALYSIS
+A.
+
+The Open Court Principle – Accessing Court Records Under Dagenais/Mentuck
+
+[8]
+Canada has long endorsed and promoted its open court principle, that permits broadpublic access to information about courts and court proceedings, and which ensures a great levelof transparency, thereby maintaining an independent, impartial and accountable judiciary andpublic confidence in the administration of justice. Indeed, the open court principle has deeproots in our system of justice. See Re Vancouver Sun, 2004 SCC 43, [2004] 2 S.C.R. 332, atparas. 23-27.
+
+[9]
+Even prior to the adoption of the Canadian Charter of Rights and Freedoms, theSupreme Court of Canada endorsed the principle that at “every stage” of the court process, thegeneral rule “should be one of public accessibility and concomitant judicial accountability” andthat “curtailment of public accessibility can only be justified where there is present the need toprotect social values of superordinate importance.” See Nova Scotia v. MacIntyre, [1982] 1
+S.C.R. 175, at pp. 184, 186-187. Subsequently, the Supreme Court of Canada has recognized theguiding open court principle as a fundamental aspect of the constitutional rights guaranteed by s.
+2(b) of the Charter of Rights and as one of the hallmarks of our democratic society, given that itis “necessary to maintain the independence and impartiality of courts” and “integral to publicconfidence in the judicial system.” See Canadian Broadcasting Corp. v. New Brunswick, [1996]
+3 S.C.R. 480, at pp. 495-498; Re Vancouver Sun, at paras. 23-27.
+
+[10]
+The open court principle and the constitutional rights guaranteed by s. 2(b) of theCharter of Rights are not limited to merely attending court and observing and reporting on theproceedings that take place in the courtroom, but extend to include the media’s right to gatherinformation about court proceedings, including gaining access to court exhibits (and makingcopies of those exhibits), and to publish, broadcast or otherwise disseminate the informationgathered about those court proceedings, as well as the rights of members of the public to receive
+~3~
+
+denied the accused access to these reports, holding that he was required to seek such access byway of a production application under s. 278.3(1) of the Code.
+
+[6]
+The accused now seeks a writ of certiorari quashing the order of Oleskiw J. Theaccused contends that in dismissing his application for access to the court exhibits, and requiringhim to pursue an application under s. 278.3(1) of the Criminal Code, she refused to exercise herjurisdiction to permit the accused access to the court exhibits. The intervener, the CriminalLawyers’ Association of Ontario supports the position advanced by the accused. The Crown andthe complainant both contend that Oleskiw J. was correct in reaching the conclusion that she did,and ask that the certiorari application be dismissed.
+
+[11]
+Accordingly, the accepted legal standard that generally applies to all discretionarydecisions limiting access to court proceedings in criminal cases is designed to reflect the overallimportance of the “open court principle” and the rights of “freedom of expression” and “freedomof the press” in relation to judicial proceedings. More particularly, any such restrictions onaccess to such judicial proceedings can only be ordered where the party seeking such arestriction is able to establish, through convincing evidence, that: (1) such an order is necessaryin order to prevent a serious risk to the proper administration of justice because reasonablyalternative measures will not prevent the risk; and (2) the salutary effects of the restrictionoutweigh the deleterious effects on the rights and interest of the parties and the public, includingthe effects on the right to free expression, the right of the accused to a fair and public trial, andthe efficacy of the administration of justice. While this Dagenais/Mentuck standard was initiallydeveloped in the context of publication bans, the Supreme Court of Canada has made it clear thatit applies any time the “freedom of expression” and “freedom of the press” rights guaranteed bys. 2(b) of the Charter of Rights are engaged in relation to judicial proceedings. See Toronto StarNewspapers Ltd. v. Ontario, at paras. 7, 26-29; Re Vancouver Sun, at paras. 29-31; R. v.
+Canadian Broadcasting Corp., at paras. 20-21; Named Person v. Vancouver Sun, 2007 SCC 43,
+
+[2007] 3 S.C.R. 253, at paras. 31-36; Canadian Broadcasting Corp. v. Canada (AttorneyGeneral), at para. 56; M.E.H. v. Williams, 2012 ONCA 35, 108 O.R. (3d) 321, at paras. 24-34.
+B.
+
+Accessing Private Records Under the Criminal Code in Sex-Related Offences
+
+[12]
+Parliament has, however, legislatively created a detailed statutory procedure, throughthe enactment of ss. 278.1 through 278.9 of the Criminal Code, which governs the production ofprivate “records” relating to a complainant or a witness in criminal proceedings where anaccused is charged with certain listed sex-related offences. The Supreme Court of Canadaupheld the constitutional validity of this legislation in R. v. Mills, [1999] 3 S.C.R. 668, 139
+C.C.C. (3d) 321.
+
+[13]
+For the purposes of this statutory scheme, s. 278.1 of the Code provides a list of thekinds of documents which the scheme covers, but makes it clear that the scheme only applies tosuch documents where they contain “personal information for which there is a reasonableexpectation of privacy.” More specifically, s. 278.1 of the Code defines the term “record” for thepurposes of this legislative regime as follows:
+For the purposes of sections 278.2 to 278.9, “record” means any form of recordthat contains personal information for which there is a reasonable expectation
+~4~
+
+that information. See CBC v. New Brunswick, at paras. 23-26; Lac d’Amiante du Québec Ltée v.
+2858-0702 Québec Inc., 2001 SCC 51, [2001] 2 S.C.R. 743, at para. 72; CTV Television Inc. v.
+Ontario Superior Court of Justice (2002), 59 O.R. (3d) 18, 163 C.C.C. (3d) 321 (C.A.), at paras.
+13-23; R. v. Fry, 2010 BCCA 169, 254 C.C.C. (3d) 394, at para. 65; R. v. Hogg, 2006 MBCA
+132, 208 Man.R. (2d) 244, at paras. 2, 22-29; Toronto Star Newspapers Ltd. v. Ontario, 2005
+SCC 41, [2005] 2 S.C.R. 188, at paras. 4-7, 30; R. v. Canadian Broadcasting Corp., 2010 ONCA
+726, 102 O.R. (3d) 673, at paras. 24-34, 39-40; Canadian Broadcasting Corp. v. Canada
+(Attorney General), 2011 SCC 2, [2011] 1 S.C.R. 19, at paras. 28-30; Canadian BroadcastingCorp. v. The Queen, 2011 SCC 3, [2011] 1 S.C.R. 65, at paras. 11-14.
+
+[14]
+In R. v. Mills, the Supreme Court of Canada held, at paras. 99 and 78, that in light of theintroductory language used in this section, “[o]nly documents that truly raise a legally recognizedprivacy interest are caught and protected” and, accordingly, “if a record does not containinformation regarding which there is a reasonable expectation of privacy, then it is not subject tothe impugned provisions governing production.” The Supreme Court recognized, at para. 99,that in this legislative scheme, Parliament was: (1) trying to preserve an accused’s access to
+“private records” that may be relevant to an issue at trial; and (2) protecting to the “greatestextent possible” the “privacy rights” of complainants and witnesses. Accordingly, by “limitingits coverage” to records in which there is “a reasonable expectation of privacy” the legislation isconsistent with the “privacy rights” protected by s. 8 of the Charter of Rights. See R. v. R.C.
+(2002), O.R. (3d) 257, 163 C.C.C. (3d) 3 (C.A.), at paras. 42-49.
+
+[15]
+As the Supreme Court of Canada suggested in R. v. Quesnelle, 2014 SCC 46, [2014] 2
+S.C.R. 390, at para. 44, given this key definitional requirement, before resort need be had to theprocedural mechanism contained in ss. 278.1 through 278.9 of the Criminal Code, thefundamental “privacy analysis” turns on the “normative question” of whether there remains a
+“reasonable expectation of privacy” in the documents in question. If there is no reasonableexpectation of privacy in the documents in issue, then the procedural mechanism created by ss.
+278.1 to 278.9 of the Criminal Code is not engaged.
+C.
+
+The Issue: Is There a Reasonable Expectation of Privacy in the Psychiatric ReportsFiled as Exhibits in the Complainant’s Earlier Criminal Proceedings?
+
+[16]
+As I have already indicated, the documents or records in the present case are courtordered psychiatric assessments of the complainant that were prepared for, and considered in, thesentencing hearing in the earlier criminal proceedings against the complainant, and which werediscussed in open court and filed as unsealed exhibits in those proceedings.
+
+[17]
+During the argument of the certiorari application, counsel for the Crown and thecomplainant fairly conceded that, given the importance and general operation of the open courtprinciple, the complainant could reasonably have anticipated that, in relation to the earliercriminal proceedings against him: (1) any member of the public, including any representative ofthe media, could have entered the public court room and watched and listened to the sentencingproceedings and, if they had done so, they would have heard (as defence counsel for the accused,in fact, heard) a discussion of the contents of the psychiatric reports; (2) any representative of themedia could have subsequently attended at the court office, and ultimately obtained a copy of thepsychiatric reports and, subject only to considerations of editorial policy, published or broadcastthe contents of those psychiatric reports for anyone to read and/or hear; and (3) any member ofthe public could have similarly attended at the court office, if they had been so inclined, and
+~5~
+
+of privacy and includes, without limiting the generality of the foregoing,medical, psychiatric, therapeutic, counselling, education, employment, childwelfare, adoption and social services records, personal journals and diaries, andrecords containing personal information the production or disclosure of whichis protected by any other Act of Parliament or a provincial legislature, but doesnot include records made by persons responsible for the investigation orprosecution of the offence.
+
+[18]
+Counsel for the Crown and the complainant argued, however, that while thecomplainant may have, in the result, a greatly diminished expectation of privacy regarding thesepsychiatric reports, the complainant still maintained a reasonable expectation that the court officewould not produce a copy of the psychiatric reports to the accused who, the complainant alleges,sexually assaulted him and, at least in part, was the cause of the psychiatric problems outlined inthese reports.
+
+[19]
+There is no doubt that privacy rights are not an “all or nothing” proposition, but ratherexist on a spectrum. Oleskiw J. quite correctly noted this legal reality.
+
+[20]
+This point is aptly illustrated by the Supreme Court of Canada decision in R. v.
+Quesnelle. The accused in that case was charged with sexually assaulting two complainants, andsought disclosure of some police “occurrence reports” which involved one of the complainants,but which were not made in the course of the investigation of the charges against theaccused. The trial judge ruled that these occurrence reports were “records” under s. 278.1 of theCriminal Code, but the application for production of the occurrence reports under the Millsregime was dismissed, and the accused was ultimately convicted. The Court of Appeal forOntario subsequently allowed the defence appeal and ordered a new trial on the basis that theseoccurrence reports were not “records” under the Mills regime, but rather should have been part ofthe regular Crown disclosure under R. v. Stinchcombe, [1991] 3 S.C.R. 326. On further appeal,the Supreme Court of Canada reversed this decision and restored the conviction of the accused,agreeing with the trial judge that the unrelated occurrence reports were “records” under s. 278.1
+of the Criminal Code because the complainant maintained a reasonable expectation of privacy inthose reports, notwithstanding that they were made when the complainant provided theinformation contained in the reports to the police. In so doing, Karakatsanis J., for theunanimous court, stated, at para. 37:
+It bears repeating that privacy is not an all or nothing concept; rather,
+“[p]rivacy interests in modern society include the reasonable expectation thatprivate information will remain confidential to the persons to whom andrestricted to the purposes for which it was divulged” (Mills, at para.
+108). Consequently, the fact that information about a person has beendisclosed to a third party does not destroy that person’s privacyinterests. Because the contents of occurrence reports will be disclosed undercertain circumstances does not mean that there is not a reasonable expectationof privacy in those records.
+
+[21]
+The Court in R. v. Quesnelle reasoned that, generally speaking, given the sensitivenature of the information typically contained in police occurrence reports, and the impact thattheir disclosure can have on the informational privacy interests of complainants, there willgenerally be a reasonable expectation of privacy in such reports. In short, complainants willgenerally have an interest in maintaining the right to control how such sensitive informationabout them is shared. The mere fact that this information has already been provided to the police
+~6~
+
+ultimately obtained a copy of the psychiatric reports for their own personal review andconsideration.
+
+[23]
+There may be some exceptional circumstances, however, where an individual maintainsno reasonable expectation of privacy with respect to such presumptively confidential documents.
+In my view, the decision in R. v. Quesnelle did not hold otherwise. For example, if an individualdeliberately posted such a document on the internet for all the world to see, it could notreasonably be suggested that they thereafter continued to maintain any reasonable expectation ofprivacy in the contents of that document. By his or her own intentional conduct, such anindividual would have effectively relinquished any and all privacy interests they once may havehad in the document that they posted so publicly. This example is, of course, not the onlycircumstance in which an individual may conceivably lose any reasonable expectation of privacyin a sensitive medical record. The factual circumstances of the present case, in my view, affordanother example of when an individual will no longer possess any reasonable expectation ofprivacy in a presumptively confidential medical document.
+
+[24]
+
+In her ruling in this case, Oleskiw J. drew the following conclusion:
+It is this court’s finding that, especially in light of the fact that there’s noevidence of a waiver of s. 278.1 by [the complainant], that he was reasonablyentitled to expect that the information he shared during the interaction with thepsychiatrist would only be shared with the court and the parties involved in thelitigation and would be utilized for the intended purpose of his sentencing.
+And in light of that expectation, it is my view that the procedure in s. 278.1
+through s. 278.91 of the Code is the procedure that must be utilized in order toaccess these records.
+So, in other words, I find that [the complainant] did not lose his reasonableexpectation of privacy in the records simply because they were filed with thecourt as part of his sentencing hearing. And I therefore dismiss the applicationfor production of the … psychiatric records that were filed as part of thesentencing hearing. I find that the application under the [Dagenais/Mentuck]
+test is an attempt to circumvent the provisions of s. 278.1 through [s. 278.91] ofthe Criminal Code.
+
+[25]
+It is with this conclusion that I am in respectful disagreement. While there was certainlyno explicit and express waiver by the complainant of any potential privacy interest he may havehad in the psychiatric reports in issue, in my view the circumstances of this case present the next
+~7~
+
+does not destroy the complainant’s interest in keeping the information private fromothers. Individuals are entitled to provide information to the police in the confidence that thepolice will only disclose that information for some “good reason” connected to the reason whythe information was provided in the first place. The Court held that whether a person is entitledto expect that their information will be kept private is a “contextual inquiry.”
+
+[22]
+Generally speaking, a psychiatric report or assessment is, almost by definition, the verykind of medical record which contains confidential personal information. The subject of apsychiatric assessment will, accordingly, usually have a reasonable expectation of privacy in thecontents of such a report, as such an assessment will, invariably, outline and discuss anypotential mental health issues the subject of the report may be suffering.
+
+[26]
+The psychiatric reports prepared about the complainant were ordered by the court andwere prepared for the use of the court and the parties in the sentencing of the complainant in hisearlier criminal case. Following their preparation, the contents of those psychiatric reports werediscussed in open court, and filed as exhibits in those proceedings. No steps whatsoever weretaken by the complainant (or anyone else) to have the courtroom sealed and the public excluded,or to have the psychiatric reports themselves sealed, in an effort to preserve any sense ofconfidentiality or privacy surrounding them.
+Rather, the sentencing proceedings and thepsychiatric reports themselves were treated as fully open to the public.
+
+[27]
+As I have already indicated, the Crown and the complainant have both fairly andaccurately conceded that: (1) any member of the public, including any media representative,could have watched and listened to the earlier sentencing proceedings, as did defence counsel forthe accused, and they would have heard the discussion of the contents of the psychiatric reports;
+(2) any representative of the media could have subsequently attended at the court office andultimately obtained a copy of the psychiatric reports and thereafter, if they wished, published thecontents of the reports; and (3) any interested member of the public could have similarlyattended at the court office and obtained their own copy of the psychiatric reports filed asexhibits in this case.
+
+[28]
+In these circumstances, it is hard to imagine what possible expectation of privacy thecomplainant could reasonably retain in relation to these psychiatric reports. Counsel for theCrown and the complainant were left to argue, essentially, that the complainant still maintained areasonable expectation that the court office would not produce a copy of these psychiatric reportsto the accused. However, in my view that is not a reasonable expectation of privacy in relationto the psychiatric reports. Rather, it is only a reasonable, albeit mistaken, understanding of theprocedure that may have to be followed for the accused to personally secure a copy of thepsychiatric reports. If any representative of the media could obtain a copy of these psychiatricreports and broadly publish their contents (as the Crown and the complainant have conceded),the complainant can have no reasonable expectation of privacy in those psychiatric reports. Ifthe complainant cannot reasonably expect any significant level of continued confidentialitysurrounding access to the psychiatric reports, the complainant can have no reasonableexpectation of privacy concerning those reports. In short, an expectation that one person (i.e. theaccused) will not be able to access the psychiatric reports through the court office (like all othermembers of the public), is not a reasonable expectation of privacy in the psychiatric reportsthemselves. See R. v. Harris, 2011 ONSC 5955, [2011] O.J. No. 4584, at paras. 124-138, 140170; R. v. Shaugnessy, 2012 ABQB 398, 545 A.R. 231, at paras. 21-25.
+
+[29]
+The decision of F.C. ODonnell J. in R. v. Canadian Broadcasting Corp, 2013 ONCJ
+164, [2013] O.J. No. 1447, is indistinguishable from the present case, and supports theconclusion that the complainant in the present case has no reasonable expectation of privacy withrespect to his exhibited psychiatric reports.
+~8~
+
+closest thing to such a waiver. More specifically, in my opinion, the circumstances of thepresent case provide another analogous example, where the complainant cannot realisticallysuggest that he maintained any reasonable expectation of privacy in the psychiatric reports inquestion.
+
+I have read the 2005 [doctor’s] letter. Like any medical letter, in particular apsychiatrist’s letter, it deals with inherently personal and sensitive mattersincluding the type and dosage of various medications, but it is a letter that wasconsciously filed in a public court by [the accused’s] counsel in support of asentencing position that might very well not have been justified without it. Tothe extent that [defence counsel] would preserve his privacy, that privacy wasforegone when the letter was filed in open court. The judge relied on the letter.
+Without access to the letter, the public is not in a position to engage in ameaningful assessment or debate over the appropriateness of what happened to
+[the accused] in 2005 in what is supposed to be an open and transparent courtprocess.
+[emphasis added]
+
+[31]
+Of course, if an accused loses any reasonable expectation of privacy in a medical letterby merely providing it to the trial judge during a public sentencing hearing, it only stands toreason that an accused similarly loses any reasonable expectation of privacy in a medicaldocument when it is provided to the trial judge during a public sentencing hearing, and it is madea court exhibit in the proceedings, without any request to seal the document.
+
+[32]
+In light of my conclusion that the complainant has no reasonable expectation of privacyin the psychiatric reports filed as exhibits on his earlier sentencing hearing, I am driven toconclude that Oleskiw J. erred in holding that the accused was required to seek access to thereports through a production application under s. 278.3(1) of the Criminal Code. Instead, sheought to have applied the Dagenais/Mentuck standard to determine whether the Crown or thecomplainant had established, through convincing evidence, that: (1) an order refusing to providethe accused with the exhibited psychiatric reports was necessary to prevent a serious risk to theproper administration of justice; and (2) that the salutary effects of such a restrictive orderoutweighed the deleterious effects on the rights and interest of the parties and the public,including the effects on the right to free expression, the right of the accused to a fair and publictrial, and the efficacy of the administration of justice.
+~9~
+
+[30]
+In that case, the CBC sought access to a doctor’s letter, written in 2005, concerning themental health of the accused, who was then before the Ontario Court of Justice on fraud charges.
+The doctor’s letter dealt with “inherently personal and sensitive matters,” including themedications prescribed for the accused. While the letter was not formally made an exhibit on thesentencing hearing, it was provided to the judge by defence counsel, and relied upon in supportof his sentencing position. The media was not initially interested in the letter, as the fraudcharges against the accused were routine and unexceptional. Seven years later, however, themedia became very interested in the letter when the same accused was charged, in 2012, with thecommission of a “gruesome murder and related offences.” At that point, the CBC sought accessto the earlier medical letter and, over the objection of the accused, ODonnell J. ordered that it bereleased to the CBC (and any other person requesting a copy). In so ordering, ODonnell J.
+concluded, essentially, that in providing the doctor’s letter to the judge in open court, the accusedlost any reasonable expectation of privacy in the contents of that letter. More particularly, atpara. 23, ODonnell J. stated:
+
+D.
+
+Applying the Dagenais/Mentuck Standard in this Case
+
+[34]
+The two psychiatric reports in question were provided (sealed) to the court for thepurpose of determining this certiorari application. After concluding that Oleskiew J. erred inrefusing to exercise her jurisdiction to apply the governing Dagenais/Mentuck standard todetermine whether the accused should be provided with copies of the exhibited psychiatricreports, I reviewed the contents of these reports. Predictably, they contain expert psychiatricopinion evidence, and other information, touching upon the mental health of the complainant. Itis apparent that these reports might well be of assistance to the accused in his defence of thecurrent charges against him.
+
+[35]
+Applying the governing Dagenais/Mentuck standard, I have concluded that neither theCrown nor the complainant have established, through convincing evidence, that: (1) an orderrefusing to provide the accused with the exhibited psychiatric reports is necessary to prevent aserious risk to the proper administration of justice; and (2) that the salutary effects of such arestrictive order outweigh the deleterious effects on the rights and interest of the parties and thepublic, including the effects on the right to free expression, the right of the accused to a fair andpublic trial, and the efficacy of the administration of justice. In short, in my view the Crown andthe complainant have fallen well short of meeting either branch of this two-pronged legalstandard. See Sierra Club of Canada v. Canada (Minister of Finance), 2002 SCC 41, [2002] 2
+S.C.R. 522, at paras. 36, 60.
+
+[36]
+In applying this standard it is important to appreciate that purely personal interests,including concerns about the emotional distress or personal embarrassment of the complainant,arising from the operation of the open court principle, and an individual wish to keep certainsensitive personal issues out of the public eye, cannot, standing alone, satisfy the necessitybranch of this standard. See M.E.H. v. Williams, at paras. 24-34; Kirikos v. Fowlie, 2016 FCA
+80, 357 C.R.R. (2d) 148, at paras. 18-27. However, even if the Crown and the complainant hadprovided convincing evidence that met the necessity prong of this standard, I would still not besatisfied that the salutary effects of an order denying the accused access to the psychiatric reportswould outweigh the deleterious effects of such an order on the rights and interest of the partiesand the public, including the effects on the right to free expression, the efficacy of theadministration of justice, and especially the right of the accused to a fair and public trial.
+III
+CONCLUSION
+~ 10 ~
+
+[33]
+Moreover, this error by Oleskiew J. was jurisdictional in nature, in that she refused toexercise her jurisdiction to apply the Dagenais/Mentuck standard in order to determine whetheror not the accused was entitled to copies of the psychiatric reports, ruling instead that the accusedwas obliged to pursue another procedural route, under s. 278.3(1) of the Criminal Code, to try togain access to these reports. See R. v. Skogman, [1984] 2 S.C. R. 93, at pp. 98-104; R. v. Sarson
+(1992), 73 C.C.C. (3d) 1 (Ont.Ct.Gen.Div.), at p. 24, affirmed, (1994), 88 C.C.C. (3d) 95
+(Ont.C.A.), affirmed, [1996] 2 S.C.R. 223, 107 C.C.C. (3d) 21; R. v. Sazant, 2004 SCC 77,
+
+[2004] 3 S.C.R. 635, at para. 22. Neither the Crown nor the complainant suggested that thealleged error by Oleskiew J. (if was an error, as I have found) was not a jurisdictional error.
+
+______________________________
+Kenneth L. Campbell J.
+Released: May 19, 2017
+
+~ 11 ~
+
+[37]
+In conclusion, the application for certiorari is granted, and the order made by OleskiwJ. is quashed. In its place is an order permitting the accused, Martin Bartholomew, to havecopies of the two psychiatric reports, prepared in August of 2016, in relation to the complainant,K.B., and which were entered as exhibits during the sentencing hearing in the criminalproceedings against him.
+
+CITATION: R. v. Bartholomew, 2017 ONSC 3084
+COURT FILE NO.: CR-MO-16/5-371
+DATE: 20170519
+
+HER MAJESTY THE QUEEN
+- and MARTIN BARTHOLOMEW
+- and K.B.
+- and THE CRIMINAL LAWYERS’ ASSOCIATION
+OF ONTARIO
+
+REASONS FOR JUDGMENT
+
+K.L. Campbell J.
+
+Released: May 19, 2017
+
+BETWEEN:
+

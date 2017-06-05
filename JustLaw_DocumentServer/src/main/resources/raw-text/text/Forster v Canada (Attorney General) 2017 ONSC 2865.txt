@@ -1,0 +1,699 @@
+CITATION: Forster v. Canada (Attorney General), 2017 ONSC 2865
+COURT FILE NO.: CR-15-0180
+DATE: 2017 May 11
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+STEVEN FORSTER
+Applicant )
+– and –
+THE ATTORNEY GENERAL OF
+CANADA
+Respondent
+
+P. Slansky, for the Applicant
+
+S. Kurelek, for the Respondent
+
+HEARD at Kingston: February 24 and May4, 2017.
+
+TRANMER J.
+HABEAS CORPUS DECISION
+NATURE OF THE APPLICATION
+
+[1]
+
+This is an application by Mr. Forster for a writ of habeas corpus with certiorari in aid
+
+and relief under s. 24(1) of the Charter. The relief sought is, firstly, the quashing of the warrantof committal under which authority the applicant is detained and, secondly, an order releasinghim from custody.
+
+[2]
+
+The applicant directly challenges the validity of the warrant of committal based on
+
+the lack of jurisdiction of the trial and sentencing court to make the Dangerous Offenderdesignation for reasons that include the failure to give notice of the application for dangerousoffender designation, the unlawful manner of psychiatric remand, proceeding in the absence of
+
+ONTARIO
+
+the applicant in the courtroom and the failure of the trial judge to exercise discretion indetermining whether Mr. Forster was to be found a dangerous offender or not. The applicant
+
+Offender order.
+HISTORY OF CONVICTION, DESIGNATION OF DANGEROUS OFFENDER AND
+IMPOSITION OF INDETERMINATE SENTENCE
+
+[3]
+
+On February 23, 1988, having reelected trial by judge without a jury, Mr. Forster
+
+[4]
+
+The facts presented to the court were agreed to by Mr. Forster (Transcript, February
+
+23, 1988, p. 32).
+
+[5]
+
+Upon the Crown application for a finding that Mr. Forster be designated a dangerous
+
+offender, the learned justice heard psychiatric evidence. He reviewed the relevant sections of theCriminal Code. Counsel for Mr. Forster agreed that crown counsel could confine his argument to
+
+submits that any one of these errors of law vitiated the jurisdiction to make a Dangerous
+
+the “second portion of the issue, that is, the nature of the sentence”, and thus, it appears clear thatcounsel for Mr. Forster did not make submissions against the dangerous offender designation
+
+basis of this evidence and in fact both counsel agreeing that there is absolutely none to thecontrary, I have no hesitation in concluding that Mr. Forster's conduct satisfies all the criteria insection 688(a)(1) and (2) and in s. 688(b), and I do find him to be a dangerous offender”.
+(Transcript, December 22, 23, 1988, p. 83).
+
+[6]
+
+The issue before Justice Dilks was that Crown and defence counsel did not agree that
+
+a sentence of an indeterminate period in a penitentiary was a fit and just sentence. (Transcript,December 22, 23, 1988, p. 83).
+
+For the reasons that he gave, the learned judge decided to
+
+exercise his discretion and imposed a sentence of detention in a penitentiary for an indeterminateperiod in respect of the offences falling within the ambit of the dangerous offender application.
+With respect to the remaining counts, Mr. Forster was sentenced to two years in prisonconcurrently to each other and to the indeterminate sentence.
+
+[7]
+
+The warrant of committal is dated December 23, 1988.
+
+[8]
+
+On June 22, 1995, the Ontario Court of Appeal heard an appeal by Mr. Forster from
+
+the decision of Justice Dilks imposing a sentence of detention for an indeterminate period.
+
+In
+
+that Court, the Appellant’s Factum stated that it was an appeal against the sentence of detentionin a penitentiary for an indeterminate period. Counsel for the appellant in that court stated atparagraph 20 of the Factum, “the learned trial judge summarized the evidence in his reasons, andconcluded that the evidence satisfied the statutory test (for dangerous offender designation). Thatfinding is, evidently, not appealable as such, but is referable only to the question as to whether
+
+(Transcript, December 22, 23, 1988, p. 65). In his reasons, the learned justice stated, “On the
+
+the trial judge correctly exercised his discretion in imposing a sentence of detention in apenitentiary for an indeterminate period.” Counsel cited Criminal Code section 694 and R. v.
+
+The Court of Appeal concluded that, “On the hearing before the Dilks CCJ, the evidence wassuch that he had no alternative but to declare the appellant a dangerous offender”. R. v. Forster,above.
+
+The court held that it was unable to find that the learned justice erred in exercising his
+
+discretion to impose the indeterminate sentence of detention. The appeal was dismissed.
+THESE PROCEEDINGS
+
+[9]
+
+The respondent has brought a motion to strike this application on the basis that this
+
+court should decline to exercise its habeas corpus jurisdiction and dismiss the applicationbecause it amounts to a collateral attack on the decision of the original trial court. Therespondent also submits that inmates are entitled to challenge deprivations of the residual libertywithin a penitentiary through habeas corpus applications, but not the initial deprivation of libertyordered by the court that convicted and sentenced them. The respondent also submits that theSupreme Court of Canada has indicated that this court should decline to consider applications forhabeas corpus where, as in the present case, a statute confers jurisdiction on an appellate court,or the parole board or on the minister of justice to consider the issues that have been raised inthis application.
+
+[10]
+
+The respondent submits that this court has the authority to dismiss these proceedings
+
+on a motion to strike, citing decisions of this court in Debrocke v. Canada (8 October 2015, CR15-231-MO (ONSC), Firbank v. Canada (Attorney General) 2016 ONSC 6592 and Nome v.
+Attorney General of Canada, Kingston Court File CR-15-583-MO.
+
+Langevin (1984) 39 CR (3d) 333 (Ont. C.A.). The Factum is Exhibit 1 in these proceedings.
+
+[11]
+
+The applicant submits that relief by way of habeas corpus is available in the
+
+circumstances of this case to challenge the initial deprivation of liberty. He submits that this
+
+not have discretion to preempt this application. He submits that even if the court has jurisdictionto hear this motion or to pre-empt the application, it should decline to do so in this case.
+ANALYSIS
+Nature of Habeas Corpus
+
+[12]
+
+In R. v. Miller, [1985] 2 SCR 613, the Supreme Court of Canada determined that a
+
+provincial Superior Court has jurisdiction by way of habeas corpus with certiorari in aid todetermine the validity of the confinement of an inmate of a federal penitentiary in a specialhandling unit, despite overlapping jurisdiction in the Federal Court. The court noted the principlethat extrinsic evidence must not be permitted to convert an application for habeas corpus into anappeal on the merits.
+
+[13]
+
+The court noted that the two essential conditions of the traditional availability of the
+
+remedy was:
+a. a deprivation of liberty; andb. that what is sought is the complete liberty of the applicant and not merely his orher transfer to another form of detention or restraint of liberty.
+
+[14]
+
+The Supreme Court of Canada in Dumas v. Leclerc, [1986] 2 SCR 459 confirmed
+
+that Miller had settled that jurisdictional issue and that Miller had widened the availability ofhabeas corpus. “The traditional pre-conditions to the availability of the remedy were (a) that
+
+court does not have jurisdiction to entertain a motion to strike. He submits that this court does
+
+there be a deprivation of liberty and (b) that what is sought is the complete liberty of theThe court noted, “in the context of correctional law, there are
+
+three different deprivations of liberty:
+
+the initial deprivation of liberty, a substantial change in
+
+conditions amounting to a further deprivation of liberty, and the continuation of the deprivationof liberty.” (p. 464, lines a – c).
+
+[15]
+
+In the present case, Mr. Forster challenges the initial deprivation of his liberty. He
+
+asserts a direct attack on the warrant of committal for reasons that include, in particular, nonotice of an application for dangerous offender designation, participation in a psychiatric reminduninformed and made without a lawful basis, the absence of Mr. Forster from the courtroomduring substantive argument and the error by Justice Dilks in stating that he had no discretionwith respect to the finding of dangerous offender. (Transcript, December 22, 23, 1988, p. 77).
+
+[16]
+
+The authorities satisfy me that habeas corpus may be available to convicted persons
+
+in certain circumstances to challenge their initial deprivation of liberty. I do not agree with theCrown submission in this case that habeas corpus is only available to inmates challengingdeprivation of residual liberties while in a penitentiary, such as confinement to segregation. Thatlaw is an extension of the original traditional role of habeas corpus proceedings.
+
+(May v.
+
+Ferndale Institution 2005 SCC 82, paras. 19-32, in particular, para. 27, “…the Court ‘expanded’
+the scope of habeas corpus ...”. Mission v. Khela 2014 SCC 24, paras. 27-30, 33, 34; T.
+Cromwell, Ottawa Law Review 1976, Parole Committals and Habeas corpus; and Habeascorpus and Correctional Law – An Introduction, T. Cromwell, Queen’s Law Journal, 1977, Vol.
+3, No. 3, p. 295.
+
+[17]
+
+The Supreme Court of Canada in May v. Ferndale states at para. 35:
+
+applicant.” (p. 463, line a – c).
+
+The court continued at para. 36:
+Strictly speaking, in the criminal context, habeas corpus cannot be used tochallenge the legality of a conviction. The remedy of habeas corpus is not asubstitute for the exercise by prisoners of their right of appeal.
+
+[18]
+
+The Supreme Court of Canada in R. v. Gamble, [1988] 2 SCR 595, para. 67 cited
+
+Morden J. in Hass v. The Queen (1978), 40 C.C.C. (2d) 202 (Ont. H.C.):
+… Resort cannot be had to habeas corpus to correct or revise an alleged error in asentence imposed by a court of competent jurisdiction. In such case, the properremedy is to appeal. …
+This is no doubt correct as a general guide to when habeas corpus is anappropriate remedy. With respect, however, the distinction relied on in Hassbetween an illegal sentence which cannot be remedied by way of habeas corpusand an unlawful execution of a valid sentence, which could be so remedied, seemsto be technical and non-purposive, especially when, as is the case here, the appealprocess may not be available to vindicate an applicant's Charter interest in havingthe legality of his or her deprivation of liberty reviewed. Under section 24(1) ofthe Charter, courts should not allow habeas corpus applications to be used tocircumvent the appropriate appeal process, but neither should they bindthemselves by overly rigid rules about the availability of habeas corpus, whichmay have the effect of denying applicants access to courts to obtain Charterrelief.
+Is this Habeas Corpus Application being used to Circumvent the Proper Appeal Process?
+
+[19]
+
+The applicant submits in his factum, “the appeal court could not deal with the finding
+
+that he was a dangerous offender based on the Court of Appeal decision of Langevin”, (para. 2)
+and “The applicant wished to appeal to challenge the legality of his designation as a DO,
+
+Courts have sometimes refused to grant relief in the form of habeas corpusbecause an appeal or another statutory route to a court was thought to be moreappropriate. The obvious policy reason behind this exception is the need torestrict the growth of collateral methods of attacking convictions or otherdeprivations of liberty.
+
+however, he was precluded from doing so because the law at the time precluded an appealregarding such a finding, divorced from issues of dangerousness (Langevin). Accordingly, his
+(Para. 9).
+
+He further submitted in his factum, “where, as here, the
+
+appeal on the basis advanced was not available (Langevin)”, (para. 21) and “where the appeal islimited per Langevin, and does not cover the grounds advanced, this is not a collateral attack”,
+(para. 22).
+
+[20]
+
+In R. v. Langevin 1984 11 CCC (3d) 336, the Ontario Court of Appeal cited s.
+
+694(1), the predecessor to the current s. 759(1):
+a person who is sentenced to detention in a penitentiary for an indeterminateperiod under this part may appeal to the Court of Appeal against that sentence onany ground of law or fact or mixed law and fact.
+The court stated:
+5
+
+Further, the appeal thus provided is against the sentence of indeterminatedetention, not the finding of dangerous offender. The Court of Appeal has expresspower to quash the sentence of indeterminate detention but not the finding ofdangerous offender. ...
+6
+
+However, in deciding whether to quash the sentence, the court mustnecessarily consider whether the finding of dangerous offender is justified in factand law.
+
+[21]
+
+In these proceedings, Mr. Forster directly attacks, and seeks to quash, the warrant of
+
+committal detaining him for an indeterminate period for the reasons that I have indicated above.
+Mr. Forster asserts that he had no right to appeal Justice Dilks’ decision designating him to be adangerous offender.
+
+He submits that therefore, habeas corpus is the only means available to
+
+challenge the jurisdictional and fundamental errors that he asserts Justice Dilks made.
+
+appeal was dismissed.”
+
+[22]
+
+In R. v. Currie (1997), 115 CCC (3d) 205, the Supreme Court of Canada dealt with s.
+
+A person who was sentenced to detention in the penitentiary for an indeterminateperiod under this part, may appeal to the Court of Appeal against that sentence onany ground of law or fact or mixed law and fact.
+
+[23]
+
+That court held:
+33
+… the role of an appellate court is to determine if the dangerous offenderdesignation was reasonable. …
+34
+… appellate courts are necessarily entitled to consider whether the findingof dangerousness itself was justified. In other words, as much as R. v. Langevin…
+correctly held that s. 759 does not give appellate courts an explicit jurisdiction tooverturn a dangerous offender designation, the facts upon which a dangerousnessfinding are based are necessarily relevant to determining whether anindeterminate sentence should be quashed. Hence the finding of dangerousness isproperly before an appellate court.
+
+[24]
+
+Applicant's counsel points specifically to the statement in Langevin, cited above,
+
+para. 5, “the Court of Appeal has express power to quash the sentence of indeterminate detentionbut not the finding of dangerous offender”, to submit that the Court of Appeal in Mr. Forster’scase had no power to overturn the designation of dangerous offender on appeal, only to considerthe imposition of the indeterminate sentence.
+
+In this application, Mr. Forster seeks to overturn
+
+Justice Dilks’ finding him to be a dangerous offender.
+
+[25]
+
+He submits that in Langevin, the court’s statement in para. 6 that in deciding whether
+
+to quash the sentence, the court must necessarily consider whether the finding of dangerousoffender is justified in fact and law, is consistent with the Supreme Court of Canada's ruling inCurrie that the role of the appellate court is to determine if the dangerous offender designation
+
+759(1) which at the time read the same as the prior s. 694(1),
+
+was reasonable and that hence, the finding of dangerousness is properly before the appellate
+
+[26]
+
+His submission is however, that Mr. Forster seeks to challenge the process that led to
+
+the finding that he was a dangerous offender. He says his objections are procedural questionsand the challenge is whether the process was lawful. He submits that challenge was not availableon his appeal in order to give para. 5 in Langevin as quoted above, meaning. He relies onGamble, paras. 51 and 68. He submits that it is tenuous that Mr. Forster would be granted anextension of time to appeal under the current section 759(1), that the amendment to s. 759 in2008 does not have retroactive application and further points to the Crown case law that saysonce the applicant is out of the judicial system, namely that an appeal has been determined on themerits, he may not invoke rights under subsequent amended authorities. Thus, Mr. Forster wouldbe left without a remedy.
+
+[27]
+
+He submits that Mr. Forster is making a direct attack on the warrant of committal and
+
+that therefore, the doctrine of collateral attack does not apply.
+
+[28]
+
+In R. v. Lyons, [1987] 2 SCR 309, Justice Wilson notes in her dissent:
+130 …. The appellant might well have felt that he would not succeed in a claimunder s. 24(1) to set his conviction aside, (he had pleaded guilty to the offences),that the court would not view this as the appropriate and just remedy in thecircumstances, but that it might consider it appropriate and just to set aside theorder for additional punishment (the indeterminate sentence).
+
+[29]
+
+The Court in May, paras. 44 and 50, stated:
+44
+… Only in limited circumstances will it be appropriate for a provincialsuperior court to decline to exercise its habeas corpus jurisdiction. For instance,
+
+court, in the limited context of an appeal against the indeterminate sentence.
+
+50
+… provincial superior courts should decline habeas corpus jurisdiction onlywhere (1) a statute such as the Criminal Code … confers jurisdiction on a court ofappeal to correct the errors of a lower court and release the applicant if need be…
+
+[30]
+
+Section 694(1) as set out above, and considered in Langevin, was amended in 2008 to
+
+provide as follows,759. (1) An offender who is found to be a dangerous offender or a long-termoffender may appeal to the court of appeal from a decision made under this Parton any ground of law or fact or mixed law and fact.
+ANALYSIS
+
+[31]
+
+The applicant relies on Gamble and submits that I should not decline jurisdiction in
+
+these proceedings. The background facts of that case are important and distinct from the facts inMr. Forster's case. The appellant was charged under an older section of the Criminal Code withcommitting murder.
+
+She was tried for first-degree murder under the newly amended section
+
+which then provided upon conviction for a sentence of life imprisonment without eligibility forparole for 25 years. Under the provision at the time that she was charged, the parole ineligibilitywas for a minimum of 10 years and the sentencing judge could make a recommendation forparole ineligibility of between 10 to 20 years on a recommendation from the jury.
+
+[32]
+
+The conviction and sentence of life with no eligibility for parole for 25 years was
+
+appealed to the Nova Scotia Court of Appeal and dismissed. Leave to appeal to the SupremeCourt of Canada was dismissed.
+
+in criminal law, where a statute confers jurisdiction on a court of appeal to correctthe errors of a lower court and release the applicant if need be, habeas corpus willnot be available (i.e. Gamble).
+
+[33]
+
+At the time that she brought her application for habeas corpus with certiorari in aid,
+
+[34]
+
+How she framed her application was critical to the decision of the court.
+
+[35]
+
+The court noted that Ms. Gamble was convicted and sentenced under the wrong law.
+
+It noted that it is fundamental to say that our legal system recognizes the rule of law that anaccused must be tried and punished under the law in force at the time the offences committed.
+“This did not happen in this case.” (Para. 76).
+
+[36]
+
+The court noted that the superior courts would not be justified in declining to
+
+exercise habeas corpus jurisdiction,
+… Even if an appeal of sentence in Alberta were open to the appellant atthis late date, I do not believe that in the circumstances of this case the superiorcourts would be justified in declining to exercise their concurrent jurisdiction onthat ground. Given 1) the time that has elapsed since the original sentencing; 2)
+the appellant's legitimate expectation after the outcome of her appeal fromconviction that the sentence was "one fixed by law" and thus not appealable… ;and 3) the fact that she claims an ongoing and continuing violation of her Charterrights as a matter of some urgency …
+51
+
+[37]
+
+Ms. Gamble’s sentence was mandatory, given her conviction of first-degree murder.
+
+This is distinct from Mr. Forster's designation as a dangerous offender and sentencing to anindeterminate sentence, which were not mandatory upon his conviction. Another distinction isthat Ms. Gamble claimed “an ongoing and continuing violation of her Charter rights”, point 3 inpara. 51. Mr. Forster claims his Charter rights were violated by Justice Dilks at the time of thedesignation.
+
+The court in Gamble considered the possibility of an extension of time to appeal,
+
+but commented “if the Superior Court were not available to the appellant, she could very well be
+
+she had served 12 years in custody.
+
+left without a remedy for the alleged violation of her Charter rights and that is not a situation
+
+[38]
+
+In para. 56, the court noted its decisions not to allow habeas corpus to be used to
+
+circumvent the ordinary appeal procedures established in the Criminal Code.
+
+It further noted
+
+that given that it had denied leave to appeal the conviction, the interests of finality of criminalconvictions and the principle of res judicata would apply.
+
+[39]
+
+The court then very specifically indicated at para. 58:
+58
+
+None of the foregoing decisions dealing with the protection of the integrityof the appeal process and the finality of criminal convictions apply to the presentcase because the Ontario Court of Appeal, in my view, correctly characterized theappellant's claim when it said:
+The appellant is not challenging the validity of her conviction or ofthe sentence of life imprisonment imposed upon her. She allegesthat by reason of the Charter, the sentence of the Alberta courtfixing her period of parole ineligibility at twenty-five years is nolonger valid.
+
+[40]
+
+The court specifically noted that the appellant framed her claim as one that:
+… her continued deprivation of liberty by operation of the 25-year paroleineligibility provision has become unlawful by reason of the enactment of theCharter. … She alleges, therefore, that she is suffering a continued deprivation ofher liberty which is unlawful by virtue of s. 7 of the Charter.
+59
+
+[41]
+
+At para. 61, the court continues to specifically note that:
+… The appellant attacks her current detention as violating her constitutionalrights. She does not attack her pre-Charter conviction and sentence. …
+61
+
+[42]
+
+Furthermore at para. 62, the court specifically notes:
+
+which a court should countenance if it has the means to avoid it”. (para. 51).
+
+… Again the respondent relies on a faulty characterization of the appellant'sclaim as being an attempt to have her conviction or sentence reviewed on themerits as if it were an appeal. In my view, this is simply not so.
+
+[43]
+
+At para. 69, the court again comments on how that applicant framed her application:
+… The period of extended parole ineligibility currently being experiencedby the appellant denies the appellant the opportunity to seek supervised release for13 more years. …
+69
+
+[44]
+
+This is the distinction between Gamble and Mr. Forster's application, the particulars
+
+of which I have already set out.
+
+He is challenging Justice Dilks’ decision to designate him a
+
+dangerous offender. He is not challenging a continued deprivation of his liberty in the way thatGamble was.
+
+[45]
+
+In paragraphs 70 and 71 of Gamble, the court notes:
+… the effects of the parole ineligibility provision on the continuingimprisonment of the appellant are quite considerable. …
+70
+
+71
+
+I have no difficulty in concluding that the continuation of the 25-yearperiod of parole ineligibility deprives the appellant of an important residualliberty interest which is cognizable under s. 7 and which may be appropriatelyremedied by way of habeas corpus if found to be unlawful.
+This distinction that I have made between Mr. Forster’s case and Ms. Gamble’s case
+
+[46]
+
+is the same one identified by the Supreme Court of Canada in R. v. Sarson, [1996] 2 S.C.R. 223,paras. 32-33:
+32
+
+In my view, the appellant has failed to recognize the fundamentaldistinction between his application for habeas corpus and the applicationlaunched in Gamble. In Gamble, the majority of the Court made it clear that Ms.Gamble was not permitted to transform her application for habeas corpus into anappeal of the merits of her conviction. Indeed, Ms. Gamble did not attempt to
+
+62
+
+...the appellant would most likely be denied relief by way ofhabeas corpus because of this Court's decisions not to allowhabeas corpus to be used to circumvent the ordinary appealprocedures established in the Criminal Code....
+The majority further held, at p. 642, that:
+Under section 24(1) of the Charter, courts should not allow habeascorpus applications to be used to circumvent the appropriateappeal process...
+As a result, habeas corpus review, both at common law and under the Charter,will not be permitted to extend to an inquiry into the merits of the offender'sconviction as on appeal.
+33
+
+In the instant case, the appellant has attempted to compare his appeal to theapplication considered in Gamble. In the appellant's opinion, the presentapplication closely parallels the application in Gamble, in that both the appellantand Ms. Gamble sought to challenge the conditions of their detention, rather thanthe underlying conviction. With respect, the parallel drawn by the appellantbetween his case and Gamble is illusory. In Gamble, the applicant refused tochallenge her conviction and openly admitted liability for the crime of which shewas convicted. In the instant case, by contrast, the appellant contends that he is
+"innocent of second degree murder". Similarly, during the course of oralargument, the appellant's counsel admitted that the habeas corpus application inthis case essentially amounts to an attack on the appellant's conviction for seconddegree murder, and seeks to replace that conviction with a conviction for thelesser offence of manslaughter. Clearly, the appellant's application for habeascorpus is vastly different from the application considered in Gamble. In my view,the nature of the appellant's application is such that it amounts to an indirect orcollateral attack on his conviction.
+
+[47]
+
+In Gamble, the remedy granted by the Court was to declare that the applicant was
+
+eligible for parole forthwith,
+… The Parole Board is, however, the final arbiter of whether and when sheshould be released on parole and this Court has nothing to say on that subject.
+81
+
+question her conviction, but merely challenged her continued ineligibility forparole. According to Wilson J. for the majority (at p. 636), if an applicant were tochallenge a conviction through a habeas corpus application:
+
+[48]
+
+In contrast, and distinction, Mr. Forster seeks to have this court order that he be
+
+[49]
+
+The applicant also relies on Gallichon v. Canada, [1995] OJ No. 2744 (ONCA). The
+
+applicant in that case had been sentenced in 1967, pre-Charter, under the habitual criminallegislation in place at the time. He attempted to appeal the decision, but his application to extendthe time within which to appeal, was dismissed.
+
+Ten years after he was sentenced, the habitual
+
+criminal legislation was repealed and replaced by the dangerous offender provisions. Hisapplication for habeas corpus was commenced 25 years after his original sentencing. That courtfound that at no time did the applicant meet the criteria of habitual criminal, or preventativedetention, as originally sentenced. (Para. 10 and 58). Mr. Forster does not advance such aposition in his case. Indeed, given his counsel’s position, Justice Dilks’ reasons and the Court ofAppeal conclusion, together with the facts he admitted to, he could not claim to not fit thedangerous offender criteria.
+The court found that Mr. Gallichon’s:
+
+[50]
+
+… argument in this case is not that the sentence was illegal when imposedbut that it has become illegal, that is, contrary to the Charter, by virtue of theenactment of the Charter and the passage of time.
+71
+
+Mr. Gallichon’s application was framed in the same fashion as in Gamble, namely
+
+[51]
+
+that the continued detention had become contrary to the Charter. This is clear from the court’sconclusion at para. 86,
+… In the case now before the court, an unconditional release is sought. …
+Having regard to the length of Gallichon's incarceration, his record in recent years86
+
+released from custody immediately. The court in Gamble did not grant such relief.
+
+[52]
+
+Mr. Gallichon was ordered released unconditionally. These factors are not advanced
+
+in Mr. Forster's case.
+
+As I set out later in these reasons, counsel for Mr. Forster seeks his
+
+unconditional release from custody on the basis that he has served more time in jail, 30 years,than would have been imposed originally.
+
+[53]
+
+In my opinion, the key issue raised in Mr. Forster’s case can be framed as follows.
+
+[54]
+
+He does not challenge his convictions based on his pleas of guilty to the agreed upon
+
+facts. He did not appeal against the convictions.
+
+[55]
+
+There was no express statutory right to appeal against the finding of dangerous
+
+offender. The Crown agrees with this assertion.
+
+[56]
+
+As set out in Langevin, s. 694(1) provided only for an appeal against the
+
+indeterminate sentence imposed.
+
+Mr. Forster advanced such appeal.
+
+upheld the sentence and dismissed the appeal.
+
+The Court of Appeal
+
+In doing so, the Court of Appeal found that
+
+Justice Dilks had no alternative but to declare the appellant a dangerous offender.
+
+This is
+
+consistent with Mr. Forster’s counsel’s position at the time, and Justice Dilks’ decision who,although stating he had no discretion on the point, reviewed the applicant’s criminal record, thevictim impact statements and the psychiatric evidence led at the dangerous offender hearing, andconcluded:
+On the basis of this evidence, and in fact both counsel agreeing that there isabsolutely none to the contrary, I have no hesitation in concluding that Mr.
+
+of non-violence, his age and health, and the lack of any indication that he presentsa danger to anyone but himself, I would allow the appeal and set aside the ordermade below dismissing the application.
+
+Forster’s conduct satisfies all the criteria in Section 688(a)(1) and (2) and inSection 688(b), and I do find him to be a dangerous offender.
+The Court of Appeal’s decision is also consistent with the role of the appellate court
+
+as stated in Langevin and Currie to consider whether the finding of dangerous offender wasjustified in fact and law. The Court of Appeal concluded that it was.
+
+[58]
+
+The challenges to the dangerous offender designation that are now being made in this
+
+application were available to be made before the Court of Appeal on Mr. Forster’s appeal in1995.
+
+Notice of the Dangerous Offender application, the lawfulness of the remand for
+
+psychiatric assessment, the other non-compliance with the statutory requirements which theapplicant now challenges, and the presence of the accused in court for the entirety of his trialincluding substantive submissions could have been raised by the applicant on the issue ofwhether the finding of dangerous offender was justified in fact and law.
+
+[59]
+
+Also, Lyons was released by the Supreme Court of Canada in 1987. It confirmed the
+
+judge’s discretion as to whether or not to impose the designation of dangerous offender. Lyons,p. 338, 362; R. v. Johnson [2003] S.C.J. No. 45 (para. 26).
+
+Thus, the applicant’s current
+
+challenge to Justice Dilks’ comment that he had no discretion in that regard was open tochallenge on his appeal in 1995.
+
+[60]
+
+In my opinion, the 2008 amendment to s. 759 that I mentioned at para. 30, reflects
+
+how appellate courts were in fact dealing with the designation, as in Langevin and Currie.
+
+[61]
+
+Further support for my opinion that the Court of Appeal could have considered
+
+whether Mr. Forster’s designation was justified in fact and law in respect of the applicant’s
+
+[57]
+
+present complaints is found in the decision of the Ontario Court of Appeal in R. v. Farinacci
+
+[1993] O.J. No. 2627, cited by the applicant’s counsel.
+
+This decision is authority that such
+
+23
+
+At issue here, however, is not whether and, if so, when and in what forumCharter decisions are appealable, but whether the Charter compels review ofconvictions for serious crimes, accompanied by lengthy terms of imprisonment.
+The issue has not been settled in Canada against the applicants' interest, althoughthe validity of the applicants' position was questioned in R. v. Robinson; R. v.
+Dolejs (1990), 100 A.R. 26, (1989), 51 C.C.C. (3d) 452 (Alta C.A.).
+24
+
+Reviewability of convictions for indictable offences has been an integralpart of our criminal law system at least since the enactment of the Criminal Codeone hundred years ago. Although a right of appeal is said to be statutory ratherthan inherent, in contrast to review by way of prerogative writs, the right ofappeal against conviction for an indictable offence has long been part of ourstatutory law. It is arguable, but it does not fall to be decided in this case, that theprinciples of fundamental justice in Canada, as they had evolved at the time theCharter was enacted, provide an entitlement to some form of review ofconvictions resulting in imprisonment. Review may take one of a number offorms, as it has historically; it could be by way of prerogative writ or by way ofappeal. It could have threshold leave requirements and its scope could range fromthe limited review of jurisdictional errors to the broader scrutiny of errors of law,or it could encompass a full review of the facts. All that matters in this case, andsolely for the purpose of stating the applicants' case at its highest, is to accept theprinciple of reviewability. At the very least, I think it doubtful that Parliamentcould prevent review of the constitutionality of provisions under which a personwas convicted. If Parliament repealed all appeals from conviction for indictableoffences under the Criminal Code, for example, there would be no statutoryforum in which to argue that the trial was unfair in the constitutional sense. Insuch a case, the words of La Forest J. in Kourtessis and Hellenic Import-ExportCo. Ltd. v. Minister of National Revenue, supra, at pp. 91-92, althoughpronounced in a different context, would be apposite:
+Even before the advent of the Charter, this Court had assertedsome constitutional limits to the power of legislative bodies toinsulate from judicial review decision makers performing certainfunctions under statute; see Crevier v. Attorney General of Quebec,
+
+[1981] 2 S.C.R. 220, and Canada Labour Relations Board v. PaulL'Anglais Inc., [1983] 1 S.C.R. 147. In these Charter days, thismay call for a consideration of the extent to which proceedings thatinvolve the liberty and security of the individual can be insulatedfrom prompt and effective review for constitutionality by the
+
+review was available at that time. In that case, Justice Arbour held,
+
+device of assigning to a superior court judge functions which forcenturies have been performed by inferior court judges subject tojudicial review and which, even today, are still performed byinferior court judges in the case of the most serious criminaloffences. As I earlier mentioned, the judge issuing the warrant isnot really in a position to review for constitutionality at an ex partehearing, and assuming that judge is competent to review thewarrant and the empowering legislation for constitutionality later,the effect, since the judge's decision is unreviewable, is to deprivethe individual of that full measure of constitutional protectionwhich is afforded in a prosecution under the Criminal Code toeven the vilest criminal.
+25
+
+If reviewability, even in some minimum form, of convictions leading toimprisonment does constitute a principle of fundamental justice, then someancillary right to bail pending review would have to follow, if only to prevent thereview from being nugatory.
+
+[62]
+
+Counsel for the applicant submits that Farinacci is authority for his position that
+
+review of Mr. Forster’s designation as a dangerous offender is available in these habeas corpusproceedings. He submits it is Mr. Forster’s only avenue of review, in the absence of a statutoryright of appeal.
+
+[63]
+
+That argument could have been made equally in 1995, when Mr. Forster’s case was
+
+before the Court of Appeal.
+
+[64]
+
+In my opinion, the applicant is trying to do now what was available to him to do at
+
+the prior time , and arguably was done, in so far as the Court of Appeal concluded, “…theevidence was such that (Dilks CCJ) had no alternative but to declare the appellant as dangerousoffender”.
+
+[65]
+
+Consideration of the relief sought by Mr. Forster also supports the conclusion that I
+
+reach on this motion.
+
+He seeks absolute unconditional release from custody – despite his
+
+convictions. When questioned on this, his counsel submits that his reasoning for this is that Mr.
+
+[66]
+
+However, counsel concedes that some form of sentencing hearing would be required.
+
+[67]
+
+Justice Dilks exercised his discretion to impose an indeterminate sentence, “in lieu of
+
+any other sentence that might be imposed for the offence for which Mr. Forster was convicted”.
+(s. 688). The Charter provides broad relief considerations if Mr. Forster was successful on thisapplication.
+
+However, sentencing options are beyond the traditional scope of relief available in
+
+habeas corpus applications.
+DECISION
+
+[68]
+
+I conclude that this is a case where this court should decline to hear this application
+
+for habeas corpus.
+… Only in limited circumstances will it be appropriate for a provincialsuperior court to decline to exercise its habeas corpus jurisdiction. For instance,in criminal law, where a statute confers jurisdiction on a court of appeal to correctthe errors of a lower court and release the applicant if need be, habeas corpus willnot be available… (May v. Ferndale)
+44
+
+[69]
+
+Mr. Forster’s case is another such “instance”.
+
+[70]
+
+For the reasons that I have given, I find that Mr. Forster’s application is an attempt to
+
+circumvent the appeal rights that were available to him, and which he has exercised. For thesereasons, I find that it is plain and obvious that his application cannot succeed.
+
+It has no
+
+possibility of success. Therefore, I exercise this court’s discretion to dismiss it at this stage.
+
+Forster has served more custodial time than he could have been sentenced to originally.
+
+[71]
+
+The respondent’s motion to dismiss the application is granted.
+
+This is not an
+
+Honourable Mr. Justice Gary W. Tranmer
+
+Released: May 11, 2017
+
+appropriate case for an order as to costs although requested by the respondent.
+
+CITATION: Forster v. Canada (Attorney General), 2017 ONSC 2865
+COURT FILE NO.: CR-15-0180
+DATE: 2017 May 11
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+STEVEN FORSTER
+Applicant
+– and –
+THE ATTORNEY GENERAL OF CANADA
+Respondent
+
+HABEAS CORPUS DECISION
+
+Tranmer J.
+
+Released: May 11, 2017
+

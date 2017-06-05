@@ -1,0 +1,102 @@
+SUPERIOR COURT OF JUSTICE – ONTARIO
+BETWEEN:
+ASSIS RODRIGUES
+Plaintiff
+- andJOHN DOE AND PERTH INSURANCE COMPANY
+DefendantsBEFORE:
+
+MASTER M.P. McGRAW
+
+COUNSEL:
+
+Brandt H. ChuFax: (416) 365-7988
+-for the Defendant, Perth Insurance CompanyA. SulemanFax: (416) 661-4377
+-for the Plaintiff, Assis Rodrigues
+
+REASONS RELEASED: May 12, 2017
+Reasons For EndorsementI.
+
+Background
+
+[1]
+This is a motion by the defendant, Perth Insurance Company (the “Defendant”) seekingto compel the plaintiff, Assis Rodrigues to answer six undertakings and one question refused athis examination for discovery held on July 15, 2016.
+
+[2]
+This action arises from a motor vehicle accident which occurred on April 7, 2014 in theTownship of Tosorontio in Simcoe County. Mr. Rodrigues alleges that he was side-swiped by astill unidentified driver causing his vehicle to collide head on with a cement barrier. TheDefendant was the plaintiff’s motor vehicle insurer.
+
+[3]
+
+The plaintiff claims damages in the amount of $1,000,000 with respect to alleged
+
+CITATION: Rodrigues v. Doe et al, 2017 ONSC 2955
+COURT FILE NO.: CV-15-540474
+MOTION HEARD: 20170508
+REASONS RELEASED: 20170512
+
+[4]
+Since this motion deals only with 6 undertakings given at Mr. Rodrigues’ discovery anda lone refusal, and given the seemingly uncontroversial nature of the 7 questions at issue, I urgedcounsel to resolve these issues without the need for further submissions. However, discussions incourt and between counsel outside of court failed to result in an agreement.
+
+[5]
+Shortly after commencing oral submissions, counsel for the plaintiff then agreed toanswer the undertakings given at Questions 1, 2 and 3 (to provide copies of the plaintiff’sBrazilian and Canadian passports). Counsel for the plaintiff further agreed to answer theundertaking given at Question 20 (to produce clinical notes from Dr. Backstein for sleeptreatment) by providing a letter to Defendant’s counsel setting out the steps taken as part of bestefforts to locate Dr. Backstein. Similarly, with respect to the undertaking at Question 28 (toadvise if the information in the investigating officer’s statement was information provided by theplaintiff), counsel agreed to provide a letter to Defendant’s counsel confirming that, given thecircumstances of the accident and his injuries, Mr. Rodrigues does not remember.
+
+[6]
+The remaining outstanding undertaking is related to the refusal. On his examination fordiscovery, Mr. Rodrigues admitted that his cellular phone was in his vehicle at the time of theaccident. When asked, Mr. Rodrigues denied that he was using his phone at the time of theaccident. Counsel for the Defendant requested that Mr. Rodrigues produce the call log for hiscellular phone for the 30 minutes prior to the accident. Counsel for the plaintiff took thisquestion under advisement (Question 33) but undertook to advise whether the plaintiff is willingto provide the call log or if none exists (Question 26).
+
+[7]
+At paragraph 9(i) of the Defendant’s Statement of Defence and Crossclaim datedFebruary 19, 2016, the Defendant alleges that the accident was caused solely by the negligenceof the plaintiff, whose negligence includes “he was dialing or talking on a cellular phone prior toor at the time of the collision.”
+
+[8]
+Counsel for the plaintiff advises that Mr. Rodrigues refuses to produce the call logrecords for his cellular phone. Therefore, the only issue which I must decide on this motion iswhether Mr. Rodrigues should be ordered to do so.
+II. The Law and Analysis
+
+[9]
+
+The parties did not file any written legal submissions.
+
+[10]
+
+Rule 31.06 provides that:
+(1) A person examined for discovery shall answer, to the best of his or her knowledge,information and belief, any proper question relevant to any matter in issue in theaction….
+
+permanent physical, mental and psychological impairments.
+
+[12]
+When I asked counsel for any case law regarding the production of cellular phonerecords in the context of motor vehicle accidents, I was directed to Comisso (Litigation guardianof) v. York (Regional Municipality) Police Services Board, 2010 ONSC 3620. In Comisso, thedefendant alleged that it was possible that the plaintiff was on her cellular phone at the time ofthe collision and requested on discovery that she produce her cell phone records for the date ofthe accident and the phone itself. The plaintiff refused. P. Lauwers J. ordered the plaintiff toproduce the records and the phone itself given that it was a plausible explanation for the accidentand production of the records and the phone would “clear up the mystery” (see para. 4).
+
+[13]
+Counsel for the plaintiff submits that the call log requested by the Defendant is notrelevant given that Mr. Rodrigues denied under oath that he was on his cell phone at the time ofthe accident. The plaintiff submits that there is no evidence that the plaintiff was on his phone atthe time of the collision and that the Defendant’s allegations in this regard are baseless, invasiveand irrelevant. Counsel for the plaintiff concedes that there is no evidence other than Mr.Rodrigues’ denial.
+
+[14]
+In my view, based on the pleadings, the call log records are relevant to a matter at issuein this action, namely, whether Mr. Rodrigues was negligent because he was on his cellularphone at the time of the collision. The Defendant alleges that Mr. Rodrigues was on his phone.
+Mr. Rodrigues denies that he was. As in Comisso, production of the call log would shed light onthis issue and likely resolve it altogether. The Defendant is entitled to this information as part ofits discovery
+
+[15]
+I also reject the submission by counsel for the plaintiff that Comisso is distinguishablegiven that the driver in that case could not remember whether she used her cellular phone at thetime of the accident while Mr. Rodrigues states that he remembers that he did not. This does notalter my conclusion that the call log records are relevant to issues in this litigation.
+
+[16]
+Further, the Defendant’s request is reasonable and proportional as it is limited only tothe call log records and only for 30 minutes prior to the time of the accident. These recordsshould be readily available through the plaintiff’s personal or on-line billing records or throughhis cellular phone service provider.
+
+[17]
+Accordingly, the Defendant’s motion is granted. Mr. Rodrigues shall make best effortsto obtain and produce the call log records for the cellular phone which was in his vehicle at thetime of the accident for the 30 minutes prior to the time of the accident within 60 days of myorder below. To address any privacy issues, subject to further order of the court or consent of theplaintiff, the call log shall only be used for the purposes of further examinations for discovery ordiscussions between the parties. If the call log records need to be filed with the court, they shallbe filed on a sealed basis.
+
+[11]
+Relevance and the scope of discovery were explained and applied comprehensively byPerell J. in Ontario v. Rothmans Inc., 2011 ONSC 2504. In particular, discovery questions mustbe relevant to the issues as defined by the pleadings.
+
+[18]
+
+DispositionOrder to go as follows:
+i.)
+
+ii.)
+
+The plaintiff shall make best efforts to obtain and produce the call logrecords for the cellular phone which was in his vehicle at the time of theaccident for the 30 minutes prior to the time of the accident within 60 daysof this order;subject to further order of the court or consent of the plaintiff, the call logrecords shall only be used for the purposes of examinations for discoveryand discussions between the parties. If the call log records need to be filedwith the court, they shall be filed on a sealed basis.
+
+[19]
+Counsel exchanged costs outlines at the conclusion of the motion. If the parties areunable to agree on the costs of this motion, they may file costs outlines and written costssubmissions not to exceed 2 pages (excluding costs outlines) with me through the MastersAdministration Office on or before June 15, 2017.
+Released: May 12, 2017
+__________________________
+
+Master M.P. McGraw
+
+III.
+

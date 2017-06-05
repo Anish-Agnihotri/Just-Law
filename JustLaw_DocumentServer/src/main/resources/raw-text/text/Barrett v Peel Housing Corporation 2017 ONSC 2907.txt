@@ -1,0 +1,349 @@
+2017 ONSC 2907 (CanLII)
+
+CITATION: Barrett v. Peel Housing Corporation, 2017 ONSC 2907
+COURT FILE NO.: CV-16-522-00
+DATE: 2017 05 16
+SUPERIOR COURT OF JUSTICE – ONTARIO
+
+RE:
+
+Jacqueline BarrettPlaintiff
+
+Peel Housing Corporation, Yvonne Gale, and The Corporation of theRegional Municipality of Peel
+
+DefendantsBEFORE:
+
+Bloom, J.
+
+COUNSEL: Gaetana Campisi for the Moving Parties, Peel Housing Corporationand The Corporation of the Regional Municipality of Peel,Jacqueline Barrett, Responding Party, self-represented,HEARD:
+
+April 12, 2017 and May 9, 2017
+
+ENDORSEMENT
+
+I.
+
+INTRODUCTION
+
+[1]
+
+The Moving Parties seek summary judgment dismissing the action as
+
+against them as disclosing no genuine issue requiring a trial.
+seek security for costs.
+
+Alternatively, they
+
+II.
+
+FACTS
+
+[2]
+
+On September 21, 2010 the Responding Party commenced an action
+
+seeking damages for physical injury resulting from inhaling noxious arsenicfumes seeping from the apartment unit inhabited by the Defendant Gale into herown unit; both units were alleged to be in an apartment building owned by theDefendant, Peel Housing Corporation also known as “Peel Living.”
+
+[3]
+
+The Moving Parties have adduced expert medical evidence that there is
+
+no specific indication in the Responding Party’s medical condition of exposure toarsenic.
+
+Included in this evidence are the reports of Doctor R. Qureshi dated
+
+June 17, 2010 and of Dr. Aaron Thompson dated September 30, 2011; both ofthese reports were produced by the Plaintiff on discovery and are subject to anadmissibility argument by her.
+
+[4]
+
+In answer to the medical evidence relied upon by the Moving Parties, the
+
+Responding Party has not adduced the affidavit evidence of her family doctor, Dr.George D’Onofrio, despite orders by Justices Mackenzie and Barnes to producesuch an affidavit from him and to permit the Moving Parties to cross-examine onit.
+
+Instead she has produced only her own affidavit attaching reports of Dr.
+
+D’Onofrio.
+
+-2-
+
+-3-
+
+The Plaintiff on examination for discovery on July 10, 2014 testified that
+
+she had been coming and going from Jamaica for the past three years; that sheowned a house there; that she owned no residence in Canada; and that shestayed at different places when in Canada. The Plaintiff conceded in oralargument that she is impecunious, and that she does not spend much time inOntario anymore.
+
+[6]
+
+The Moving Parties have accumulated costs in the proceeding at bar of
+
+$70,744.32 on a substantial indemnity basis, and $44,585.94 on a partialindemnity basis.
+III.
+
+ISSUES
+
+[7]
+
+The motion at bar raises two distinct issues: (1) whether the Plaintiff’s
+
+claim raises a genuine issue requiring a trial; and (2) whether an order forsecurity for costs ought to be made against the Plaintiff.
+
+[8]
+
+In addressing the first issue, I must also determine the admissibility of the
+
+reports of Dr. D’Onofrio, Dr. Qureshi, and Dr. Thompson.
+IV.
+
+GOVERNING PRINCIPLES
+
+[9]
+
+I will now set out the governing principles regarding both issues.
+
+[5]
+
+A.
+
+Summary Judgment
+
+[10]
+
+The applicable portion of Rule 20.04 is:
+20.04 (1) REVOKED: O. Reg. 438/08, s. 13 (1).
+(2) The court shall grant summary judgment if,
+(a) the court is satisfied that there is no genuine issue requiring a trial withrespect to a claim or defence; or
+(b) the parties agree to have all or part of the claim determined by a summaryjudgment and the court is satisfied that it is appropriate to grant summaryjudgment. O. Reg. 284/01, s. 6; O. Reg. 438/08, s. 13 (2).
+Powers
+(2.1) In determining under clause (2) (a) whether there is a genuine issuerequiring a trial, the court shall consider the evidence submitted by the partiesand, if the determination is being made by a judge, the judge may exercise any ofthe following powers for the purpose, unless it is in the interest of justice for suchpowers to be exercised only at a trial:
+1. Weighing the evidence.
+2. Evaluating the credibility of a deponent.
+3. Drawing any reasonable inference from the evidence. O. Reg. 438/08, s. 13
+(3).
+
+[11]
+
+In Hryniak v. Mauldin, [2014] S.C.R. 87 at para. 66 Justice Karakatsanis
+
+for the Supreme Court stated:
+
+[66] On a motion for summary judgment under Rule 20.04, the judge should firstdetermine if there is a genuine issue requiring trial based only on the evidencebefore her, without using the new fact-finding powers. There will be no genuineissue requiring a trial if the summary judgment process provides her with theevidence required to fairly and justly adjudicate the dispute and is a timely,affordable and proportionate procedure, under Rule 20.04(2)(a). If there appearsto be a genuine issue requiring a trial, she should then determine if the need for atrial can be avoided by using the new powers under Rules 20.04(2.1) and
+(2.2). She may, at her discretion, use those powers, provided that their use is not
+
+-4-
+
+-5-
+
+[12]
+
+In Combined Air Mechanical Services Inc. v. Flesch 2011 ONCA 764 at
+
+paras. 40 to 58 the Court provided guidance which is applicable to the case atbar:
+2.
+
+The Types of Cases that are Amenable to SummaryJudgment
+
+40 Speaking generally, and without attempting to be exhaustive, there arethree types of cases that are amenable to summary judgment. The first two typesof cases also existed under the former Rule 20, while the third class of case wasadded by the amended rule.
+41 The first type of case is where the parties agree that it is appropriate todetermine an action by way of a motion for summary judgment. Rule 20.04(2)(b)
+permits the parties to jointly move for summary judgment where they agree "tohave all or part of the claim determined by a summary judgment and the court issatisfied that it is appropriate to grant summary judgment." We note, however,that the latter wording - "the court is satisfied" - affirms that the court maintains itsdiscretion to refuse summary judgment where the test for summary judgment isnot met, notwithstanding the agreement of the parties.
+42 The second type of case encompasses those claims or defences that areshown to be without merit. The elimination of these cases from the civil justicesystem is a long-standing purpose well served by the summary judgment rule. Asstated by the Supreme Court of Canada in Canada (A.G.) v. Lameman, 2008
+SCC 14, [2008] 1 S.C.R. 372, at para. 10:
+The summary judgment rule serves an important purpose in the civil litigationsystem. It prevents claims or defences that have no chance of success fromproceeding to trial. Trying unmeritorious claims imposes a heavy price in terms oftime and cost on the parties to the litigation and on the justice system. It isessential to the proper operation of the justice system and beneficial to theparties that claims that have no chance of success be weeded out at an earlystage. Conversely, it is essential to justice that claims disclosing real issues thatmay be successful proceed to trial.
+43 As we shall discuss further below,5 the amended Rule 20 has given themotion judge additional tools to assess whether a claim or defence has nochance of success at trial.
+
+against the interest of justice. Their use will not be against the interest of justice ifthey will lead to a fair and just result and will serve the goals of timeliness,affordability and proportionality in light of the litigation as a whole.
+
+44 Moreover, the amended Rule 20 now permits a third type of case to bedecided summarily. The rule provides for the summary disposition of cases otherthan by way of agreement or where there is "no chance of success". The priorwording of Rule 20, whether there was a "genuine issue for trial", was replacedby "genuine issue requiring a trial". This change in language is more than meresemantics. The prior wording served mainly to winnow out plainly unmeritoriouslitigation. The amended wording, coupled with the enhanced powers under rules20.04(2.1) and (2.2), now permit the motion judge to dispose of cases on themerits where the trial process is not required in the "interest of justice".
+45 The threshold issue in understanding the application of the powers grantedto the motion judge by rule 20.04(2.1) is the meaning to be attributed to thephrase "interest of justice". This phrase operates as the limiting language thatguides the determination whether a motion judge should exercise the powers toweigh evidence, evaluate credibility, and draw reasonable inferences from theevidence on a motion for summary judgment, or if these powers should beexercised only at a trial. The phrase reflects that the aim of the civil justicesystem is to provide a just result in disputed matters through a fair process. Theamended rule recognizes that while there is a role for an expanded summaryjudgment procedure, a trial is essential in certain circumstances if the "interest ofjustice" is to be served.
+46 What is it about the trial process that certain types of cases require a trialfor their fair and just resolution? In Housen v. Nikolaisen, 2002 SCC 33, [2002] 2
+S.C.R. 235, the majority decision of Iacobucci and Major JJ., at para. 14, quotesa passage from R.D. Gibbens in "Appellate Review of Findings of Fact" (199192), 13 Advocates' Q. 445, at p. 446, which refers to the trial judge's "expertise inassessing and weighing the facts developed at trial". The quoted passage states:
+"The trial judge has sat through the entire case and his ultimate judgment reflectsthis total familiarity with the evidence." The passage further notes that the trialjudge gains insight by living with the case for days, weeks or even months. Atpara. 18, Iacobucci and Major JJ. go on to observe that it is the trial judge's
+"extensive exposure to the evidence, the advantage of hearing testimony vivavoce, and the judge's familiarity with the case as a whole" that enables him or herto gain the level of appreciation of the issues and the evidence that is required tomake dispositive findings.
+47 As these passages reflect, the trial judge is a trier of fact who participates inthe dynamic of a trial, sees witnesses testify, follows the trial narrative, asksquestions when in doubt as to the substance of the evidence, monitors the cutand thrust of the adversaries, and hears the evidence in the words of thewitnesses. As expressed by the majority in Housen, at para. 25, the trial judge isin a "privileged position". The trial judge's role as a participant in the unfolding ofthe evidence at trial provides a greater assurance of fairness in the process forresolving the dispute. The nature of the process is such that it is unlikely that thejudge will overlook evidence as it is adduced into the record in his or herpresence.
+
+-6-
+
+48 The trial dynamic also affords the parties the opportunity to present theircase in the manner of their choice. Advocates acknowledge that the order inwhich witnesses are called, the manner in which they are examined and cross examined, and how the introduction of documents is interspersed with andexplained by the oral evidence, is of significance. This "trial narrative" may havean impact on the outcome. Indeed, entire books have been written on this topic,including the classic by Frederic John Wrottesley, The Examination of Witnessesin Court (London: Sweet and Maxwell, 1915). As the author instructs counsel, atp. 63:
+It is, perhaps, almost an impertinence to tell you that you are by no means boundto call the witnesses in the order in which they are placed in the brief.
+It will be your task, when reading and noting up your case, to marshall yourwitnesses in the order in which they will best support your case, as you havedetermined to submit it to the [trier of fact].
+49 In contrast, a summary judgment motion is decided primarily on a writtenrecord. The deponents swear to affidavits typically drafted by counsel and do notspeak in their own words. Although they are cross-examined and transcripts ofthese examinations are before the court, the motion judge is not present toobserve the witnesses during their testimony. Rather, the motion judge is workingfrom transcripts. The record does not take the form of a trial narrative. Theparties do not review the entire record with the motion judge. Any fulsome reviewof the record by the motion judge takes place in chambers.
+50 We find that the passages set out above from Housen, at paras. 14 and 18,such as "total familiarity with the evidence", "extensive exposure to theevidence", and "familiarity with the case as a whole", provide guidance as towhen it is appropriate for the motion judge to exercise the powers in rule20.04(2.1). In deciding if these powers should be used to weed out a claim ashaving no chance of success or be used to resolve all or part of an action, themotion judge must ask the following question: can the full appreciation of theevidence and issues that is required to make dispositive findings be achieved byway of summary judgment, or can this full appreciation only be achieved by wayof a trial?
+51 We think this "full appreciation test" provides a useful benchmark fordeciding whether or not a trial is required in the interest of justice. In cases thatcall for multiple findings of fact on the basis of conflicting evidence emanatingfrom a number of witnesses and found in a voluminous record, a summaryjudgment motion cannot serve as an adequate substitute for the trial process.
+Generally speaking, in those cases, the motion judge simply cannot achieve thefull appreciation of the evidence and issues that is required to make dispositivefindings. Accordingly, the full appreciation test is not met and the "interest ofjustice" requires a trial.
+52 In contrast, in document-driven cases with limited testimonial evidence, amotion judge would be able to achieve the full appreciation of the evidence and
+
+-7-
+
+issues that is required to make dispositive findings. Similarly, the full appreciationtest may be met in cases with limited contentious factual issues. The fullappreciation test may also be met in cases where the record can besupplemented to the requisite degree at the motion judge's direction by hearingoral evidence on discrete issues.
+53 We wish to emphasize the very important distinction between "fullappreciation" in the sense we intend here, and achieving familiarity with the totalbody of evidence in the motion record. Simply being knowledgeable about theentire content of the motion record is not the same as fully appreciating theevidence and issues in a way that permits a fair and just adjudication of thedispute. The full appreciation test requires motion judges to do more than simplyassess if they are capable of reading and interpreting all of the evidence that hasbeen put before them.
+54 The point we are making is that a motion judge is required to assesswhether the attributes of the trial process are necessary to enable him or her tofully appreciate the evidence and the issues posed by the case. In making thisdetermination, the motion judge is to consider, for example, whether he or shecan accurately weigh and draw inferences from the evidence without the benefitof the trial narrative, without the ability to hear the witnesses speak in their ownwords, and without the assistance of counsel as the judge examines the record inchambers.
+55 Thus, in deciding whether to use the powers in rule 20.04(2.1), the motionjudge must consider if this is a case where meeting the full appreciation testrequires an opportunity to hear and observe witnesses, to have the evidencepresented by way of a trial narrative, and to experience the fact-finding processfirst-hand. Unless full appreciation of the evidence and issues that is required tomake dispositive findings is attainable on the motion record - as may besupplemented by the presentation of oral evidence under rule 20.04(2.2) - thejudge cannot be "satisfied" that the issues are appropriately resolved on a motionfor summary judgment.
+56 By adopting the full appreciation test, we continue to recognize theestablished principles regarding the evidentiary obligations on a summaryjudgment motion. The Supreme Court of Canada addressed this pointin Lameman, at para. 11, where the court cited Sharpe J.'s reasonsin Transamerica Life Insurance Co. of Canada v. Canada Life AssuranceCo. (1996), 28 O.R. (3d) 423 (Gen. Div.), at p. 434, in support of the propositionthat "[e]ach side must 'put its best foot forward' with respect to the existence ornon-existence of material issues to be tried." This obligation continues to applyunder the amended Rule 20. On a motion for summary judgment, a party is not
+"entitled to sit back and rely on the possibility that more favourable facts maydevelop at trial": Transamerica, at p. 434.
+57 However, we add an important caveat to the "best foot forward" principle incases where a motion for summary judgment is brought early in the litigation
+
+-8-
+
+process. It will not be in the interest of justice to exercise rule 20.04(2.1) powersin cases where the nature and complexity of the issues demand that the normalprocess of production of documents and oral discovery be completed before aparty is required to respond to a summary judgment motion. In such a case,forcing a responding party to build a record through affidavits and crossexaminations will only anticipate and replicate what should happen in a moreorderly and efficient way through the usual discovery process.
+58 Moreover, the record built through affidavits and cross-examinations at anearly stage may offer a less complete picture of the case than the respondingparty could present at trial. As we point out below, at para. 68, counsel have anobligation to ensure that they are adopting an appropriate litigation strategy. A
+party faced with a premature or inappropriate summary judgment motion shouldhave the option of moving to stay or dismiss the motion where the most efficientmeans of developing a record capable of satisfying the full appreciation test is toproceed through the normal route of discovery. This option is available by way ofa motion for directions pursuant to rules 1.04(1), (1.1), (2) and 1.05.
+
+[13]
+
+Rules 20.02 and 39.01 (4) provide as follows:
+EVIDENCE ON MOTION
+20.02 (1) An affidavit for use on a motion for summary judgment may be madeon information and belief as provided in subrule 39.01 (4), but, on the hearingof the motion, the court may, if appropriate, draw an adverse inference from thefailure of a party to provide the evidence of any person having personalknowledge of contested facts. O. Reg. 438/08, s. 12.
+(2) In response to affidavit material or other evidence supporting a motion forsummary judgment, a responding party may not rest solely on the allegationsor denials in the party’s pleadings, but must set out, in affidavit material or otherevidence, specific facts showing that there is a genuine issue requiring atrial. O. Reg. 438/08, s. 12.
+39.01
+Contents — Motions
+(4) An affidavit for use on a motion may contain statements of the deponent’sinformation and belief, if the source of the information and the fact of the beliefare specified in the affidavit. R.R.O. 1990, Reg. 194, r. 39.01 (4).
+B. Security for Costs
+
+[14]
+
+Rule 56.01 addresses security for costs:
+
+-9-
+
+- 10 -
+
+56.01 (1) The court, on motion by the defendant or respondent in a proceeding,may make such order for security for costs as is just where it appears that,
+(a) the plaintiff or applicant is ordinarily resident outside Ontario;
+….
+(c) the defendant or respondent has an order against the plaintiff or applicantfor costs in the same or another proceeding that remain unpaid in whole or inpart;
+….
+(e) there is good reason to believe that the action or application is frivolousand vexatious and that the plaintiff or applicant has insufficient assets inOntario to pay the costs of the defendant or respondent; or
+(f) a statute entitles the defendant or respondent to security for costs. R.R.O.
+1990, Reg. 194, r. 56.01 (1).
+(2) Subrule (1) applies with necessary modifications to a party to agarnishment, interpleader or other issue who is an active claimant and would, ifa plaintiff, be liable to give security for costs. R.R.O. 1990, Reg. 194,r. 56.01 (2).
+
+[15]
+
+In a leading textbook on civil procedure, Paul M. Perell and John W.
+
+Morden, The Law of Civil Procedure in Ontario, 2d ed (Markham, Ontario:
+LexisNexis Canada Inc., 2014) at paras. 10.182 to 10.188 the learned authorsset out the following principles governing the application of Rule 56.01:
+10.182 On a motion for an order for security for costs, the initial onus is on theparty moving for security to show that the other party falls within one of thecircumstances for which an order may be made; then the responding party mayavoid the order by showing that security is unnecessary because it has sufficientexigible assets in Ontario or that is should be permitted to proceed to trial despiteits inability to pay costs.
+10.183 On a motion for security for costs, the court has a broad discretion indeciding whether ordering security for costs is just in the circumstances.
+….
+
+WHERE AVAILABLE
+
+10.185 The merits of the plaintiff’s case is a relevant factor in the exercise of thecourt’s discretion to make an order for security for costs. If the plaintiff shows areal possibility of success, then the court may conclude in the circumstances ofthe case, justice demands that he or she not be required to post security. Otherrelevant factors include…the likelihood that an order to post security will impedethe plaintiff from pursuing his or her claim. …
+10.186 A party may rely on his or her impecuniosity as a ground to resist amotion for security for costs… Impecuniosity includes the inability to raisesufficient funds for the purposes of litigation, including any obligation to postsecurity for costs. Where impecuniosity is shown, to avoid having to post securityfor costs, the plaintiff needs only to demonstrate that his or her claim is notplainly devoid of merit. Conversely, where the plaintiff fails to show that he orshe is impecunious, then to avoid posting security, he or she will have todemonstrate a stronger case on the merits or some other reason to justify thecourt not ordering that security be posted.
+….
+10.188 A litigant who relies on impecuniosity bears the onus of proof on this pointand must do more than adduce some evidence of impecuniosity and must satisfythe court that he or she is genuinely impecunious with full and frank disclosure ofhis or her financial circumstances. There is a high evidentiary burden todemonstrate impecuniosity, and if full disclosure is not made, impecuniosity willnot be a factor in the exercise of the court’s discretion.
+
+V.
+
+APPLICATION OF GOVERNING PRINCIPLES TO CASE AT BAR
+
+[16]
+
+I will address the first issue, whether the Plaintiff’s claim raises a genuine
+
+issue requiring a trial.
+
+[17]
+
+The Plaintiff relies upon the reports of Dr. D’Onofrio to establish her injury
+
+by noxious arsenic fumes. The Moving Parties argue that those reports areinadmissible because they were denied the right to cross-examine Dr. D’Onofrioin accordance with the orders of Justices Mackenzie and Barnes.
+
+- 11 -
+
+- 12 I find that the reports of Dr. D’Onofrio are inadmissible. They cannot be
+
+relied upon by the Plaintiff; allowing her to so would be to flout the orders ofJustices Mackenzie and Barnes.
+
+[19]
+
+Further, I also rely upon Rule 20.02 (1) to draw an adverse inference
+
+against the Plaintiff based on her failure to provide the evidence of Dr. D’Onofrio.
+The inference I draw is that his evidence would not support the Plaintiff’s positionon the summary judgment motion.
+
+[20]
+
+The Plaintiff argues that I must treat the reports of Dr. Qurershi and Dr.
+
+Thompson in the same manner as I have her affidavit evidence of the reports ofDr. D’Onofrio.
+
+I disagree. The reports of Dr. Qurershi and Dr. Thompson were
+
+produced to the Moving Parties by the Plaintiff on discovery; they were nottendered in evidence on the motion in a manner breaching a court order so as torender them inadmissible. Moreover, because they were provided by the Plaintiffon discovery, I do not draw an adverse inference from the Defendants’ failure toproduce affidavit evidence from the two doctors.
+
+[21]
+
+Since she has tendered no admissible medical evidence to support her
+
+claim, there is no genuine issue requiring a trial of the Plaintiff’s action.
+Moreover, the reports of Dr. Qureshi and Dr. Thompson are consistent with the
+
+[18]
+
+- 13 -
+
+supports the finding that there is no genuine issue requiring a trial.
+
+[22]
+
+In accordance with the principles reviewed above, the Plaintiff was
+
+obligated to put her best foot forward on this motion, and could not sit back,relying on the possibility that her factual position would improve at trial.
+
+[23]
+
+I, therefore, grant the summary judgment motion, and dismiss the
+
+Plaintiff’s action as against the Moving Parties.
+
+[24]
+
+In view of that finding, I need not address the motion for security for
+
+costs.
+VI.
+
+COSTS
+
+[25]
+
+If the parties cannot agree on costs, I will receive written submissions of
+
+no more than 3 pages, excluding a bill of costs. The Moving Parties are to serveand file their submissions within two weeks of release of this endorsement; theResponding Party is to serve and file her submissions within two weeks ofservice of those of the Moving Parties. There shall be no reply.
+
+___________________________
+Bloom, J.
+
+absence of injury caused by exposure to arsenic; this evidence thus also
+
+DATE: May 16, 2017
+
+- 14 -
+
+SUPERIOR COURT OF JUSTICE –
+ONTARIO
+
+RE:
+
+Jacqueline BarrettPlaintiffv.
+Peel Housing Corporation, YvonneGale, and The Corporation of theRegional Municipality of Peel
+
+DefendantsBEFORE:
+
+Bloom, J.
+
+COUNSEL: Gaetana Campisi for theMoving Parties, Peel HousingCorporation and TheCorporation of the RegionalMunicipality of Peel,Jacqueline Barrett,Responding Party, selfrepresented,
+
+ENDORSEMENT
+
+Bloom, J.
+
+CITATION: Barrett v. Peel Housing Corporation, 2017 ONSC 2907
+COURT FILE NO.: CV-16-522-00
+DATE: 2017 05 16
+
+-2-
+
+DATE: May 16, 2017
+

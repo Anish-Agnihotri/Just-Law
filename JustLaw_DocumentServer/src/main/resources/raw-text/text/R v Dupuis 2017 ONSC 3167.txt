@@ -1,0 +1,909 @@
+CITATION: R. v. Dupuis, 2017 ONSC 3167
+COURT FILE NO.: 7639/16
+DATE: 2017-05-24
+
+SUPERIOR COURT OF JUSTICE
+B E T W E E N:
+
+HER MAJESTY THE QUEEN
+) J. Chapman, Federal ProsecutorRespondent )
+- and )
+DANIEL LEO MICHAEL DUPUIS
+) D. Orazietti, Q.C.
+Applicant )
+) HEARD: April 18 and 19, 2017
+
+RASAIAH J.
+REASONS ON APPLICATION
+
+OVERVIEW
+
+[1]
+
+Daniel Leo Michael Dupuis (“Mr. Dupuis”) was charged with three counts: possession ofmarihuana for the purpose of trafficking; possession of cannabis resin for the purpose oftrafficking; and possession of the proceeds of crime exceeding $5,000.
+At thecommencement of the trial, Mr. Dupuis entered pleas of not guilty to all three counts.
+
+[2]
+
+On consent, Mr. Dupuis’ application filed September 30, 2016 was marked abandoned.
+
+[3]
+
+A voir dire was required and held in respect of Mr. Dupuis’ remaining application, datedApril 13, 2017, wherein he sought an order excluding evidence seized from his residence
+(“the residence” or “the scene”) on January 19 and 20, 2015.
+
+ONTARIO
+
+[4]
+
+The issue was the search of the second floor of the residence by the police, who, onJanuary 19, 2015, had responded to a 911 call to the residence. The residence had beeninvaded, during which invasion Mr. Dupuis was assaulted and robbed.
+
+[5]
+
+Approximately an hour and a half after police had arrived on scene, the police decided toconduct a clearing search of the second floor of the residence. The stated purpose of thesearch was to clear for possible suspects and or injured parties. During the clearing, thepolice observed a large amount of marihuana located on top of a duffle bag in Mr.Dupuis’ bedroom in front of a dresser.
+
+[6]
+
+The issuesviolation of44, Sched.
+pursuant to
+
+[7]
+
+The Crown conceded that if this search was found to be a violation of Mr. Dupuis’ rights,and the evidence excluded, the subsequent warrant that was obtained and executedJanuary 20, 2015, is affected. In particular, if the statements in the information to obtain
+(“ITO”) relating to the observations made by the officers during this search of the secondfloor were excised, the ITO would be insufficient to sustain the warrant.
+
+to be determined are whether or not this search of the second floor was asection 8 of the Charter of Rights and Freedoms, R.S.C. 1985, App. II, No.
+B, Pt. I, s. 8 (“Charter”), and if so, whether the evidence should be excluded24(2) of the Charter.
+
+POSITIONS:
+Defence’s Position
+
+[8]
+
+I summarize the defence’s position as follows:
+(a)
+
+The search of the second floor was a breach of section 8 of the Charter. Itwas not justifiable in the circumstances of this case for purposes of officersafety, or public safety, or the investigation.
+The officers were notlawfully on the second floor.
+
+(b)
+
+While not going as far as to suggest that the officers’ decision to searchthe second floor represented deliberate and wilful misconduct, defencesubmitted that the search was either: reflective of substandard police work
+(that was a pattern in this case); or a gross exaggeration of safetyconcerns; or a ruse to further a drug investigation under the guise of asafety search.
+
+(c)
+
+The breach was significant, namely, it was a warrantless search of aprivate dwelling which draws a high expectation of privacy; the impact ofthe breach was significant, leading to Mr. Dupuis being charged withserious offences.
+
+(d)
+
+The defence submits that even if the search was not found to be a ruse, theofficers in question ought to have known the well-established important
+
+limits of their powers and searches of private dwellings. They werenegligent (not knowing or recognizing longstanding settled limits); andthey failed to exercise required due diligence in the exercise of theirpowers (to conduct a careful assessment of the circumstances and consideralternatives in light of the power they seek to exercise and the right theymay interfere with as a result).
+(e)
+
+The evidence arising from the search of the second floor ought to beexcluded.
+
+(f)
+
+If the search of the second floor is found to be a violation, and theevidence excluded, the search warrant subsequently obtained does notsurvive and the evidence found pursuant to the execution of the warrant,on the basis of warrantless search, should also be excluded.
+
+(g)
+
+On the topic of the substandard conduct of the officers involved in thiscase, the defence pointed to the preparation of the ITO, and the obtainingof a telewarrant as an extension of, or part of, the pattern of failure to dulyexercise their duties and responsibilities as required.
+
+Crown’s Position
+
+[9]
+
+I summarize the Crown’s position as follows:
+(a)
+
+There was no breach committed. The police entry on to the second floorwas conducted to clear the residence for safety concerns in the course ofan investigation which arose out of a 911 call that turned out to be a homeinvasion, robbery, and assault scene. The police were lawfully placed atthe residence, responding to and exercising their power to investigate aserious crime.
+
+(b)
+
+During the course of conducting a lawful clearing and investigation, thepolice stumbled over the marihuana and it was observed in plain view.
+
+(c)
+
+The police did not search the second floor in furtherance of a druginvestigation, and there was no evidence to support this.
+
+(d)
+
+Even if the search was a breach, there was no lack of good faith on thepart of the officers; the officers believing that they had a duty to search thesecond floor in the circumstances, otherwise they may have beenconsidered negligent if there had been an injured person or suspectupstairs.
+
+(e)
+
+The clearing search was brief and focused, as a legitimate part of theirhome invasion investigation. The marihuana was in plain view.
+
+(f)
+
+The ITO that was prepared and the telewarrant that was obtained were notquestionable; there was nothing wrong with the ITO and nothing wrongwith using the telewarrant system, based on the evidence.
+
+(g)
+
+The evidence seized ought not to be excluded.
+
+EVIDENCE
+
+[10]
+
+The Crown called three witnesses on the voir dire and submitted four exhibits: the ITO;the telewarrant; the report to justice; and a handwritten summary of the evidence seized.
+
+[11]
+
+The three witnesses were: Sergeant Tessier (“Sgt. Tessier”); Provincial ConstableNicholas Beith (“P/C Beith”); and Provincial Constable Daniel Proulx (“P/C Proulx).
+
+[12]
+
+Sgt. Tessier is employed by the Ontario Provincial Police (“OPP”), East Algoma, whichencompasses three detachments, namely Blind River, Thessalon and Elliot Lake. He is aplatoon sergeant deployed to the Thessalon Detachment. He is responsible for BlindRiver and Thessalon, and sometimes for Elliot Lake. He stated he had six months left toretirement, after 30 years of service. On January 19, 2015, Sgt. Tessier was workingnight shift as the supervisor on duty at the Blind River detachment, responsible for BlindRiver and Thessalon. He became involved in the investigation and was the officer whomade the decision to do the clearing search. He was the first officer to enter on to thesecond floor of the residence.
+
+[13]
+
+P/C Beith is an OPP constable assigned to the Blind River detachment. On January 19,2015, he was also on duty and became involved in the investigation involving Mr.Dupuis. He was the first officer to arrive on the scene. He was present for the clearingsearch and he also entered on to the second floor of the residence, after Sgt. Tessier.
+
+[14]
+
+P/C Proulx is an OPP constable who was based out of the Elliot Lake Detachment at thetime of the subject investigation. In January of 2015, he was assigned as a detective, druginvestigator. On January 20, 2015 he was asked to, and prepared the ITO to obtain aControlled Drugs and Substances Act telewarrant for the residence as a result of Sgt.
+Tessier’s and P/C Beith’s observations made during the second floor clearing.
+
+[15]
+
+Mr. Dupuis did not call any witnesses or file any evidence.
+
+January 19, 2015
+Sgt. Tessier
+
+[16]
+
+At 2211hrs Sgt. Tessier heard a dispatch over the air, advising Blind River officers thatthere was some type of fight at 8 Nadon Street in Blind River. At first, because he knewhe had members responding, Sgt. Tessier continued with his duties as supervisor at theBlind River detachment.
+
+[17]
+
+After officers arrived at the scene, Sgt. Tessier learned that the incident was not a fight. Itwas a home invasion, assault and robbery. In particular, over the air, he was asked byP/C Beith to BOLO (be on the lookout) for a dark older pick-up truck with two or moreoccupants; that the culprits had robbed the victim; and fled with the victim’s fanny packthat had approximately $800 cash in it. After hearing this, he left the Blind Riverdetachment and proceeded to the scene.
+
+[18]
+
+Sgt. Tessier arrived at the scene at 2224 hours. He recognized the residence. He enteredthrough the front door. He observed that P/C Graham and P/C Beith were inside theresidence. Both officers briefed him as to what they had been told had occurred. Sgt.
+Tessier saw the victim whom he recognized as Mr. Dupuis, crouched in a chair. Heobserved that Mr. Dupuis was in quite a bit of distress and pain, and that he was bleeding.
+
+[19]
+
+Sgt. Tessier described a “myriad” of people being at the scene which he particularized as:
+the two officers; Mr. Dupuis; two adult men that he did not recognize or know and oneadult female who he did not know either. Everyone was “shooting information at himbasically at same time as to what had occurred, other than Mr. Dupuis whom he said wasunable to communicate.
+
+[20]
+
+Sgt. Tessier initially stated that he was informed that there were two or more individualsthat had forced their way into the residence but then corrected his evidence and stated thathe was informed by the witnesses that “two individuals had come into the residence”;
+“that there were two individuals in the house that had come in the house and attacked Mr.Dupuis”.
+
+[21]
+
+Sgt. Tesser learned that one of the male witnesses was a tenant in the basement apartmentof the residence (“the tenant”). The tenant told him that he heard the commotion from theonset and heard all of the fighting that was going on upstairs. As a result, the tenant cameupstairs from his apartment (which had rear access, meaning that he would have had towalk around from the back of the building to the front).
+
+[22]
+
+The second male witness informed Sgt. Tessier that he and his wife (the female at theresidence) were walking by on the street, returning to their residence located nearby.
+They too observed commotion in the residence.
+This second male witness (“theneighbour”) jumped in to assist.
+
+[23]
+
+Sgt. Tessier learned that when the tenant and the neighbour became involved, one of thetwo perpetrators immediately escaped and fled down the street. The second perpetratorwas grabbed by the neighbour and the two of them became involved in an altercation.
+The neighbour had the perpetrator in a headlock and he was punching the perpetrator,who was wearing a black toque and some type of face covering at the time. He learnedthat during the altercation injuries were sustained by this perpetrator. There was blood onthe neighbour’s ring and hand; blood on the wall; and blood on a calendar - all from theperpetrator. The perpetrator’s black toque came off during the altercation and heobserved it near where Mr. Dupuis was sitting.
+
+[24]
+
+He also learned that the altercation led to the front steps on the front porch of theresidence. It was at this time, this second perpetrator fled. The witnesses tried to pursuethe second perpetrator. They observed that: he crossed the road, went on to CausleyStreet (which is Highway 17); was met by a pick-up truck; and boarded the vehicle. Thenthe vehicle fled westbound.
+
+[25]
+
+It took Sgt. Tessier approximately fifteen minutes to gather of the above information andall he needed to know regarding what had transpired, to determine the next step to take assupervisor. The ambulance had arrived sometime during this time frame.
+
+[26]
+
+Sometime between the first twenty and twenty five minutes on scene, Sgt. Tessierbecame the lone officer in the residence : the ambulance left with Mr. Dupuis to take himto the hospital; P/C Graham at Sgt. Tessier’s direction took the two male witnesses to thestation for interviews and processing for evidence; Sgt. Tessier released the femalewitness from the scene and directed P/C Beith at P/C Beith’s request to follow up on avehicle P/C Beith had seen earlier in his shift that matched the description of the pick-uptruck.
+
+[27]
+
+When he was by himself in the residence, Sgt. Tessier testified that he knew he wasdealing with a “benchmark crime”. He described this as meaning “a criteria wherecertain offences are marked to be more serious in nature…often norms would requireadditional resources and additional notifications to become part of the process… robberyand home invasion just by their nature are extremely serious crime”.
+
+[28]
+
+Sgt. Tessier testified that because he considered that he was supervising a bench markcrime he wanted to make sure it was being investigated properly. He was of the view thatthey (police) had possession of a serious crime scene and were lawfully positioned in theresidence.
+After everyone left, Sgt. Tessier stated he was holding the scene forinvestigative steps. He began to draw a lay out of the house downstairs and to recordthings he was observing on the main floor. This took him about five to ten minutes.
+
+[29]
+
+During his time in the residence, Sgt. Tessier also made calls. One call was to hiscolleague Det. Sgt. Pellerin. The stated purpose of the call was to brief the Det. Sgt. andto answer any questions he would have had regarding the occurrence. Sgt. Tessier statedthat the Det. Sgt. was very thorough and they had a checks and balances that they gothrough to make sure he had not missed anything that needed to be done immediately.
+He believed the call took about ten minutes. He also called for an ident officer to attendthe scene. This was at 2320 hours, and after his call to the Det. Sgt. He had also made afew attempts to contact the detachment commander and Inspector.
+
+[30]
+
+Sgt. Tessier stated that at some point, while making his notes, after things “kind ofslowed down”, he had time to reflect. He said the scene had been dynamic and chaotic.
+He now had time to question what he had done and what had he missed. It was duringthis reflection that he realized that he had received information on his way to the scenethat there were “two or more individuals involved”. He knew the witnesses had observedtwo individuals in the residence on the main floor when they intervened. Sgt. Tessier
+
+stated that he became concerned because while he knew two individuals were found inthe residence when the witnesses arrived, he had no information as to how many actuallycame into the residence when the occurrence started. He stated that he also started torealize the residence was a two storey home; that no one had been upstairs since theneighbour had arrived; and that he had no information from Mr. Dupuis about theupstairs. He became concerned another could still have been upstairs… a culprit oranother injured person. He came to this realization shortly before P/C Beith’s arrivalback to the scene which arrival had been at 2345 hours.
+
+[31]
+
+Sgt. Tessier acknowledged that he had made notes of observations of a hash pipe and astrong odour of marihuana in the residence. He said he could have made more notes thanhe did, but he was not concerned with casual use by Mr. Dupuis that he observed on themain floor at the time.
+
+[32]
+
+Sgt. Tessier testified that he had known Mr. Dupuis for twenty seven years and knew thathe was a “dabbler”. In wanting to be completely 100% honest with the court he statedthat he had it in his mind from the onset that the home invasion was a result of someillicit activity involving Mr Dupuis in the drug trade.
+
+[33]
+
+Sgt. Tessier initially testified that he recalled that he asked P/C Beith to return to thescene. Then after, he said he was not certain and that he may have just waited for him toreturn. He said he did not go up to the second floor before P/C Beith arrived based onofficer safety issues. He stated he had resources that were floating around the town andgiven safety and his training stated “that if you are going to go up into an unknown areaand have resources why would you go up there alone”. So for officer safety reasons hewaited for another officer to be present.
+
+[34]
+
+When P/C Beith came back, Sgt. Tessier stated that he immediately informed P/C Beithof his thoughts and told him the reason why he was there, namely that the second floorhad not been cleared and that is what they were going to do. He proceeded upstairsimmediately followed by P/C Beith to the landing. To get upstairs Sgt. Tessier stated thatone had to take a few steps up to a landing and then from there go the rest of the wayupstairs. He stated that P/C Beith remained on the landing to “watch his back” whilemaintaining observation at the lower level. Sgt. Tessier proceeded up the stairs. Sgt.
+Tessier had no recollection as to whether or not he hollered before or as he went up thestairs and agreed it would have been something he should have done. He stated that hedid not and would not have taken his weapon out for the type of search he was doing. Atthis point in time Sgt. Tessier stated he was considering, in his mind, that he was stillconducting a home invasion investigation. His sole purpose in going upstairs was tomake sure there was no one else in residence involved in this home invasion, or no oneelse, injured.
+
+[35]
+
+When he arrived at the top of the stairs Sgt. Tessier saw a bathroom on the right at the topof stairs and took a quick peek. This room was easy to clear. On the left he saw anotherdoorway and tried to activate the light switch but it did not work. As a result, he
+
+[36]
+
+The next space he described as “basically a bedroom setting”. In this space to hisimmediate left was a tall boy dresser full of stuff on the top; there was a bed on his right;at the opposite corner there was another dresser; there was a fan on floor; and in front ofthe tall boy immediately as he breached the door of this space there was black duffle bagon the floor in front of the tall boy. On top of the bag he observed the marihuana. Helooked a little closer at it. He said he didn’t focus too long on that because he had to clearthe rest of the room because the room had what he described as a kiddie corner to the left.
+He stated that he had to step beyond the duffle bag in order to see around this kiddiecorner to see what was back there, so he stepped over the bag and looked down thehallway to satisfy himself no one else up there. Based on when P/C Beith arrived, thisclearing he believed occurred at 2346 hours or 2347 hours because it took only a minuteto complete.
+
+[37]
+
+He did not make any notes on how he and P/C Beith proceeded up to the second floorbecause they were well known tactics they were engaging in.
+
+[38]
+
+Sgt. Tessier’s notes leading up to 2345 hours, had no entries related to officer safety.
+
+[39]
+
+When he came downstairs, Sgt. Tessier testified that he told P/C Beith that there was noone up there, but that there was a substantial amount of marihuana on top of a duffle bag.
+He testified that he was now realizing he had two crime scenes, one dealing with a homeinvasion and one dealing with a substantial amount of marihuana, which is a druginvestigation.
+
+[40]
+
+Sgt. Tessier called the Det. Sgt. after the clearing to tell him about the marihuanadiscovery. Based on Det. Sgt. Pellerin’s advice and expertise, he was advised by him thathe could take the drugs based on plain view doctrine but directed him not to take themuntil ident processed the scene.
+
+[41]
+
+Sgt. Tessier also telephoned Staff Sgt. Riopel after he and P/C Beith cleared the secondfloor.
+
+[42]
+
+Sometime later, Sgt. Tessier spoke to P/C Bertelson on the telephone, who advised thathe was the ident officer and that he would be attending within the next thirty minutes.
+Sgt. Tessier remained at the residence doing scene security and making some notes untilrelieved at 0256 hours. At this time, he returned to the attachment to attend toadministrative duties.
+
+[43]
+
+When asked about grounds for a warrant, Sgt. Tessier expressed that after ident hadattended the residence and interviews had been completed he believed a warrant couldhave issued from the residence based on the evidence he observed on the main floor.
+
+[44]
+
+Sgt. Tessier agreed, as an officer with 30 years’ experience, officer safety should be thefirst issue to come to his mind, and that officer safety is “preached” and is “number one”.
+
+activated his flash light. There was some ambient light coming from the bathroombecause that light was working. He described the house as not being a very big house.
+
+[45]
+
+Sgt. Tessier explained that the failure to address officer safety prior to the search was anomission on his part.
+
+[46]
+
+P/C Beith identified the scene as 14 Nadon Street, Blind River, Ontario. He arrived onscene at 2211 hours. He stated that he was initially advised the incident was a homeinvasion and assault.
+
+[47]
+
+He entered the front door of the residence at which time he saw Mr. Dupuis on a couch,hunched over the arm. He saw one female and two males. He determined they werewitnesses. He checked on Mr. Dupuis’ injuries. He described Mr. Dupuis as being inobvious pain. At this time, the ambulance was on the way.
+
+[48]
+
+P/C Beith was advised by one of the witnesses that there were two individuals observed;two younger native males; approximately 25 years of age wearing dark clothing; and thatone was wearing a toque.
+
+[49]
+
+The tenant advised P/C Beith that he heard commotion and came upstairs to see what wasgoing on. P/C Beith reported the tenant as stating that he, the tenant, hit one of thesuspects and drew blood, which blood hit the wall; and the altercation caused this suspectto lose his toque.
+
+[50]
+
+P/C Beith stated that the other male, the neighbour, told him that he lived across thestreet, and that while he was letting his German shepherd dog out, he saw commotion inthe residence and went over to see what was going on. The neighbour saw two malesleave the scene; run out of the residence; cross Causley Street and get into an old Ford150 pick-up truck.
+
+[51]
+
+Shortly after P/C Beith arrived on scene, paramedics arrived, as well as P/C Graham andSgt. Tessier. He did not have arrival times for any of the foregoing because he was moreconcerned with Mr. Dupuis and his injuries at the time.
+
+[52]
+
+P/C Beith left the scene at 2235 hours, to follow-up on a vehicle he had observed earlierin his shift that matched the description of the suspect vehicle. This lead did not provefruitful. He cleared that follow-up investigation at 2325 and returned to the residencewhere Sgt. Tessier was holding the scene.
+
+[53]
+
+On his return, Sgt. Tessier advised P/C Beith that he wanted assistance to clear the housebecause no one had properly cleared the house; to ensure that there were no furthersuspects in the house.
+
+[54]
+
+P/C Beith stated that Sgt. Tessier proceeded to go up the stairs; that there was a smallhallway to go up the stairs; that he (P/C Beith) partially proceeded to go up while Sgt.
+Tessier went through and up. He stayed on the landing because it appeared to him therewas not a whole lot of room, and he wanted to remain where he was, in case anyone elsecame into the residence (because they were holding the house). A very short time after
+
+P/C Beith
+
+[55]
+
+Upstairs P/C Beith observed two rooms, a bathroom and a bedroom. The bedroom was
+“l-shaped” with a bed to the right and a dresser to the left against the wall. Beside thedresser was a little hallway. In front of the dresser he observed the black duffle bag withbags of vacuum packed Ziploc bags of marihuana. He did not know how many bagsthere were and would not have been able to say without moving it. At this time he statedhis main focus was still the home invasion.
+
+[56]
+
+The duffle bag was left in place so it could be photographed by ident.
+
+[57]
+
+At 2350 hours P/C Beith left the residence to go to the detachment to prepare notes and toconduct checks on the computer system.
+
+[58]
+
+On cross-examination, when he was asked to confirm that he was told that there had onlybeen two individuals in the house, P/C Beith answer included that they were not sure ifany more suspects were involved; they were not able to confirm this with the accusedbecause he was winded from the assault and in obvious pain; and he could not assume.
+He acknowledged that it was true that the witnesses reported seeing two males butanswered that the witnesses had arrived on scene after the altercation had started.
+
+[59]
+
+P/C Beith agreed that neither he nor Sgt. Tessier had any evidence or indication that therewas in fact anyone else in the house. P/C Beith stated it was “an assumption made forofficer safety” and “they do not know until they clear a house”. He referred to histraining and a “rule” that “there is always one plus one”. They wanted to make sure, sothey assumed and did what they had to do.
+
+January 20, 2015
+P/C Beith
+
+[60]
+
+At 0035 hours P/C Beith attended back at the scene with P/C Graham to bring eitherrefreshments or investigative items to Sgt. Tessier (he was not sure which one).
+
+[61]
+
+P/C Beith left the residence to attend the Blind River District Hospital. He arrived thereat 0046 hours where he was directed to Mr. Dupuis.
+
+[62]
+
+At 0055 hours he placed Mr. Dupuis under arrest. At 0056 hours he read Mr. Dupuis hisrights to counsel. Mr. Dupuis stated that he understood; wanted to speak with lawyer;and requested duty counsel. At 0057 hours he then read Mr. Dupuis a caution. Mr.Dupuis stated that he understood; said “nope” to wanting to say anything to answer to thecharges.
+
+Sgt. Tessier went up: Sgt. Tessier came back down; advised him that no one else was inthe residence; and advised him that he saw a duffle bag containing Ziploc bags containinga large quantity of marihuana bud that was in plain view. P/C Beith then stated that heproceeded to go upstairs to double check, to make sure Sgt. Tessier did not miss anyonebecause “two sets of eyes are better than one”.
+
+[63]
+
+Hospital staff was ready to release Mr. Dupuis at 0105 hours, so he transported him toand arrived at the detachment at 0108 hours where he lodged him in cell one. Whiledoing so, P/C Graham attempted to contact duty counsel and he assisted with that at 0120
+hours. At 0123 hours he began preparing to interview Mr. Dupuis who provided noinformation about the drug allegations, and with respect to the home invasion stated that
+“it was two native males who said let’s just kill him”.
+
+[64]
+
+At 0210 hours, Mr. Dupuis was released on a promise to appear and P/C Graham tookphotos of his injuries: scrapes on both arms, cuts to the face and scrapes on his back area.
+A medical release form was signed by Mr. Dupuis for the home invasion investigation.
+
+[65]
+
+At 0232 hours P/C Beith gave Mr. Dupuis a courtesy ride to a neighbour’s residencewhile the scene was being processed. At 0242 hours P/C Beith went back to thedetachment and dropped off P/C Graham.
+
+[66]
+
+At 0450 hours, P/C Beith seized the marihuana after the scene was completely processedby P/C Bertelson under the direction of Det. Sgt. Pellerin. He weighed the marihuana at0651 hours and the approximate weight was 1260 grams.
+
+P/C Proulx
+
+[67]
+
+P/C Proulx who was assigned as a detective, drug investigator, received a message fromDet. Sgt. Pellerin seeking assistance for the preparation of a CDSA warrant for theresidence. P/C Proulx left Elliot Lake at 0840 hours and arrived in Blind River at 0918
+hours.
+
+[68]
+
+After arriving in Blind River, P/C Proulx met with P/C Beith and obtained details fromP/C Beith regarding the assault and home invasion. This information included: that whileclearing for possible suspects, Sgt. Tessier saw a black bag on the floor of the upstairsbedroom; that the bag was open; that there were several clear bags containing green leafysubstance; and that a closer look revealed it was marihuana.
+
+[69]
+
+Thereafter P/C Proulx obtained more details as to what was observed, looked at RecordsManagement System (“RMS”) reports, reviewed officer notes, and made RMS queriesregarding Mr. Dupuis. In addition, he reviewed a past warrant from November of 2009
+targeting Mr. Dupuis, which warrant had been executed at the residence; and a CPIC
+check for Mr. Dupuis.
+
+[70]
+
+P/C Proulx prepared the ITO to obtain the CDSA warrant and submitted it by facsimile, at1657 hours, to the telewarrant centre in Oshawa. The ITO took time to prepare with allthe steps he had to take, including the typing portion; and he wanted to make sure it wasin proper order. By the time he completed it, there was no time to drive to Sault Ste.
+Marie to obtain the warrant in person. Police were holding the residence and had officersat the residence as a result.
+
+[71]
+
+Due to the number of requests and the time the Oshawa telewarrant centre was closing, hehad to resubmit to the Newmarket centre.
+
+[72]
+
+At 2205, P/C Proulx received the granted telewarrant.
+
+[73]
+
+P/C Proulx agreed that the grounds outlined in the ITO to support the issuance of thewarrant were based on the observations reported to him by Sgt. Tessier and P/C Beith.
+
+[74]
+
+P/C Proulx reiterated that he understood the marihuana seized on January 19, 2015 was inplain view and that the officers were on the property for the home invasion and assault.
+He agreed that the officer would not be permitted to search the residence for drugs butthat they could seize what was in plain view. He maintained his understanding that theofficers were on the second floor of the home to search for suspects. He did not agreethat the search was a ruse to search for drugs and reiterated that the information hereceived to ground the telewarrant was obtained from the officers. He believed what theofficers told him; that they went on to the second floor for officer safety reasons and toclear the residence. Based on the report being of a home invasion and assault, he did notagree that there would be no reason to believe that no one else was in the residence. Hestated the officers are duty bound to provide him with the information that they provided.
+
+[75]
+
+Other than the information from the officers that they were “clearing for officer safetybefore they left an officer there”, P/C Proulx received no information about there beinganyone upstairs. He was aware that the witness reports included information regardingtwo males; that the two males fled; and that there was no mention of additionalparties/suspects. He again stated that he trusted his colleagues and could only go by whatthe officers were telling him. He agreed that there was nothing to support the officers’
+information to him other than their word.
+
+[76]
+
+P/C Proulx and Sgt. Tessier participated in execution of the warrant at the residence. P/C
+Beith did not.
+
+The Information to Obtain
+
+[77]
+
+P/C Proulx indicates in paragraph 2 of the ITO that the information contained in it wasobtained by him personally or through conversation with police officers, or from theirnotes or reports. He believed the information provided to him by fellow officers becausethey are under legal and moral obligation to provide accurate and reliable information aspart of their duties.
+
+[78]
+
+Paragraph 15 of the ITO states that the dispatch to the residence was for an initial reportof break and enter/home invasion.
+
+[79]
+
+Paragraph 16 ofmales assaultingassistance. Theresidence. Theassistance.
+
+[80]
+
+Paragraph 20 of the ITO refers to the clearing of the residence for the purpose of makingsure that no other suspects were still on scene as the residence had not yet been cleared.
+
+the ITO states that the two witnesses at the scene described seeing twoMr. Dupuis in the kitchen area of his residence and came to hisneighbour saw the altercation through the open door of Mr. Dupuis’
+basement tenant heard Mr. Dupuis yelling for help and came to his
+
+[81]
+
+Paragraph 21 of the ITO also refers to clearing and searching the residence for othersuspects but adds the words “potential threats to police”. It notes the observation of theduffle bag and observation of plastic bags on top of it containing green leafy substanceand that upon closer examination, Sgt. Tessier confirmed to be marihuana.
+
+[82]
+
+Paragraph 23 of the ITO states it was estimated that approximately 2 pounds ofmarihuana was visible in the clear bags on top of the duffle bag with more visible insidethe open [sic] the duffle bag.
+
+[83]
+
+Paragraph 25 of the ITO indicates that it had been decided that the drugs observed by Sgt.
+Tessier would be left in place, and photographed.
+
+[84]
+
+Paragraph 26 refers to Mr. Dupuis’ interview post the clearing of the residence duringwhich he stated that he lived alone and no one else had been in his residence until thesuspects entered his residence.
+
+[85]
+
+Paragraph 27 referred to a vacuum sealer that was observed on the main floor in thekitchen area as well as a digital scale but that this had the cover closed and could not beconfirmed until a CDSA warrant was obtained as this did not pertain to the homeinvasion/assault investigation.
+
+[86]
+
+Paragraphs 30 and 31 of the ITO described Mr. Dupuis as a known drug trafficker inBlind River having been subjected to a previous CDSA warrant at the residence, whichresulted in a substantial seizure of controlled substances and cash.
+
+The Evidence Seized
+
+[87]
+
+A handwritten summary of the evidence seized was filed. The summary indicated that: atotal of 2,048 grams of marihuana was seized (1,260 grams of marihuana was found withthe duffle bag and 788 grams of marihuana as a result of execution of the warrant); 213.6
+grams of cannabis resin; $8,000 in cash; a digital scale; a bud crusher; a vacuum sealer; 3
+cans of butane (full); 1 can of butane (empty); 1 clear glass cylinder; and 1 pair of ovenmitts.
+
+[88]
+
+On February 5, 2015, P/C Proulx completed a Report to Justice regarding the propertyseized at the residence pursuant to the execution of the search warrant. The Report toJustice included the items on the handwritten summary but also included additional items,such as paraphernalia; vials; another scale; Tupperware containing suspected cocaine orsugar; and vacuum pack bags. Items 1 through 9 appear to represent the marihuana thatwas either on or in the duffle bag that was seized before the execution of the warrant,namely the 1,260 grams. The duffle bag is not listed. The cash is not listed.
+
+LAW AND ANALYSIS
+Overview:
+
+[89]
+
+I find the search of the second floor by Sgt. Tessier and P/C Beith to be a violation of Mr.Dupuis’ s.8 Charter rights.
+
+[90]
+
+Section 8 of the Charter provides that everyone has the right to be secure againstunreasonable search or seizure.
+
+[91]
+
+This includes Mr. Dupuis.
+
+[92]
+. . . we should never lose sight of the fact that even a person accused of the mostheinous crimes, and no matter the likelihood that he actually committed thosecrimes, is entitled to the full protection of the Charter. Short-cutting or shortcircuiting of those rights affects not only the accused, but also the entire reputationof the criminal justice system. It must be emphasized that the goals of preservingthe integrity of the criminal justice system as well as promoting the decency ofinvestigatory techniques, are of fundamental importance in applying s. 24(2).
+
+Nature and Extent of the Interference
+
+[93]
+
+The sanctity of a private dwelling has long been recognized: R. v. MacDonald, 2014 SCC(1991), 1991 CanLII 2736 (NL CA), 67 C.C.C. (3d) 81 (Nfld. C.A.), at paras. 6-7 (affd1993 CanLII 117 (SCC), [1993] 1 S.C.R. 835).
+
+[94]
+
+R. v. Patterson, 2017 SCC 15, highlights the importance of the section 8 Charter rightagainst unreasonable search and seizure of a private dwelling; and the issue of seriousdepartures from well-established constitutional norms.
+
+[95]
+
+Both Sgt. Tessier and P/C Beith went up on to the second floor. Sgt. Tessier was first tosearch and then P/C Beith thereafter.
+
+[96]
+
+Sgt. Tessier stated that his presence on the second floor was a brief (one minute) and wassolely a clearing search. It was limited to clearing the rooms, halls and closets. WhenSgt. Tessier saw the plastic bags with green leafy substance on top of the duffle bag helooked at it closer to confirm it was marihuana.
+
+[97]
+
+P/C Beith’s description of his search was similar to that of Sgt. Tessier but with lessdetail.
+
+Warrantless Searches
+
+[98]
+
+Mr. Dupuis did not consent to the search of his residence. Police did not have a warrantat the time of this search.
+
+Section 8 of the Charter and the Liberty Interfered with:
+
+Without consent, a warrantless search is prima facie an unreasonable one (Hunter v.of the Charter.
+
+[100] Where a warrantless search is conducted in a person’s residence, the Crown has the onusof showing that the search was lawful. I find the Crown did not meet this onus.
+Warrantless Searches Authorized by Law
+
+[101] A warrantless search will respect s.8 of the Charter if the search is authorized by law, andboth the law and the manner in which the search is conducted are reasonable: R. v.
+Feeney, supra, at paragraph 46; and R. v. Golden, [2001] 3 S.C.R. 679 (S.C.C.), atparagraph 44.
+The Duties Being Performed
+
+[102] Sgt. Tessier communicated that he felt he had a duty, and that it was imperative that hesearch the second floor of the residence to ensure that there were no other suspects orinjured parties on the second floor. He stated when he did his search he was exercisingthis power solely in the context of the home invasion investigation and for no otherpurpose. P/C Beith also related the search a search for suspects for officer safety.
+
+[103] It is common ground that police have a duty to respond to a 911 call with the general dutyof protecting life and property; and that in order to perform this duty, in somecircumstances police must enter and search private dwellings without a warrant.
+
+[104] Protecting life and safety is unquestionably an important duty that is within the public’sinterest to maintain as effective.
+
+[105] It is accepted that when the duty to protect life and safety is engaged, police must err onthe side of caution.
+
+[106] In this case, a home invasion, assault and robbery had occurred. There is no question, norwas it questioned, that crimes of assault, robbery and home invasion are, and can be, veryserious; involve danger to officers and the public; and can prove to be difficult policework.
+
+[107] However, as important and recognized as all of the above is, which I acknowledge, anunfettered power to conduct searches does not attach to the exercise of these duties.
+There are boundaries. It remains that each situation must be analyzed on its facts.
+
+[108] The main issue in this case, in my view, is whether the exercise of the power to search forthe reasons stated was justified.
+
+[109] The Crown relied on the fact that the police presence in the residence was lawful. Thepolice were present in execution of their duties to investigate a crime scene, the homeinvasion as a result of the 911 call. I don't disagree. However, even if police have
+
+[99]
+
+[110] In R. v. Tomlison, [2009] BCCA 196, in paragraph 39, the British Columbia Court ofAppeal addressed the issue of common-law power to investigate a crime scene:
+As stated by Chief Justice Lamer in R. v. Caslake, [1998] 1 S.C.R. 51 (S.C.C.),
+"the scope of the search is limited to the area and to those items for which the lawhas granted the authority to search. To the extent that a search exceeds these limits,it is not authorized by law": para. 12. Further, when, as here, the Crown relies on acommon-law power to search a crime scene for evidence of a recently committedcrime, it must show, both subjectively and objectively, that the officer's purpose inconducting the search was to further the investigation of that recently committedcrime: Caslake, at paras. 21, 25.
+At paragraph 40, they further wrote:
+Assuming, without deciding, that Sergeant Mendel had common-law authority toconduct a forensic examination of Mr. Tomlinson's residence as a crime scene, thatauthority would only be exercisable for the purpose of gathering evidence inrelation to the home invasion, and would be limited to those areas of the premisesin which it was reasonable for the officer to expect that he might find evidence ofthat crime. Simply put, any common-law authority Sergeant Mendel may have hadto search Mr. Tomlinson's residence as a crime scene would not have given himcarte blanche to search the entire premises: see, e.g., R. v. Smith, 1998 ABCA 418,126 C.C.C. (3d) 62 (Alta. C.A.) at paras. 8 - 10: police officer responding to a 9-11 distress call from a residence exceeding his authority by going into the basementto search for drugs.
+
+[111] First, in my view, the evidence does not support a finding that it would have beenreasonable to conclude that the crime scene extended to the second floor. The policeaccordingly did not have carte blanche to search the entire premises after their entry andin particular the second floor.
+The evidence from the witnesses and the physicalevidence in the home pointed to the crime scene consisting of the main floor of theresidence, and the front exterior porch/stairs of the residence. Sgt. Tessier did not giveevidence that he believed that the crime scene extended to the second floor of theresidence or point to any objective evidence that would have or could have led to him tothat conclusion. Sgt. Tessier in fact had completed notes and drawings of the area of thecrime scene. He drew three rooms on three pages in his notebook of the main floor.
+
+[112] More importantly, Sgt. Tessier stated that the sole purpose for going up to the secondfloor was to clear the residence, upon reflection and a realization that it had not beendone. The clearing the residence was for safety concerns; to determine the presence ofother suspects or other injured parties. P/C Beith also testified that the sole purpose ofthe exercise was related to safety concerns and clearing the residence. The ITO identifiedthe purpose and exercise as related to clearing the residence and safety.
+
+authority to enter a residence and remain, concerns with privacy interests related to thedwelling do not lose protection; and there are clear limits and settled principles on theextent of police powers flowing from the duties they testified they were performing. I
+find that their conduct exceeded the limits of their powers in the balance.
+
+Use of Police Powers
+
+[the] justifiability of an officer's conduct depends on a number of factors includingthe duty being performed, the extent to which some interference with individualliberty is necessitated in order to perform that duty, the importance of theperformance of that duty to the public good, the liberty interfered with, and thenature and extent of the interference.
+
+[114] In R. v. Clayton, 2007 SCC 32, the Supreme Court of Canada wrote at paragraph 26:
+In determining the boundaries of police powers, caution is required to ensure theproper balance between preventing excessive intrusions on an individual's libertyand privacy, and enabling the police to do what is reasonably necessary to performtheir duties in protecting the public. It was expressed by LeDain J. in R. v.
+Dedman, [1985] 2 S.C.R. 2 (S.C.C.), as follows:
+The interference with liberty must be necessary for the carrying out of theparticular police duty and it must be reasonable, having regard to thenature of the liberty interfered with and the importance of the publicpurpose served by the interference. [p. 35]
+
+[115] R. v. Wilhelm, 2014 ONSC 1637, Hill J. wrote:
+112
+The operational determination as to whether an exceptional intrusion bythe police is reasonably necessary engages balance of these considerations
+[referring to the approach set out by Doherty J.A. in Simpson, supra] all in thecontext of the available information, the existence of any less intrusive alternative,and the strength of the police belief relating to the exigency or danger said tojustify an extraordinary intrusion and a necessitous departure from conventionalinvestigative measures. Importantly, as noted in Godoy at para. 11, whether thepolice will be justified in a particular situation in entering a private dwelling in thecourse of an investigation "depends on the circumstances of each case". The samepoint was made in Jones, at para. 42: "not every 9-1-1 call engages issues of publicprotection...it remains to analyze each situation on its own facts". Entry to adwelling is not justified in every case. No blanket institutional policy divorcedfrom the factual context of the particular case can become a surrogate for theassessment of specific factual circumstances.
+113
+A police officer is expected to act reasonably in the circumstances: Hill v.129, at para. 58. An officer’s conduct is governed by his or her evaluation of thetotality of circumstances in an investigative situation. Where, in fluidcircumstances, new information comes forward, it too must be assessed, notignored, at times necessitating a re-examination of the situation. An officer must ofcourse act on articulable, objective facts and not on profile characteristics which
+
+[113] In R. v. Godoy, [1999] 1 S.C.R. 311, at para. 18 (“Godoy”), Lamer C.J. adopted theexplanation of "justifiable" use of police powers provided by Doherty J.A. in R. v.
+Simpson (1993), 79 C.C.C. (3d) 482 (Ont. C.A.) at p. 499:
+
+115
+In assessing the lawfulness of police conduct in a given situation, it isnecessary to recall that the police are not entitled to rely on ex post factojustifications for their conduct. The lawfulness of their actions is dependent uponwhat they knew or “should reasonably have been known to them at the time”:
+
+[116] Safety searches are generally conducted as a reactionary measure, generally unplannedand carried out in response to dangerous situations created by individuals to which thepolice must react “on the sudden”: R. v. MacDonald, supra, paragraph 32.
+
+[118] For a safety search to be lawful, the officer must act on "reasonable and specificinferences drawn from the known facts of the situation" and not vague or non-existentconcerns for safety: R. v. Mann, [2004] 3 SCR 59 at paras. 40 and 41.
+
+[119] I do not find that the evidence supports a conclusion that the search of was reasonable andlawful. The intrusion had to be connected to and limited to protection of life and safetybased on the stated purposes of the exercise.
+
+[120] This case is distinguishable from some of the cases I was referred to, in my view, due tothe facts - due in part to the passage of time from the initial dispatch to the scene; andwhat happened in between the initial report of the incident to the time the decision wasmade to search. Time is not always a factor in the analysis, but in this case, I find it was.
+
+[121] I find that context of available information did not reveal a reasonably objective basis tosupport the belief that Sgt. Tessier and P/C Beith stated they had. On the totality of theevidence, there was no reasonable objective basis for a belief that there may be a furthervictim(s) on the second floor or a further suspect(s) on the second floor.
+
+[122] I also find that Sgt. Tessier and P/C Beith acted unreasonably in the circumstancesbecause I do not believe that either of them held a belief that a serious imminent threat tolife and safety existed at the time they conducted their searches.
+
+[123] In addition, both of their evaluations of the totality of the circumstances were lacking incare including but not limited to: failure to carefully assess the information that cameforward after the initial dispatch; grounding their belief on vague dispatch informationthat could have been verified in short order to have eliminated their concern;unreasonably discounting circumstances and information that existed; and failing toappreciate the basis that must exist for the exceptional intrusion of searching a privatedwelling.
+
+…
+
+The Circumstances Known or Ought to Have Been Known
+
+[124] From the evidence, Sgt. Tessier’s assessment was based on the following: the fact that hewas investigating a bench mark crime; his receipt of an initial dispatch report of therebeing “two or more involved”; a realization that the witnesses who intervened had doneso while the occurrence was already in progress and not when the residence was firstinvaded; not having information from Mr. Dupuis about the upstairs; his realization thatthe residence had a second floor; and his realization that the second floor had not beencleared. From this he formed the belief that he had a duty and that it was imperative toclear the second floor.
+Before Arriving on Scene
+
+[125] Sgt. Tessier knew that he was responding to a home invasion, robbery and assault beforehe arrived at the scene. In fact, Sgt. Tessier went to the scene because he learned theforegoing.
+
+[126] From the BOLO request of P/C Beith, Sgt. Tessier also knew before he went to the scenethat the culprits were being reported as having robbed the victim and as having fled thescene.
+
+[127] He did not receive a report from P/C Beith of there being any other suspects remaining atthe scene or a reference to more than one victim.
+
+[128] P/C Beith also knew the type of scene he was going to before he arrived at the scene.
+
+[129] I’m not sure what P/C Graham knew before she arrived because she was not called as awitness, but it is reasonable to infer that she was aware of the type of scene she wasattending to after she arrived.
+
+[130] He did not receive a report from P/C Graham of there being any other suspects remainingat the scene or a reference to more than one victim.
+
+[131] I accept that this evidence reveals that a serious crime had occurred but viewed atobjectively and collectively, it also seemed to reveal clearly a report that the culprits hadalready fled and there had been one victim.
+When Sgt. Tessier Arrives
+
+[132] P/C Beith and P/C Graham were on scene for up to thirteen minutes before Sgt. Tessierarrived. Neither of these two officers raised any concerns that suspects or other injuredparties may still be remaining in the residence. Although I did not hear how he came tothis conclusion, according to Sgt. Tessier, neither of these officers cleared the secondfloor.
+
+The Details of the Assessment
+
+[133] I did not receive an explanation from either officer for the foregoing. I am left with twoinferences. Either these two officers omitted to engage in one of the “number one”
+training protocols, or that they did not hold any belief that there were threats to life andsafety after they arrived. Sgt. Tessier described these officers as experienced. He did notexplain why it was reasonable to discount their conduct in omitting or choosing not toclear the second floor when they arrived or before they left him alone in the residence.
+
+[134] He did comment that home invasions were not common and rare in Blind River.
+However, based on the evidence I heard regarding the training received and priorityofficers are to give to safety in all cases (not just home invasions) if these two officersomitted this evaluation when they arrived at the scene and when they left a fellow officeralone in the residence, there is a serious problem. Such an inference would lead to theconclusion that these two experienced officers failed to give due consideration to the lifeand safety of those they found at the scene on arrival, and that they left a fellow officeralone in a private dwelling without due consideration for his safety.
+
+[135] Whether omission or choice, what this evidence does reveal is that the scene was nottriggering any officer safety concerns at this time with three officers and Sgt. Tessierdiscounted this.
+Witness Information
+
+[136] By the witnesses’ accounts, the front door of the residence was open, and the assault androbbery were occurring on the main floor (kitchen area) which the two witnesses firstobserved from the street through the front door.
+
+[137] There was no evidence received that anyone was seen going up or coming down from thesecond floor of the residence, or of any noise or disturbance emanating from the secondfloor after the witnesses arrived and before police arrived.
+
+[138] The witness evidence was very clear. Their evidence was that there were two individualsthat came into the house and attacked Mr. Dupuis. It was very clear that the witnessesreported that both of these two individuals had fled the residence before police arrived.
+
+[139] Sgt. Tessier discounted these accounts over an hour later on the basis that the witnesseshappened on the scene after it started. However, it appears that they arrived on scene invery short order to intervene. The tenant heard the commotion from the onset. He heardMr. Dupuis yelling. While I appreciate that Sgt. Tessier does not have to accept theevidence he receives, these witnesses were clearly helpful brave individuals who wouldhave unlikely provided false or incomplete information, leaving little room to doubt thecredibility of the information.
+
+[140] I did not hear any evidence that any of the officers in fact questioned the witnesses as towhat information, if any, they had, as to whether or not anyone else was involved or hurtin Sgt. Tessier’s discount of their information. It seems so basic and standard that one ofthese officers would or should have immediately asked this question on arrival. Was
+
+there another misstep, or a circumstance reflecting that there was neither a subjective norobjective concern, that Sgt. Tessier ignored?
+
+[141] Mr. Dupuis was a victim and was physically injured in the attack. I accept thatwould raise concern. However, the tenant reported that he heard Mr. Dupuis yellingheard the commotion from the onset. The witnesses arrived on scene in short order,the front door was open through which the witnesses saw two individuals attackingrobbing Mr. Dupuis.
+
+thisandandand
+
+[142] There were no reports of or objective indications of any other potential victims beyondMr. Dupuis.
+
+[143] Further, even though Mr. Dupuis was winded and in obvious pain at the scene, I can’tthink of a reason why he would not have attempted to signal to the witnesses who cameto his aid before the police even arrived, that there was another victim,or suspect who wastrying to rob or kill him in the residence, if there in fact was.
+
+[144] Finally, on this issue of concern for other injured parties, there was notable a lack ofcorroboration by P/C Beith and P/C Proulx that the search was related to the possibility ofthere being other injured persons on the second floor.
+Weapons
+
+[145] There was no evidence of the use of any weapons of any kind during the occurrence.
+The Scene Itself
+
+[146] The scene itself was not described as being in any significant disarray or disclosingevidence of other injured parties or suspects. There was blood on one wall and acalendar, that was known by Sgt. Tessier to have come from the altercation between thesecond suspect and the neighbour (or tenant depending on which officer had correctlyrecorded the witness accounts). The scene itself did not reveal any indications of assaultsunaccounted for.
+Reliance on Mr. Dupuis’ Inability to Communicate to Support the Belief
+
+[147] At the scene, Mr. Dupuis was not able to communicate with police. I accept that.
+However, the decision to search was made over an hour and a half after police arrived atthe scene.
+
+[148] Approximately an hour after the search was conducted, P/C Beith went to the hospital tobe directed to Mr. Dupuis, shortly thereafter arrested Mr. Dupuis, brought him to thedetachment, lodged him in a cell, processed him, interviewed and released him.
+
+Violence/Victims
+
+[150] I acknowledge that the foregoing evidence does not establish that Mr. Dupuis was in factcapable of communicating at the time Sgt. Tessier decided a search was necessary. Myintention is to illustrate that Sgt. Tessier did not appear to have considered this as apossibility in his assessment process which could have eliminated his concern. This isstated in the context of this case, namely that Sgt. Tessier at this time is at the residence,which is a calm and quiet scene, planning a search, and waiting for P/C Beith to return.
+Sgt. Tessier Remaining at the Residence
+
+[151] Sgt. Tessier was alone in the residence for an hour before making his decision to do thesearch. He had experienced no incident of any kind or indication of threat to his safety;and there was no evidence of any sound or noise or disturbance within the residence.
+
+[152] Sgt. Tessier decided to remain at the residence alone by choice.
+The Explanation for the Delay
+
+[153] Sgt. Tessier’s explanation for late contemplation of safety issues is in essence that it wasan omission on his part. He testified that he viewed the scene as dynamic and chaoticwhen he arrived. I have difficulty with this. Everyone was taken care of, addressed andgone within 15 to 25 minutes after he arrived on scene. P/C Beith did not describe thescene as dynamic or chaotic.
+
+[154] Sgt. Tessier also testified that this was his first home invasion and gave an account of theother things he was doing to direct the next steps in the investigation. Yet he testified thatthe consideration for safety and the timing for the consideration are supposed to be a toppriority in any investigation, even a mundane traffic stop. I appreciated Sgt. Tessier’scandour in admitting his omission, but his explanation fed into the defence argument thatthe facts of this case reflected a pattern of failure to appreciate and or to exercise duediligence in the performance of important duties and responsibilities.
+
+[155] Finally, there was no evidence to suggest that Sgt. Tessier was precluded from speakingto Det. Sgt. Pellerin and or Staff Sgt. Riopel regarding his assessment prior to conductingthe search. This again, is stated in the context of this case, namely that Sgt. Tessier at thistime is at the residence, which is a calm and quiet scene, planning a search, and waitingfor P/C Beith to return.
+Examination of the Home Invasion with his Peer
+
+[156] Sgt. Tessier spoke to Det. Sgt. Pellerin on the telephone during the course of his alonetime at the residence. This Det. Sgt. did not express a concern that the residence neededto or should be cleared; nor did he express a concern that Sgt. Tessier was in theresidence alone. The purpose of the call was to inform the Det. Sgt. about the
+
+[149] Sgt. Tessier did not give evidence as to whether or not he contemplated the fact that Mr.Dupuis might have been able to provide information to him about the attack (or better yet,consent) at this point.
+
+occurrence; to go over the occurrence in a check list type manner to ensure that all wasbeing done that needed to be done.
+
+[158] I heard more than once that officer safety is number one and he agreed it is “preached”.
+Was this a fourth officer who omitted to contemplate this issue? I find such a conclusionunreasonable to draw, and Sgt. Tessier’s reason to discount this difficult to accept asreasonable, given the purpose of the call.
+Realizations
+
+[159] I had a difficult time with Sgt. Tessier’s testimony concerning a late realization that therewas a second floor in the residence. Sgt. Tessier had been in the home for one hour and21 minutes. The residence was a small residence that he said he was familiar with. Hewas making drawings of the main floor rooms in his notes during his time in theresidence.
+
+[160] I also had trouble with Sgt. Tessier’s evidence that he “realized that no one had beenupstairs”. He did not explain how he knew that no one had been upstairs when he wasdoing his assessment. He arrived after the witnesses, and thirteen minutes after the othertwo officers. The only way he could have known this as fact is if he had put his mind toit earlier (which he had not) or if he had asked the witnesses and the officers before theyleft (which he had not). He had no notes on the subject of officer safety up to 2345 hours.
+In the end, what could only be true is that he had no information that anyone had beenupstairs.
+Belief
+
+[161] Sgt. Tessier on cross-examination agreed he was not sitting in the residence under anytrepidation but added “until he thought about it”. Yet when he was acknowledging thefact that it took a considerable amount of time for him to realize that he had not clearedthe upstairs he stated “was I terrified that I had not done so, absolutely not, but I felt I hada duty and that it was imperative that it had to be done for the reasons stated.” Thisevidence, in my view, as he was giving it, did not present as or fit his statement that hefelt it was imperative to do the search or fit with subjective belief that there was animminent threat to life and safety; which is a longstanding concept in respect of safetysearches.
+
+[162] Sgt. Tessier was unable to recall if he actually called P/C Beith back to the residence ormerely waited for him to return. If it was the latter, this is further evidence that Sgt.
+Tessier did not really have any pressing concern that there was a possibility of anothersuspect and/or injured party on the second floor. If he had, he would have requested P/C
+Beith to return immediately to assist and not merely waited for him to return. He did notgive evidence as to whether or not he knew P/C Beith would be returning, and if so,when. P/C Beith did not give evidence that he was requested by Sgt. Tessier to return to
+
+[157] Sgt. Tessier stated he may not have explained the layout of the home to Sgt. Tessier whenthis was raised with him in cross-examination.
+
+the residence. This evidence did not fit with Sgt. Tessier’s statement that he felt it wasimperative to do the search or that exigent circumstances existed.
+
+[164] P/C Beith’s belief for safety concerns did not present as a strong belief either. In fact, theway it was expressed, he related justification to his general training related toassumptions that officers should make in respect of the presence of suspects, and forofficer safety. It was not related to objective evidence. He agreed there was no objectiveevidence for him or Sgt. Tessier at the time. His testimony did not reflect a carefulindividual assessment of all of the circumstances of this case. In my assessment, theevidence suggests that P/C Beith appeared to have accepted and followed Sgt. Tessier’sconclusion and that he did not really take the time to truly formulate his own assessment.
+“Two or More Involved”
+
+[165] A key piece of information that started the ball rolling in this case was the informationSgt. Tessier received from dispatch “that there were two or more involved”.
+
+[166] Was it reasonable to assume this meant other victims or suspects? Does it mean two ormore victims, or does it mean two or more suspects, or does it mean both or somethingelse entirely, such as a reference to the number of people at the scene? Was it evenreferring to the scene? Sgt. Tessier did not give evidence as to why or how he came tothe conclusion that this information meant “two or more suspects or victims involved atthe scene”. It seemed vague to me. That being said, I can appreciate his interpretation isa possible interpretation.
+
+[167] However, Sgt. Tessier’s assessment was being conducted some time after having receivedthis information which preceded the receipt of all of the above outlined circumstancesthat had followed.
+
+[168] Sgt. Tessier knew that the source of this information was dispatch and that it wasinformation from a third party.
+
+[169] When he was evaluating this evidence, it was troubling to me that there was no evidenceof any attempt on the part of Sgt. Tessier to call dispatch to make what would have been asimple inquiry, that could have been made in very short order, and potentially eliminatedhis concern.
+
+[170] There was no evidence or suggestion that the call to dispatch was made by an anonymousperson. It could have been made by one of the witnesses.
+
+[171] There was no evidence that taking this short step would have resulted in increased risk ordanger to him or anyone else.
+
+[163] The evidence established that the possibility of suspects and or injured parties still beingin the residence at the time of the search was very remote and speculative.
+
+[173] Finally, P/C Beith did not give evidence that this dispatch information formed part of thefactual basis for his belief. He referred to the training he received, namely, to think thatthere is always “one plus one”. He agreed there was no objective indication that therewas anyone else in the house other than an assumption was made for officer safety.
+Training and Experience
+
+[174] Sgt. Tessier is unquestionably a trained officer, a platoon sergeant, and a supervisor of anOPP branch that encompasses three detachments.
+
+[175] There are longstanding settled Charter principles and protections related to entering orsearching private dwellings for the purposes Sgt. Tessier claimed, and there arelongstanding settled principles on searches related to protection of life and safety.
+
+[176] One would and should expect Sgt. Tessier to be cognizant of these principles andprotections given his years of service, his training, his rank, and his responsibilities as asupervisor of other members of the force.
+
+[177] As for P/C Beith, Sgt. Tessier described P/C Beith as experienced and the sameexpectation accordingly should apply.
+Section 24(2) of the Charter
+
+[178]
+
+Where, in proceedings under subsection (1) [of the Charter], a court concludes thatevidence was obtained in a manner that infringed or denied any rights or freedomsguaranteed by this Charter, the evidence shall be excluded if it is established that, havingregard to all the circumstances, the admission of it in the proceedings would bring theadministration of justice into disrepute: Charter, s. 24(2).
+
+[179] In R. v. Burke, 2017 ONSC 737, paragraphs 15-19 and 27, Kurke J. wrote:
+15 To determine whether the admission of evidence obtained in breach of the Charter
+“would bring the administration of justice into disrepute” under s. 24(2) of the Charter,the analysis is long-term, forward-looking, and societal. In R. v. Grant, 2009 SCC 32,
+
+[2009] 2 S.C.R. 353, at para. 71, the Supreme Court of Canada focused the inquiry as abalancing of three factors:
+1
+
+the seriousness of the Charter-infringing state conduct (admission may sendthe message the justice system condones serious state misconduct);
+
+2
+
+the impact of the breach on the Charter-protected interests of the accused
+(admission may send the message that individual rights count for little); and
+
+3
+
+society’s interest in the adjudication of the case on its merits.
+
+[172] Based on the above, I am not satisfied that it was objectively reasonable for Sgt. Tessierto evaluate this piece as being as compelling as he presented it to be.
+
+16 Under the first factor, a court must beware condoning Charter breaches by failingto dissociate itself from unlawful state conduct. However, this factor describes aspectrum of seriousness, extending from the minor or inadvertent breach to a wilful,reckless or blatant disregard of a Charter right. As the breach increases in seriousness,this factor tends to encourage exclusion of the evidence. While good faith on the partof police will reduce the need for a court to distance itself from the conduct, a breachoccasioned by police negligence or wilful blindness about a right detracts from afinding of good faith: Grant, at paras. 72-75; R. v. Harrison, 2009 SCC 34, [2009] 2
+S.C.R. 494, at paras. 22-24; and Harris, at paras. 61-62.
+17 The second factor considers the extent to which the breach actually undermined theinterests protected by the right that was infringed. Once again, a spectrum of analysisis involved, this one extending between a fleeting or technical breach to a profoundlyintrusive breach. As the seriousness increases, there is a greater risk that admission ofthe evidence will lead the public to conclude that the courts have little concern forbreached rights. The seriousness in this factor is considered against the interest that theright protects. In this case, involving a s. 8 breach, privacy and potentially humandignity are interests that could be affected: Grant, at paras. 76-78.
+18 In the context of the second factor, seizures of bodily evidence such as the forcibletaking of blood samples or dental impressions represent a serious intrusion, as would astrip search or a body cavity search. Fingerprinting, on the other hand, is relativelyinnocuous. So too, an illegal search in a dwelling is much more serious than that of anautomobile, in terms of its effect on the privacy interests at play. The taking of breathsamples falls at the relatively non-intrusive end of the spectrum: Grant, at paras. 109,111, 113-114; MacMillan, at para. 79.
+19 The third factor looks to whether the truth-seeking function of a trial would bebetter served by admission or exclusion of the evidence. It takes into account society’sinterest in having criminal allegations tried on the merits. Reliability of the evidence isan important aspect of this inquiry. The exclusion of highly reliable evidence, such asbodily samples, when that evidence is essential to the prosecution case, couldundermine the public’s perception of the justice system. Weighing the third factoragainst the first two thus allows a balance to be struck between the interest indiscovering the truth and the need to protect the integrity of the justice system. In thebalance, where the first two factors are less serious, the third factor will allowadmission of reliable evidence such as breath sample evidence: Grant, at paras. 79-83,110-111; MacMillan, at para. 79.
+…
+27 It is only through a proper consideration of all three that a court can determine “theeffect of admitting the evidence on society’s confidence in the justice system”: Grant,at para. 71; and cf. R. v. Marchionne, 2013 ONSC 569, 276 C.R.R. (2d) 49, at para. 26,and R. v. Au-Yeung, 2010 ONSC 2292, 209 C.R.R. (2d) 140, at para. 67.
+
+[180] In R. v. Kitaitchik (2002), 166 C.C.C. (3d) 14 (Ont. C.A.), Doherty J.A. wrote, at para.
+41:
+
+[181] The Supreme Court in the case of R. v. Paterson, 2017 SCC 15, at paragraph 44 wrote:
+44
+My colleague Moldaver J. recalls the trial judge's finding that the police wereacting in good faith (para. 66; trial reasons, at para. 79). While "'[g]ood faith' on the partof the police will ... reduce the need for the court to disassociate itself from the policeconduct" (Grant 2009, at para. 75), good faith errors must be reasonable (R. v. Buhay,2003 SCC 30, [2003] 1 S.C.R. 631 (S.C.C.) , at para. 59). This Court has cautioned thatnegligence in meeting Charter standards cannot be equated to good faith (Grant 2009, atpara. 75). Even where the Charter infringement is not deliberate or the product ofsystemic or institutional abuse, exclusion has been found to be warranted for clearviolations of well-established rules governing state conduct (R. v. Harrison, 2009 SCC
+34, [2009] 2 S.C.R. 494 (S.C.C.) , at paras. 24-25).
+
+[182] The Supreme Court in the case of R. v. Paterson, 2017 SCC 15, at paragraph 49 wrote:
+Where, therefore, the Charter-protected interest in privacy is at stake (as it is here),infringements arising from circumstances denoting a "high expectation of privacy" tendto favour exclusion of evidence, while — all other considerations being equal —
+infringements of lesser interests in privacy will not pull as strongly towards exclusion. Asthe Court said in Grant 2009 (at para. 78): "An unreasonable search that intrudes on anarea in which the individual reasonably enjoys a high expectation of privacy, or thatdemeans his or her dignity, is more serious than one that does not."
+
+Factor One
+
+[183] Was this a case of a ruse to conduct a search related to a drug investigation?
+
+[184] Based on his testimony and its delivery, I was first left with the impression that Sgt.
+Tessier was not really concerned about the drug paraphernalia, or evidence of drug usethat he had observed on the main floor, and that same was reflective of casual personaluse. I was left with the impression that it was not really an issue for Sgt. Tessier or hisfocus when he was on the main floor making his notes.
+
+[185] But as the testimony continued, in cross-examination, Sgt. Tessier acknowledged that hein fact had taken the time to record in his notes, observations of drug paraphernalia on themain floor and that he had detected a strong odour of marihuana in the residence. Heacknowledged that: he had known Mr. Dupuis for 27 years; he knew that Mr. Dupuis wasa “dabbler” in drugs before he even attended the residence; and that he had concluded ordeducted at the very onset of the investigation that the home invasion was likely a resultof illicit activity on the part of Mr. Dupuis involvement in the drug trade. When it wassuggested that there were no grounds to obtain a warrant from his observations on the
+
+41
+Police conduct can run the gamut from blameless conduct, throughnegligent conduct, to conduct demonstrating a blatant disregard for Charterrights… . What is important is the proper placement of the police conduct alongthe fault line, not the legal label attached to the conduct.
+
+[186] While he was very candid and forthright on cross-examination on this issue, I haddifficulty reconciling Sgt. Tessier’s explanations and presentations of his mindset and hisplacement of the issue of illicit drug activity in his actions. This being said, while itbecame clear to me that drugs were a factor on his mind, I was not satisfied that this factalone established that the search of the second floor was a ruse or that Sgt. Tessier wasengaging in deliberate or wilful misconduct in this case. Further, the law is clear thathaving this on his mind would not have invalidated an otherwise lawful search had itbeen lawful.
+
+[187] However, the evidence in my view does establish that the search was not reasonable andnot justified, and that Sgt. Tessier and P/C Beith were not fully conversant with theirduties and responsibilities and the long settled principles that applied to the exercise ofthe duties and powers they were engaged in. They were remiss.
+
+[188] Sgt. Tessier’s assessment and approach in exercising his power to search demonstrated afailure to prudently and carefully measure: justification to exercise the power to search;the circumstances and information available to him; Mr. Dupuis’ rights; and to correctlyapply longstanding settled legal principles with which an officer of 30 years’ experienceshould be familiar. The same can be said of P/C Beith.
+
+[189] Again, I am not of the view that Sgt. Tessier’s or any other of the officers’ lack ofexperience with home invasions would or should move the breach away from a seriousclassification. Sgt. Tessier is a 30-year officer; he is a platoon sergeant supervising otherofficers; assessments for safety were acknowledged as forefront concepts; andassessments for searches related to safety are not limited to home invasion situations –
+they apply to every situation. In addition, Sgt. Tessier had the luxury of time forreflection and to access to resources. The evidence did not present this situation as oneunder which Sgt. Tessier was caught up having to make a reactionary split decision.
+
+[190] The Crown submitted that Sgt. Tessier could have been considered negligent for notexercising a duty to clear the house. With all due respect, this submission fails toacknowledge the evidence of the already existing failure to have contemplated the issuein the first hour and a half after the officers arrived at the scene of a homeinvasion/assault and robbery. This submission also does not accord with the law thatthere is no blanket power or duty to search divorced from the specific facts of a case.
+
+[191] Further, I have found that neither Sgt. Tessier nor P/C Beith’s evidence reflected that theyheld a strong belief that there was in fact a potential for an imminent threat to life orsafety, or that exigent circumstances existed. The law relating to safety searches is wellestablished.
+
+[192] Based on the above, I find that the breach is on the serious end of the spectrum, whichfavours exclusion.
+
+main floor, Sgt. Tessier expressed that he felt he had observed enough on the main floorto ground a CDSA warrant.
+
+[193] In support of the above, I rely on my findings regarding the approach and assessment ofthe circumstances of the case as set out above in that respective section.
+
+[194] I acknowledge that the search was very brief and nothing was disturbed during the search.
+I find that Sgt. Tessier reasonably used his flashlight to navigate the room in thecircumstances. The light was not working.
+However, Sgt. Tessier’s taking of a closerlook at the marihuana, to confirm that he was seeing marihuana, while doing a clearing,caused me some pause. Sgt. Tessier stated that he did not consider this a search but hedidn’t explain either how this would have been related to a clearing search.
+
+[195] P/C Beith’s conduct of going up to the second floor after Sgt. Tessier had already advisedhim that the second floor was cleared caused me concern based on the context. Therewas nothing to justify a second clearing, which P/C Beith stated was his purpose at thetime he went up. Sgt. Tessier did not direct P/C Beith to go up to clear after he had comeback down. In fact, Sgt. Tessier surmised that P/C Beith went up because he was
+“curious”; “he wanted to see the dope”.
+
+[196] There is a very high expectation of privacy in a private dwelling. The search wasunreasonable and offended this principle, and is on the serious end of the spectrum.
+
+[197] While it would have been reasonable for Mr. Dupuis to expect the presence of police atthe residence as a result of the occurrence, in this case, it would not have been reasonablefor him to expect that the police would act outside of their authority and enter on to thesecond floor of the residence while he was at the hospital getting treatment.
+
+[198] I am not satisfied, for reasons already stated, that the evidence supports that the crimescene in the residence extended to the second floor. The home invasion, assault androbbery, by all accounts occurred on the main floor and there was no evidence fromanyone that it extended to or that it was reasonable to believe it extended to the secondfloor.
+
+[199] The Crown conceded that if the evidence of what was observed on the second floor wasexcised from the warrant, there would not have been remaining sufficient information inthe ITO to sustain the warrant. P/C Proulx agreed that the grounds outlined in the ITO tosupport the issuance of the warrant were based on the observations reported to him bySgt. Tessier and P/C Beith.
+
+[200] In cross-examination, Sgt. Tessier suggested that the thought there may have beenenough evidence for a warrant for the whole house based on the evidence on the mainfloor, after interviews were done and ident attended the residence. He stated that therewas some evidence on a table and the kitchen floor, a pipe, an odour of marihuana, and avacuum sealer. I do not accept this for the following reasons: Sgt. Tessier did notparticularize the other evidence on the table and kitchen floor, or the odour he detected
+(whether it was burnt or fresh) or how the items he was referring to could or would havegrounded a CDSA warrant. Sgt. Tessier initially referred to what he observed on the main
+
+Factor Two
+
+floor as evidence of “casual use”. The manner in which the ITO was written did notsupport Sgt. Tessier’s thoughts. The other observations related to drug indicia noted inthe ITO by P/C Proulx were simply a vacuum sealer in the kitchen and a scale with aclosed cover. The interviews, including the one of Mr. Dupuis that I heard about, did notsupport Sgt. Tessier’s assertion. Finally, I received no evidence from ident, and nophotographs of the scene were filed to assist me with his interpretation.
+
+[201] I do wish to note that I may have viewed this case and factor differently if the evidencehad unfolded demonstrating that the police, in a dynamic or chaotic, or rushed set ofcircumstances, on arrival or thereafter based on objective indication, chose to go on to thesecond floor for the reasons stated. The circumstances in this case had unquestionablyevolved and were different by the time the decision was made to conduct the search. Theevidence shows that any threat to life or safety had subsided to being very remote orspeculative.
+Factor Three
+
+[202] The charges are serious. The subject evidence is real evidence, and it is reliable. Whileoften termed a “soft drug”, the amount of marihuana located in the residence was notinsignificant.
+Cannabis resin was also seized along with $8,000. The evidence isessential to the prosecution of the case; and exclusion could undermine the public’sperception of the justice system. This factor would favour inclusion.
+Balancing
+
+[203] In balancing the interest in discovering the truth and the need to protect the integrity ofthe justice system based on all of the circumstances, I find that the level of seriousness infactors one and two weigh heavy and are not outweighed by the third factor. There wasan important longstanding public interest and constitutional requirement undermined bywhat occurred here and approving the search of the second floor of the residence on theparticular facts of this case, in my view, would bring the administration of justice intodisrepute. Police are and should be expected to act within their authority; to know andrecognize longstanding limits and principles, and to duly and diligently exercise theirduties within those limits. The cases stress the importance of maintaining clear limits onthe use of police powers flowing from the duties exercised in this case and that privacyinterests in a home are entitled to strong protection.
+The Search Warrant
+
+[204] I have found there has been a violation and I have found that the evidence ought to beexcluded.
+
+[205] The Crown conceded that if the search of the second floor was found to be a violation ofMr. Dupuis’ rights, and the evidence excluded, that the subsequent warrant that wasobtained and executed January 20, 2015, is affected. In particular, if the statements in theinformation to obtain (“ITO”) relating to the second floor search observations made by
+
+[206] In the circumstances, it is not necessary to consider the arguments concerning the mannerin which the ITO was prepared; the choice to apply for a telewarrant as opposed totravelling to Sault Ste. Marie for the warrant; and or whether or not the foregoingrepresents a pattern in this case of offending substandard police work as argued by thedefence.
+CONCLUSION
+
+[207] The application is granted.
+
+[208] I find that the search of the second floor was unreasonable and contrary to s. 8 of theCharter.
+
+[209] I order that the evidence obtained during and as a result of the second floor search isexcluded pursuant to s. 24(2) of the Charter.
+
+Rasaiah J.
+
+Released: May 24, 2017
+
+the officers were excised, the ITO would be insufficient to sustain the warrant. Based onmy review of the ITO, I agree.
+
+CITATION: R. v. Dupuis, 2017 ONSC 3167
+
+SUPERIOR COURT OF JUSTICE
+HER MAJESTY THE QUEEN
+
+– and –
+
+DANIEL LEO MICHAEL DUPUIS
+
+REASONS ON APPLICATION
+Rasaiah J.
+
+Released: May 24, 2017
+
+ONTARIO
+

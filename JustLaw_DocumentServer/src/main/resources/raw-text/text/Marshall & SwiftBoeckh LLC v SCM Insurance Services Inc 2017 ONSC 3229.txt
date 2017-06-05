@@ -1,0 +1,81 @@
+CITATION: Marshall & Swift/Boeckh LLC v. SCM Insurance Services Inc., 2017 ONSC 3229
+COURT FILE NO.: CV-14-517992
+DATE: 20170525
+
+RE:
+
+Marshall & Swift/Boeckh Llc And Marshall & Swift/Boeckh (Canada) Ltd.,PlaintiffsAND:
+SCM Insurance Services Inc., SCM Risk Management Services Inc., OptaInformation Intelligence Inc. and Syntech Associates Ltd., Defendants
+
+BEFORE:
+
+R.F. Goldstein J.
+
+COUNSEL: Brendan van Niejenhuis, for the PlaintiffMel Hogg, for the DefendantsHEARD:
+
+In WritingCOSTS ENDORSEMENT
+
+[1]
+The Plaintiffs are in the business of providing software products for the insuranceindustry. The Defendants provide claims management and risk management services to theinsurance industry. The Plaintiffs licenced software products to the Defendants. The Plaintiffsand the Defendants are involved in a dispute. The Plaintiffs say that the Defendants violated thelicence agreement. They have sued the Defendants.
+
+[2]
+Under the licence agreement the Plaintiffs were entitled to inspect the Defendant’scomputer systems. They did so. They did not get the answers they wanted. They inspectedagain. Again they did not get the answers that they sought. The sought a third inspection. Thistime the Defendants refused to permit inspection, saying that the Plaintiffs had exhausted theirinspection rights. The Plaintiffs brought a motion for further inspection. On February 1, 2017 I
+dismissed the motion: Marshall & Swift/Boeckh LLC et.al. v. SCM Insurance Servics et.al., 2017
+ONSC 788.
+
+[3]
+The Defendants seek partial indemnity costs of $48,880.70 based on 60% of actual costsof $80,556.86. The Defendants argue that since they achieved complete success on the motionthere is no need to depart from the usual rule that costs go to the winning party.
+ANALYSIS
+
+[4]
+The general rule is that costs are payable to the winning party: Schreiber v. Mulroney,
+
+[2007] O.J. No. 3191 (Sup.Ct.) at para. 2. The Plaintiffs take the position, however, that I should
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+- Page 2 -
+
+[5]
+The Plaintiff relies on this statement from Orkin, The Law of Costs (2nd Ed.)(Toronto:
+2016)
+408.13 Inspection of Property: An order for the inspection of property was madewith costs in the cause, and a second inspection has been order has been orderedwith costs to the responding party in the cause. An order for inspection wasrefused with costs in the cause or costs to the responding party in the cause.
+(Citations omitted).
+
+[6]
+The Plaintiffs also point to other situations where costs in the cause have been granted.
+In 1615540 Ontario Inc. (c.o.b. Healing Hands Massage Therapy Clinic) v. Simon, 2013 ONSC
+4798 Perell J. granted an interlocutory injunction. The injunction required the defendants toreturn files, records, and property in their possession to the plaintiff. Perell J. referred to JusticeSharpe’s text on Injunctions and Specific Performance. Justice Sharp noted that it would beunusual to award costs to a successful plaintiff on an interlocutory injunction. An interlocutoryinjunction is not a final determination of the merits but simply preserves the plaintiff’s position.
+Perell J. ordered costs in the cause.
+
+[7]
+In Mittal v. Jindal, 2012 ONSC 4297 Perell J. also ordered costs in the cause where thewin was “technical”. Likewise, in Brown v. Hudson’s Bay Co., 2014 ONSC 5079 Price J.
+ordered costs in the cause on a motion for leave to appeal to the Divisional Court, that being theusual practice. Price J. also ordered costs in the cause on an application by a landlord for adeclaration that a tenant was required to do certain work on the property. Price J. ordered costsin the cause on the basis that the landlord’s victory was only partial: Caledonia Service StationInc. v. Cango Inc., 2010 ONSC 2256.
+
+[8]
+With great respect to counsel to the Plaintiff, whose submissions are always verypersuasive, I am unable to agree. I see no reason to exercise my discretion and depart from theusual rule. I do not doubt that in many cases it would be appropriate to order costs in the causeon a motion for inspection. This case, however, is different. The Plaintiffs sought a thirdinspection after two inspections were conducted pursuant to the agreement. I appreciate that thePlaintiffs say that the Defendant’s obstructed the original inspections, but I did not make afinding on that point. My finding was that the motion was premature because discovery had notyet taken place. I was not persuaded that traditional discovery could not have yielded results –
+not the least of which could have been a more focussed request.
+QUANTUM
+
+[9]
+With regard to quantum, costs are within the discretion of the Court: Courts of JusticeAct, s. 131(1). Rule 57.01(1) sets out the factors that the Court may consider in awarding costs.
+
+make an order that costs are “in the cause”. They argue that I did not determine the entitlementto inspection. I only determined whether an inspection was necessary at the time. The Plaintiffsargue that costs are often awarded “in the cause” on a motion for inspection. This is especiallyso where there was a reasonable basis for the motion and there remains a prospect that thePlaintiffs will still succeed in obtaining an inspection order at a future time.
+
+- Page 3 -
+
+[10] The parties here are large and sophisticated and evenly matched. Although the motion didnot engage sophisticated legal concepts, there were reasonably complex technical issues exploredthrough affidavits and cross-examinations. Under those circumstances, I believe that theirreasonable expectations should play a significant role. I also agree that the 55-60% rule shouldapply: Inter-Leasing Inc. v. Ontario (Minister of Revenue), 2014 ONCA 683 at para. 5;Pennyfeather v. Timminco Ltd., 2016 ONSC 4706 at para. 16. The Defendant’s partialindemnity amount of $48,880.70 based on 60% of actual costs of $80,556.86 is reasonable in thecircumstances.
+That is especially given that the Plaintiff’s costs outline sets out partialindemnity costs in the amount of $51,425.99 is almost identical.
+DISPOSITION
+
+[11]
+
+The Plaintiffs will pay the defendants $48,880.70 within 30 days.
+
+R.F. Goldstein J.
+
+Date: May 25, 2017
+
+The Court should fix an amount that is fair and reasonable in the circumstances: Boucher v.
+[2004] O.J. No. 2643 (C.A.).
+

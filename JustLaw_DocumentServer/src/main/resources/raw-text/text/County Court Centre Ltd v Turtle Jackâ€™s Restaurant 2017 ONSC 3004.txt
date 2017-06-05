@@ -1,0 +1,133 @@
+SUPERIOR COURT OF JUSTICE - ONTARIO
+RE:
+
+County Court Centre Ltd., Plaintiff
+– AND –
+Turtle Jack’s Restaurant (Brampton) Inc., 2281743 Ontario Inc., Global In-FlightSolutions Ltd., Guneet Gulati, Nabilla Gulati, Keith D’Sa and Gurjant Singh Virk,Defendants
+
+BEFORE:
+
+Justice E.M. Morgan
+
+COUNSEL: Mark Ross and Sharon Sam, for the PlaintiffRalph Swaine, for the Defendants, 2281743 Ontario Inc., Guneet Gulati andNabilla GulatiRonald Allan, for the Defendant, Turtle Jack’s Restaurant (Brampton) Inc.
+Keith D’Sa, in personHEARD:
+
+May 15, 2017
+
+DAMAGES ENDORSEMET
+
+I.
+
+The mini-trial
+
+[1]
+This matter came before me as a summary judgment motion last year. On July 28, 2016, I
+rendered judgment in favour of the Plaintiff, holding that the Defendants are liable as the formertenants, assignees, and/or guarantors under a commercial lease with the Plaintiff as landlord,dated March 1992 and its successor leases (the “Lease”).
+
+[2]
+On the basis of the record before me at the original motion, I was unable to quantify thedamages owed by the Defendants to the Plaintiffs. I ordered a mini-trial on damages, which I
+have now heard.
+
+CITATION: County Court Centre Ltd. v. Turtle Jack’s Restaurant, 2017 ONSC 3004
+COURT FILE NO.: CV-15-00538038
+DATE: 20170517
+
+[3]
+The Plaintiff has produced two expert witnesses – one to provide an opinion of value asto the Plaintiff’s losses under the Lease and the other to provide an opinion of value of the goodsand chattels left behind by the Defendant, Global In-Flight Solutions Ltd. (c.o.b. “Kort Haus”),the last tenant under the Lease. The Plaintiff has also called the real estate agent that leased thepremises to a new tenant after the breach by Kort Hous and who charged a commission for thisservice, and has produced affidavits of its property manager and accountant who have detailedthe common expenses of the building for which the tenant was responsible under the Lease.
+
+[4]
+The Defendant, Turtle Jack’s Restaurant (Brampton) Inc., was the original tenant underthe Lease. It had counsel present at the hearing who maintained a watching brief; his role waspassive and he took no part in producing evidence or making submissions. The Defendant, KeithD’Sa, is a minority shareholder and one of the personal guarantors of Kort Haus, the last tenantunder the Lease. He appeared in person at the hearing and for the most part also maintained awatching brief; he did make brief submissions at the conclusion of the hearing, but did nototherwise actively participate in the proceedings. I understand that the Defendant, Gurjant SinghVirk, who is the majority shareholder and the other personal guarantor of Kort Haus, isinsolvent; he did not attend either stage of the hearings.
+
+[5]
+The Defendant, 2281743 Ontario Inc. (c.o.b. “Tee Jays”), was the second-to-last tenantunder the Lease and the assignor of the Lease to Kort Haus. Tee Jays and its principals andpersonal guarantors, Guneet Gulati and Nabilla Gulati (collectively the “Tee Jays Group”), hadcounsel present at both hearings and were the Defendants that carried the ball for the defense ofthis case. It is Tee Jays that appears to have initially acquired and assigned to Kort Haus most ofthe goods and chattels that Kort Haus ultimately left in the leased premises upon beingterminated.
+
+[6]
+The defense called two witnesses, one of whom, Guneet Gulati, is a personal Defendantand principal of Tee Jays. The other witness, Sahil Gulati, is Guneet Gulati’s brother and helpshim out in the business. These witnesses have experience running a family-owned restaurant, andthey both struck me as hard working and honest business people. That said, they have noprofessional expertise on how to value a lease (or a balance remaining after breach of a lease)
+and no expertise on how to value chattels such as those that were left in the leased premises byKort Haus. The Defendants called no expert witnesses on any question of valuation.
+
+[7]
+The Plaintiff’s expert with respect to the damages resulting from breach of the Lease wasNancy Rogers, an experienced and credible forensic accountant and professional businessvaluator who has testified in numerous judicial proceedings on valuation issues. She wasqualified as at the hearing as an expert witness, and her report has been made an exhibit to thistrial. I found her evidence to be reliable, precise, and very helpful in determining the value of thePlaintiff’s losses under the Lease.
+II.
+
+The damages calculation
+
+[8]
+In Toronto Housing Co. v Postal Promotions Ltd. (1982), 30 OR (2d) 627, at para 7, theCourt of Appeal observed that a commercial landlord’s damages upon breach by a tenant include
+
+- Page 2 -
+
+“the present value of unpaid future rent for the unexpired period of the lease and should bedecreased by the actual rental value for the same period.” Thus, in order to avoid a windfall forthe Plaintiff here, a mitigation credit must be deducted from the rent otherwise due under theKort Haus lease: AB Investments Limited v Khan, 2011 ONSC 4491, at para 29. As mycolleague Perell J. explained in Morguard Corp. v 2063881 Ontario Inc., 2013 ONSC 17351, atpara 25, the court must “account for the costs saved by the breach and…take into account that alandlord is free to benefit from its property by leasing to a new tenant.”
+
+[9]
+Accordingly, the measure of damages for a terminated lease is the unpaid rent under thelease, less the rental value of the premises for that unexpired period, plus reasonably foreseeableconsequential losses: 2013881 Ontario Inc., at paras 24, 34. This approach is designed to placethe Plaintiff, as landlord, in the position it would have been in had the covenants in the leasebeen performed: Morguard Real Estate Investment Trust v Pita Pizzaz Inc. (2005), 35 RPR (4th )
+229, at para 28 (ONSC).
+
+[10] In her report, Ms. Rogers has compiled figures using December 1, 2016 as the anticipateddate of the current mini-trial, as that was when it was initially scheduled to take place. Shetestified that the additional months up to the actual date of this proceeding would make such asmall change in the figures that she used that it was not worth re-doing the calculations. I willtherefore follow her lead and use the December 1, 2016 date for calculation purposes as well.
+
+[11] Ms. Rogers tallied up the unpaid rent owed by Kort Haus from the beginning of the Leaseon January 1, 2015 until November 30, 2016 (i.e. the day before the anticipated trial date),together with the reasonable expenses incurred by the Plaintiff during this period that the tenantwould otherwise have paid (hydro, roof repairs, HST on rent), and the real estate commissionpaid on re-leasing the premises. The total amount for this period comes to $444,024.
+
+[12] She then took into account the fact that the Plaintiff has re-let the premises to a newtenant, albeit for a lower monthly rent. While Kort Haus was paying $22 per square foot, the newtenant is paying $15 per square foot. The new lease came into effect on May 16, 2016. Itcontained a six-month rent-free period, which the Plaintiff’s real estate agent testified is astandard tenant inducement for the industry in the market that prevailed at the time as well asnow. Ms. Rogers has calculated the difference between what the Plaintiff is getting under thenew lease and what it would have continued to receive from Kort Haus under its Lease, and hastotalled that difference for the period December 1, 2016 to October 31, 2017 (i.e. the end date forthe Kort Haus Lease). The total difference has then been present valued to December 1, 2016
+since it reflects a future amount from the anticipated trial date. The present value of thedifference between the two rents from December 1, 2016 to the end of the Kort Haus lease is
+$48,960.
+
+[13] From this overall amount of $492,984 in losses ($444,024 + 48,960 = 492,984), one mustdeduct the value of the goods and chattels left behind by Kort Haus and distrained by thePlaintiff.
+
+- Page 3 -
+
+[14] The Plaintiff’s expert with respect to the distrained goods and chattels was HarveyGreber, a professional bailiff, auctioneer, and certified personal property appraiser. Mr. Greberwas qualified as an expert witness at the hearing and his report and supplemental report weremade exhibits. I found Mr. Greber to be knowledgeable and reliable in terms of his overallmethodology of valuation – that is, in terms of the differences between a liquidation distressvalue, an in-place fair market value, and a replacement value. Where I found his evidence to besomewhat weaker was with respect to the actual items; Mr. Greber seemed to ‘eyeball’ thefurnishings and equipment and made little effort to determine the make or quality of the items.
+While I partially accept his explanation that a six-year old set of table and chairs, barstools, patiofurniture, etc. is only worth so much regardless of the quality and make, he did not do muchhomework on the specific items involved.
+
+[15] Mr. Greber’s supplementary report takes into account that some of the chattels left in thepremises were sold by the Plaintiff on a liquidation basis while others were given by the Plaintiffto its new tenant as an additional rental inducement. He attributes an overall value to these goodsof somewhere between $20,965 and $24,823.
+
+[16] The Defendants – in particular, the Tee Jays Group – dispute the value placed on thechattels by Mr. Greber. They assert that the true value is substantially higher – they say it isapproximately $150,000, or one-half the cost of the renovation that Tee Jays did when it tookover the premises in 2014. In his testimony, Sahil Gulati was able to recall the initial cost ofsome of the equipment, and indicated that he had researched the replacement value of some ofthe equipment. He tried, as a person in the restaurant business, to provide a guess as to the valueof used restaurant equipment and furnishings. But he is not an expert, nor is he objective as aclose family member of two of the personal guarantors. To the extent that his testimony slippedinto opinion evidence, I am inclined to give it no weight.
+
+[17] The factual evidence that the Gulati brothers were able to offer had to do with the initialcost of the equipment when they purchased it. It did not pertain to the cost of the equipment in itsused condition after Kort Haus had acquired it and used it for considerable time. The onlycomments that were offered in this respect were very general: for example, Guneet Gulatiadvised the court that some of the chairs were valuable because they are solid wood, but did notknow the value or even the type of the wood. Sahil Gulati provided a letter from a manufacturerof kitchen equipment outlining “ball park” prices for various items. Guneet Gulati describedcertain of the furnishings in the restaurant as having been custom built for the specific premisesin which they were installed; he said this in an effort to augment the value of these items,although logic dictates that this might reduce or possibly eliminate the value of this equipmenton a liquidation or re-sale basis. He also indicated that the values of a number of the items – theused microwave, used pizza oven and used waffle iron, for example – were unknown.
+
+[18] None of the information provided by the Defendants’ two witness was particularly usefulin assessing the value of the chattels left behind by Kort Haus. I am therefore left with only theexpert evidence of Mr. Greber in respect of these chattels. Given the frailties I have identified inMr. Greber’s valuation of them, I prefer to err on the high side by taking the maximum value thathe attributed to them. The top end of Mr. Greber’s range of value is $24,823, which I will use as
+
+- Page 4 -
+
+- Page 5 -
+
+[19] In addition, Ms. Rogers pointed out in her testimony that since the 6-month rent freeperiod given to the new tenant represents a standard industry expense that the Plaintiff wouldlikely have incurred after expiry of the Kort Haus Lease, an equivalent amount should bededucted from the Plaintiff’s losses. This reflects a rent-free period that the Plaintiff would havehad to give away at the end of the Kort Haus tenancy, but which will now be fully paid by thenew tenant who has signed a longer term lease. Using the new tenant’s rent as reflecting anupdated market rental value, Ms. Rogers has valued this six month rent free period at $60,115.
+
+[20] The two deductions from the Plaintiff’s net losses come to $84,938 ($24,823 + 60,115 =
+84,938). When subtracted from the Plaintiff’s net losses under the Lease, the total loss comes to
+$408,046 ($492,984 - 84,938 = 408,046).
+III.
+
+Disposition re damages
+
+[21]
+
+The Defendants shall pay the Plaintiff damages in the total amount of $408,046.
+
+[22] For greater certainty, liability for these damages is shared jointly and severally among allof the Defendants.
+
+[23] The $408,046 in damages includes HST payments on the rental income. This, of course,is not meant to be a windfall to the Plaintiff, and I would expect the Plaintiff to remit theappropriate HST amounts to the government. The Plaintiff’s accountant testified that the Plaintiffwould do so in the ordinary course of receiving these payments.
+
+[24] The pre-judgment interest rate is agreed upon by the parties as being 5% per annum, noncompounding. It runs from the date any given amount that remains due under the Lease camedue, starting in January 2015. Ms. Rogers has provided a precise calculation of this interest inSchedule 3 (Scenario 2) of her report, but since I have valued the goods and chattels at the highend of Mr. Greber’s supplementary report and she used a lower figure from an initial report filedby Mr. Greber, I cannot simply replicate Ms. Rogers’ pre-judgment interest calculations. I leaveit to the parties and their counsel to work out the precise amount of pre-judgment interest owingfrom January 2015 to today’s date, following the methodology used by Ms. Rogers.
+IV.
+
+Costs
+
+[25] The Plaintiff is the successful party and deserves costs of these proceedings. Counsel forthe Plaintiff and counsel for the Tee Jays Group have each submitted a Bill of Costs. TheDefendants other than the Tee Jays Group did not participate fully, or at all, in the proceedings,and so are not liable for costs.
+
+[26] The Plaintiff seeks, on a partial indemnity basis, a total of $16,051,86 for the summaryjudgment motion (the costs of which were reserved to the current proceedings) and $32,994.19
+for the mini-trial on damages. These do not strike me as unreasonably high amounts. Plaintiff’s
+
+the value of the chattels distrained by the Plaintiff from Kort Haus. This amount is subtractedfrom the losses incurred by the Plaintiff.
+
+- Page 6 -
+
+[27] The discretion of a trial or motion judge to fix costs is generally to be exercised inaccordance with the criteria set out in Rule 57.01 of the Rules of Civil Procedure. Of particularrelevance to this case is the fact that the amount of costs sought by the Plaintiff is proportionateto the amount of the award of damages: Rule 57.01(1)(a). Although the issue of a tenant’sliability under a commercial lease is not unusually complex, the accounting issues relevant toquantifying damages here required a substantial amount of thought and time-consuming effort:
+Rule 57.01(1)(c). It is certainly the case that recovery of monies lost due to breach of a lease isan important issue for a commercial landlord, as rental income is the very essence of its business:
+Rule 57.01(1)(d).
+
+[28] Taking into account these considerations, the Tee Jays Group shall pay the Plaintiff costsin the amount of $49,046.05, inclusive of fees, disbursements, and HST. There shall be no costspayable by or to any other Defendant.
+
+Morgan J.
+Date: May 17, 2017
+
+counsel had multiple affidavits to prepare for each of the two stages of the proceedings, factumsto write and briefs of authorities to put together, two experts to prepare and a number of factwitnesses to prepare for the trial on damages, in addition to preparation for cross-examining theDefendants’ witnesses. Mr. Ross and Ms. Sam, on behalf of the Plaintiff, were well prepared andeffective without having spent an excessive number of hours given the size of the matter at hand.
+

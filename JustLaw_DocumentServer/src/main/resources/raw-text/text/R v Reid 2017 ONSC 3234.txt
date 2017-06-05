@@ -1,0 +1,284 @@
+CITATION: R. v. Reid, 2017 ONSC 3234
+COURT FILE NO.: CR-16-90000307-0000
+DATE: 20170525
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+HER MAJESTY THE QUEEN
+
+– and –
+
+ELLESTON REID
+
+J. Mitschele and J. DiFillipis, for the Crown
+
+J. Filiberto and B. Vandenbeek, for theAccused
+
+HEARD: April 11-13, 2017
+
+S.A.Q. AKHTAR J.
+FACTUAL BACKGROUND AND OVERVIEW
+Factual Background
+
+[1]
+Using a confidential informant, police sought and obtained a warrant to search a vehiclebelonging to the applicant, Elleston Reid, as well as his home address on the basis that therewere reasonable and probable grounds to find evidence relating to drug transactions. Theapplicant was arrested while exiting his vehicle and police found, on his person, 10.61 grams ofcocaine in addition to a large quantity of cash. Inside the vehicle, a black Honda bearing thelicence plate of AJBL 878, police seized a further 158.94 grams of cocaine and 9.44 grams ofmarihuana.
+
+[2]
+A search of the applicant’s residence, located at Unit 609, 2441 Finch Avenue West inToronto, yielded more controlled substances: 249.85 grams of cocaine found in the kitchen andon the dining table; 55.68 grams of oxycodone on a TV stand in the living room; 257.86 grams
+
+ONTARIO
+
+2
+
+[3]
+The applicant seeks a declaration that the warrant authorising a search of his home andvehicle, which was executed on 14 November 2014, lacked the requisite reasonable and probablegrounds to justify issuance. As a consequence, his s. 8 rights under the Charter of Rights andFreedoms were breached. Accordingly, he asks this court to exclude the evidence found as aresult.
+The Judicial Authorisation
+
+[4]
+On 14 November 2014, Police Constable Mark Furzecott submitted, through thetelewarrant procedure, an Information to Obtain a Search Warrant (ITO) which was granted thesame day by a Justice of the Peace.
+
+[5]
+The ITO specified that the police believed that a large amount of cocaine would be foundat Unit 609, 2441 Finch Avenue West in Toronto. The ITO declared that a search would affordevidence of the applicant’s possession of the drug for the purposes of trafficking.
+
+[6]
+The ITO was largely based on the information provided by a confidential informant whohad purchased cocaine from the applicant. Using that information, police conducted observationson a car described by the informant to be used in drug transactions. Police connected the drugdealing activity to that of a black Honda with the licence plate, AJBL878, driven by “an olderblack man” wearing a flat cap and glasses. This description was consistent with the descriptionprovided by the informant.
+
+[7]
+A check on the licence plate revealed that the Honda was owned by the applicant andregistered to Unit 609, 2441 Finch Avenue West. Further enquiries showed that the applicantwas driving the vehicle on 23 January 2013 when involved in a Highway Traffic Act incident.
+Finally, the police found the applicant to be residing at Unit 609, 2441 Finch Avenue West, afact which led to the police seeking the warrant.
+
+[8]
+Several paragraphs of the ITO were subject to heavy redaction to protect the identity ofthe confidential informant. At this hearing, Crown counsel, Mr. Mitschele, concedes that theredacted ITO would fail to satisfy the test to be conducted on review. As part of his response tothe applicant’s s. 8 challenge, he asks that that his court engage in a “Step Six” analysis andevaluate the ITO in its unredacted form to determine whether the warrant could have issued.
+PROCEDURAL ISSUES
+Step Six of the Garofoli Procedure
+
+[9]
+In R. v. Garofoli, [1990] 2 S.C.R. 1421, at p. 1461, Sopinka J. set out the followingprocedure to deal with redacted ITOs:
+
+of marihuana along with a plant; and $23,030 located in the bedroom with identification in theapplicant’s name.
+
+3
+
+2. The trial judge should then edit the affidavit as proposed by Crown counseland furnish a copy as edited to counsel for the accused. Submissions should thenbe entertained from counsel for the accused. If the trial judge is of the view thatcounsel for the accused will not be able to appreciate the nature of the deletionsfrom the submissions of Crown counsel and the edited affidavit, a form of judicialsummary as to the general nature of the deletions should be provided.
+3. After hearing counsel for the accused and reply from the Crown, the trial judgeshould make a final determination as to editing, bearing in mind that editing is tobe kept to a minimum and applying the factors listed above.
+4. After the determination has been made in (3), the packet material should beprovided to the accused.
+5. If the Crown can support the authorization on the basis of the material asedited, the authorization is confirmed.
+6. If, however, the editing renders the authorization insupportable, then theCrown may apply to have the trial judge consider so much of the excised materialas is necessary to support the authorization. The trial judge should accede to sucha request only if satisfied that the accused is sufficiently aware of the nature of theexcised material to challenge it in argument or by evidence. In this regard, ajudicial summary of the excised material should be provided if it will fulfil thatfunction. It goes without saying that if the Crown is dissatisfied with the extent ofdisclosure and is of the view that the public interest will be prejudiced, it canwithdraw tender of the wiretap evidence.
+
+[10] Although Mr. Filiberto, counsel for the applicant, brought an application under Steps 2 to5 of the procedure, the Crown’s indication that it would seek to invoke Step Six meant that thepreceding steps were absorbed into the exercise of furnishing sufficient material to permit theapplicant to challenge the ITO.
+
+[11] In R. v. Crevier, 2015 ONCA 619, Rouleau J.A. emphasised the need to balance theprotection of the identity of the informant and maintain the accused’s right to full answer anddefence. The court emphasised the requirement that in Step Six cases, the applicant retains theability to mount a sub-facial challenge to the ITO. In creating the judicial summary, this courtmust “be satisfied that the summary, together with other information available to the accused,provides the accused with enough knowledge of the nature of the redactions to be able tochallenge them in argument or by evidence:” Crevier, at para. 90. In considering the redacted
+
+1. Upon opening of the packet, if the Crown objects to disclosure of any of thematerial, an application should be made by the Crown suggesting the nature of thematters to be edited and the basis therefor. Only Crown counsel will have theaffidavit at this point.
+
+4
+
+[12] As part of the judicial summary creation exercise, the applicant consented to an ex partehearing where the court and the Crown were able to engage in a frank discussion about whatmaterial could be disclosed without revealing the identity of the confidential informant. As aresult of this hearing, I ordered that additional, previously redacted material be provided to theapplicant. The amended ITO - containing this newly disclosed material - along with a judicialsummary prepared by the Crown and approved by the court satisfies the Crevier requirements.
+Leave to Cross-examine the Affiant
+
+[13] The applicant also sought to cross-examine the ITO’s author, PC Furzecott, pursuant tothe principles in R. v. Lising, 2005 SCC 66, sub. nom. R. v. Pires. The test for granting leave tocross-examine an affiant is whether the proposed cross-examination is useful in demonstratingthat the affiant knew or ought to have known information contained in the ITO was false: WorldBank Group v. Wallace, 2016 SCC 15, at paras. 119–120. The applicant must demonstrate thatthere was a reasonable likelihood that the proposed questioning would “generate evidencediscrediting the existence of one or more grounds for the issuance of the warrant”: R. v.
+Shivrattan, 2017 ONCA 23, at para. 37; R. v. Green, 2015 ONCA 579, at para. 34.
+
+[14]
+
+The Crown conceded that cross-examination was appropriate in the following areas:
+
+why the confidential informant’s criminal record, if one existed, was not beforethe issuing justice;the confidential informant’s motivation in providing the information;the reason for searching the applicant’s residence as well as his vehicle;whether the confidential informant harboured animus towards the target; andwhy the description of the target being an older black male was not in any policenotes.
+
+[15] Mr. Filiberto initially sought to cross-examine on a multitude of other areas butsubsequently chose to limit his scope of enquiry to more discrete topics. I granted leave on thefollowing subject-matter:
+
+the information relating to police activity at 137 Lindylou Road in Toronto;the observations of the black male seen to exit the Honda on 13 November 2014;andthe reasons for the affiant using the telewarrant procedure.
+
+[16] I declined to permit cross-examination on a number of other issues which, in my view,could not provide a basis for undermining any of the grounds of the ITO. For example, Mr.
+
+portions that the applicant cannot see, the trial judge must apportion weight taking intoconsideration that fact.
+
+Filiberto sought leave to cross-examination PC Furzecott on the absence of any detailedinformation regarding Jading Reid - also a resident of Unit 609 - from the ITO. In Mr. Filiberto’ssubmission, the fact of a second resident in Unit 609 would diminish the grounds in the ITO
+particularly in light of a previous occurrence in which Ms. Reid had reported her cellphone asstolen on 19 November 2010. I rejected this submission for a number of reasons. First, Ms. Reidwas referenced as being an occupant of the unit in the ITO. Secondly, it is difficult to understandwhy the dearth of information concerning Ms. Reid in the ITO is of any significance when thetarget was clearly identified as a male. Thirdly, the ITO made it clear that the person sought bythe police was the registered owner of the Honda who had already been confirmed as theapplicant. Fourthly, the fact that Ms. Reid had contacted the police some four years prior to theapplication is of negligible relevance to the existence of reasonable and probable grounds inNovember 2014. Finally, the defence could argue this point without any need to question theaffiant upon it.
+
+[17] I also denied leave to cross-examine the affiant on his failure to explicitly state that theapplicant had no criminal record as the ITO made clear that the applicant had no TPS or FPS
+number. This information went further than simply stating that the applicant had no criminalrecord: it showed that he had never been charged with a criminal offence. In any event, as withthe subject of Jadina Reid, this argument could be made just as effectively without crossexamination.
+
+[18] Finally, I declined to permit cross-examination on the failure to explicitly state that theblack Honda had not been involved in any criminal activity. An omission is relevant if it relatesto a material fact: R. v. Araujo, 2000 SCC 65, at para. 46. There was no assertion, implied orotherwise, that the Honda had been involved in criminal activity - the issuing justice could nothave assumed the contrary was true.
+WAS THE WARRANT PROPERLY ISSUED?
+The Test for Reviewing a Judicially Authorised Warrant
+
+[19] The ITO that is challenged is presumed to be valid and the onus of establishing itsinvalidity in a Charter application rests upon the challenging party: R. v. Sadikov, 2014 ONCA
+72, at para. 83.
+
+[20] It is trite law that the review of a judicially authorised warrant does not involve a freshhearing of the validity of the warrant where the reviewing judge substitutes their view for that ofthe authorising judge. The review consists of the evaluation of the record which was before theauthorising judge in order to determine whether it disclosed sufficient evidence upon which thejudge could have issued the authorisation: Garofoli, at p. 1452; Araujo, at para. 51; R. v. Morelli,2010 SCC 8, at para. 40; R. v. Mahmood, 2011 ONCA 693, at para. 99. Any facts that the affiantknew or ought to have known were inaccurate must be excised from the ITO and cannot beconsidered: World Bank Group v. Wallace, at para. 119–121.
+
+5
+
+[21] In order to persuade an issuing justice to authorise a warrant, the ITO upon which it isfounded must set out reasonable and probable grounds to believe an offence has been committedand that evidence relating to that offence will be found at the place to be searched: Hunter v.
+Southam Inc., [1984] 2 S.C.R. 145, at p. 18. The party challenging the warrant must establishthat there was no basis upon which the authorising judge could have issued the warrant in orderfor it to be invalid: Lising, at para. 8. When deciding the issue, the reviewing judge must look atthe totality of circumstances set out in the ITO to determine whether the police had made outreasonable and probable grounds that evidence of drug trafficking would be found in theapplicant’s car and home: R. v. Choi, 2013 ONSC 291, at para. 37.
+
+The Attack on the Warrant
+
+[22] Ms. Vandebeek, co-counsel for the applicant, submits that the warrant fails on both thefacial and subfacial grounds. Her prongs of attack can be summarised in the following way:
+
+[23]
+
+1.
+
+The informant’s tip failed to meet the criteria set out by the Supreme Court ofCanada in R. v. Debot, [1989] 2 S.C.R. 1140 and could not therefore be reliedupon by the police;
+
+2.
+
+There was no link between the target as identified by the confidential informantand the applicant’s residence;
+
+3.
+
+The police failed to disclose material information within the ITO; and
+
+4.
+
+The telewarrant procedure by which the warrant was obtained did not complywith the statutory conditions of issuance.
+
+I deal with each ground in turn.
+
+Did the Informant’s Tip Satisfy the Debot Criteria?
+
+[24] To be relied upon, the informant’s tip must be compelling, credible and corroborated.
+This set of criteria was expressed in the following way by Wilson J. in Debot, at p. 1168:
+In my view, there are at least three concerns to be addressed in weighing evidencerelied on by the police to justify a warrantless search. First, was the informationpredicting the commission of a criminal offence compelling? Second, where thatinformation was based on a "tip" originating from a source outside the police, wasthat source credible? Finally, was the information corroborated by policeinvestigation prior to making the decision to conduct the search? I do not suggestthat each of these factors forms a separate test. Rather, I concur with Martin J.A.'sview that the "totality of the circumstances" must meet the standard of
+
+6
+
+7
+
+[25] As noted, the Crown’s reason for going to Step Six was the acknowledgment that withoutthe informer’s tip, the ITO could not be sustained. Satisfying the Debot test, therefore, is criticalto the Crown’s response to the Charter challenge.
+Was the Tip Compelling?
+
+[26] Ms. Vandebeek alleges that the tip fails to satisfy the first component of the Debotcriteria. I disagree. It is clear from the judicial summary and the final redacted ITO that the tipprovides details of dates, locations, quantities, and types of drugs sold and in the possession ofthe applicant. It should also not be forgotten that the informant was a purchaser of controlledsubstances from the suspect. This aspect of the Debot test is more than satisfied.
+Was the Source Credible?
+
+[27] The informant was described as “carded” with an example of a past success whenproviding information. Ms. Vandebeek attacks the characterisation of credibility in a number ofways.
+
+[28] First, she argues that there was no reference to the source’s motivation in assisting thepolice. Although PC Furzecott, in his testimony on the s. 8 motion, indicated that the informantwas paid, there was no reference to this fact in the ITO. It is difficult to understand why the word
+“paid” was not inserted before “carded” in the description of the informant. However, as Mr.Mitschele, for the Crown, submits, the fact that the informant was paid might have strengthenedthe ITO. The police will, after all, only pay an informer if the information received is reliable.
+Although I agree that the police ought to have stated the financial benefit given to the informer,the absence of this detail is not, in my view, a material omission which would have significantlyimpacted the ITO.
+
+[29] Secondly, Ms. Vandebeek contends that although the ITO disclosed that the informanthad, on one occasion, provided information which resulted in the discovery of controlledsubstances and the arrest of an individual, there were no details of whether a conviction resulted.
+This omission, argues Ms. Vandebeek, was material as the missing information might havedetracted from the strength of the past tip. I reject this submission. As explained by the court inR. v. Nguyen, 2015 ONCA 753, at para. 12:
+Whether or not convictions had yet ensued as a result of those drug-related arrestsdoes not detract from the reliability of the informant. Considerable time oftenelapses between an arrest and trial and, in any event, an arrest and seizure ofdrugs may not result in a conviction for any number of reasons unrelated to thereliability of the informant.
+
+reasonableness. Weaknesses in one area may, to some extent, be compensated bystrengths in the other two.
+
+8
+
+[31] Fourthly, Ms. Vandebeek submits that the police failed to take steps to obtain a “KGB”
+style statement from the informant where the information provided would be videotaped andmade under oath or affirmation with warnings as to the consequences of providing a falsestatement. Once again, I reject this argument. Informant tips are not the type of information thatare usually subjected to a KGB style video procedure. Although an acknowledgement that he orshe might face criminal charges if found to be lying would be important (see: Choi, at para. 34),the informant’s knowledge of the subject matter and ability to have observed the events firsthand are equally significant.
+
+[32] I do, however, have some sympathy with Ms. Vandebeek’s argument that the policecould and should have done more to provide background details of the source in this case. Whenquestioned, PC Furzecott indicated that PC Willett, the source handler, had told him of thesource’s reliability. He also testified that he was waiting for PC Willett to provide an appendix tothe ITO which would fully set out the source’s motivation, criminal record and background. Thatappendix was never provided by PC Willett but PC Furzecott nonetheless proceeded with hisapplication. It is somewhat of a mystery as to why PC Furzecott did not press PC Willett for theappendix before making the application.
+
+[33] At the end of the day, however, although there is some traction to Ms. Vandebeek’sargument that the credibility criterion of the Debot test is wanting, it is not non-existent. Asnoted, the informant was known to the police, registered as an informer and assigned a handlerand had provided a successful tip in the past.
+Was the Information Corroborated?
+
+[34] Corroboration of the tip does not require confirmation of the actual criminality of theallegation but information which gives comfort that the source is telling the truth in relevantaspects of his account: R. v. Kehler, 2004 SCC 11, at para. 15; R. Khela, 2009 SCC 4, at paras.
+42–43; R. v. Caissey, 2007 ABCA 380, at para. 23, aff’d, 2008 SCC 65.
+
+[35] Ms. Vandebeek asks this court to find that there was no corroboration in this case. I
+disagree.
+
+[36] The information provided by the source was that the target was an older black male agedapproximately 45-55 years old, who wore glasses and drove a four door Honda with a spoiler. Atparagraph 22 of the ITO, the affiant describes DC Willett attending a scene and observing a drugtransaction associated with a four door Honda with a spoiler on the rear. The driver of the Hondawas observed to be a black male “possibly in his 50s wearing a flat cap and glasses.” TheHonda’s plate is noted as AJBL878. That same vehicle - a black Honda with a spoiler - is seenagain by PC Furzecott later on when he patrols the parking lot at 2441 Finch Avenue West.
+
+[30] Thirdly, Ms. Vandebeek argues that the ITO is lacking any reference to potential animuson the part of the source towards the target. Once again, I do not think this to be a significantomission as there is no suggestion in the ITO that there was no animus towards the target.
+
+9
+
+[37] The informant’s information about the car and its driver is verified through three separatepolice officers. I view this evidence to constitute potent corroboration.
+Conclusion on the Debot Test
+
+[38] As noted, there is no requirement that all three branches of the Debot test be “ticked” forthe informant’s tip to be satisfied and available for use in the ITO. Although I acknowledge thatthe credibility of the informant as described in the ITO was hardly ideal, the compelling natureof the tip and the corroboration of the information more than compensate for the weaknesses inthe credibility branch. Accordingly, I find the tip could be used by the issuing justice whendeciding to issue the warrant.
+Full Fair and Frank Disclosure
+
+[39] Before turning to whether, in the totality of the circumstances, the issuing justice couldhave authorised the warrant, I pause to address a theme that recurred throughout the applicant’sargument: that the police did not provide full, frank and fair disclosure to the issuing justice.
+
+[40] As previously referenced, the affiant of an ITO has a duty to make full, frank and fairdisclosure of all material facts: Araujo, at para. 46; Morelli, at paras. 44, 58–60. The key word inthis trite principle of law is “material.” There is no obligation to put in each and every piece ofevidence that is gathered, no matter how insignificant it may be. This point was explained withgreat clarity in R. v. Nguyen, 2011 ONCA 465, at para. 51, where Blair J.A. made the followingcomments:
+The obligation on applicants for a search warrant is not to commit the error ofmaterial non-disclosure. "Materiality" is something that bears on the merits orsubstance of the application rather than on its form or some other inconsequentialmatter: R. v. Land (1990), 55 C.C.C. (3d) 382 (Ont. H.C.), per Watt J., at p. 417.
+There is no obligation on applicants to anticipate, and to explain away in advance,every conceivable indicia of crime they did not see or sense and everyconceivable investigative step they did not take at the time in order to counter thecreative arguments of able defence counsel on a review hearing many months oryears after the event.
+
+[41] Many of the defence complaints of “omissions” fall within the description proffered byBlair J.A. For example, Ms. Vandebeek, in her very able submissions, pointed to the affiant’sfailure to reference more information about Lindylou Road, a location which had beenmentioned in his memo book. The affiant, in cross-examination, told the court that the onlyrelevance of Lindylou Road was that its parking lot was adjacent to the building located at 2441
+Finch Avenue West to which the Honda was registered: since the parking lots adjoined, residentsof 2441 Finch Avenue West could also use the Lindylou Road lot.
+
+Later, PC Jeffrey East, on surveillance duty, sees the Honda drive into the same lot and “an olderblack male” exit the car.
+
+10
+
+Could the Warrant Have Issued?
+
+[43] Ultimately, the question to be answered on this application is whether, in the totality ofthe circumstances, the authorising justice could have been satisfied that there were reasonableand probable grounds that an offence had been committed and that evidence of that offence - inthis case, controlled substances - would be found in the applicant’s Honda and his home addressof Unit 609, 2441 Finch Avenue West.
+
+[44] The tip in this case satisfied the Debot test providing compelling information which wascorroborated by police observations. Ms. Vandebeek argues that even if the tip could have beenconsidered by the issuing justice, there was no link to the applicant. She further argues that therewere no reasonable and probable grounds to search the applicant’s home residence as there wasnothing to suggest that drugs would be found there.
+
+[45] I reject these submissions. The tip informed the police of various drug transactionsoccurring within a specified time period. The informant gave first-hand information that he hadpurchased cocaine from the target and provided a description of that person as well as the makeof his car: a four door black Honda with a spoiler.
+
+[46] A male matching the informant’s description was seen driving a four door black Hondawith a spoiler and conducting a drug transaction. The Honda’s number plate was noted andmatched the applicant - an older black male. The plate was registered to Unit 609, 2441 FinchAvenue West. A search conducted on the police computer database revealed that the applicanthad been in possession of the car for some months, having been charged with a Highway TrafficAct offence on 23 January 2013. On that date, the applicant had also provided the address of Unit609, 2441 Finch Avenue West to the investigating officer.
+
+[47] On 21 October 2014, the same Honda was seen in the parking lot of 2441 Finch AvenueWest, parked in a numbered parking spot. On 13 November 2014, police saw the Honda enterthe 2441 Finch Avenue West parking lot and an older black male exit the vehicle. This male wasseen to walk towards the north east entrance of 2441 Finch Avenue West before disappearing outof sight.
+
+[48] Finally, police discovered, through a viewing of the call box of 2441 Finch Avenue West,that “E & J Reid” were residents of the building.
+
+[49] The link to the applicant is both strong and undeniable. The ITO demonstrated that policewere in possession of the following items:
+
+a compelling tip that drug offences had been committed;details of the vehicle in which these offences were being committed - the Honda;
+
+[42] I have dealt with the other allegations of “omissions” in the section dealing with theapplication for leave to cross-examine PC Furzecott. Suffice it to say that I conclude that anyallegations of material non-disclosure are unfounded.
+
+the name of the owner of the vehicle - the applicant - and the address that it wasregistered to;evidence that the applicant had been in possession of the car for some length oftime;surveillance observations that the vehicle was being driven by a male consistentwith the description given by the informant;evidence that the driver was connected to 2441 Finch Avenue West; andconfirmation that the applicant was still residing at 2441 Finch Avenue West - theregistered address of the Honda.
+
+[50] For the above reasons, I find that there was more than a sufficient basis for theauthorising justice to issue the warrant.
+WAS THERE AN IMPROPER USE OF THE TELEWARRANT PROCEDURE?
+
+[51] The applicant submits that irrespective of the validity of the warrant, the policeimproperly used the telewarrant procedure provisions contained in the Criminal Code to obtainit. As part of his grounds for seeking the warrant, PC Furzecott wrote that the telewarrant wasrequested because “all operating court houses are not open prior to the request for entry.” PC
+Furzecott was cross-examined about this comment and testified that when he applied for thewarrant at approximately 5 p.m. on 14 November 2014, his experience led him to believe thatthere would be no Justices of the Peace available to sign the authorization. He further testifiedthat it would have taken too long to get to the Ontario Court of Justice courthouse at FinchAvenue West because of heavy traffic. As a result, he invoked the telewarrant procedure in orderto obtain the warrant that day.
+
+[52] Section 487.1 of the Criminal Code permits use of the telewarrant procedure wheneverthe applying police officer believes that an indictable offence has been committed and it wouldbe “impracticable” for the officer to “appear personally before a justice.” In addition, s. 487.1(4)
+of the Criminal Code stipulates that any information seeking a telewarrant “shall include,”
+amongst other things, “a statement of the circumstances that make it impracticable for the peaceofficer to appear personally before a justice.”
+
+[53] Ms. Vandebeek asserts that this was an abuse of the telewarrant procedure. She arguesthat there was no “drop dead deadline” to obtaining the warrant on the Friday evening and thatPC Furzecott could have waited until the following Monday to seek judicial authorization inperson. That may well have been the case but there is no requirement of urgency for thetelewarrant procedure to be valid: R. v. Omar, 2014 ONSC 810, at para. 85; R. v. Clark, 2015
+BCCA 488, at paras. 65–66. I agree with and adopt the words of Levine J.A. in R. v. Le, 2009
+BCCA 14, at para. 35:
+The appellant suggests that as there was no urgency to carry out the search,Constable Lane should have waited until the next day when she could have
+
+11
+
+appeared in person to obtain the warrant, or she should have asked anotherofficer, who was working during the day, to obtain the warrant. In my opinion,the telewarrant procedure is available so that police officers who work on shifts orin communities where justices of the peace are not available at all hours maycarry out their duties, and it is not for the court to interfere in the management ofpolice investigations by requiring them to organize themselves to avoid using thetelewarrant procedures in the Code or risk being found in violation of thoseprovisions.
+
+[54] The term “impracticable” means more than simply inconvenient but does not require thepolice to demonstrate that it would have been impossible for the police to make the application inperson: R. v. McKenzie, 2016 ONSC 245, at para. 19; R. v. Rutledge, 2015 ONSC 1675, at para.
+111. Here, Constable Furzecott articulated his reasons as being the lack of availability of anauthorising justice due to the late hours of the court day. In the absence of evidence to thecontrary, I am prepared to accept this to be the case. It might have been preferable if PC
+Furzecott had set out any attempts to try and contact the court to see if an in person applicationcould be made but his failure to do so in this case does not breach the telewarrant provision. I
+must also presume that the issuing justice would have taken into account Constable Furzecott’sreasons for applying by telewarrant before issuing the authorisation: R. v. Lacelle, 2013 ONCA
+390, at paras. 6–7.
+
+[55] If I am mistaken on this point and there was a breach of the accused’s s. 8 rights, I findthe evidence obtained by the warrant to be admissible under s. 24(2) of the Charter. Applyingthe test outlined in R. v. Grant, 2009 SCC 32, I find that the breach could not be classified asserious as the warrant would have issued either the next day or at the start of the next week: R. v.
+Lao, 2013 ONCA 285, at para. 75; R. v. Farewell, 2006 BCSC 372, at para. 56. The secondbranch of the test, the impact of the Charter protected interests of the accused, might have beenadversely affected because the search was of a residence. However, the third step of the Granttest, whether exclusion would bring the administration of justice into disrepute, favoursadmission of the evidence. Exclusion of the highly reliable evidence found would result in theend of the prosecution. Balancing the Grant factors, I find that the evidence should not beexcluded and dismiss the application.
+
+[56] For the reasons set out in the preceding paragraphs, I find that the application isdismissed.
+
+S.A.Q. Akhtar J.
+
+12
+
+13
+
+Released: 25 May 2017
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+HER MAJESTY THE QUEEN
+
+– and –
+
+ELLESTON REID
+REASONS FOR JUDGMENT
+S.A.Q. Akhtar J.
+
+CITATION: R. v. Reid, 2017 ONSC 3234
+COURT FILE NO.: CR-16-90000307-0000
+DATE: 20170525
+

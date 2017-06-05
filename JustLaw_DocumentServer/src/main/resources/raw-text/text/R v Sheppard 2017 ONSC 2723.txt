@@ -1,0 +1,153 @@
+CITATION: R. v. Sheppard, 2017 ONSC 2723
+COURT FILE NO.: CR16-0011AP
+DATE: 2017-05-17
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+HER MAJESTY THE QUEEN
+Respondent )
+– and –
+Robert Sheppard
+Appellant )
+
+C. Kalantzis, for the Crown
+
+M. Venturi, for the Appellant
+
+HEARD: October 26, 2016
+
+DECISION ON APPEAL
+HENNESSY, J.
+
+[1]
+Mr. Sheppard appeals his conviction for refusing to comply with a demand for roadsidebreath sample.
+The Issue
+
+[2]
+The appellant contends that the trial judge did not consider material evidence in comingto her conclusion that Mr. Sheppard made a clear and unequivocal refusal to the breath demand.
+The question therefore on this appeal is whether the trial judge considered the material evidencein coming to her decision that Mr. Sheppard made an intentional, clear and unequivocal refusalto provide a breath test.
+
+[3]
+The appellant contends that the absence of a specific reference to certain answers by thearresting officer made on cross-examination demonstrate that the trial judge failed to considermaterial evidence.
+Facts
+
+[4]
+The appellant was involved in a serious motor vehicle accident on Manitoulin Island onNovember 30, 2014. One person was seriously injured. An Ontario provincial police officerattended the scene. Mr. Sheppard acknowledged that he was the driver. The officer asked the
+
+ONTARIO
+
+appellant to come to the cruiser. The officer detected a strong odour of alcohol on the appellant’sbreath and noticed that his eyes were red. She then made a demand for a roadside breath test.
+
+The Law
+
+[6]
+The test for refusing to comply with a demand for a breath test is whether the trial judgehas failed to consider evidence that is “material rather than peripheral” and that plays “anessential part in the reasoning process.” R. v. Loher 92004) 193 CCC (3d) 1 at para. 2.
+
+[7]
+If the question is framed as sufficiency of reasons issue, the test is whether the trialjudge’s reasons, having regard to the particular circumstances of the case, are reasonablyintelligible to the parties and provide the basis for meaningful appellate review of the correctnessof the trial judge’s decision.
+Discussion
+
+[8]
+The nub of the issue under appeal is found within the three exchanges between the officerand Mr. Sheppard at the scene of the accidence. The trial judge found, and the appellant did notcontest, that the officer made a clear and unequivocal demand for a breath test. The issue iswhether Mr. Sheppard’s responses meet the test for a refusal or whether they could be interpretedin a way which does not constitute a clear and unequivocal refusal.
+
+[9]
+In her reasons, the trial judge conducted a careful analysis of the evidence of both theofficer and Mr. Sheppard.
+
+[10] The judge reviewed Mr. Sheppard’s testimony. At one point Mr. Sheppard deniedrefusing to provide a breath sample. At another point, he could not recall whether he answeredthe officer as the officer testified. The appellant though focused his argument on the crossexamination of the officer where he put to her a series of possible alternate answers that Mr.Sheppard might have given in response to the demand for a breath sample.
+
+[11] Counsel asked the officer if it was possible that in response to the last demand Mr.Sheppard replied: “I’m not blowing into this machine or any other machine until I go to thehospital.” The officer initially agreed this was possible.
+However, the cross-examinationconcluded with the officer insisting that Mr. Sheppard was adamant when he said, “I’m notblowing into this machine or any other machine” and there were no extra words that suggestedthat the answer was conditional upon going to the hospital.
+
+[12] While the officer admitted that she did not make a note of Mr. Sheppard’s exact words inresponse to each demand, she was clear that his final response was “I’m not blowing in thatmachine or any other machine. Do what you have to do.”
+
+[13] The appellant submits that the fact that the trial judge did not note in her reasons the otherpossible responses from the appellant is a reversible error. The appellant argues that the trial
+
+[5]
+Ultimately the officer made the demand for a breath sample three times. The appellantdid not provide a sample.
+
+judge must articulate or allude to the cross-examination and why some parts of the officer’sevidence was accepted while other parts were not.
+In response, the Crown made submissions on three points:
+1) Adequacy of reasons.
+2) Whether the Court must resolve the actual wording used even if the judge wassatisfied that the demand was refused.
+3) Whether a response with a condition precedent constitutes a refusal.
+
+[15] The Crown relies on the standard of adequacy of reasons cited in R. v. Newton, [2006]
+O.J. No. 1008 (ONCA) where the court stated that reasons are adequate if they clearly tell thelosing party why he/she lost and provide for meaningful review. In Newton the court rejected theproposition that by failing to refer to a piece of evidence that may have assisted the accused, thereasons are inadequate.
+
+[16] The appellant’s argument is based on an attempt to pull apart the cross-examination andfocus on one response while ignoring the totality of the evidence. It is correct that the officer atone point conceded that Mr. Sheppard may have provided a less equivocal response to thedemand. But by the end of her cross-examination, she was clear in her recollection of Mr.Sheppard’s response.
+
+[17]
+The officer wrapped up her exchange on cross-examination with respect to Mr.Sheppard’s final response as follows:
+Answer:
+
+I’m, I’m pretty clear, he – And even with the hospital, it was, he wasadamant, “I’m not blowing into that machine or any other machine.”
+There was no….
+
+Question:
+
+That’s only as it relates to this third?
+
+Answer.
+
+Yes.
+
+Question:
+
+Okay.
+
+Answer:
+
+He was very clear that, and that was it, there was no….
+
+Question:
+
+Okay.
+
+Answer:
+
+…extra.
+
+[18] Even if the words are not an exact recollection, the officer resisted the suggestion thatthere were any qualifying words to his final response.
+
+[19] In her reasons, the trial judge specifically refers to the cross-examination. She does notrecite each question and answer and she notes that the officer does not have a perfect
+
+[14]
+
+recollection. But the trial judge accepts the officer’s evidence of Mr. Sheppard’s final response.
+She notes that Mr. Sheppard’s conduct was unambiguously consistent with a refusal and shefurther noted as suggested by the defendant that Mr. Sheppard repeated his need to go to thehospital. I am satisfied that the judge considered the material evidence as she was required to do.
+(R. v. Porter, 2012 ONSC 3504). The judge was not required to make a finding on the exactwords used by the appellant. (R. v. Sures [2010] O.J. No. 1615 (ONCA))
+
+[20] It is clear from her reasons that the trial judge appreciated the full cross-examination ofthe officer. While the first response to the demand may have included a condition precedentabout going to the hospital, the trial judge came to the conclusion, as she was entitled to do onthe evidence, after considering all of the circumstances that Mr. Sheppard demonstrated “aconscious act of volition… not to provide a sample.”
+
+[21] The deference to the trial judge is not displaced because she did not recite one of theanswers on the officer’s cross-examination. Instead, she reviewed all of the evidence andrejected the interpretation urged upon her by the defence. The possibility that early in theexchange Mr. Sheppard may have been somewhat less clear was not lost on the trial judge.
+However, she ultimately focused on Mr. Sheppard’s final response to the officer, on which theofficer indicated she had a clear recollection. The trial judge notes that even if an earlier responsehad not been unequivocal, his final response was an outright refusal. This was a finding she wasentitled to make on the evidence. There is no misapprehension of the evidence. To the contrary,the trial judge’s conclusion is fully supported by the evidence and is the only reasonableconclusion to draw from the evidence. She fairly summarized all of the evidence.
+
+[22] An appellate court will only be justified in intervening where a trial judge draws aninference or makes a finding of fact that is plainly contradicted by the evidence relied upon ordemonstratively incompatible with the evidence that is not otherwise contradicted or rejected bythe trial judge.
+Conclusion
+
+[23] The reasons of the trial judge do not disclose a misapprehension of the evidence. The trialjudge did not fail to consider material evidence. The reasons demonstrate that the trial judge wasalive to the suggestions put to the officer in cross-examination and came to the conclusion thatthey were not supported by the evidence. The reasons provided were sufficient for rejecting thedefence’s contention that Mr. Sheppard might possibly have provided an ambiguous response tothe demand for a breath sample.
+
+[24]
+
+The appeal is dismissed.
+
+The Honourable Madam Justice Patricia C. Hennessy
+
+Released: May 17, 2017
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+HER MAJESTY THE QUEEN
+– and –
+Robert SheppardThe appellant
+
+DECISION ON APPEAL
+
+Hennessy, J.
+Released: May 17, 2017
+
+CITATION: R. v. Sheppard, 2017 ONSC 2723
+COURT FILE NO.: CR16-0011AP
+DATE: 2017-05-17
+

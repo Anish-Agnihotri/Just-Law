@@ -1,0 +1,304 @@
+CITATION: Conterra Restoration Ltd. v. Irving Moishe Kirsch, 2017 ONSC 3152
+COURT FILE NO.: CV-14-517321A1
+DATE: 20170524
+
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+
+CONTERRA RESTORATION LTD.
+Plaintiff )
+– and –
+IRVING MOISHE KIRSCH
+Defendant )
+– and –
+PANCON ENGINEERING LTD.
+Third Party )
+
+Jeffrey A.L. Kriwetz, for the Plaintiff
+
+David Taub, for the Defendant
+
+Megan Mackey, for the Third Party
+
+HEARD: May 15 and 16, 2017
+
+REASONS FOR JUDGMENT
+MR. JUSTICE P. J. CAVANAGH
+Introduction
+
+[1]
+The Plaintiff Conterra Restoration Ltd. (“Conterra”) is a contractor that focuses on therepair and restoration of buildings. The Defendant Irving Moishe Kirsch (Mr. Kirsch”) is theowner of property at 182 Jameson Ave., Toronto, Ontario (the “Property”). Conterra performedrestoration work on the Property. The Third Party Pancon Engineering Ltd. (“Pancon”) is abuilding science and restoration engineer which oversaw the work at the Property that wasperformed by Conterra.
+
+[2]
+Conterra is claiming payment of the sum of $109,451.35 from Mr. Kirsch for its chargesfor work done in connection with (i) the supply of quantities of “through slab concrete” that
+
+ONTARIO
+
+[3]
+The Contract was made for the purpose of completing repairs to the balconies at theProperty that were needed in order to comply with work orders that had been issued by the Cityof Toronto. Mr. Panahi and Mr. Tedesco gave evidence that this work could not be properlycompleted in order to satisfy the work orders issued unless the additional quantities of throughslab concrete were, in fact, provided. No contrary evidence was provided by Mr. Kirsch.
+
+[4]
+The balcony waterproofing work was not required under the Contract. Mr. Panahi’sevidence is that he strongly recommended that the balconies be waterproofed to prevent furtherdelamination, and that Mr. Kirsch instructed him to have Conterra waterproof the balconies.
+
+[5]
+Mr. Kirsch’s position is that, under the Contract, the estimated quantity of units ofthrough slab concrete in the Contract could not be exceeded without his prior authorization and asigned Change Order. Mr. Kirsch maintains that he did not give such prior authorization, noChange Order was signed and, therefore, he is not liable for the cost of the additional units ofthrough slab concrete that Conterra provided. With respect to the balcony waterproofing work,Mr. Kirsch’s position is that this work was not provided for by the Contract, he did not authorizethis work to be done, and no signed Change Order was made to authorize such additional work,as was required by the Contract. Therefore, Mr. Kirsch also denies that he is liable for the cost ofthe balcony waterproofing work performed by Conterra.
+
+[6]
+Mr. Kirsch does not dispute that Conterra properly performed the work and actuallysupplied the materials in respect of its claims.
+
+[7]
+Mr. Kirsch has defended Conterra’s action, and commenced a Third Party Claim againstPancon in which he seeks contribution and indemnity for any and all amounts which he may beordered to pay to Conterra in the main action.
+
+[8]
+This case first came before me on December 1, 2016 when I heard three motions forsummary judgment in the main action and the third party action. I concluded that I was not ableto reach a fair and just determination of the merits of the motions for summary judgment withoutassessing the evidence to be given through viva voce testimony by Mr. Kirsch and by Mr.Panahi, Pancon’s representative, and I dismissed the three motions: Conterra Restoration Ltd. v.
+[9]
+In accordance with the principles expressed in Hyrniak v. Maudlin, [2014] S.C.R. 87 atparas. 74-79, I remained seized of the main action and the third party action and directed theparties to confer with each other and try to reach agreement on procedures for a short trial thatwould take advantage, to the greatest extent possible, of the work that had been done for themotions for summary judgment. Counsel for the parties did so and used the viva voce evidencegiven at the trial by Fabio Tedesco, a representative of Conterra, Mr. Kirsch, and Mike Panahi, a
+
+exceeded the estimated quantity in relation to balcony slabs rehabilitation work that Conterracontracted to perform under a written contract between it and Mr. Kirsch dated September 13,2012 (the “Contract”), and (ii) waterproofing work on the balconies at the Property that was notwithin the scope of work under the Contract and that Conterra was directed to perform byPancon.
+
+[10] For the following reasons, I have decided that Mr. Kirsch is liable to Conterra for theamount of Conterra’s claim and that the third party claim against Pancon should be dismissed.
+Analysis
+(a)
+
+Is the Contract a fixed-price contract?
+
+[11] There was evidence that Mr. Kirsch wanted to have a fixed-price contract. He wrote ahandwritten letter to Mr. Panahi dated August 2, 2012 in connection with the work required atthe Property. This letter was written in respect of both the balcony slabs rehabilitation and thegarage roof slab rehabilitation at the Property (a separate project that Conterra performed underthe Contract after the balcony slabs rehabilitation work). Only the balcony slabs rehabilitationwork is in issue in these proceedings.
+
+[12] In his letter, Mr. Kirsch indicated that he had reviewed the four contractor tendersubmission forms with respect to the work and, after calculating the total of the “LowestCombined Price” for both projects, included the words “Fixed Price No Changes”. Below this,he wrote:
+THERE SHALL BE NO PRICE ADJUSTMENTS,NO ALLOWANCES, NO SUPPLEMENTARY CONDITIONS,NO CHANGE IN CONTRACT PRICE, NO CASH ALLOWANCES
+NO CHANGE ORDERS, NO CONTINGENCY ALLOWANCE,NO CHANGES IN WORK, NO ADJUSTMENTS IN CONTRACT PRICE
+ALSO WRITTEN WARRANTIES, INSURANCE COVERAGE, WORKMEN’S
+COMPENSATION
+CONSTRUCTION SAFETY.
+
+[13] Mr. Panahi wrote to Mr. Kirsch on August 21, 2012. He wrote that he had met withConterra with respect to lowering their price as per Mr. Kirsch’s instructions dated August 2,2012 and advised that the Conterra is willing to lower their prices as set out in the letter. Withrespect to the balcony repair, Mr. Panahi referred to the price of $560,600 plus HST and wrote:
+This price does not include waterproofing of slabs…
+With respect to contingency, as I mentioned to you earlier, we have not hadopportunity to look more closely at bricks or floor slabs from the ground level,therefore, once the swing stage is set and we have an opportunity to look moreclosely at the existing brick condition, further removal of deteriorated bricksbeyond what we estimated may be required. Further removal of concrete atbalcony slabs beyond the front edge of slabs due to the age and condition ofbalconies may also be required.
+
+representative of Pancon, to supplement the evidence that had been filed on the summaryjudgment motions. Having heard this viva voce evidence, I am now able to make necessaryfindings of credibility and make decisions in the main action and the third party action.
+
+[14] In the specification and tender documents that Mr. Panahi prepared, some items werelisted and priced on a lump-sum basis and other items were listed and priced on a per unit basis.
+The item for “Isolated Total Through Slab Repairs” was shown to be priced on a “per sq. ft.”
+basis, with an estimated quantity of 100 units and a per unit price of $76.00. On his crossexamination at trial, Mr. Kirsch said that he did not really review this document in detail and thathe did not notice that some items were to be priced on a per unit basis.
+
+[15] The Contract, in paragraph 1 relating to Contract Documents, specifies additionaldocuments that shall be part of the Contract, one of which is “Table of Repair Items”. This table,which was authorized and accepted by Mr. Kirsch on September 5, 2012, lists a number of itemsand descriptions. One of these is item 2.2 described as “Isilated (sic) Total Thru Slab” that, underthe “Units” column, reads “Sq. Ft.”, with the number of units shown as 100, the Unit Rate of
+$76.00, and the total amount for this item shown as $7,600. The copy of this table that wasintroduced into evidence is a copy of a fax transmission and the column descriptions are notclearly visible. Nothing turns on this, because the parties agree that this item was quoted on a perunit basis, with an estimated quantity and a specified unit price. There are also other items thatare shown on this table on a per unit basis as opposed to a lump sum basis.
+
+[16] On his cross-examination at trial, Mr. Kirsch acknowledged that, after receiving Mr.Panahi’s August 21, 2016 letter, he understood that the extent of the work could be more thananticipated but, in his mind, he was contractually entitled under paragraphs 6 and 10 of theContract to the protection of a requirement for his approval in writing to any changes that wouldincrease the total contract price to an amount greater than $560,600, which was described in theContract as the “Total Contract Amount”.
+
+[17] Because some items were priced in the Contract on a fixed price basis and some itemswere priced on a per unit basis with estimated quantities of units shown, the Contract was not afixed price contract, because the total Contract price would depend upon the number of units thatwere needed for the items that were priced on a per unit basis. If the number of units suppliedwas less than the estimated quantity, the total contract price would be lower. If the number ofunits supplied was greater than the estimated quantity, the total Contract price would be higher.
+
+[18] The next question is whether, under the Contract, Conterra needed Mr. Kirsch’s priorauthorization and a Change Order signed by him before it could charge him for additionalquantities of units (greater than the estimated quantities in the Contract) for items that werepriced in the Contract on a per unit basis.
+
+Therefore, we recommend that you should set aside a contingency amount in caseit is required. Conterra has also indicated that since this project is going to bedone in two phases, there will be no increase in costs for the next year.
+
+[19] Mr. Kirsch’s evidence as given in his affidavit and confirmed on his cross-examinationwas that the amounts claimed by Conterra for both (i) the additional quantities of through slabconcrete that were supplied, and (ii) the waterproofing work, that he described as “unauthorizedadditional work”, required written Change Orders under the Contract signed by him before hecould be charged for such work.
+
+[20]
+
+Mr. Kirsch relies upon paragraphs 6 and 10 of the Contract:
+6.
+
+Changes Order
+
+Any additional work beyond the noted scope of work and quantities that may berequired due to site conditions during construction is not included in this ContractPrice. All additional work is to be reviewed by Pancon Engineering Ltd. and anyadditional work that is deemed to be required shall be authorized by Owner AND
+Owner’s engineer (Pancon Engineering Ltd.) prior to commencement of theadditional work.
+Extras are payable upon approval of extras by the Owner and Owner’s engineer
+(Pancon Engineering Ltd.) and by signing the Change Order.
+10.
+
+Contract Amount
+
+The Owner and Contractor acknowledged that this contract amount is based onagreed scope of work and price as per attached table. This contract amount doesnot include any contingency amount as set originally in the Tender Documents byPancon Engineering Ltd.
+The Owner and Contractor agree that where unforeseen items are uncoveredduring construction and anticipated repair quantities for the noted project arebeyond the quantities set in enclosed table, the additional work is to be reviewedby Pancon Engineering Ltd. and any additional work that is deemed to be requiredshall be authorized by Owner and Pancon Engineering Ltd. The cost of approvedadditional work authorized by Owner will be then additional to this contract asper unit rates noted in this contract. A Change Order shall be formed and signedby Owner and Contractor for authorized additional work and payment.
+
+[21] Mr. Kirsch’s evidence is that he never approved any balcony repair work beyond whatwas set out in the Contract, nor did he ever approve any waterproofing work to be performed forthe balconies at the Property. According to Mr. Kirsch, had Pancon provided him with anychange orders in respect of this work, he would have refused to sign them and would haverefused to authorize that work.
+
+(b)
+Under the terms of the Contract, was a written Change Order required to have beensigned by Mr. Kirsch before he could be charged for additional quantities of “through slab”
+concrete to be used for the repairs to the balconies, beyond the estimated quantity (10) set out inthe Contract?
+
+[22] Pancon’s position is that, for a unit rate contract, payment of work done is subject only toquantity verification. Pancon submits that written change orders are not applicable to quantityoverruns and that it is not possible to obtain a change order when one does not know the quantitythat will be necessary. According to Pancon, this is precisely why concrete repairs were pricedon a per square foot basis. Pancon submits that the supply of through slab concrete for thebalcony repairs was not work that was beyond the “noted scope of work” and, therefore, awritten Change Order was not contractually required under paragraph 6 of the Contract.
+
+[23] In addition, Pancon submits that it was known at the time the Contract was made thatadditional quantities of through slab concrete may be required and, therefore, that there wasnothing “unforeseen” about the need for additional quantities of through slab concrete. For thisreason, Pancon submits that a written Change Order to authorize the supply of such additionalquantities of through slab concrete (greater than the number of units that was estimated) was notrequired under paragraph 10 of the Contract.
+
+[24] The interpretation of contracts has evolved towards a practical, common-sense approachnot dominated by technical rules of construction. The overriding concern is to determine theintent of the parties and the scope of their understanding. To do so, a decision-maker must readthe contract as a whole, giving the words used their ordinary and grammatical meaning,consistent with the surrounding circumstances known to the parties at the time of formation ofthe contract. Consideration of the surrounding circumstances recognizes that ascertainingcontractual intention can be difficult when looking at words on their own, because words alonedo not have an immutable or absolute meaning. While the surrounding circumstances are reliedupon in the interpretive process, courts cannot use them to deviate from the text such that thecourt effectively creates a new agreement. The evidence that can be relied upon under the rubricof “surrounding circumstances” should consist only of objective evidence of the backgroundfacts at the time of the execution of the contract, that is, knowledge that was or reasonably oughtto have been within the knowledge of both parties at or before the date of contracting: SattvaCapital Corp. v. Creston Moly Corp., [2014] S.C.R. 633 at paras. 47, 57, and 58.
+
+[25] The objective evidence of the material background facts at the time of the execution ofthe Contract consists of the following:
+a. Mr. Kirsch needed to have the work orders that were issued by the City ofToronto against the building at the Property lifted. Mr. Kirsch asked Mr. Panahi toinvestigate the deficiencies cited in the work orders, prepare a report on thedeficiencies that would be submitted to the City of Toronto, and oversee worknecessary to lift the work orders. Mr. Kirsch retained Pancon to prepareassessment reports recommending repair work, and to prepare specifications forthe work, send the project to tender, negotiate with the contractor, and supervisethe repair work.
+b. In Mr. Kirsch’s letter dated August 2, 2012, he said he wanted one contract pricewith no contingencies, change orders or extras. In Mr. Panahi’s August 21, 2012
+letter, he warned Mr. Kirsch that further removal of concrete at balcony slabsbeyond the front edge of slabs due to the age and condition of balconies may also
+
+c. At the time Conterra was preparing its quote for the balcony work, Mr. Panahiadvised Mr. Tedesco that his initial estimate of quantities was based on a randomvisual and sounding inspection of the state of the balconies before any repair workbegan and that, as is typical in these types of projects, the full scope of the workand quantities of work to be performed would not be known and could not bedetermined until the repair work actually began.
+d. Mr. Panahi advised Mr. Tedesco that Mr. Kirsch was aware that the scope ofwork could be more once the repair work began and the true state of the balconieswas revealed and that if more labour and materials were required to complete therepairs than originally quoted and stated in the contract, Conterra would be paidfor the additional work performed.
+e. Following receipt of Mr. Panahi’s August 21, 2012 letter, Mr. Kirsch’s evidenceis that he said to Mr. Panahi “we’ll have change orders” and he signed theContract.
+
+[26] The Contract is clear that item 2.2 on the Table of Repair Items that forms part of theContract provides for the supply of through slab concrete of a per square foot basis at a unit priceof $76.00 with an estimated quantity of 100. The work described by this item was part of thescope of work for the Contract. Paragraph 6 provides that any additional work “beyond the notedscope of work and quantities” that may be required due to site conditions during construction isnot included in this Contract Price. This paragraph provides that “any additional work that isdeemed to be required shall be authorized by [Mr. Kirsch] and [Pancon] prior to commencementof the additional work”.
+
+[27] When I give the words used in the Contract their ordinary and grammatical meaning, thesupply of through slab concrete in quantities greater than the estimated quantity is not “additionalwork beyond the noted scope of work”. This work is within, not beyond, the noted scope ofwork. Therefore, under paragraph 6 of the Contract, authorization by Mr. Kirsch was notrequired. The supply of additional quantities of through slab concrete does not constitute “extras”
+as that word is used in paragraph 6 of the Contract.
+
+[28] In my view, there is nothing in the surrounding circumstances that should lead me todeviate from giving the words used by the parties in the Contract their ordinary and grammaticalmeaning. The words used by Mr. Kirsch when he told Mr. Panahi “we’ll have change orders” isnot sufficiently clear that a reasonable person in the position of Mr. Panahi would haveunderstood these words to vary the ordinary and grammatical meaning of the words used in theContract. In cross-examination at trial, Mr. Panahi accepted the proposition that was put to himthat the Contract called for a written Change Order if additional quantities of through slabconcrete were required. There was no evidence that Mr. Panahi discussed this view of theContract with Mr. Kirsch before the Contract was signed. I do not consider this subjective viewof the Contract expressed by Mr. Panahi in cross-examination at trial to be objective evidence of
+
+be required, and Mr. Panahi recommended that Mr. Kirsch set aside a contingencyamount.
+
+[29] Further, I accept the submission made on behalf of Pancon that the parties would havereasonably known that it would not be practical for them to obtain a series of Change Orders asthe work required under the Contract progressed in order to secure approval for the supply ofnecessary quantities of through slab concrete for Conterra to complete the balcony slabsrehabilitation work.
+
+[30] Mr. Kirsch also relies upon paragraph 10 of the Contract. This paragraph provides that
+“where unforeseen items are uncovered during construction and anticipated repair quantities forthe noted project are beyond the quantities set in enclosed table” any additional work that isdeemed to be required shall be authorized by Mr. Kirsch and Pancon, and the cost of approvedadditional work will then be additional to the Contract at the per unit rates noted therein, and aChange Order shall be formed and signed for authorized additional work and payment.
+
+[31] The letter from Mr. Panahi dated August 21, 2016 makes it clear that the supply ofadditional through slab concrete was not “unforeseen” at the time that the contract was made.
+Mr. Kirsch agreed that he knew that the extent of work under the agreed scope of work could bemore than was anticipated based upon Mr. Panahi’s letter. When I give the words used inparagraph 10 of the Contract their ordinary and grammatical meaning, the supply of additionalthrough slab concrete in excess of the estimated quantity is not an “unforeseen” item that wasuncovered during construction and, therefore, authorization by Mr. Kirsch for the supply ofnecessary quantities of through slab concrete for Conterra to complete the balcony slabsrehabilitation work was not required under paragraph 10 of the Contract. No written ChangeOrder was contractually required.
+
+[32] Counsel for Mr. Kirsch submits that giving paragraphs 6 and 10 of the Contract theseinterpretations would mean that a Change Order would never be required and that, therefore,such an interpretation could not truly reflect the intent of the parties and the scope of theirunderstanding of the contractual terms. I disagree. If additional work, including the supply ofadditional materials, was not within the scope of work in the Contract, or qualified as
+“unforeseen items” uncovered during construction, such additional work would require theauthorization of Mr. Kirsch and a written Change Order. For example, if it became known duringthe course of construction that waterproofing of the balconies would be needed in order toproperly complete the rehabilitation of the balcony slabs and have the work orders issued by theCity of Toronto lifted, such additional work would, by the terms of the Contract, need theauthorization of Mr. Kirsch and a written Change Order.
+
+[33] For these reasons, I have concluded that written authorization from Mr. Kirsch and awritten Change Order were not required under the Contract before he could be charged for thesupply of quantities of through slab concrete, greater than the estimated quantities, that werenecessary for Conterra to complete the balcony slabs rehabilitation work that was called for bythe Contract.
+
+a surrounding circumstance that was or reasonably ought to have been within the knowledge ofboth parties at or before the date of contracting such that, under the principles expressed inSattva, it informs the interpretation of the Contract.
+
+[34] Mr. Panahi’s evidence was that when work began, it became apparent that the conditionof the concrete balconies was much worse than anticipated based on a visual inspection.
+Concrete delamination was severe and a significant amount of rebar was rusted requiring asignificant additional amount of concrete replacement. The corroded rebars needed to be cleanedand new rebars needed to be lapped with existing ones. In addition, after cutting into the balconyslabs, Mr. Panahi and Mr. Tedesco learned that the balcony slabs consisted of only one layer ofreinforcement which prevented Conterra from carrying out repairs as “top side repairs”. Repairsneeded to be carried out as “through slab repairs”. As a result, Conterra had to replace asignificantly greater amount of through slab concrete in order to safely repair the balcony slabs.
+According to Mr. Panahi, this work had to be done otherwise he could not issue a completionletter and the City of Toronto would not lift the work orders.
+
+[35] Mr. Panahi’s evidence was that he telephoned Mr. Kirsch in Vancouver in order to tellhim about the extent of concrete deterioration. He suggested to Mr. Kirsch a number of timesthat he should come to the site to see the extent of concrete delamination for himself. Mr. Kirschrefused to do so. Mr. Panahi’s evidence is that in a particular conversation that he recalled, hetold Mr. Kirsch about the extra concrete repair work that needed to be done and, after somediscussion, Mr. Kirsch told him to go ahead with the extra concrete repairs. Mr. Panahi recallsMr. Kirsch saying that he understood the unit rate, and that the additional work should becharged at that rate. According to Mr. Panahi’s evidence, when Mr. Kirsch told him to go aheadwith through slab concrete repairs (which was on top of the 100 square feet quoted in theContract), Mr. Kirsch did not tell him that his signature on a change order would be required inorder to perform additional through slab concrete repairs. Mr. Kirsch simply told him to haveConterra repair the delaminated concrete so that the repairs would be complete and the workorders would be lifted. On the basis of Mr. Kirsch’s instructions to him, Mr. Panahi told Conterrato go ahead with the necessary through slab repairs, which would be charged at the unit priceagreed to in the Contract.
+
+[36] Mr. Kirsch’s evidence was directly to the contrary. Mr. Kirsch denied that he advised Mr.Panahi or anyone else at Pancon or Conterra to go ahead with the through slab concrete repairsinvolving quantities of concrete greater than the 100 square feet estimated in the Contract. Mr.Kirsch did not recall a conversation with Mr. Panahi in which he was told that additionalquantities of concrete were required. Mr. Kirsch recalls that he told Mr. Panahi that he did notunderstand engineering, and that Mr. Panahi should just send him the bills and he would paythem. Mr. Kirsch’s evidence was that he only found out after the balcony work was completedabout the charges for the extra concrete and the waterproofing. His evidence was that he did notknow about this work while it was being done. Mr. Kirsch was adamant that he did not authorizeMr. Panahi to go ahead with the work involving additional supplies of through slab concrete thatwould increase the price over the price shown on page 4 of the Contract.
+
+[37] In support of their position that Mr. Kirsch knew about and authorized the supply ofadditional through slab concrete, Conterra and Pancon rely upon the series of eleven progress
+
+(c)
+Did Mr. Kirsch orally authorize Mr. Panahi to direct Conterra to use additionalquantities of through slab concrete as were required in order to complete the repairs to thebalconies and comply with the work orders that had been issued by the City of Toronto?
+
+draw certifications that were sent by Pancon to Mr. Kirsch. Each of these consisted of a coveringletter, and enclosures including progress draw invoices and a spreadsheet showing a breakdownof the charges on each invoice. These spreadsheets, in respect of the item for isolated “TotalThru Slab”, show quantities supplied that substantially exceed the initial estimated quantity of100 square feet. Conterra and Pancon submit that Mr. Kirsch knew from these documents thatadditional amounts of through slab concrete were being used for the balcony rehabilitationproject, and that he accepted the supply of these quantities by paying the invoices withoutobjection.
+
+[38] Mr. Kirsch’s evidence was that he did not read the attachments to the covering letters,specifically, the spreadsheets, that were sent for each of the eleven progress draw certificationsand that he threw out the attachments. His evidence was that he complied with the terms of theContract and paid the invoice amounts that were recommended by Pancon without reviewing thesupporting spreadsheets because he knew that any charges for amounts in excess of the totalamount shown in the Contract ($560,600 plus HST) needed his authorization and a writtenChange Order. Only when the invoiced amounts exceeded this amount, on the eleventh invoice,did Mr. Kirsch object to paying the full amount of the invoice. He did so in relation to the lastinvoice because the overall charges exceeded the amount shown in the Contract and he had notauthorized any excess charges through a written Change Order.
+
+[39] Pancon relies upon the following question and answer from thediscovery of Mr. Kirsch that was put to him on cross-examination:
+
+examination for
+
+241. Q.
+After they started the work, did you have regular contact with Mr.Panahi? How often would you speak with him?
+A.
+If he needed me he called me and usually he would write to me,because, again, I didn’t understand and he understood I didn’t know. He said,
+“Why don’t you come down?” I said, Mike, it’s a waste of my time and a waste ofyour time. I don’t understand”, and I said, “Just do it and I’ll know you did a goodjob if the city accepts your work”. And he would send me… the contract wouldrefer to what I had to pay and it mentioned that I had to pay according to theinvoice, which I did.
+Number 4,
+“… Payments to the contractor shall be due payable (sic) uponcertification of progress invoice by owner’s engineer…”
+So I paid whatever was on the invoice, that’s what I paid.
+Pancon submits that Mr. Kirsch’s statement that he told Mr. Panahi to “Just do it” is anadmission that he authorized Mr. Panahi to proceed with the additional concrete work.
+
+[40] Mr. Kirsch maintains that he made no such admission. He points to other questions andanswers from his discovery where his evidence was clear that he did not speak with Mr. Panahiabout the condition of the balconies and the need for additional quantities of concrete until afterthe balcony work was completed. For example:
+
+246.
+
+Q.
+A.
+
+You never had that conversation with him?
+Never.
+
+[41] I do not accept that the answer given by Mr. Kirsch to question 241 from his examinationfor discovery is an admission that he authorized Mr. Panahi to proceed with the additionalconcrete work. Mr. Kirsch’s evidence in his affidavit and on cross-examination at trial was clearthat he did not authorize Mr. Panahi to direct Conterra to proceed with the balcony rehabilitationwork using additional quantities of through slab concrete in excess of the estimated amount inthe Contract.
+
+[42] There is, therefore, a direct contradiction between the evidence of Mr. Panahi and theevidence of Mr. Kirsch in this respect. Each of these witnesses gave his evidence orally in amanner that, from my perspective, was consistent with his personality. Mr. Kirsch came acrossas forceful, emphatic, determined, and somewhat aggressive in the way that he answeredquestions. His answers were not always responsive to questions he was asked, but I did not takehis answers to be intentionally evasive but, rather, to reflect his determination to forcefullyconvey to the court the theory of his case, which was based upon his view that a written andsigned Change Order was contractually required before he could become liable to pay anythingmore than the total amount shown on page 4 of the Contract.
+
+[43] Mr. Panahi is a more soft-spoken person, and has a quieter and less emphatic manner ofdelivery. He fairly acknowledged that Mr. Kirsch wanted a simple contract and that he was veryconcerned about certainty with respect to the price. Mr. Panahi was shown the transcript of aconversation with Mr. Kirsch in respect of the garage contract (that came later) in which Mr.Kirsch made it clear that he was relying on the Contract under which he would get to decidewhether to approve the work to be done, and he would have control over the price to be paidthrough written Change Orders. Mr. Panahi said that Mr. Kirsch did not take the same positionwith respect to the balcony work, and he was firm in his evidence that when he spoke with Mr.Kirsch about the condition of the balcony slab, Mr. Kirsch said he was not a technical person,and his response was that there was a unit rate in the contract, and to go ahead and do the work.
+
+[44] In assessing the credibility of Mr. Kirsch and Mr. Panahi, I focus on the extent to whichthe evidence of each is in harmony or lack of harmony with the preponderance of probabilitiesdisclosed by the facts and circumstances of this case. I do not give particular weight to theforcefulness with which each witness gave his evidence. An emphatic answer of “no, no, no !” or
+“never, never, never !” given by one witness, expressed with vigour and apparent conviction,does not alone, in my view, justify more judicial deference than a simple answer of “yes” givenby another witness in response to the same question.
+
+245. Q.
+Okay. And did he, at any point, when the balcony work was beingdone, contact you to say and advise you that the condition of the balconies wasworse than what was anticipated?
+A.
+Never. Never. Never.
+
+9.10.
+The credibility of interested witnesses, particularly in cases of conflict ofevidence, cannot be gauged solely by the test of whether the personal demeanourof the particular witness carried conviction of the truth. The test must reasonablysubject his story to an examination of its consistency with the probabilities thatsurround the currently existing conditions. In short, the real test of the truth of thestory of a witness in such a case must be its harmony with the preponderance ofthe probabilities which a practical and informed person would readily recognizeas reasonable in that place and in those conditions.
+
+[46] When I consider and assess the conflicts in the evidence given by Mr. Panahi and by Mr.Kirsch with respect to whether Mr. Kirsch orally authorized Mr. Panahi to go ahead with thebalcony restoration work using quantities of through slab concrete that were needed to completethe work required to be done under the scope of work, priced at the contractual unit rate, I preferthe evidence of Mr. Panahi. I make this finding for the following reasons:
+a. Mr. Panahi had already warned Mr. Kirsch in his August 21, 2012 letter thatremoval of concrete at balcony slabs beyond the front edge of slabs due to the ageand condition of balconies may be required, and he recommended that Mr. Kirschset aside a contingency amount in case it is required. Mr. Panahi was havingregular telephone discussions with Mr. Kirsch while work under the Contract wasongoing and, in my view, there would have been no reason for Mr. Panahi towithhold from Mr. Kirsch information about the condition of the balcony slabsand the need for additional quantities of through slab concrete.
+b. Mr. Panahi was sending regular Progress Invoice Draw Certifications whichincluded invoices and a spreadsheet that showed clearly the additional quantitiesof concrete that were supplied and the correspondingly higher charges based uponthe contractual per unit price. Although Mr. Kirsch denied reading the
+
+c. Mr. Panahi advised Mr. Tedesco to proceed with the additional work to completethe repairs to the balconies and that he would advise Mr. Kirsch of the quantityoverrun. Mr. Tedesco’s evidence is that Mr. Panahi advised him that Mr. Kirschagreed to pay for the additional cost. In my view, it is unlikely that Mr. Panahiwould have provided this information to Mr. Tedesco unless, in fact, Mr. Kirschhad been told about the condition of the balconies and the need for additionalquantities of concrete.
+d. Although Mr. Kirsch insisted that he never looked at the spreadsheets thataccompanied the regular letters and invoices sent by Pancon and that he destroyedthem, there was evidence from Mr. Panahi that, in respect of the later garagework, Conterra made a mathematical error in one of the spreadsheets that Mr.Kirsch caught and drew to Mr. Panahi’s attention. Mr. Panahi’s evidence was thathe did not know what legal implications may arise as a result of the error and thathe called a lawyer and asked him what to do. He was advised to simply write aletter to Mr. Kirsch, and he did. The letter was put into evidence, and refers to aconversation “last week” between Mr. Panahi and Mr. Kirsch. Mr. Kirsch, whenhe was cross-examined on discovery and at trial, did not recall having such aconversation. In my view, the evidence of this incident shows that on thisoccasion, Mr. Kirsch reviewed the spreadsheet that was sent to him, and this castsdoubt on his evidence that he never looked at the spreadsheets that were sent tohim in respect of the balcony project.
+
+[47] Therefore, in respect of the issue of whether Mr. Panahi told Mr. Kirsch about thecondition of the balconies and that additional through slab concrete would be needed to repairthem and was told by Mr. Kirsch to go ahead and do so, I find that the evidence of Mr. Panahishould be preferred over the evidence of Mr. Kirsch.
+(d)
+Under the terms of the Contract, was a written Change Order required to have beensigned by Mr. Kirsch before he could be charged for the balcony waterproofing work?
+
+[48] The balcony waterproofing work was expressly excluded from the scope of work underthe Contract. This work was not required in order for Pancon to issue a certificate of completionand have the work orders that were issued by the City of Toronto lifted. This work was not
+“required due to site conditions during construction”. Therefore, this work is not “additionalwork” under paragraph 6 of the Contract and no authorization under the Contract and writtenChange Order were required from Mr. Kirsch prior to commencement of the balconywaterproofing work under paragraph 6 of the Contract.
+
+spreadsheets and insisted that he destroyed them, Mr. Panahi had no way ofknowing this and, in my view, would likely have given Mr. Kirsch a warning intheir telephone discussions that such additional charges would be shown on theinvoices to be sent so that Mr. Kirsch would not be surprised when he receivedthe invoices.
+
+[49] The balcony waterproofing work was not an unforeseen item that was “uncovered duringconstruction”. Mr. Panahi’s recommendation to Mr. Kirsch that the waterproofing work shouldbe undertaken was specifically addressed before the Contract was signed, and this work wasexpressly excluded from the Contract. Therefore, the balcony waterproofing work was not
+“additional work” under paragraph 10 of the Contract and the approval of Mr. Kirsch and awritten Change Order were not contractually required under paragraph 10 of the Contract.
+
+[50] The question remains whether Mr. Kirsch separately authorized Mr. Panahi to enter into acontract with Conterra to perform the balcony waterproofing work.
+(e)
+Did Mr. Kirsch orally authorize Mr. Panahi to direct and authorize Conterra toundertake and complete work in connection with waterproofing the balconies?
+
+[51] Mr. Panahi’s evidence is that he had a number of telephone conversations with Mr.Kirsch over a two or three day period after which Mr. Kirsch instructed him to have Conterrawaterproof the balcony slabs. Mr. Panahi recalls calling Mr. Kirsch and telling him that it was awaste of money to perform extensive concrete repairs without waterproofing the slabs. He wasconcerned that water would enter the joint between the new and old concrete and cause furtherconcrete deterioration. He recalls telling Mr. Kirsch that in order to protect his investment, hehad to put a membrane on top of the balconies and that he was spending so much money on thisproject that it did not make sense not to waterproof the balconies. Mr. Panahi recalls telling Mr.Kirsch that if the balconies were not waterproofed, the concrete deterioration would likely beginimmediately and remediation work would become necessary in a few years’ time.
+
+[52] Mr. Panahi’s evidence is that he told Mr. Kirsch that he might be able to get him adiscount on the waterproofing work. According to Mr. Panahi, Mr. Kirsch suggested that he mayagree to waterproof the balconies if Conterra discounted their price. Mr. Panahi called Mr.Tedesco who agreed to do the waterproofing work for $36,000 (instead of the $38,000 that hadbeen in Conterra’s initial quotation). Mr. Panahi’s evidence is that he then called Mr. Kirschback and gave him the $36,000 price for the balcony waterproofing and, during that last phonecall, Mr. Kirsch instructed him to have Conterra waterproof the balconies for a price of $36,000.
+
+[53] Mr. Tedesco’s evidence is that after Conterra began doing the balcony rehabilitationwork, Mr. Panahi told him that, given the nature of repairs and as built construction of thebuilding, he would prefer to have the balconies waterproofed and he would discuss once againwith Mr. Kirsch the option of waterproofing the balconies. Mr. Panahi and Mr. Tedesco thendiscussed a revised price for which Conterra would do the waterproofing work. Mr. Tedescoadvised Mr. Panahi that Conterra would perform the waterproofing work for $36,000 plus HST.
+Mr. Panahi told him that he would speak to Mr. Kirsch and get back to him. Mr. Panahithereafter advised Mr. Tedesco that Mr. Kirsch had agreed to the said price and that Conterrashould proceed to complete the waterproofing work.
+
+[54] Conterra completed the waterproofing work in two phases and rendered two invoices toMr. Kirsch, each in the amount of $18,000. Both of these invoices were paid.
+
+[55] Mr. Kirsch’s evidence is that he never authorized any waterproofing work at any priceand that he had consistently informed Mr. Panahi that he did not want to do any waterproofingwork on the balconies at the Property. His evidence was that he first discovered that thewaterproofing work had been done on the balconies only after the work was completed, whenMr. Panahi telephoned him and asked for payment of $36,000. According to Mr. Kirsch, Mr.Panahi informed him then that he had negotiated a reduction of $2,000. Mr. Kirsch’s evidence isthat he did not authorize or want the waterproofing work and that he would not pay for it.
+According to him, Mr. Panahi replied that if he did not pay, Pancon would need to pay Conterraand Mr. Kirsch responded that Pancon should pay Conterra.
+
+[56] When I consider and assess the conflicts in the evidence given by Mr. Panahi and by Mr.Kirsch with respect to whether Mr. Kirsch orally authorized Mr. Panahi to direct Conterra to goahead with the balcony waterproofing work, I prefer the evidence of Mr. Panahi. I make thisfinding for the following reasons:
+a. The evidence was clear that Mr. Kirsch had asked that the balcony waterproofingwork, which was initially included in the Conterra bid, be removed from theContract, and it was. Mr. Panahi had recommended the balcony waterproofingwork, and he knew that Mr. Kirsch had asked that it be removed from theContract. I do not consider it likely that, given these events, Mr. Panahi wouldsimply authorize Conterra to proceed with the waterproofing work withoutdiscussing it first with Mr. Kirsch.
+b. The evidence of Mr. Panahi and Mr. Tedesco is that Mr. Panahi asked Mr.Tedesco to provide a revised price for which Conterra would do the waterproofingwork and that Mr. Tedesco provided a price that was $2,000 lower than the pricethat Conterra had initially quoted. This is consistent with Mr. Panahi’s evidencethat Mr. Kirsch told him that he might reconsider approving the waterproofingwork if Conterra quoted a lower price.
+c. Mr. Panahi sent to Mr. Kirsch Progress Invoice Draw Certification No. 7 and 8 onJuly 11, 2013 and August 8, 2013 that showed two equal charges of $18,000 forthe waterproofing work on the balconies. It is very unlikely, in my view, that Mr.Panahi would have sent these invoices to Mr. Kirsch without first discussing thiswork with him.
+d. Although Mr. Kirsch repeatedly referred to Mr. Panahi as a “rogue contractor”,there was no evidence that Mr. Panahi’s recommendation that it made sense to dothe balcony waterproofing work was not a sound and valid one from anengineering perspective. In my view, a reasonable building owner in the positionof Mr. Kirsch would likely have accepted this recommendation and authorized thework in the circumstances.
+(f)
+What is the effect of oral directions by Mr. Kirsch to Mr. Panahi to authorize Conterra toproceed with (i) supply of additional quantities of through slab concrete, and (ii) the balcony
+
+[57] I have held that the Contract, properly construed, did not require a written Change Orderto be signed in order for Mr. Kirsch to become liable for the supply of additional units of flowthrough concrete that were necessary for Conterra to complete the balcony rehabilitation workunder the Contract. I have also held that the Contract did not require a written Change Order tobe signed for the balcony waterproofing work, which was outside of the scope of the Contract, ifMr. Kirsch separately agreed with Conterra, through Pancon as Mr. Kirsch’s agent, to have thiswork done.
+
+[58] Both of Conterra and Pancon rely upon a decision of the Ontario Court of Appeal inColautti Construction Ltd. v. Ottawa (City) (1984), 46 O.R. (2d) 236 in support of theirsubmission that additional work requested outside of the scope of a contract constitutes waiverby conduct of the strict terms of the contract such that the work should be paid for. In Colautti,the City of Ottawa relied upon provisions of the contract which required that all additional costsbe duly authorized in writing. The Court of Appeal held that, in the circumstances, the parties, bytheir conduct, had varied the terms of the contract which required the extra cost to be authorizedin writing. As a result, the Court of Appeal held that the City could not rely on its strictprovisions to escape liability to pay for the additional costs authorized by the City: Colautti, atparas. 28-30.
+
+[59] In my view, the same conclusion follows in the circumstances of this case. By orallyapproving the supply of additional units of flow-through concrete as necessary to complete thebalcony rehabilitation work, and by orally approving the balcony waterproofing work, Mr.Kirsch agreed that a written Change Order was not contractually required in order for him tobecome liable for Conterra’s charges for work that he had authorized.
+
+[60] Therefore, if I am wrong in my interpretation of the Contract, and if the Contract requiredthat written Change Orders be signed for (i) the supply of additional units of through slabconcrete greater than the estimated quantity in the Contract, and (ii) the balcony waterproofingwork, I have concluded that Mr. Kirsch orally agreed to vary the terms of the Contract todispense with the need for written Change Orders.
+(g)
+
+Other grounds for relief claimed
+
+[61] Given these conclusions on the interpretation of the Contract and the findings I havemade with respect to the conflicting evidence of Mr. Kirsch and Mr. Panahi, I do not find itnecessary to address the submission made by Conterra that it is entitled to a remedy based uponprinciples of quantum meruit and unjust enrichment, or the submission made by Pancon that Mr.Kirsch, by paying the invoices that were submitted that included charges for the work that is nowdisputed, represented to Conterra and Pancon that he had approved the work and, because ofdetrimental reliance by Pancon, he is estopped from denying that he approved this work.
+
+waterproofing work on the requirements in the Contract for written Change Orders, ifapplicable?
+
+Disposition
+
+[63] If the parties are unable to resolve the question of costs, Conterra and Pancon are directedto make written submissions not to exceed five pages in length (not including costs outlines)
+within 30 days of the release of these reasons. Mr. Kirsch may provide written submissions inresponse also not to exceed five pages in length within 15 days of receipt of the writtensubmissions of Conterra and Pancon.
+
+If so advised, Conterra and Pancon may make brief written reply submissions, not to exceed twopages in length, within 10 days of receipt of Mr. Kirsch’s responding submissions.
+
+Mr. Justice P.J. CavanaghReleased: May 24, 2017
+
+[62] I therefore order and adjudge that Mr. Kirsch shall pay to Conterra the amount of
+$109,451.35 together with prejudgment interest. The third party claim is dismissed.
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+BETWEEN:
+CONTERRA RESTORATION LTD.
+Plaintiff
+– and –
+IRVING MOISHE KIRSCH
+Defendant
+– and –
+PANCON ENGINEERING LTD.
+Third PartyREASONS FOR JUDGMENT
+Mr. Justice P.J. CavanaghReleased: May 24, 2017
+
+CITATION: Conterra Restoration Ltd. v. Irving Moishe Kirsch, 2017 ONSC 3152
+COURT FILE NO.: CV-14-517321A1
+DATE: 20170524
+

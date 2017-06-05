@@ -1,0 +1,81 @@
+CITATION: Larry Patterson v. IBM Canada Limited, 2017 ONSC 3067
+COURT FILE NO.: CV-16-558337
+DATE: 20170518
+
+RE:
+
+Larry Patterson, PlaintiffAND:
+IBM Canada Limited, Defendant
+
+BEFORE:
+
+S.F. Dunphy J.
+
+COUNSEL: David Ertl, for the PlaintiffJohn MacDonald and Sarah McLeod, for the DefendantHEARD:
+
+In WritingCOSTS ENDORSEMENT
+
+[1]
+On February 23, 2017, I granted the plaintiff’s motion for summary judgment and fixedhis damages arising from wrongful dismissal. My decision has been publicly released (at 2017
+[2]
+Mr. Patterson was terminated from his employment at IBM and sought damages forwrongful dismissal. The only issue was damages and the matter was, appropriately, broughtbefore me as a summary judgment motion.
+
+[3]
+It bears repeating that it is expected that most wrongful dismissal cases ought to fit themould and be appropriate candidates for summary judgment. This is particularly so where causeis not an issue and damages alone are at stake. That is not to say that there will not be caseswhere viva voce testimony and the full procedural attributes of a trial will be necessary. It is tosay that the interests of justice, especially access to justice having regard to the principle ofproportionality will usually dictate that a full trial is not necessary to do justice between theparties on the handful of issues typically arising in wrongful dismissal. In appropriate cases,hybrid procedures can be fashioned to accommodate limited needs for viva voce evidence.
+Neither side is advantaged when the costs of proceeding equal or exceed the actual amountsreasonably in dispute. The low end and the high end of outcomes are generally well understoodand litigation about the difference between those two points should proceed with the real stakesin mind.
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+- Page 2 -
+
+[5]
+The plaintiff having been successful on its motion for summary judgment ispresumptively entitled to its costs and there was nothing on the facts of this case or its proceduralhistory that would justify my considering a scale of costs other than partial indemnity. No partysuggested otherwise.
+
+[6]
+The defendant in this case made an offer to settle which the plaintiff failed to best incourt. In point of fact, the defendant’s offer was almost precisely at the level of damagesultimately determined by me1 . The defendant claims its partial indemnity costs after the date ofits offer of $6,127. Ought the plaintiff to credit the defendant with this amount?
+
+[7]
+There are three factors that mitigate against this. Firstly, the offer was delivered onlyfour clear days prior to the hearing. Pursuant to Rule 49.10 of the Rules of Civil Procedure costsconsequences apply only to an offer made at least seven days in advance (although Rule 49.13
+grants me discretion to consider any offer, including one that fails to comply with the Rules).
+Secondly, particularly as regards the exercise of my discretion under Rule 49.13, the offerexceeds the judgment by an amount that might be considered almost a rounding error. Finally,the amount of costs claimed for the period after the date of the offer is said to be excessivehaving regard to the fact that the parties had delivered all of their materials in advance of thehearing on the summary judgment motion (and prior to the delivery of the offer) and the hearingitself consumed only about two hours of time and focussed, from the defendant’s perspective,almost exclusively on recent cases that defence counsel had personally argued and was wellfamiliar with.
+
+[8]
+I am inclined to give some credit to the offer to settle despite these shortcomings. Firstly,the parties ought always and everywhere to be motivated to consider offers or to make them and,when considering them, to do so realistically with an eye towards cost and benefit of furtherproceedings. Not all cases will settle but all cases ought to consider the question and to do soseriously and pragmatically. Secondly, I cannot simply ignore the costs claimed to be incurredby the defendant on the basis that Mr. MacDonald’s argument focussed primarily upon cases hehimself had argued. The plaintiff must bear in mind that a respondent must do more than preparehis or her own argument but must also consider and prepare to address the arguments raised bythe other side. That being said, the consideration of the amount the other side could reasonablyexpect to pay (Rule 57.01(0.b) of the Rules of Civil Procedure) leads me to the conclusion that
+
+1
+
+The offer to settle was for $58,000; my verdict was for $58,282 but this sum included damages for certain pensioncontributions that were in fact made. My judgment was expressly “E & OE” as to the damages calculations and thedefendant calculates the revised damages at $57,424.46. This is a figure the plaintiff has agreed with.
+
+[4]
+It had been my hope in releasing reasons that the parties would have been able to see eyeto-eye on costs. They had successfully distilled their dispute on the merits to a very smallnumber of issues which made for an efficient hearing. Alas, my hopes were misplaced and theywere unable to reach agreement. I have received and considered the written submissions of theparties and shall now proceed to fix the costs payable.
+
+the amount claimed is excessive, particularly when compared to the plaintiff’s claimed costs forthe entire proceeding. Finally I consider the offer itself in the context of Rule 49.13 of the Rulesof Civil Procedure. The plaintiff was days away from a two hour hearing and received an offerthat was below figures that he reasonably had in view as potential outcomes of his motions.
+Fixing damages in wrongful dismissal cases may take on the appearance of being scientific andprecise, but practitioners are well aware that the process is more art than science. It is a difficulttask that we judges do our level best to approach objectively, but there is clearly a fairly broadrange of outcomes that might be described as reasonable. The number of variables is simply toolarge to be reduced to a formula on a “one size fits all” basis. In short, I cannot fault the plaintifftoo harshly for having failed to accept the offer, but I am of the view that the defendant isentitled to some credit for having extended the offer.
+
+[9]
+Having regard to the foregoing considerations, I would allow the defendant a “credit” of
+$1,500 towards the partial indemnity costs to which the plaintiff is entitled to reflect the fact ofthe “better late than never” offer to settle.
+
+[10] To avoid double-counting, I shall also exclude from my calculation of partial indemnitycosts of the plaintiff its own costs of the hearing itself. The plaintiff has claimed costs of $1,030
+(including HST) for “preparation and attendance at summary judgment hearing”. I shall roundthis amount down to $1,000. The net credit the plaintiff must allow therefore (deducting its ownhearing costs and paying a portion of the defendant’s) is thus $2,500.
+
+[11] I shall now proceed to consider what level of partial indemnity costs the $2,000 creditshould apply to. The plaintiff has claimed total costs on a partial indemnity basis including HST
+and disbursements of $16,209.16 (before any credit to the defendant).
+
+[12] The defendant has taken no particular issue with the quantum of claimed costs. Havingregard to the defendant’s bill of costs for only a few days following its offer to settle, thedefendant was wise not to. The plaintiff’s outline of costs reflects reasonable rates and areasonable, moderate and efficient allocation of time. The same comments apply to thedisbursements.
+
+[13] I am allowing the plaintiff its costs as claimed $16,209.16 less a total credit to thedefendant of $2,500 as per my comments above resulting in an award of $13,709.16. Theplaintiff shall also have $500 costs for assessing its costs resulting in a total award of $14,209.16.
+
+[14] The parties have agreed to revise my award of damages to $57,427.46 reflecting acalculation error on my part in awarding the plaintiff damages for accrued pension contributionsthat were in fact made.
+
+[15] There appears to be a residual dispute between them as to whether and to what degreeprejudgment interest ought to be amended in consequence. I strongly suspect that the differencewill not buy either side a cup of coffee. However, in the event the parties are unable to agree onprejudgment interest in consequence of the changes made herein, I will receive one page ofsubmissions from each on the understanding on the understanding that neither side shall receiveany additional costs for the exercise.
+
+- Page 3 -
+
+- Page 4 -
+
+S.F. Dunphy, J.
+Date: May 18, 2017
+
+[16] The plaintiff’s damage award shall therefore be revised to $57,427.46 and he shall beawarded costs of $14,209.15 all inclusive. Order to go accordingly.
+
