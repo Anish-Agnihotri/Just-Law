@@ -10,7 +10,7 @@ We took a look at cluttered solutions such as CANLII & FindLaw, and decided to i
 
 ![CanLII Website](http://i.imgur.com/PN3w0bm.gif "CanLII Website")
 
-![LawSearch Website](http://imgur.com/ST54htT.gif "LawSearch Website")
+![FindLaw Website](http://imgur.com/ST54htT.gif "FindLaw Website")
 
 ## Installation
 
@@ -31,7 +31,7 @@ To test without server, open the hard-linked website. Do note, the first page - 
 5. Particle-Ground base has been used to generate particle network animations in JS. 
 
 6. Much, much more - which we will be updating over the next bit.
-http://imgur.com/WZfBJWE
+
 ## Fancy Screenshots of it working 
 
 Home Page: 
