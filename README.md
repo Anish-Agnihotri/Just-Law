@@ -4,7 +4,7 @@ Just Law is a search engine developed to redesign the legal document search envi
 
 ## Synoposis & Inspiration 
 
-Proud to be made at the largest legal tech hackathon (LegalTech Hack hosted by North of 41), in under 48 hours, the solution aimed to use NLP (Natural Language Processing) & Machine Learning to provide a new insight into legal document representation. This repository represents the work which the 4-person team (including me), completed in 48 hours. It includes the Tomcat server with some JSON files for samples + the hard-coded and dyamic front-end.
+Proud to be made at the largest Canadian legal tech hackathon (Legal Tech Hack hosted by North of 41), in under 48 hours, the solution aimed to use NLP (Natural Language Processing) & Machine Learning to provide a new insight into legal document representation. This repository represents the work which the 4-person team (including me), completed in 48 hours. It includes the Tomcat server with some JSON files for samples + the hard-coded and dyamic front-end.
 
 We took a look at cluttered solutions such as CANLII & FindLaw, and decided to improve upon them. For example, take a look at some of the competitor homepages:
 
